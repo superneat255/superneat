@@ -87,7 +87,7 @@ class Drivefire(object):
             PHPSESSID = await self.drivefire_session()
         except:
             self.log('Failed to get PHPSESSID, input manually!')
-            PHPSESSID = input('Ingiza namba ya chaguo lako: ')
+            PHPSESSID = input('Input PHPSESSID: ')
 
         
         down_id = urlparse(url).path.split('/')[2]
@@ -121,8 +121,7 @@ class Drivefire(object):
         direct_dwnld_url = await self.drivefire(dwnld_url)
         self.log(direct_dwnld_url)
 
-        runSh(f'cd "{destination}"', output=True)
-        cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{direct_dwnld_url}"'
+        cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{destination+direct_dwnld_url}"'
         runSh(cmd, output=True)
 
 
