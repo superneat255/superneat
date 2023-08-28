@@ -2,7 +2,15 @@ import asyncio
 import requests
 from os.path import isfile
 from urllib.parse import urlparse
-from playwright.async_api import async_playwright
+from subprocess import run
+from shlex import split
+
+try:
+    from playwright.async_api import async_playwright
+except:
+    run(split("pip install playwright"))
+    run(split("playwright install"))
+    from playwright.async_api import async_playwright
 
 
 debug=True
