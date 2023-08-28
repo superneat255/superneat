@@ -4,12 +4,15 @@ from os.path import isfile
 from urllib.parse import urlparse
 from subprocess import run
 from shlex import split
+from os import remove
+from helpers import runSh
 
 try:
     from playwright.async_api import async_playwright
 except:
-    run(split("pip install playwright"))
-    run(split("playwright install"))
+    run(split("sudo pip install playwright"))
+    run(split("sudo playwright install"))
+    run(split("sudo playwright install-deps"))
     from playwright.async_api import async_playwright
 
 
@@ -31,7 +34,7 @@ async def drivefire_session():
 
     code=''
     async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=True)
+        browser = await p.firefox.launch(headless=False)
         context = await browser.new_context()
 
         page = await context.new_page()
@@ -63,14 +66,20 @@ async def drivefire_session():
         await browser.close()
     
     if PHPSESSID:
+        log(f'Got PHPSESSID: {PHPSESSID}')
         with open('trash.bin', 'w') as f: f.write(PHPSESSID)
         return PHPSESSID
             
 
 
 async def drivefire(url):
-    PHPSESSID = await drivefire_session()
+    try:
+        PHPSESSID = await drivefire_session()
+    except:
+        log('Failed to get PHPSESSID, input manually!')
+        PHPSESSID = input('Ingiza namba ya chaguo lako: ')
 
+    
     down_id = urlparse(url).path.split('/')[2]
     headers = {
         'X-Requested-With':'XMLHttpRequest',
@@ -86,5 +95,19 @@ async def drivefire(url):
         except: return r.text
 
     r = post()
-    direct_dwnld_url = r['file']
-    return direct_dwnld_url
+    if isinstance(r, dict):
+        direct_dwnld_url = r['file']
+        return direct_dwnld_url
+    else:
+        if isfile('trash.bin'): remove('trash.bin')
+        await drivefire(url)
+
+
+
+async def download(dwnld_url, destination):
+    direct_dwnld_url = await drivefire(dwnld_url)
+    log(direct_dwnld_url)
+
+    runSh(f'cd "{destination}"', output=True)
+    cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{direct_dwnld_url}"'
+    runSh(cmd, output=True)
