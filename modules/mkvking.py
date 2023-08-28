@@ -51,10 +51,13 @@ async def search(keywords, destination):
 
     choice=_input()
     choosen_item = items[choice-1]
-    await download_list(choosen_item['url'], destination)
+    choosen_item2 = await download_list(choosen_item['url'])
+    dwnld_url = await skip_ads(choosen_item2['url'])
+    await download(dwnld_url, destination)
 
 
-async def download_list(url, destination):
+
+async def download_list(url):
     r = requests.get(url=url, verify=False)
     soup = BeautifulSoup(r.text, 'html.parser')
     ul = soup.find("ul", {'class':'gmr-download-list'})
@@ -74,10 +77,11 @@ async def download_list(url, destination):
 
     choice=_input()
     choosen_item = items[choice-1]
-    await skip_ads(choosen_item['url'], destination)
+    return choosen_item
 
 
-async def skip_ads(url, destination):
+
+async def skip_ads(url):
     async with async_playwright() as p:
         log('Opening browser...')
         browser = await p.firefox.launch(headless=True)
@@ -124,14 +128,16 @@ async def skip_ads(url, destination):
         
         await browser.close()
 
+    return dwnld_url
 
+
+async def download(dwnld_url, destination):
     if 'drivefire' in dwnld_url:
         direct_dwnld_url = await drivefire(dwnld_url)
 
         runSh(f'cd "{destination}"', output=True)
         cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{direct_dwnld_url}"'
         runSh(cmd, output=True)
-
 
 
 if __name__ == '__main__':
