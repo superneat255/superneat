@@ -1,8 +1,6 @@
 import asyncio
 import requests
-from helpers import runSh
 from bs4 import BeautifulSoup
-from drivefire import drivefire
 from urllib.parse import quote_plus
 from subprocess import run
 from shlex import split
@@ -10,8 +8,9 @@ from shlex import split
 try:
     from playwright.async_api import async_playwright
 except:
-    run(split("pip install playwright"))
-    run(split("playwright install"))
+    run(split("sudo pip install playwright"))
+    run(split("sudo playwright install"))
+    run(split("sudo playwright install-deps"))
     from playwright.async_api import async_playwright
 
 
@@ -36,7 +35,7 @@ def _input():
     return choice
 
 
-async def search(keywords, destination):
+async def search(keywords):
     url = f'{BASE_URL}/?s={quote_plus(keywords)}&post_type%5B%5D=post&post_type%5B%5D=tv'
 
     r = requests.get(url=url, verify=False)
@@ -60,7 +59,7 @@ async def search(keywords, destination):
     choosen_item = items[choice-1]
     choosen_item2 = await download_list(choosen_item['url'])
     dwnld_url = await skip_ads(choosen_item2['url'])
-    await download(dwnld_url, destination)
+    return dwnld_url
 
 
 
@@ -99,31 +98,31 @@ async def skip_ads(url):
 
         
         retries=0
-        log('Waiting lite-human-verif-button...')
+        log('Bypassing lite-human-verif-button...')
         while retries<3:
             try: 
                 await page.locator('#lite-human-verif-button').click()
                 break
             except: retries+=1
-        log('Skipped lite-human-verif-button')
+        log('lite-human-verif-button bypassed')
         
         retries=0
-        log('Waiting lite-start-sora-button...')
+        log('Bypassing lite-start-sora-button...')
         while retries<3:
             try: 
                 await page.locator('#lite-start-sora-button').click()
                 break
             except: retries+=1
-        log('Skipped lite-start-sora-button')
+        log('lite-start-sora-button bypassed')
 
         retries=0
-        log('Waiting lite-end-sora-button...')
+        log('Bypassing lite-end-sora-button...')
         while retries<3:
             try: 
                 await page.locator('#lite-end-sora-button').click()
                 break
             except: retries+=1
-        log('Skipped lite-end-sora-button')
+        log('lite-end-sora-button bypassed')
 
         
         log('Waiting third party source url...')
@@ -131,23 +130,14 @@ async def skip_ads(url):
 
         new_page = context.pages[1]
         dwnld_url = new_page.url
-        log(f'Got third party source url: {dwnld_url}')
+        log(f'Got download url: {dwnld_url}')
         
         await browser.close()
 
     return dwnld_url
 
 
-async def download(dwnld_url, destination):
-    if 'drivefire' in dwnld_url:
-        direct_dwnld_url = await drivefire(dwnld_url)
-
-        runSh(f'cd "{destination}"', output=True)
-        cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{direct_dwnld_url}"'
-        runSh(cmd, output=True)
-
 
 if __name__ == '__main__':
-    keywords    = "king's man" #@param {type:"string"}
-    destination = "" #@param {type:"raw"}
-    asyncio.run(search(keywords, destination))
+    keywords = "king's man" #@param {type:"string"}
+    asyncio.run(search(keywords))
