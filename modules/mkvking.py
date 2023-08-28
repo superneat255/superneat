@@ -8,12 +8,9 @@ from playwright.async_api import async_playwright
 
 
 
-keywords  = "king's man" #@param {type:"string"}
-Destination = "/content/drive/Shareddrives/Bongohit Movies Store" #@param {type:"raw"}
+
 BASE_URL = "https://84.46.254.230"
-
-
-debug=True
+debug = True
 
 
 def log(t):
@@ -32,7 +29,7 @@ def _input():
     return choice
 
 
-async def search():
+async def search(keywords, destination):
     url = f'{BASE_URL}/?s={quote_plus(keywords)}&post_type%5B%5D=post&post_type%5B%5D=tv'
 
     r = requests.get(url=url, verify=False)
@@ -54,10 +51,10 @@ async def search():
 
     choice=_input()
     choosen_item = items[choice-1]
-    await download_list(choosen_item['url'])
+    await download_list(choosen_item['url'], destination)
 
 
-async def download_list(url):
+async def download_list(url, destination):
     r = requests.get(url=url, verify=False)
     soup = BeautifulSoup(r.text, 'html.parser')
     ul = soup.find("ul", {'class':'gmr-download-list'})
@@ -77,10 +74,10 @@ async def download_list(url):
 
     choice=_input()
     choosen_item = items[choice-1]
-    await skip_ads(choosen_item['url'])
+    await skip_ads(choosen_item['url'], destination)
 
 
-async def skip_ads(url):
+async def skip_ads(url, destination):
     async with async_playwright() as p:
         log('Opening browser...')
         browser = await p.firefox.launch(headless=True)
@@ -131,10 +128,13 @@ async def skip_ads(url):
     if 'drivefire' in dwnld_url:
         direct_dwnld_url = await drivefire(dwnld_url)
 
-        runSh(f'cd "{Destination}"', output=True)
+        runSh(f'cd "{destination}"', output=True)
         cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{direct_dwnld_url}"'
         runSh(cmd, output=True)
 
 
-await search()
-# asyncio.run(search())
+
+if __name__ == '__main__':
+    keywords    = "king's man" #@param {type:"string"}
+    destination = "" #@param {type:"raw"}
+    asyncio.run(search(keywords, destination))
