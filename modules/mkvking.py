@@ -1,18 +1,35 @@
 import asyncio
 import requests
+from helpers import runSh
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
-from urllib.parse import quote, quote_plus, urlencode
+from drivefire import drivefire
+from urllib.parse import quote_plus
 from playwright.async_api import async_playwright
 
 
-# url = 'https://84.46.254.230/'
-# r = requests.get(url=url, data=data)
-# soup = BeautifulSoup(r.text, 'html.parser')
-# print(soup)
 
-keywords  = "king's man"
+keywords  = "king's man" #@param {type:"string"}
+Destination = "/content/drive/Shareddrives/Bongohit Movies Store" #@param {type:"raw"}
 BASE_URL = "https://84.46.254.230"
+
+
+debug=True
+
+
+def log(t):
+    if debug==True: print(t)
+
+
+def _input():
+    choice=False
+    while not choice:
+        try:
+            print()
+            choice = int(input('Ingiza namba ya chaguo lako: '))
+            print()
+        except:
+            print('Umekosea hakikisha unaingiza namba kama namba pekee.')
+    return choice
 
 
 async def search():
@@ -35,20 +52,8 @@ async def search():
         count += 1
         print(f'{count}.', title, '|', quality)
 
-    choice=False
-    while not choice:
-        try:
-            print()
-            choice = int(input('Ingiza namba ya chaguo lako: '))
-        except:
-            print()
-            print('Umekosea hakikisha unaingiza namba kama namba pekee.')
-
+    choice=_input()
     choosen_item = items[choice-1]
-
-    # print()
-    # print(choosen_item)
-    # print()
     await download_list(choosen_item['url'])
 
 
@@ -70,22 +75,15 @@ async def download_list(url):
         count += 1
         print(f'{count}.', name)
 
-    choice=False
-    while not choice:
-        try:
-            print()
-            choice = int(input('Ingiza namba ya chaguo lako: '))
-        except:
-            print()
-            print('Umekosea hakikisha unaingiza namba kama namba pekee.')
-
+    choice=_input()
     choosen_item = items[choice-1]
     await skip_ads(choosen_item['url'])
 
 
 async def skip_ads(url):
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        log('Opening browser...')
+        browser = await p.firefox.launch(headless=True)
         context = await browser.new_context()
 
         page = await context.new_page()
@@ -93,100 +91,50 @@ async def skip_ads(url):
 
         
         retries=0
+        log('Waiting lite-human-verif-button...')
         while retries<3:
             try: 
                 await page.locator('#lite-human-verif-button').click()
                 break
             except: retries+=1
+        log('Skipped lite-human-verif-button')
         
         retries=0
+        log('Waiting lite-start-sora-button...')
         while retries<3:
             try: 
                 await page.locator('#lite-start-sora-button').click()
                 break
             except: retries+=1
+        log('Skipped lite-start-sora-button')
 
         retries=0
+        log('Waiting lite-end-sora-button...')
         while retries<3:
             try: 
                 await page.locator('#lite-end-sora-button').click()
                 break
             except: retries+=1
+        log('Skipped lite-end-sora-button')
 
         
+        log('Waiting third party source url...')
         while len(context.pages)<2: await asyncio.sleep(1)
 
         new_page = context.pages[1]
-        new_tab_url = new_page.url
-        print(new_tab_url)
-
-        if 'drivefire' in new_tab_url:
-            await drivefire(new_tab_url)
-        else:
-            await asyncio.sleep(20)
-            await browser.close()
-
-
-async def drivefire_login():
-    code=''
-    async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=True)
-        context = await browser.new_context()
-
-        page = await context.new_page()
-        await page.goto('https://drivefire.co/login')
-
-        await page.locator('#identifierId').type('angelcutetz@gmail.com')
-        await asyncio.sleep(2)
-        await page.locator('#identifierNext > div > button > span').click()
-        await asyncio.sleep(5)
-        await page.locator("[name='Passwd']").type('@AngelCuteTz')
-        await asyncio.sleep(2)
-        await page.locator('#passwordNext > div > button > span').click()
-        await asyncio.sleep(2)
-        await page.locator('#submit_approve_access > div > button > span').click()
+        dwnld_url = new_page.url
+        log(f'Got third party source url: {dwnld_url}')
         
-        await asyncio.sleep(5)
-        code = page.url
-
-        await page.goto('https://drivefire.co/login2.php')
-        await page.locator("[name='fname']").type(code)
-        await page.locator("[type='submit']").click()
-        await asyncio.sleep(3)
-        
-        cookies = await context.cookies()
-        PHPSESSID=''
-        for cookie in cookies:
-            if cookie['name']=='PHPSESSID':
-                PHPSESSID=cookie['value']
-        
-        print('PHPSESSID', PHPSESSID)
-
         await browser.close()
-            
 
 
+    if 'drivefire' in dwnld_url:
+        direct_dwnld_url = await drivefire(dwnld_url)
 
-async def drivefire(url):
-    down_id = urlparse(url).path.split('/')[2]
-    headers = {
-        'X-Requested-With':'XMLHttpRequest',
-        'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8',
-        'Cookie': 'PHPSESSID=570b6efe8c3a3685ce92cd508c253b38',
-        # 'Cookie': 'PHPSESSID=fd1f2d80ec2f1ffb305e5db59fc2fe8d',
-    }
-    
-    def post():
-        r = requests.post(
-            'https://drivefire.co/ajax.php?ajax=download',
-            data=f'id={down_id}', headers=headers)
-        try: return r.json()
-        except: return r.text
-
-    r = post()
-    print(r)
+        runSh(f'cd "{Destination}"', output=True)
+        cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{direct_dwnld_url}"'
+        runSh(cmd, output=True)
 
 
-
-asyncio.run(drivefire_login())
+await search()
 # asyncio.run(search())
