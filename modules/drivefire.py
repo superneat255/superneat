@@ -23,7 +23,7 @@ def log(t):
     if debug==True: print(t)
 
 
-async def drivefire_session():
+async def drivefire_session(email, passwd):
     PHPSESSID=''
     if isfile('trash.bin'):
         with open('trash.bin', 'r') as f: PHPSESSID = f.read()
@@ -34,17 +34,17 @@ async def drivefire_session():
 
     code=''
     async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=False)
+        browser = await p.firefox.launch(headless=True)
         context = await browser.new_context()
 
         page = await context.new_page()
         await page.goto('https://drivefire.co/login')
 
-        await page.locator('#identifierId').type('angelcutetz@gmail.com')
+        await page.locator('#identifierId').type(email)
         await asyncio.sleep(2)
         await page.locator('#identifierNext > div > button > span').click()
         await asyncio.sleep(5)
-        await page.locator("[name='Passwd']").type('@AngelCuteTz')
+        await page.locator("[name='Passwd']").type(passwd)
         await asyncio.sleep(2)
         await page.locator('#passwordNext > div > button > span').click()
         await asyncio.sleep(2)
@@ -72,9 +72,10 @@ async def drivefire_session():
             
 
 
-async def drivefire(url):
+async def drivefire(url, email=None, passwd=None):
     try:
-        PHPSESSID = await drivefire_session()
+        if not email or not passwd: raise
+        PHPSESSID = await drivefire_session(email, passwd)
     except:
         log('Failed to get PHPSESSID, input manually!')
         PHPSESSID = input('Ingiza namba ya chaguo lako: ')
@@ -97,6 +98,7 @@ async def drivefire(url):
     r = post()
     if isinstance(r, dict):
         direct_dwnld_url = r['file']
+        log(direct_dwnld_url)
         return direct_dwnld_url
     else:
         if isfile('trash.bin'): remove('trash.bin')
@@ -104,8 +106,8 @@ async def drivefire(url):
 
 
 
-async def download(dwnld_url, destination):
-    direct_dwnld_url = await drivefire(dwnld_url)
+async def download(dwnld_url, destination, email=None, passwd=None):
+    direct_dwnld_url = await drivefire(dwnld_url, email, passwd)
     log(direct_dwnld_url)
 
     runSh(f'cd "{destination}"', output=True)
