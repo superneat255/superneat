@@ -1,11 +1,12 @@
+import json
 import asyncio
 import requests
+from os import remove
+from shlex import split
+from helpers import runSh
+from subprocess import run
 from os.path import isfile
 from urllib.parse import urlparse
-from subprocess import run
-from shlex import split
-from os import remove
-from helpers import runSh
 
 try:
     from playwright.async_api import async_playwright
@@ -19,9 +20,10 @@ except:
 
 
 class Drivefire(object):
-    """Made with love by Superneat"""
+    """Made with love by Immanuel Pishon Mwananjela (Superneat)"""
     """superneat2013@gmail.com"""
     
+
     def __init__(self, email=None, passwd=None, debug=True):
         super(Drivefire, self).__init__()
         self.email  = email
@@ -29,8 +31,10 @@ class Drivefire(object):
         self.debug  = debug
 
 
-    def log(self, t):
-        if self.debug==True: print(t)
+    def log(self, s):
+        print()
+        print( json.dumps(s, indent=4) if isinstance(s, dict) else s )
+        print('--------------------------------------')
 
 
     async def drivefire_session(self):
@@ -106,10 +110,22 @@ class Drivefire(object):
             except: return r.text
 
         r = post()
+
+        attempts=0
+        while attempts<3:
+            if isinstance(r, dict): break
+            r = post()
+            attempts+=1
+
+
         if isinstance(r, dict):
             direct_dwnld_url = r['file']
-            self.log(f'Got direct download link: {direct_dwnld_url}')
-            return direct_dwnld_url
+
+            if r['code']=='200':
+                self.log(f'Got direct download link: {direct_dwnld_url}')
+                return direct_dwnld_url
+            
+            self.log(r)
         else:
             if retries==0:
                 if isfile('trash.bin'): remove('trash.bin')
@@ -120,15 +136,26 @@ class Drivefire(object):
 
     async def download(self, dwnld_url, destination):
         direct_dwnld_url = await self.drivefire(dwnld_url)
-        self.log(direct_dwnld_url)
+        if direct_dwnld_url:
+            self.log(direct_dwnld_url)
 
-        cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" "{destination+direct_dwnld_url}"'
-        runSh(cmd, output=True)
+            # %cd "$destination"
+            user_agent='User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11'
+            cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="{user_agent}" "{direct_dwnld_url}"'
+            runSh(cmd, output=True)
 
 
 
 if __name__ == '__main__':
     async def main():
-        d = Drivefire('angelcutetz@gmail.com', '@AngelCuteTz')
-        await d.drivefire('https://drivefire.co/file/897757269')
+        # d = Drivefire('angelcutetz@gmail.com', '@AngelCuteTz')
+        # await d.drivefire('https://drivefire.co/file/897757269')
+
+        Destination = "/content/drive/Shareddrives/BMS Temp/mkvking/"
+        dwnld_url='https://drivefire.co/file/897757269'
+
+        d = Drivefire()
+        await d.download(dwnld_url, Destination)
+        # await d.drivefire(dwnld_url)
+    
     asyncio.run(main())
