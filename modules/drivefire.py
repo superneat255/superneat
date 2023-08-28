@@ -40,40 +40,47 @@ class Drivefire(object):
             self.log('Drivefire saved session found...')
             return PHPSESSID
 
-        self.log('Drivefire session not found, regenerating...')
-
-        code=''
-        async with async_playwright() as p:
-            browser = await p.firefox.launch(headless=True)
-            context = await browser.new_context()
-
-            page = await context.new_page()
-            await page.goto('https://drivefire.co/login')
-
-            await page.locator('#identifierId').type(self.email)
-            await asyncio.sleep(2)
-            await page.locator('#identifierNext > div > button > span').click()
-            await asyncio.sleep(5)
-            await page.locator("[name='Passwd']").type(self.passwd)
-            await asyncio.sleep(2)
-            await page.locator('#passwordNext > div > button > span').click()
-            await asyncio.sleep(2)
-            await page.locator('#submit_approve_access > div > button > span').click()
+        try:
+            if not self.email or not self.passwd: raise
             
-            await asyncio.sleep(5)
-            code = page.url
+            self.log('Drivefire session not found, regenerating...')
 
-            await page.goto('https://drivefire.co/login2.php')
-            await page.locator("[name='fname']").type(code)
-            await page.locator("[type='submit']").click()
-            await asyncio.sleep(3)
-            
-            cookies = await context.cookies()
-            for cookie in cookies:
-                if cookie['name']=='PHPSESSID':
-                    PHPSESSID=cookie['value']
-            
-            await browser.close()
+            code=''
+            async with async_playwright() as p:
+                browser = await p.firefox.launch(headless=True)
+                context = await browser.new_context()
+
+                page = await context.new_page()
+                await page.goto('https://drivefire.co/login')
+
+                await page.locator('#identifierId').type(self.email)
+                await asyncio.sleep(2)
+                await page.locator('#identifierNext > div > button > span').click()
+                await asyncio.sleep(5)
+                await page.locator("[name='Passwd']").type(self.passwd)
+                await asyncio.sleep(2)
+                await page.locator('#passwordNext > div > button > span').click()
+                await asyncio.sleep(2)
+                await page.locator('#submit_approve_access > div > button > span').click()
+                
+                await asyncio.sleep(5)
+                code = page.url
+
+                await page.goto('https://drivefire.co/login2.php')
+                await page.locator("[name='fname']").type(code)
+                await page.locator("[type='submit']").click()
+                await asyncio.sleep(3)
+                
+                cookies = await context.cookies()
+                for cookie in cookies:
+                    if cookie['name']=='PHPSESSID':
+                        PHPSESSID=cookie['value']
+                
+                await browser.close()
+        except:
+            self.log('Failed to get PHPSESSID, input manually!')
+            PHPSESSID = input('Input PHPSESSID: ')
+
         
         if PHPSESSID:
             self.log(f'Got PHPSESSID: {PHPSESSID}')
@@ -82,13 +89,7 @@ class Drivefire(object):
 
 
     async def drivefire(self, url, retries=0):
-        try:
-            if not self.email or not self.passwd: raise
-            PHPSESSID = await self.drivefire_session()
-        except:
-            self.log('Failed to get PHPSESSID, input manually!')
-            PHPSESSID = input('Input PHPSESSID: ')
-
+        PHPSESSID = await self.drivefire_session()
         
         down_id = urlparse(url).path.split('/')[2]
         headers = {
