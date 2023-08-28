@@ -4,8 +4,15 @@ from helpers import runSh
 from bs4 import BeautifulSoup
 from drivefire import drivefire
 from urllib.parse import quote_plus
-from playwright.async_api import async_playwright
+from subprocess import run
+from shlex import split
 
+try:
+    from playwright.async_api import async_playwright
+except:
+    run(split("pip install playwright"))
+    run(split("playwright install"))
+    from playwright.async_api import async_playwright
 
 
 
