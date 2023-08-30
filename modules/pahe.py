@@ -2,10 +2,10 @@ import re
 import json
 import asyncio
 import requests
+import helpers as h
 from shlex import split
 from subprocess import run
 from bs4 import BeautifulSoup
-from helpers import b64_decode
 from urllib.parse import quote_plus, quote
 
 try:
@@ -282,7 +282,7 @@ class Pahe(object):
         r = await self.get(linegee_url)
         pattern = re.compile(r"(?<=atob\(')(\w+\=)(?=\'\))", flags=re.IGNORECASE)
         match = pattern.search(r.text)
-        if match: return b64_decode(match.group())
+        if match: return h.b64_decode(match.group())
 
 
 
