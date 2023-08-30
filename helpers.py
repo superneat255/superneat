@@ -57,3 +57,15 @@ def runSh(args, *, output=False, shell=False, cd=None):
                 .strip()
             )
         return subprocess.run(args, shell=True, cwd=cd).returncode
+
+
+
+def b64_encode(s):
+    from base64 import b64encode
+    return b64encode(s.encode('utf-8')).decode('utf-8')
+
+
+
+def b64_decode(s):
+    from base64 import b64decode
+    return b64decode(s).decode('utf-8')
