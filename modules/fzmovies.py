@@ -42,7 +42,7 @@ class Fzmovies(object):
 
 
 
-    async def search(self, keywords):
+    async def search(self, keywords, destination=''):
         url = f"{self.base_url}/csearch.php"
         r = requests.post(url, data={
                 'searchname' : keywords,
@@ -91,7 +91,7 @@ class Fzmovies(object):
         choosen_items = await self._download1(choosen_item['url'])
 
         futures = []
-        # %cd "$Destination"
+        %cd "$destination"
         with ThreadPoolExecutor(max_workers=5) as pool:
             for row in choosen_items:
                 futures.append(pool.submit(self.download_engine, row))
@@ -186,7 +186,7 @@ class Fzmovies(object):
             filename = unquote(basename(urlparse(download_link).path))
 
             user_agent = 'Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
-            # !wget -nv --show-progress --no-check-certificate --header="$user_agent" -O "$filename" "$download_link"
+            !wget -nv --show-progress --no-check-certificate --header="$user_agent" -O "$filename" "$download_link"
 
             return f'Finish downloading {filename}'
             #Use return to prevent re downloading same file
