@@ -188,7 +188,7 @@ class Fzmovies(object):
             user_agent = 'User-Agent: Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
             cmd = (  'wget -nv --show-progress --no-check-certificate '
                     f'--header="{user_agent}" -O "{filename}" "{download_link}"')
-            runSh(cmd, output=True)
+            runSh(cmd, output=True, shell=True)
 
             return f'Finish downloading {filename}'
             #Use return to prevent re downloading same file
