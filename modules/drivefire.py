@@ -134,14 +134,14 @@ class Drivefire(object):
                 self.log('Failed to get direct download link!')
 
 
-    async def download(self, dwnld_url, destination):
+    async def download(self, dwnld_url):
         direct_dwnld_url = await self.drivefire(dwnld_url)
         if direct_dwnld_url:
             self.log(direct_dwnld_url)
 
-            # %cd "$destination"
-            user_agent='User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11'
-            cmd = f'wget -nv --show-progress --no-check-certificate --content-disposition --header="{user_agent}" "{direct_dwnld_url}"'
+            user_agent='User-Agent: Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
+            cmd = (  'wget -nv --show-progress --no-check-certificate '
+                    f'--content-disposition --header="{user_agent}" "{direct_dwnld_url}"')
             runSh(cmd, output=True)
 
 
@@ -151,11 +151,10 @@ if __name__ == '__main__':
         # d = Drivefire('angelcutetz@gmail.com', '@AngelCuteTz')
         # await d.drivefire('https://drivefire.co/file/897757269')
 
-        Destination = "/content/drive/Shareddrives/BMS Temp/mkvking/"
         dwnld_url='https://drivefire.co/file/897757269'
 
         d = Drivefire()
-        await d.download(dwnld_url, Destination)
+        await d.download(dwnld_url)
         # await d.drivefire(dwnld_url)
     
     asyncio.run(main())
