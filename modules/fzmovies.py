@@ -53,7 +53,6 @@ class Fzmovies(object):
                 'vsearch'    : '',
             })
         
-
         soup = BeautifulSoup(r.text, 'html.parser')
         mainboxes = soup.find_all("div", {"class": "mainbox"})
 
@@ -90,14 +89,7 @@ class Fzmovies(object):
         # self.log(choosen_item)
 
         choosen_items = await self._download1(choosen_item['url'])
-
-        futures = []
-        with ThreadPoolExecutor(max_workers=5) as pool:
-            for row in choosen_items:
-                futures.append(pool.submit(self.download_engine, row))
-
-            for future in as_completed(futures):
-                self.log(future.result())
+        return choosen_items
 
 
 
@@ -132,14 +124,12 @@ class Fzmovies(object):
             data                 = {}
             data['title']        = f'{title} {_format} | {size}'
             data['message_text'] = href
-            data['download_options']  = options
-
+            data['download_options'] = options
 
             rows.append(data)
 
             count += 1
             print(f'{count}.', data['title'])
-
 
         choices=self._input(instance='str')
         
@@ -180,7 +170,7 @@ class Fzmovies(object):
 
 
 
-    def download_engine(self, row):
+    def download_here(self, row):
         for item in row['download_options']:
             download_link = item['download_link']
             filename = unquote(basename(urlparse(download_link).path))
@@ -192,6 +182,17 @@ class Fzmovies(object):
 
             return f'Finish downloading {filename}'
             #Use return to prevent re downloading same file
+
+
+    
+    def download(self, choosen_items):
+        futures = []
+        with ThreadPoolExecutor(max_workers=5) as pool:
+            for row in choosen_items:
+                futures.append(pool.submit(self.download_here, row))
+
+            for future in as_completed(futures):
+                self.log(future.result())
         
 
 
