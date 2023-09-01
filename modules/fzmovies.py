@@ -2,6 +2,7 @@ import re
 import json
 import asyncio
 import requests
+from helpers import runSh
 from os.path import basename
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
@@ -42,7 +43,7 @@ class Fzmovies(object):
 
 
 
-    async def search(self, keywords, destination=''):
+    async def search(self, keywords):
         url = f"{self.base_url}/csearch.php"
         r = requests.post(url, data={
                 'searchname' : keywords,
@@ -91,7 +92,6 @@ class Fzmovies(object):
         choosen_items = await self._download1(choosen_item['url'])
 
         futures = []
-        %cd "$destination"
         with ThreadPoolExecutor(max_workers=5) as pool:
             for row in choosen_items:
                 futures.append(pool.submit(self.download_engine, row))
@@ -185,14 +185,14 @@ class Fzmovies(object):
             download_link = item['download_link']
             filename = unquote(basename(urlparse(download_link).path))
 
-            user_agent = 'Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
-            !wget -nv --show-progress --no-check-certificate --header="$user_agent" -O "$filename" "$download_link"
+            user_agent = 'User-Agent: Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
+            cmd = (  'wget -nv --show-progress --no-check-certificate '
+                    f'--header="{user_agent}" -O "{filename}" "{download_link}"')
+            runSh(cmd, output=True)
 
             return f'Finish downloading {filename}'
             #Use return to prevent re downloading same file
         
-
-
 
 
 if __name__ == '__main__':
