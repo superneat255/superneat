@@ -67,3 +67,23 @@ def b64_encode(s):
 def b64_decode(s):
     from base64 import b64decode
     return b64decode(s).decode('utf-8')
+
+
+def binary_encode(s): return str(''.join(format(ord(i), '08b') for i in s))
+
+
+def binary_decode(b):
+    chunks = [b[i:i+8] for i in range(0, len(b), 8)]
+    integers = [int(chunk, 2) for chunk in chunks]
+    return str(''.join(chr(i) for i in integers))
+
+
+def build_query(payload, quote_via='quote_plus'):
+    from urllib.parse import urlencode, quote_plus, quote
+    return urlencode(payload, quote_via=locals()[quote_via])
+
+
+def build_query_v2(payload):
+    query = ''
+    for k,v in payload.items(): query += f'{k}={v}&'
+    return query[:-1]
