@@ -72,7 +72,7 @@ class Pahe(object):
     @property
     def patterns(self):
         return {
-        'MOVIE_PATTERN': r'([\w\s\'\’\:]+\([0-9]{4}\))([\w\&\s\,]+)',
+        'MOVIE_PATTERN': r'([\w\s\'\’\:\-]+\([0-9]{4}\))([\w\&\s\,\-]+)',
         'COMPLETE_SERIES_PATTERN': r'([\w\s\'\’\:]+Season[0-9\-\s]+)Complete([\w\&\s\,\-]+)',
         'CONTINUING_SERIES_PATTERN': r'([\w\s\'\’\:]+Season[0-9\-\s]+)([\w\&\s\,\-]+\[([\w\d\s]+)\])',
         }
@@ -94,7 +94,7 @@ class Pahe(object):
         sucuri_cloudproxy_cookie = js2py.eval_js(b.replace("location.","").replace("reload();",""))
         cookies={sucuri_cloudproxy_cookie.split("=")[0]:sucuri_cloudproxy_cookie.split("=")[1].replace(";path","")}
 
-        self.log(f'Got securi cookie: {cookies}')
+        # self.log(f'Got securi cookie: {cookies}')
         self.s = requests.session()
         self.s.cookies.update(cookies)
         self.s.headers.update(self.headers)
@@ -109,6 +109,7 @@ class Pahe(object):
                 t,qf = match.groups()
                 q = re.sub(r'[0-9]{3,4}p|[\&\,]+', '', qf, flags=re.IGNORECASE).strip()
                 f = qf.replace(q, '').strip()
+
                 return {
                     'title': t.strip(),
                     'quality': q,
@@ -186,7 +187,7 @@ class Pahe(object):
         url = f'{self.BASE_URL}/?s={quote_plus(keywords)}'
         
         async with async_playwright() as p:
-            self.log('Opening browser...')
+            # self.log('Opening browser...')
             browser = await p.firefox.launch(headless=True)
             context = await browser.new_context()
             page = await context.new_page()
@@ -202,7 +203,7 @@ class Pahe(object):
 
             dwnld_urls=[]
             for choosen_item in choosen_items:
-                dwnld_url = await self.skip_ads(choosen_item['url'], context, page)
+                dwnld_url = await self.skip_ads(choosen_item['url'])
                 dwnld_url = await self.bypass_linegee(dwnld_url)
                 dwnld_urls.append({'name':choosen_item['name'], 'dwnld_url':dwnld_url})
             await browser.close()
@@ -213,13 +214,19 @@ class Pahe(object):
 
     def get_formats(self, text, formats):
         _format = ''
+        full_format_and_size = ''
         for i in text:
+            if '|' in i:
+                full_format_and_size=i
+
             pattern = re.compile('[0-9]{3,4}p', flags=re.IGNORECASE)
             match = pattern.search(i)
             if match: 
                 _format = match.group()
             else:
-                if '\u00a0' not in i: formats.append(f'{i} {_format}')
+                # if '\u00a0' not in i: formats.append(f'{i} | {_format}')
+                if '\u00a0' not in i:
+                    formats.append(f'{i} | {full_format_and_size}')
         return formats
 
 
@@ -278,6 +285,7 @@ class Pahe(object):
         formats=[]
         for download_div in download_divs:
             text = download_div.text.strip().split("\n")
+            # self.log(text)
             
             """
             Button hazina kitu kinachoonyesha ni btn ya format ipi 
@@ -384,7 +392,8 @@ class Pahe(object):
 if __name__ == '__main__':
     async def main():
         p = Pahe()
-        await p.search2("king's man")
+        await p.search2("indiana")
+        # await p.search2("king's man")
         # await p.download_list("https://pahe.li/the-kings-man-2021-uhd-bluray-720p-1080p-2160p/")
         # await p.bypass_linegee('https://linegee.net/jD7rl')
     
