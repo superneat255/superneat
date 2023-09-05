@@ -179,7 +179,6 @@ class Pahe(object):
             dwnld_url = await self.bypass_linegee(dwnld_url)
             dwnld_urls.append({'name':choosen_item['name'], 'dwnld_url':dwnld_url})
 
-        self.log(dwnld_urls)
         return dwnld_urls
 
 
@@ -208,7 +207,6 @@ class Pahe(object):
                 dwnld_urls.append({'name':choosen_item['name'], 'dwnld_url':dwnld_url})
             await browser.close()
 
-        self.log(dwnld_urls)
         return dwnld_urls
 
 
@@ -379,6 +377,8 @@ class Pahe(object):
         # pattern = re.compile(r"(?<=atob\(')(\w+\=)(?=\'\))", flags=re.IGNORECASE)
         pattern = re.compile(r"(?<=atob\(')(\w+\=+)?", flags=re.IGNORECASE)
         match = pattern.search(r.text)
+        print(match)
+        print(match.group())
         if match: return h.b64_decode(match.group())
         else:
             soup = BeautifulSoup(r.text, 'html.parser')
