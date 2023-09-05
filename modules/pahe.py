@@ -79,8 +79,9 @@ class Pahe(object):
 
 
     def get_proxy(self, url):
-        u = quote(url)
-        return f'https://proxy.downloadapi.workers.dev/api/download?url={u}'
+        return url
+        # u = quote(url)
+        # return f'https://proxy.downloadapi.workers.dev/api/download?url={u}'
     
 
     def sucuri_bypass(self, url):
@@ -139,11 +140,9 @@ class Pahe(object):
         except CustomException as e: self.log(str(e))
 
 
-    async def search(self, keywords):
-        u = f'{self.BASE_URL}/?s={quote_plus(keywords)}'
-        r = await self.get(u)
-        
-        soup = BeautifulSoup(r.text, 'html.parser')
+    
+    async def list_contents(self, source_code):
+        soup = BeautifulSoup(source_code, 'html.parser')
         contents = soup.find('div', {"class":"timeline-contents"}).find_all('li')
 
         items=[]
@@ -157,6 +156,16 @@ class Pahe(object):
 
             count += 1
             print(f'{count}.', m['title'], '|', m['quality'], '|', ', '.join(m['formats']))
+        return items
+
+
+
+    async def search(self, keywords):
+        u = f'{self.BASE_URL}/?s={quote_plus(keywords)}'
+        r = await self.get(u)
+        if not r: return
+
+        items = await self.list_contents(r.text)
 
         # print(json.dumps(items))
         choice=self._input()
@@ -168,6 +177,35 @@ class Pahe(object):
             dwnld_url = await self.skip_ads(choosen_item['url'])
             dwnld_url = await self.bypass_linegee(dwnld_url)
             dwnld_urls.append({'name':choosen_item['name'], 'dwnld_url':dwnld_url})
+
+        self.log(dwnld_urls)
+        return dwnld_urls
+
+
+    async def search2(self, keywords):
+        url = f'{self.BASE_URL}/?s={quote_plus(keywords)}'
+        
+        async with async_playwright() as p:
+            self.log('Opening browser...')
+            browser = await p.firefox.launch(headless=True)
+            context = await browser.new_context()
+            page = await context.new_page()
+
+            await page.goto(url)
+            source_code = await page.content()    
+            
+            items = await self.list_contents(source_code)
+
+            choice=self._input()
+            choosen_item_ = items[choice-1]
+            choosen_items = await self.download_list2(page, choosen_item_['url'])
+
+            dwnld_urls=[]
+            for choosen_item in choosen_items:
+                dwnld_url = await self.skip_ads(choosen_item['url'], context, page)
+                dwnld_url = await self.bypass_linegee(dwnld_url)
+                dwnld_urls.append({'name':choosen_item['name'], 'dwnld_url':dwnld_url})
+            await browser.close()
 
         self.log(dwnld_urls)
         return dwnld_urls
@@ -228,13 +266,50 @@ class Pahe(object):
         return choosen_items
 
 
-    async def skip_ads(self, url):
-        async with async_playwright() as p:
-            self.log('Opening browser...')
-            browser = await p.firefox.launch(headless=True)
-            context = await browser.new_context()
+    async def download_list2(self, page, url):
+        await page.goto(url)
+        source_code = await page.content()
 
-            page = await context.new_page()
+        soup = BeautifulSoup(source_code, 'html.parser')
+        download_divs = soup.find_all("div", {'class':'download'})
+
+        count=0
+        items=[]
+        formats=[]
+        for download_div in download_divs:
+            text = download_div.text.strip().split("\n")
+            
+            """
+            Button hazina kitu kinachoonyesha ni btn ya format ipi 
+            inaonyesha tu source yake kama ni GD, MG n.k 
+            Maneno yanayoonyesha formats yamewekwa tu juu halafu chini 
+            ndio btn zinafuata (hayapo kwenye tag yoyote maalum)
+            Kwahiyo inabidi ku extract formats kutoka kwenye text,
+            halafu kulinganisha
+            """
+            formats.extend(self.get_formats(text, formats))
+            
+            for a in download_div.find_all("a", {'class':'shortc-button'}):
+                url = a.get('href')
+                name = formats[count]
+
+                items.append({'name':name, 'url':url})
+
+                print(f'{count+1}.', name)
+                count += 1
+
+        choices=self._input(instance='str')
+        
+        choosen_items=[]
+        for choice in choices.split(','):
+            choosen_items.append(items[int(choice)-1])
+        
+        # self.log(choosen_items)
+        return choosen_items
+
+
+    async def skip_ads(self, url, context=None, page=None):
+        async def skip_ads_engine(context, page, url):
             await page.goto(url)
             
             retries=0
@@ -271,18 +346,37 @@ class Pahe(object):
             new_page = context.pages[1]
             dwnld_url = new_page.url
             self.log(f'Got download url: {dwnld_url}')
-                
-            await browser.close()
+            return dwnld_url
 
-        # self.log(dwnld_url)
+
+        if page and context:
+            dwnld_url = await skip_ads_engine(context, page, url)
+            return dwnld_url
+
+        
+        async with async_playwright() as p:
+            self.log('Opening browser...')
+            browser = await p.firefox.launch(headless=True)
+            context = await browser.new_context()
+
+            page = await context.new_page()
+            dwnld_url = await skip_ads_engine(context, page, url)
+            await browser.close()
         return dwnld_url
 
 
+    
     async def bypass_linegee(self, linegee_url):
         r = await self.get(linegee_url)
         pattern = re.compile(r"(?<=atob\(')(\w+\=)(?=\'\))", flags=re.IGNORECASE)
         match = pattern.search(r.text)
         if match: return h.b64_decode(match.group())
+        else:
+            soup = BeautifulSoup(r.text, 'html.parser')
+            links = soup.find_all("a", {'class':'btn-primary'})
+            for link in links:
+                if link.text=='Continue': return link.get('href')
+
 
 
 
@@ -290,7 +384,7 @@ class Pahe(object):
 if __name__ == '__main__':
     async def main():
         p = Pahe()
-        await p.search("king's man")
+        await p.search2("king's man")
         # await p.download_list("https://pahe.li/the-kings-man-2021-uhd-bluray-720p-1080p-2160p/")
         # await p.bypass_linegee('https://linegee.net/jD7rl')
     
