@@ -376,7 +376,8 @@ class Pahe(object):
     
     async def bypass_linegee(self, linegee_url):
         r = await self.get(linegee_url)
-        pattern = re.compile(r"(?<=atob\(')(\w+\=)(?=\'\))", flags=re.IGNORECASE)
+        # pattern = re.compile(r"(?<=atob\(')(\w+\=)(?=\'\))", flags=re.IGNORECASE)
+        pattern = re.compile(r"(?<=atob\(')(\w+\=+)?", flags=re.IGNORECASE)
         match = pattern.search(r.text)
         if match: return h.b64_decode(match.group())
         else:
@@ -392,9 +393,10 @@ class Pahe(object):
 if __name__ == '__main__':
     async def main():
         p = Pahe()
-        await p.search2("indiana")
+        # await p.search2("indiana")
         # await p.search2("king's man")
         # await p.download_list("https://pahe.li/the-kings-man-2021-uhd-bluray-720p-1080p-2160p/")
-        # await p.bypass_linegee('https://linegee.net/jD7rl')
+        linegee = await p.bypass_linegee('https://linegee.net/JEpn7')
+        print(linegee)
     
     asyncio.run(main())
