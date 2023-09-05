@@ -377,8 +377,6 @@ class Pahe(object):
         # pattern = re.compile(r"(?<=atob\(')(\w+\=)(?=\'\))", flags=re.IGNORECASE)
         pattern = re.compile(r"(?<=atob\(')(\w+\=+)?", flags=re.IGNORECASE)
         match = pattern.search(r.text)
-        print(match)
-        print(match.group())
         if match: return h.b64_decode(match.group())
         else:
             soup = BeautifulSoup(r.text, 'html.parser')
