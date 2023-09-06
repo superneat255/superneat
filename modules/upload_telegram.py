@@ -1,14 +1,21 @@
+import os
 import json
 import requests
 from os import remove
 from PIL import Image
-from telethon import utils
 from os.path import basename
-from telethon.tl import types
 from FastTelethon import upload_file
-from telethon.sync import TelegramClient
 from urllib.parse import urlparse, unquote
 from helpers import b64_decode, b64_encode
+
+try:
+  from telethon import utils
+except:
+  os.system('pip install telethon')
+  from telethon import utils
+
+from telethon.tl import types
+from telethon.sync import TelegramClient
 
 
 
@@ -192,12 +199,12 @@ class UploadTelegram(object):
 
 if __name__ == '__main__':
     ut = UploadTelegram(
-            api_id=1234567,
-            api_hash='12345ce7218680737bcf594aec08f678',
-            bot_token='819400723:AAFZLjQdASAPzMqpBBHJZmDMmqX56HOQWu4',
+            api_id=api_id,
+            api_hash=api_hash,
+            bot_token=bot_token,
             debug=True
         )
     ut.execute('SendMessage', b64_encode(json.dumps({
-        'chat_id':1234567890, 
+        'chat_id':392040958, 
         'text':'Just testing!'
     })))
