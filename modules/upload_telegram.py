@@ -6,7 +6,7 @@ from os import remove
 from PIL import Image
 from shlex import split
 from subprocess import run
-from os.path import basenam
+from os.path import basename
 from urllib.parse import urlparse, unquote
 from helpers import b64_decode, b64_encode
 
@@ -209,10 +209,6 @@ class UploadTelegram(object):
 
 if __name__ == '__main__':
     async def main():
-        api_id    = 1194030
-        api_hash  = '54478ce7218680737bcf594aec08f298'
-        bot_token = '6042990289:AAGJlDmbZGkyxWMnvr9BGquyFjvEeMYaf_Q'
-        
         ut = UploadTelegram(
                 api_id=api_id,
                 api_hash=api_hash,
