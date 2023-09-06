@@ -109,7 +109,7 @@ class Mkvking(object):
 
     async def skip_ads(self, url):
         async with async_playwright() as p:
-            self.log('Opening browser...')
+            # self.log('Opening browser...')
             browser = await p.firefox.launch(headless=True)
             context = await browser.new_context()
 
@@ -153,7 +153,6 @@ class Mkvking(object):
                 
             await browser.close()
 
-        self.log(dwnld_url)
         return dwnld_url
 
 
