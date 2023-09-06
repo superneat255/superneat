@@ -1,5 +1,6 @@
 import os
 import json
+import asyncio
 import requests
 from os import remove
 from PIL import Image
@@ -207,21 +208,27 @@ class UploadTelegram(object):
 
 
 if __name__ == '__main__':
-    ut = UploadTelegram(
-            api_id=api_id,
-            api_hash=api_hash,
-            bot_token=bot_token,
-            debug=True
-        )
-    
-    await ut.execute('SendMessage', b64_encode(json.dumps({
-        'chat_id':392040958, 
-        'text':'Just testing!'
-    })))
+    async def main():
+        api_id    = 1194030
+        api_hash  = '54478ce7218680737bcf594aec08f298'
+        bot_token = '6042990289:AAGJlDmbZGkyxWMnvr9BGquyFjvEeMYaf_Q'
+        
+        ut = UploadTelegram(
+                api_id=api_id,
+                api_hash=api_hash,
+                bot_token=bot_token,
+                debug=True
+            )
+        await ut.execute('SendMessage', b64_encode(json.dumps({
+            'chat_id':392040958, 
+            'text':'Just testing!'
+        })))
 
-    await ut.execute('SendVideo', b64_encode(json.dumps({
-        'chat_id':392040958, 
-        'url':'https://example.com/telegram/bots/teleploadbot/lib/@bongohits_group.Trailer.Pathaan.2023.mp4', 
-        'caption':{'caption':'Just testing!', 'limit_exceeded':False},
-        'thumb': 'https://example.com/telegram/bots/teleploadbot/thumb.jpg'
-    })))
+        await ut.execute('SendVideo', b64_encode(json.dumps({
+            'chat_id':392040958, 
+            'url':'https://superneatech.com/telegram/bots/teleploadbot/lib/@bongohits_group.Trailer.Pathaan.2023.mp4', 
+            'caption':{'caption':'Just testing!', 'limit_exceeded':False},
+            'thumb': 'https://superneatech.com/telegram/bots/teleploadbot/thumb.jpg'
+        })))
+
+    asyncio.run(main())
