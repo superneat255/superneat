@@ -3,16 +3,18 @@ import json
 import requests
 from os import remove
 from PIL import Image
+from shlex import split
+from subprocess import run
 from os.path import basename
 from FastTelethon import upload_file
 from urllib.parse import urlparse, unquote
 from helpers import b64_decode, b64_encode
 
 try:
-  from telethon import utils
+    from telethon import utils
 except:
-  os.system('pip install telethon')
-  from telethon import utils
+    run(split("sudo pip install telethon"))
+    from telethon import utils
 
 from telethon.tl import types
 from telethon.sync import TelegramClient
