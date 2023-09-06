@@ -127,45 +127,45 @@ class UploadTelegram(object):
 
             #Download video
             filename = self.filename_from_url(obj['url'])
-            path = await self.download_from_url(obj['url'], filename)
+            if 'http' in obj['url']: path = await self.download_from_url(obj['url'], filename)
+            else: path = obj['url']
 
-            with open(path, "rb") as out:
-                res = await self.upload_file(self.client, out, filename=filename)
+            async with self.client.action(obj['chat_id'], 'document') as action:
+                with open(path, "rb") as out:
+                    res = await upload_file(self.client, out, filename=filename)
 
-                attributes, mime_type = utils.get_attributes(path)
+                    if 'thumb' in obj: thumb = await self.download_from_url(obj['thumb'], 'thumb.jpg')
+                    else: thumb = ''
+                    
+                    attributes, mime_type = utils.get_attributes(path)
 
-                attributes[1].w = 720 if attributes[1].w < 10 else attributes[1].w
-                attributes[1].h = 480 if attributes[1].h < 10 else attributes[1].h
-                attributes[1].supports_streaming = True
+                    attributes[1].w = 720 if attributes[1].w < 10 else attributes[1].w
+                    attributes[1].h = 480 if attributes[1].h < 10 else attributes[1].h
+                    attributes[1].supports_streaming = True
 
-                media = types.InputMediaUploadedDocument(
-                    file       = res,
-                    mime_type  = mime_type,
-                    force_file = False,
-                    attributes=attributes
-                )
-
-                if obj['caption']['limit_exceeded']:
-                    await self.client.send_file(
-                        int(obj['chat_id']), 
-                        file=media, 
-                        caption=obj['caption2'],
-                        parse_mode=parse_mode
-                    )
-                    await self.SendMessage({'chat_id':obj['chat_id'], 'text':obj['caption']['caption']})
-                else:
-                    await self.client.send_file(
-                        int(obj['chat_id']),
-                        file=media, 
-                        caption=obj['caption']['caption'],
-                        parse_mode=parse_mode
-                    )
-
+                    if obj['caption']['limit_exceeded']:
+                        await self.client.send_file(
+                            int(obj['chat_id']), 
+                            file=res, 
+                            caption=obj['caption2'],
+                            parse_mode=parse_mode,
+                            thumb=thumb,
+                            attributes=attributes
+                        )
+                        await self.SendMessage({'chat_id':obj['chat_id'], 'text':obj['caption']['caption']})
+                    else:
+                        await self.client.send_file(
+                            int(obj['chat_id']),
+                            file=res, 
+                            caption=obj['caption']['caption'],
+                            parse_mode=parse_mode,
+                            thumb=thumb,
+                            attributes=attributes
+                        )
 
             remove(path)
         except Exception as e:
             self.log(e)
-
 
 
     async def SendPhoto(self, obj):
@@ -179,23 +179,30 @@ class UploadTelegram(object):
             await self.client.send_file(int(obj['chat_id']), file, caption=obj['caption']['caption'], parse_mode=parse_mode)
 
 
-    def execute(self, method, argv):
-        self.client = TelegramClient(
-                        self.session, 
-                        self.api_id, 
-                        self.api_hash).start(bot_token=self.bot_token)
+    async def execute(self, method, argv):
+        try:
+            self.client = await TelegramClient(
+                            self.session, 
+                            self.api_id, 
+                            self.api_hash).start(bot_token=self.bot_token)
+        except:
+            remove(f'{self.session}.session')
+            self.client = await TelegramClient(
+                            self.session, 
+                            self.api_id, 
+                            self.api_hash).start(bot_token=self.bot_token)
 
-        with self.client:
+        async with self.client:
             obj = json.loads(b64_decode(argv))
 
             try:
-                self.client.loop.run_until_complete( getattr(self, method)(obj) )
+                await getattr(self, method)(obj)
             except Exception as e:
                 self.log(e)
-                self.client.loop.run_until_complete(self.SendMessage({
+                await self.SendMessage({
                     'chat_id':obj['chat_id'], 
                     'text':f'Unknown error occurred: {e}'
-                }) )
+                })
 
 
 
@@ -206,7 +213,15 @@ if __name__ == '__main__':
             bot_token=bot_token,
             debug=True
         )
-    ut.execute('SendMessage', b64_encode(json.dumps({
+    
+    await ut.execute('SendMessage', b64_encode(json.dumps({
         'chat_id':392040958, 
         'text':'Just testing!'
+    })))
+
+    await ut.execute('SendVideo', b64_encode(json.dumps({
+        'chat_id':392040958, 
+        'url':'https://example.com/telegram/bots/teleploadbot/lib/@bongohits_group.Trailer.Pathaan.2023.mp4', 
+        'caption':{'caption':'Just testing!', 'limit_exceeded':False},
+        'thumb': 'https://example.com/telegram/bots/teleploadbot/thumb.jpg'
     })))
