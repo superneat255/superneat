@@ -1,0 +1,964 @@
+{
+    "data": [
+        {
+            "id": 97481,
+            "name": "KASHASHI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75471,
+                "name": "KASHASHI",
+                "postcode": "25402",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75469,
+                    "name": "SIHA DISTRICT COUNCIL",
+                    "postcode": "254",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75468,
+                        "name": "SIHA",
+                        "postcode": "254",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 123199,
+                    "name": "Maveny",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:54.000000Z",
+                    "updated_at": "2022-07-27T10:22:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97481,
+                        "area_id": 123199,
+                        "created_at": "2022-08-13T14:01:51.000000Z",
+                        "updated_at": "2022-08-13T14:01:51.000000Z"
+                    }
+                },
+                {
+                    "id": 123200,
+                    "name": "Suhuny",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:54.000000Z",
+                    "updated_at": "2022-07-27T10:22:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97481,
+                        "area_id": 123200,
+                        "created_at": "2022-08-13T14:01:51.000000Z",
+                        "updated_at": "2022-08-13T14:01:51.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97482,
+            "name": "KIRISHA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75471,
+                "name": "KASHASHI",
+                "postcode": "25402",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75469,
+                    "name": "SIHA DISTRICT COUNCIL",
+                    "postcode": "254",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75468,
+                        "name": "SIHA",
+                        "postcode": "254",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 123189,
+                    "name": "Ngasiny",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:52.000000Z",
+                    "updated_at": "2022-07-27T10:22:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97482,
+                        "area_id": 123189,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                },
+                {
+                    "id": 123190,
+                    "name": "Kirisha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:52.000000Z",
+                    "updated_at": "2022-07-27T10:22:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97482,
+                        "area_id": 123190,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                },
+                {
+                    "id": 123191,
+                    "name": "Raa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:53.000000Z",
+                    "updated_at": "2022-07-27T10:22:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97482,
+                        "area_id": 123191,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97483,
+            "name": "KYENGIA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75471,
+                "name": "KASHASHI",
+                "postcode": "25402",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75469,
+                    "name": "SIHA DISTRICT COUNCIL",
+                    "postcode": "254",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75468,
+                        "name": "SIHA",
+                        "postcode": "254",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 123187,
+                    "name": "Orumwi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:52.000000Z",
+                    "updated_at": "2022-07-27T10:22:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97483,
+                        "area_id": 123187,
+                        "created_at": "2022-08-13T14:01:49.000000Z",
+                        "updated_at": "2022-08-13T14:01:49.000000Z"
+                    }
+                },
+                {
+                    "id": 123188,
+                    "name": "Kishona",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:52.000000Z",
+                    "updated_at": "2022-07-27T10:22:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97483,
+                        "area_id": 123188,
+                        "created_at": "2022-08-13T14:01:49.000000Z",
+                        "updated_at": "2022-08-13T14:01:49.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97484,
+            "name": "LOKIRI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75471,
+                "name": "KASHASHI",
+                "postcode": "25402",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75469,
+                    "name": "SIHA DISTRICT COUNCIL",
+                    "postcode": "254",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75468,
+                        "name": "SIHA",
+                        "postcode": "254",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 123201,
+                    "name": "Losavana",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:54.000000Z",
+                    "updated_at": "2022-07-27T10:22:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97484,
+                        "area_id": 123201,
+                        "created_at": "2022-08-13T14:01:51.000000Z",
+                        "updated_at": "2022-08-13T14:01:51.000000Z"
+                    }
+                },
+                {
+                    "id": 123202,
+                    "name": "Lwankame",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:54.000000Z",
+                    "updated_at": "2022-07-27T10:22:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97484,
+                        "area_id": 123202,
+                        "created_at": "2022-08-13T14:01:51.000000Z",
+                        "updated_at": "2022-08-13T14:01:51.000000Z"
+                    }
+                },
+                {
+                    "id": 123203,
+                    "name": "Maendeleo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:54.000000Z",
+                    "updated_at": "2022-07-27T10:22:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97484,
+                        "area_id": 123203,
+                        "created_at": "2022-08-13T14:01:51.000000Z",
+                        "updated_at": "2022-08-13T14:01:51.000000Z"
+                    }
+                },
+                {
+                    "id": 123204,
+                    "name": "Ngabobo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:54.000000Z",
+                    "updated_at": "2022-07-27T10:22:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97484,
+                        "area_id": 123204,
+                        "created_at": "2022-08-13T14:01:52.000000Z",
+                        "updated_at": "2022-08-13T14:01:52.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97485,
+            "name": "MANIO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75471,
+                "name": "KASHASHI",
+                "postcode": "25402",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75469,
+                    "name": "SIHA DISTRICT COUNCIL",
+                    "postcode": "254",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75468,
+                        "name": "SIHA",
+                        "postcode": "254",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 123192,
+                    "name": "Muri",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:53.000000Z",
+                    "updated_at": "2022-07-27T10:22:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97485,
+                        "area_id": 123192,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                },
+                {
+                    "id": 123193,
+                    "name": "Ohiny",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:53.000000Z",
+                    "updated_at": "2022-07-27T10:22:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97485,
+                        "area_id": 123193,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                },
+                {
+                    "id": 123194,
+                    "name": "Manio",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:53.000000Z",
+                    "updated_at": "2022-07-27T10:22:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97485,
+                        "area_id": 123194,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                },
+                {
+                    "id": 123195,
+                    "name": "Kitahemwa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:53.000000Z",
+                    "updated_at": "2022-07-27T10:22:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97485,
+                        "area_id": 123195,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97486,
+            "name": "NAWERU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75471,
+                "name": "KASHASHI",
+                "postcode": "25402",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75469,
+                    "name": "SIHA DISTRICT COUNCIL",
+                    "postcode": "254",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75468,
+                        "name": "SIHA",
+                        "postcode": "254",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 123196,
+                    "name": "Nkwamanyire",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:53.000000Z",
+                    "updated_at": "2022-07-27T10:22:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97486,
+                        "area_id": 123196,
+                        "created_at": "2022-08-13T14:01:50.000000Z",
+                        "updated_at": "2022-08-13T14:01:50.000000Z"
+                    }
+                },
+                {
+                    "id": 123197,
+                    "name": "Nkweshashu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:53.000000Z",
+                    "updated_at": "2022-07-27T10:22:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97486,
+                        "area_id": 123197,
+                        "created_at": "2022-08-13T14:01:51.000000Z",
+                        "updated_at": "2022-08-13T14:01:51.000000Z"
+                    }
+                },
+                {
+                    "id": 123198,
+                    "name": "Mwanyinguni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:22:54.000000Z",
+                    "updated_at": "2022-07-27T10:22:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97486,
+                        "area_id": 123198,
+                        "created_at": "2022-08-13T14:01:51.000000Z",
+                        "updated_at": "2022-08-13T14:01:51.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
