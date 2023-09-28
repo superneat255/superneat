@@ -1,0 +1,984 @@
+{
+    "data": [
+        {
+            "id": 80731,
+            "name": "KIHAGARA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80730,
+                "name": "KIHAGARA",
+                "postcode": "57510",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80683,
+                    "name": "NYASA DISTRICT COUNCIL",
+                    "postcode": "575",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 80682,
+                        "name": "NYASA",
+                        "postcode": "575",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80122,
+                            "name": "RUVUMA",
+                            "postcode": "57",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137425,
+                    "name": "Kempu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:11:35.000000Z",
+                    "updated_at": "2022-07-29T14:11:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80731,
+                        "area_id": 137425,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                },
+                {
+                    "id": 137426,
+                    "name": "Mawindi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:11:35.000000Z",
+                    "updated_at": "2022-07-29T14:11:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80731,
+                        "area_id": 137426,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                },
+                {
+                    "id": 137427,
+                    "name": "Kihagara Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:11:36.000000Z",
+                    "updated_at": "2022-07-29T14:11:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80731,
+                        "area_id": 137427,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                },
+                {
+                    "id": 137428,
+                    "name": "Njambe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:11:36.000000Z",
+                    "updated_at": "2022-07-29T14:11:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80731,
+                        "area_id": 137428,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                },
+                {
+                    "id": 137429,
+                    "name": "Kitolaki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:11:36.000000Z",
+                    "updated_at": "2022-07-29T14:11:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80731,
+                        "area_id": 137429,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80732,
+            "name": "MANGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80730,
+                "name": "KIHAGARA",
+                "postcode": "57510",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80683,
+                    "name": "NYASA DISTRICT COUNCIL",
+                    "postcode": "575",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 80682,
+                        "name": "NYASA",
+                        "postcode": "575",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80122,
+                            "name": "RUVUMA",
+                            "postcode": "57",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137605,
+                    "name": "Muungano",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:00.000000Z",
+                    "updated_at": "2022-07-29T14:12:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80732,
+                        "area_id": 137605,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                },
+                {
+                    "id": 137606,
+                    "name": "Azimio",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:00.000000Z",
+                    "updated_at": "2022-07-29T14:12:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80732,
+                        "area_id": 137606,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                },
+                {
+                    "id": 137607,
+                    "name": "Mwongozo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:01.000000Z",
+                    "updated_at": "2022-07-29T14:12:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80732,
+                        "area_id": 137607,
+                        "created_at": "2022-08-13T07:23:04.000000Z",
+                        "updated_at": "2022-08-13T07:23:04.000000Z"
+                    }
+                },
+                {
+                    "id": 137608,
+                    "name": "Kindili",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:01.000000Z",
+                    "updated_at": "2022-07-29T14:12:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80732,
+                        "area_id": 137608,
+                        "created_at": "2022-08-13T07:23:04.000000Z",
+                        "updated_at": "2022-08-13T07:23:04.000000Z"
+                    }
+                },
+                {
+                    "id": 137609,
+                    "name": "Mapinduzi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:01.000000Z",
+                    "updated_at": "2022-07-29T14:12:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80732,
+                        "area_id": 137609,
+                        "created_at": "2022-08-13T07:23:04.000000Z",
+                        "updated_at": "2022-08-13T07:23:04.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80735,
+            "name": "NGEHE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80730,
+                "name": "KIHAGARA",
+                "postcode": "57510",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80683,
+                    "name": "NYASA DISTRICT COUNCIL",
+                    "postcode": "575",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 80682,
+                        "name": "NYASA",
+                        "postcode": "575",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80122,
+                            "name": "RUVUMA",
+                            "postcode": "57",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137746,
+                    "name": "Yungu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:20.000000Z",
+                    "updated_at": "2022-07-29T14:12:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80735,
+                        "area_id": 137746,
+                        "created_at": "2022-08-13T07:23:05.000000Z",
+                        "updated_at": "2022-08-13T07:23:05.000000Z"
+                    }
+                },
+                {
+                    "id": 137747,
+                    "name": "Luwino",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:20.000000Z",
+                    "updated_at": "2022-07-29T14:12:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80735,
+                        "area_id": 137747,
+                        "created_at": "2022-08-13T07:23:05.000000Z",
+                        "updated_at": "2022-08-13T07:23:05.000000Z"
+                    }
+                },
+                {
+                    "id": 137748,
+                    "name": "Ngehe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:20.000000Z",
+                    "updated_at": "2022-07-29T14:12:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80735,
+                        "area_id": 137748,
+                        "created_at": "2022-08-13T07:23:05.000000Z",
+                        "updated_at": "2022-08-13T07:23:05.000000Z"
+                    }
+                },
+                {
+                    "id": 137749,
+                    "name": "Mbuchi B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:20.000000Z",
+                    "updated_at": "2022-07-29T14:12:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80735,
+                        "area_id": 137749,
+                        "created_at": "2022-08-13T07:23:05.000000Z",
+                        "updated_at": "2022-08-13T07:23:05.000000Z"
+                    }
+                },
+                {
+                    "id": 137750,
+                    "name": "Mbuchi A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:20.000000Z",
+                    "updated_at": "2022-07-29T14:12:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80735,
+                        "area_id": 137750,
+                        "created_at": "2022-08-13T07:23:05.000000Z",
+                        "updated_at": "2022-08-13T07:23:05.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80734,
+            "name": "SONGAMBELE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80730,
+                "name": "KIHAGARA",
+                "postcode": "57510",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80683,
+                    "name": "NYASA DISTRICT COUNCIL",
+                    "postcode": "575",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 80682,
+                        "name": "NYASA",
+                        "postcode": "575",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80122,
+                            "name": "RUVUMA",
+                            "postcode": "57",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137784,
+                    "name": "Yungu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:25.000000Z",
+                    "updated_at": "2022-07-29T14:12:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80734,
+                        "area_id": 137784,
+                        "created_at": "2022-08-13T07:23:04.000000Z",
+                        "updated_at": "2022-08-13T07:23:04.000000Z"
+                    }
+                },
+                {
+                    "id": 137785,
+                    "name": "Songambele",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:25.000000Z",
+                    "updated_at": "2022-07-29T14:12:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80734,
+                        "area_id": 137785,
+                        "created_at": "2022-08-13T07:23:04.000000Z",
+                        "updated_at": "2022-08-13T07:23:04.000000Z"
+                    }
+                },
+                {
+                    "id": 137786,
+                    "name": "Mibula",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:25.000000Z",
+                    "updated_at": "2022-07-29T14:12:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80734,
+                        "area_id": 137786,
+                        "created_at": "2022-08-13T07:23:04.000000Z",
+                        "updated_at": "2022-08-13T07:23:04.000000Z"
+                    }
+                },
+                {
+                    "id": 137787,
+                    "name": "Mtakuja",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:25.000000Z",
+                    "updated_at": "2022-07-29T14:12:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80734,
+                        "area_id": 137787,
+                        "created_at": "2022-08-13T07:23:04.000000Z",
+                        "updated_at": "2022-08-13T07:23:04.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80733,
+            "name": "TUMBI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80730,
+                "name": "KIHAGARA",
+                "postcode": "57510",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80683,
+                    "name": "NYASA DISTRICT COUNCIL",
+                    "postcode": "575",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 80682,
+                        "name": "NYASA",
+                        "postcode": "575",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80122,
+                            "name": "RUVUMA",
+                            "postcode": "57",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137795,
+                    "name": "Tumbi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:26.000000Z",
+                    "updated_at": "2022-07-29T14:12:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80733,
+                        "area_id": 137795,
+                        "created_at": "2022-08-13T07:23:02.000000Z",
+                        "updated_at": "2022-08-13T07:23:02.000000Z"
+                    }
+                },
+                {
+                    "id": 137796,
+                    "name": "Njepela",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:26.000000Z",
+                    "updated_at": "2022-07-29T14:12:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80733,
+                        "area_id": 137796,
+                        "created_at": "2022-08-13T07:23:02.000000Z",
+                        "updated_at": "2022-08-13T07:23:02.000000Z"
+                    }
+                },
+                {
+                    "id": 137797,
+                    "name": "Chiwonde",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:26.000000Z",
+                    "updated_at": "2022-07-29T14:12:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80733,
+                        "area_id": 137797,
+                        "created_at": "2022-08-13T07:23:02.000000Z",
+                        "updated_at": "2022-08-13T07:23:02.000000Z"
+                    }
+                },
+                {
+                    "id": 137798,
+                    "name": "Lushoto B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:26.000000Z",
+                    "updated_at": "2022-07-29T14:12:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80733,
+                        "area_id": 137798,
+                        "created_at": "2022-08-13T07:23:02.000000Z",
+                        "updated_at": "2022-08-13T07:23:02.000000Z"
+                    }
+                },
+                {
+                    "id": 137799,
+                    "name": "Lushoto A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T14:12:27.000000Z",
+                    "updated_at": "2022-07-29T14:12:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80733,
+                        "area_id": 137799,
+                        "created_at": "2022-08-13T07:23:03.000000Z",
+                        "updated_at": "2022-08-13T07:23:03.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
