@@ -1,0 +1,924 @@
+{
+    "data": [
+        {
+            "id": 84446,
+            "name": "BUSOMEKE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84443,
+                "name": "MWISI",
+                "postcode": "45619",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84364,
+                    "name": "IGUNGA DISTRICT COUNCIL",
+                    "postcode": "456",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84363,
+                        "name": "IGUNGA",
+                        "postcode": "456",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 168952,
+                    "name": "Mashariki \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:03.000000Z",
+                    "updated_at": "2022-08-08T13:33:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84446,
+                        "area_id": 168952,
+                        "created_at": "2022-08-08T13:33:03.000000Z",
+                        "updated_at": "2022-08-08T13:33:03.000000Z"
+                    }
+                },
+                {
+                    "id": 168953,
+                    "name": "Mashariki \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:03.000000Z",
+                    "updated_at": "2022-08-08T13:33:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84446,
+                        "area_id": 168953,
+                        "created_at": "2022-08-08T13:33:03.000000Z",
+                        "updated_at": "2022-08-08T13:33:03.000000Z"
+                    }
+                },
+                {
+                    "id": 168954,
+                    "name": "Kusini \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:04.000000Z",
+                    "updated_at": "2022-08-08T13:33:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84446,
+                        "area_id": 168954,
+                        "created_at": "2022-08-08T13:33:04.000000Z",
+                        "updated_at": "2022-08-08T13:33:04.000000Z"
+                    }
+                },
+                {
+                    "id": 168955,
+                    "name": "Kusini \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:04.000000Z",
+                    "updated_at": "2022-08-08T13:33:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84446,
+                        "area_id": 168955,
+                        "created_at": "2022-08-08T13:33:04.000000Z",
+                        "updated_at": "2022-08-08T13:33:04.000000Z"
+                    }
+                },
+                {
+                    "id": 168956,
+                    "name": "Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:05.000000Z",
+                    "updated_at": "2022-08-08T13:33:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84446,
+                        "area_id": 168956,
+                        "created_at": "2022-08-08T13:33:05.000000Z",
+                        "updated_at": "2022-08-08T13:33:05.000000Z"
+                    }
+                },
+                {
+                    "id": 168957,
+                    "name": "Itobo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:06.000000Z",
+                    "updated_at": "2022-08-08T13:33:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84446,
+                        "area_id": 168957,
+                        "created_at": "2022-08-08T13:33:06.000000Z",
+                        "updated_at": "2022-08-08T13:33:06.000000Z"
+                    }
+                },
+                {
+                    "id": 168958,
+                    "name": "Bulyalwelwe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:06.000000Z",
+                    "updated_at": "2022-08-08T13:33:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84446,
+                        "area_id": 168958,
+                        "created_at": "2022-08-08T13:33:06.000000Z",
+                        "updated_at": "2022-08-08T13:33:06.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 84444,
+            "name": "ISENEGEJA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84443,
+                "name": "MWISI",
+                "postcode": "45619",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84364,
+                    "name": "IGUNGA DISTRICT COUNCIL",
+                    "postcode": "456",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84363,
+                        "name": "IGUNGA",
+                        "postcode": "456",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 168943,
+                    "name": "Kimila",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:58.000000Z",
+                    "updated_at": "2022-08-08T13:32:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168943,
+                        "created_at": "2022-08-08T13:32:58.000000Z",
+                        "updated_at": "2022-08-08T13:32:58.000000Z"
+                    }
+                },
+                {
+                    "id": 168944,
+                    "name": "Posta Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:59.000000Z",
+                    "updated_at": "2022-08-08T13:32:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168944,
+                        "created_at": "2022-08-08T13:32:59.000000Z",
+                        "updated_at": "2022-08-08T13:32:59.000000Z"
+                    }
+                },
+                {
+                    "id": 168945,
+                    "name": "Mjini \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:59.000000Z",
+                    "updated_at": "2022-08-08T13:32:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168945,
+                        "created_at": "2022-08-08T13:32:59.000000Z",
+                        "updated_at": "2022-08-08T13:32:59.000000Z"
+                    }
+                },
+                {
+                    "id": 168946,
+                    "name": "Mjini \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:00.000000Z",
+                    "updated_at": "2022-08-08T13:33:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168946,
+                        "created_at": "2022-08-08T13:33:00.000000Z",
+                        "updated_at": "2022-08-08T13:33:00.000000Z"
+                    }
+                },
+                {
+                    "id": 168947,
+                    "name": "Mjini \"C\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:00.000000Z",
+                    "updated_at": "2022-08-08T13:33:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168947,
+                        "created_at": "2022-08-08T13:33:00.000000Z",
+                        "updated_at": "2022-08-08T13:33:00.000000Z"
+                    }
+                },
+                {
+                    "id": 168948,
+                    "name": "Mjini Magharibi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:01.000000Z",
+                    "updated_at": "2022-08-08T13:33:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168948,
+                        "created_at": "2022-08-08T13:33:01.000000Z",
+                        "updated_at": "2022-08-08T13:33:01.000000Z"
+                    }
+                },
+                {
+                    "id": 168949,
+                    "name": "Ibushi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:01.000000Z",
+                    "updated_at": "2022-08-08T13:33:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168949,
+                        "created_at": "2022-08-08T13:33:01.000000Z",
+                        "updated_at": "2022-08-08T13:33:01.000000Z"
+                    }
+                },
+                {
+                    "id": 168950,
+                    "name": "Posta  Magharibi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:02.000000Z",
+                    "updated_at": "2022-08-08T13:33:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168950,
+                        "created_at": "2022-08-08T13:33:02.000000Z",
+                        "updated_at": "2022-08-08T13:33:02.000000Z"
+                    }
+                },
+                {
+                    "id": 168951,
+                    "name": "Izimbili",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:02.000000Z",
+                    "updated_at": "2022-08-08T13:33:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84444,
+                        "area_id": 168951,
+                        "created_at": "2022-08-08T13:33:02.000000Z",
+                        "updated_at": "2022-08-08T13:33:02.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 84445,
+            "name": "KALEMELA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84443,
+                "name": "MWISI",
+                "postcode": "45619",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84364,
+                    "name": "IGUNGA DISTRICT COUNCIL",
+                    "postcode": "456",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84363,
+                        "name": "IGUNGA",
+                        "postcode": "456",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 168938,
+                    "name": "Kusini Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:56.000000Z",
+                    "updated_at": "2022-08-08T13:32:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84445,
+                        "area_id": 168938,
+                        "created_at": "2022-08-08T13:32:56.000000Z",
+                        "updated_at": "2022-08-08T13:32:56.000000Z"
+                    }
+                },
+                {
+                    "id": 168939,
+                    "name": "Magharibi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:57.000000Z",
+                    "updated_at": "2022-08-08T13:32:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84445,
+                        "area_id": 168939,
+                        "created_at": "2022-08-08T13:32:57.000000Z",
+                        "updated_at": "2022-08-08T13:32:57.000000Z"
+                    }
+                },
+                {
+                    "id": 168940,
+                    "name": "Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:57.000000Z",
+                    "updated_at": "2022-08-08T13:32:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84445,
+                        "area_id": 168940,
+                        "created_at": "2022-08-08T13:32:57.000000Z",
+                        "updated_at": "2022-08-08T13:32:57.000000Z"
+                    }
+                },
+                {
+                    "id": 168941,
+                    "name": "Kaskazini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:58.000000Z",
+                    "updated_at": "2022-08-08T13:32:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84445,
+                        "area_id": 168941,
+                        "created_at": "2022-08-08T13:32:58.000000Z",
+                        "updated_at": "2022-08-08T13:32:58.000000Z"
+                    }
+                },
+                {
+                    "id": 168942,
+                    "name": "Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:32:58.000000Z",
+                    "updated_at": "2022-08-08T13:32:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84445,
+                        "area_id": 168942,
+                        "created_at": "2022-08-08T13:32:58.000000Z",
+                        "updated_at": "2022-08-08T13:32:58.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 84447,
+            "name": "MIZANZA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84443,
+                "name": "MWISI",
+                "postcode": "45619",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84364,
+                    "name": "IGUNGA DISTRICT COUNCIL",
+                    "postcode": "456",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84363,
+                        "name": "IGUNGA",
+                        "postcode": "456",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 168959,
+                    "name": "Misana",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:07.000000Z",
+                    "updated_at": "2022-08-08T13:33:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84447,
+                        "area_id": 168959,
+                        "created_at": "2022-08-08T13:33:07.000000Z",
+                        "updated_at": "2022-08-08T13:33:07.000000Z"
+                    }
+                },
+                {
+                    "id": 168960,
+                    "name": "Dodoma",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:07.000000Z",
+                    "updated_at": "2022-08-08T13:33:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84447,
+                        "area_id": 168960,
+                        "created_at": "2022-08-08T13:33:07.000000Z",
+                        "updated_at": "2022-08-08T13:33:07.000000Z"
+                    }
+                },
+                {
+                    "id": 168961,
+                    "name": "Buhekela",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:08.000000Z",
+                    "updated_at": "2022-08-08T13:33:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84447,
+                        "area_id": 168961,
+                        "created_at": "2022-08-08T13:33:08.000000Z",
+                        "updated_at": "2022-08-08T13:33:08.000000Z"
+                    }
+                },
+                {
+                    "id": 168962,
+                    "name": "Mizanza \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:08.000000Z",
+                    "updated_at": "2022-08-08T13:33:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84447,
+                        "area_id": 168962,
+                        "created_at": "2022-08-08T13:33:08.000000Z",
+                        "updated_at": "2022-08-08T13:33:08.000000Z"
+                    }
+                },
+                {
+                    "id": 168963,
+                    "name": "Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:33:09.000000Z",
+                    "updated_at": "2022-08-08T13:33:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84447,
+                        "area_id": 168963,
+                        "created_at": "2022-08-08T13:33:09.000000Z",
+                        "updated_at": "2022-08-08T13:33:09.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
