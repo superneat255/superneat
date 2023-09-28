@@ -1,0 +1,984 @@
+{
+    "data": [
+        {
+            "id": 98446,
+            "name": "CHILAILE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75660,
+                "name": "MKOKA",
+                "postcode": "65317",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75643,
+                    "name": "NACHINGWEA DISTRICT COUNCIL",
+                    "postcode": "653",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75642,
+                        "name": "NACHINGWEA",
+                        "postcode": "653",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 161847,
+                    "name": "Abuja",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:37.000000Z",
+                    "updated_at": "2022-08-08T09:17:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98446,
+                        "area_id": 161847,
+                        "created_at": "2022-08-08T09:17:37.000000Z",
+                        "updated_at": "2022-08-08T09:17:37.000000Z"
+                    }
+                },
+                {
+                    "id": 161848,
+                    "name": "Chilaile Juu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:37.000000Z",
+                    "updated_at": "2022-08-08T09:17:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98446,
+                        "area_id": 161848,
+                        "created_at": "2022-08-08T09:17:37.000000Z",
+                        "updated_at": "2022-08-08T09:17:37.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 98448,
+            "name": "LIKWELA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75660,
+                "name": "MKOKA",
+                "postcode": "65317",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75643,
+                    "name": "NACHINGWEA DISTRICT COUNCIL",
+                    "postcode": "653",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75642,
+                        "name": "NACHINGWEA",
+                        "postcode": "653",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 161830,
+                    "name": "Likwela Shuleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:34.000000Z",
+                    "updated_at": "2022-08-08T09:17:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98448,
+                        "area_id": 161830,
+                        "created_at": "2022-08-08T09:17:34.000000Z",
+                        "updated_at": "2022-08-08T09:17:34.000000Z"
+                    }
+                },
+                {
+                    "id": 161831,
+                    "name": "Likwela Ofisini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:34.000000Z",
+                    "updated_at": "2022-08-08T09:17:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98448,
+                        "area_id": 161831,
+                        "created_at": "2022-08-08T09:17:34.000000Z",
+                        "updated_at": "2022-08-08T09:17:34.000000Z"
+                    }
+                },
+                {
+                    "id": 161832,
+                    "name": "Likwela Juu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:35.000000Z",
+                    "updated_at": "2022-08-08T09:17:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98448,
+                        "area_id": 161832,
+                        "created_at": "2022-08-08T09:17:35.000000Z",
+                        "updated_at": "2022-08-08T09:17:35.000000Z"
+                    }
+                },
+                {
+                    "id": 161833,
+                    "name": "Ivilo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:35.000000Z",
+                    "updated_at": "2022-08-08T09:17:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98448,
+                        "area_id": 161833,
+                        "created_at": "2022-08-08T09:17:35.000000Z",
+                        "updated_at": "2022-08-08T09:17:35.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 98449,
+            "name": "MKOKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75660,
+                "name": "MKOKA",
+                "postcode": "65317",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75643,
+                    "name": "NACHINGWEA DISTRICT COUNCIL",
+                    "postcode": "653",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75642,
+                        "name": "NACHINGWEA",
+                        "postcode": "653",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 161836,
+                    "name": "Muungano",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:35.000000Z",
+                    "updated_at": "2022-08-08T09:17:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98449,
+                        "area_id": 161836,
+                        "created_at": "2022-08-08T09:17:35.000000Z",
+                        "updated_at": "2022-08-08T09:17:35.000000Z"
+                    }
+                },
+                {
+                    "id": 161837,
+                    "name": "Mkoka Chini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:35.000000Z",
+                    "updated_at": "2022-08-08T09:17:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98449,
+                        "area_id": 161837,
+                        "created_at": "2022-08-08T09:17:35.000000Z",
+                        "updated_at": "2022-08-08T09:17:35.000000Z"
+                    }
+                },
+                {
+                    "id": 161838,
+                    "name": "Mkoka Shuleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:35.000000Z",
+                    "updated_at": "2022-08-08T09:17:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98449,
+                        "area_id": 161838,
+                        "created_at": "2022-08-08T09:17:35.000000Z",
+                        "updated_at": "2022-08-08T09:17:35.000000Z"
+                    }
+                },
+                {
+                    "id": 161839,
+                    "name": "Mkoka Juu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:36.000000Z",
+                    "updated_at": "2022-08-08T09:17:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98449,
+                        "area_id": 161839,
+                        "created_at": "2022-08-08T09:17:36.000000Z",
+                        "updated_at": "2022-08-08T09:17:36.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 98450,
+            "name": "NANDILE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75660,
+                "name": "MKOKA",
+                "postcode": "65317",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75643,
+                    "name": "NACHINGWEA DISTRICT COUNCIL",
+                    "postcode": "653",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75642,
+                        "name": "NACHINGWEA",
+                        "postcode": "653",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 161834,
+                    "name": "Mchangani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:35.000000Z",
+                    "updated_at": "2022-08-08T09:17:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98450,
+                        "area_id": 161834,
+                        "created_at": "2022-08-08T09:17:35.000000Z",
+                        "updated_at": "2022-08-08T09:17:35.000000Z"
+                    }
+                },
+                {
+                    "id": 161835,
+                    "name": "Nandile Juu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:35.000000Z",
+                    "updated_at": "2022-08-08T09:17:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98450,
+                        "area_id": 161835,
+                        "created_at": "2022-08-08T09:17:35.000000Z",
+                        "updated_at": "2022-08-08T09:17:35.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 98451,
+            "name": "NARUNGOMBE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75660,
+                "name": "MKOKA",
+                "postcode": "65317",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75643,
+                    "name": "NACHINGWEA DISTRICT COUNCIL",
+                    "postcode": "653",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75642,
+                        "name": "NACHINGWEA",
+                        "postcode": "653",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 161844,
+                    "name": "Nakapingo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:36.000000Z",
+                    "updated_at": "2022-08-08T09:17:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98451,
+                        "area_id": 161844,
+                        "created_at": "2022-08-08T09:17:36.000000Z",
+                        "updated_at": "2022-08-08T09:17:36.000000Z"
+                    }
+                },
+                {
+                    "id": 161845,
+                    "name": "Shuleni (Narungombe Shuleni)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:36.000000Z",
+                    "updated_at": "2022-08-08T09:17:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98451,
+                        "area_id": 161845,
+                        "created_at": "2022-08-08T09:17:36.000000Z",
+                        "updated_at": "2022-08-08T09:17:36.000000Z"
+                    }
+                },
+                {
+                    "id": 161846,
+                    "name": "Padepu (Narungombe Juu)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:37.000000Z",
+                    "updated_at": "2022-08-08T09:17:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98451,
+                        "area_id": 161846,
+                        "created_at": "2022-08-08T09:17:37.000000Z",
+                        "updated_at": "2022-08-08T09:17:37.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 98452,
+            "name": "RWEJE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75660,
+                "name": "MKOKA",
+                "postcode": "65317",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75643,
+                    "name": "NACHINGWEA DISTRICT COUNCIL",
+                    "postcode": "653",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75642,
+                        "name": "NACHINGWEA",
+                        "postcode": "653",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 161840,
+                    "name": "Libundu Ligalau (Ligalau)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:36.000000Z",
+                    "updated_at": "2022-08-08T09:17:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98452,
+                        "area_id": 161840,
+                        "created_at": "2022-08-08T09:17:36.000000Z",
+                        "updated_at": "2022-08-08T09:17:36.000000Z"
+                    }
+                },
+                {
+                    "id": 161841,
+                    "name": "Nagaga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:36.000000Z",
+                    "updated_at": "2022-08-08T09:17:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98452,
+                        "area_id": 161841,
+                        "created_at": "2022-08-08T09:17:36.000000Z",
+                        "updated_at": "2022-08-08T09:17:36.000000Z"
+                    }
+                },
+                {
+                    "id": 161842,
+                    "name": "Rweje Shuleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:36.000000Z",
+                    "updated_at": "2022-08-08T09:17:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98452,
+                        "area_id": 161842,
+                        "created_at": "2022-08-08T09:17:36.000000Z",
+                        "updated_at": "2022-08-08T09:17:36.000000Z"
+                    }
+                },
+                {
+                    "id": 161843,
+                    "name": "Libundu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:17:36.000000Z",
+                    "updated_at": "2022-08-08T09:17:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98452,
+                        "area_id": 161843,
+                        "created_at": "2022-08-08T09:17:36.000000Z",
+                        "updated_at": "2022-08-08T09:17:36.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
