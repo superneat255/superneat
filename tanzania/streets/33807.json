@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "id": 93494,
+            "name": "MAHIGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78253,
+                "name": "MWANG'HALANGA",
+                "postcode": "33807",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 78246,
+                    "name": "KWIMBA DISTRICT COUNCIL",
+                    "postcode": "338",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 78245,
+                        "name": "KWIMBA",
+                        "postcode": "338",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 3,
+                            "name": "MWANZA",
+                            "postcode": "33",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 149299,
+                    "name": "Bujingwa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:11.000000Z",
+                    "updated_at": "2022-08-04T12:19:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149299,
+                        "created_at": "2022-08-08T18:32:42.000000Z",
+                        "updated_at": "2022-08-08T18:32:42.000000Z"
+                    }
+                },
+                {
+                    "id": 149300,
+                    "name": "Luhala",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:12.000000Z",
+                    "updated_at": "2022-08-04T12:19:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149300,
+                        "created_at": "2022-08-08T18:32:43.000000Z",
+                        "updated_at": "2022-08-08T18:32:43.000000Z"
+                    }
+                },
+                {
+                    "id": 149301,
+                    "name": "Mahiga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:12.000000Z",
+                    "updated_at": "2022-08-04T12:19:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149301,
+                        "created_at": "2022-08-08T18:32:43.000000Z",
+                        "updated_at": "2022-08-08T18:32:43.000000Z"
+                    }
+                },
+                {
+                    "id": 149302,
+                    "name": "Maguha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:13.000000Z",
+                    "updated_at": "2022-08-04T12:19:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149302,
+                        "created_at": "2022-08-08T18:32:44.000000Z",
+                        "updated_at": "2022-08-08T18:32:44.000000Z"
+                    }
+                },
+                {
+                    "id": 149303,
+                    "name": "Chamalendi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:13.000000Z",
+                    "updated_at": "2022-08-04T12:19:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149303,
+                        "created_at": "2022-08-08T18:32:44.000000Z",
+                        "updated_at": "2022-08-08T18:32:44.000000Z"
+                    }
+                },
+                {
+                    "id": 149304,
+                    "name": "Dunehe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:14.000000Z",
+                    "updated_at": "2022-08-04T12:19:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149304,
+                        "created_at": "2022-08-08T18:32:45.000000Z",
+                        "updated_at": "2022-08-08T18:32:45.000000Z"
+                    }
+                },
+                {
+                    "id": 149305,
+                    "name": "Mwamagangati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:15.000000Z",
+                    "updated_at": "2022-08-04T12:19:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149305,
+                        "created_at": "2022-08-08T18:32:45.000000Z",
+                        "updated_at": "2022-08-08T18:32:45.000000Z"
+                    }
+                },
+                {
+                    "id": 149306,
+                    "name": "Njuguji \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:15.000000Z",
+                    "updated_at": "2022-08-04T12:19:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149306,
+                        "created_at": "2022-08-08T18:32:46.000000Z",
+                        "updated_at": "2022-08-08T18:32:46.000000Z"
+                    }
+                },
+                {
+                    "id": 149307,
+                    "name": "Njuguji \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:16.000000Z",
+                    "updated_at": "2022-08-04T12:19:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93494,
+                        "area_id": 149307,
+                        "created_at": "2022-08-08T18:32:46.000000Z",
+                        "updated_at": "2022-08-08T18:32:46.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 93496,
+            "name": "MWABAGOLE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78253,
+                "name": "MWANG'HALANGA",
+                "postcode": "33807",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 78246,
+                    "name": "KWIMBA DISTRICT COUNCIL",
+                    "postcode": "338",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 78245,
+                        "name": "KWIMBA",
+                        "postcode": "338",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 3,
+                            "name": "MWANZA",
+                            "postcode": "33",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 149286,
+                    "name": "Mibanga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:03.000000Z",
+                    "updated_at": "2022-08-04T12:19:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93496,
+                        "area_id": 149286,
+                        "created_at": "2022-08-08T18:32:35.000000Z",
+                        "updated_at": "2022-08-08T18:32:35.000000Z"
+                    }
+                },
+                {
+                    "id": 149287,
+                    "name": "Nyamhungu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:03.000000Z",
+                    "updated_at": "2022-08-04T12:19:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93496,
+                        "area_id": 149287,
+                        "created_at": "2022-08-08T18:32:36.000000Z",
+                        "updated_at": "2022-08-08T18:32:36.000000Z"
+                    }
+                },
+                {
+                    "id": 149288,
+                    "name": "Mwadoto",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:04.000000Z",
+                    "updated_at": "2022-08-04T12:19:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93496,
+                        "area_id": 149288,
+                        "created_at": "2022-08-08T18:32:37.000000Z",
+                        "updated_at": "2022-08-08T18:32:37.000000Z"
+                    }
+                },
+                {
+                    "id": 149289,
+                    "name": "Mwabagole",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:05.000000Z",
+                    "updated_at": "2022-08-04T12:19:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93496,
+                        "area_id": 149289,
+                        "created_at": "2022-08-08T18:32:37.000000Z",
+                        "updated_at": "2022-08-08T18:32:37.000000Z"
+                    }
+                },
+                {
+                    "id": 149290,
+                    "name": "Nyamonde",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:05.000000Z",
+                    "updated_at": "2022-08-04T12:19:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93496,
+                        "area_id": 149290,
+                        "created_at": "2022-08-08T18:32:38.000000Z",
+                        "updated_at": "2022-08-08T18:32:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 93495,
+            "name": "MWANG'HALANGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78253,
+                "name": "MWANG'HALANGA",
+                "postcode": "33807",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 78246,
+                    "name": "KWIMBA DISTRICT COUNCIL",
+                    "postcode": "338",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 78245,
+                        "name": "KWIMBA",
+                        "postcode": "338",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 3,
+                            "name": "MWANZA",
+                            "postcode": "33",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 149308,
+                    "name": "Kitunga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:16.000000Z",
+                    "updated_at": "2022-08-04T12:19:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93495,
+                        "area_id": 149308,
+                        "created_at": "2022-08-08T18:32:47.000000Z",
+                        "updated_at": "2022-08-08T18:32:47.000000Z"
+                    }
+                },
+                {
+                    "id": 149309,
+                    "name": "Nyamasaka",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:17.000000Z",
+                    "updated_at": "2022-08-04T12:19:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93495,
+                        "area_id": 149309,
+                        "created_at": "2022-08-08T18:32:47.000000Z",
+                        "updated_at": "2022-08-08T18:32:47.000000Z"
+                    }
+                },
+                {
+                    "id": 149310,
+                    "name": "Ng'wang'halanga \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:18.000000Z",
+                    "updated_at": "2022-08-04T12:19:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93495,
+                        "area_id": 149310,
+                        "created_at": "2022-08-08T18:32:48.000000Z",
+                        "updated_at": "2022-08-08T18:32:48.000000Z"
+                    }
+                },
+                {
+                    "id": 149311,
+                    "name": "Ng'wamalashi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:18.000000Z",
+                    "updated_at": "2022-08-04T12:19:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93495,
+                        "area_id": 149311,
+                        "created_at": "2022-08-08T18:32:48.000000Z",
+                        "updated_at": "2022-08-08T18:32:48.000000Z"
+                    }
+                },
+                {
+                    "id": 149312,
+                    "name": "Ng'wang'halanga \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:19.000000Z",
+                    "updated_at": "2022-08-04T12:19:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93495,
+                        "area_id": 149312,
+                        "created_at": "2022-08-08T18:32:49.000000Z",
+                        "updated_at": "2022-08-08T18:32:49.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 93497,
+            "name": "SHIGUMHULO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78253,
+                "name": "MWANG'HALANGA",
+                "postcode": "33807",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 78246,
+                    "name": "KWIMBA DISTRICT COUNCIL",
+                    "postcode": "338",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 78245,
+                        "name": "KWIMBA",
+                        "postcode": "338",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 3,
+                            "name": "MWANZA",
+                            "postcode": "33",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 149291,
+                    "name": "Nguluko",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:06.000000Z",
+                    "updated_at": "2022-08-04T12:19:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149291,
+                        "created_at": "2022-08-08T18:32:38.000000Z",
+                        "updated_at": "2022-08-08T18:32:38.000000Z"
+                    }
+                },
+                {
+                    "id": 149292,
+                    "name": "Chigula",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:07.000000Z",
+                    "updated_at": "2022-08-04T12:19:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149292,
+                        "created_at": "2022-08-08T18:32:39.000000Z",
+                        "updated_at": "2022-08-08T18:32:39.000000Z"
+                    }
+                },
+                {
+                    "id": 149293,
+                    "name": "Mwamatale",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:07.000000Z",
+                    "updated_at": "2022-08-04T12:19:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149293,
+                        "created_at": "2022-08-08T18:32:39.000000Z",
+                        "updated_at": "2022-08-08T18:32:39.000000Z"
+                    }
+                },
+                {
+                    "id": 149294,
+                    "name": "Ng'wabusiga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:08.000000Z",
+                    "updated_at": "2022-08-04T12:19:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149294,
+                        "created_at": "2022-08-08T18:32:40.000000Z",
+                        "updated_at": "2022-08-08T18:32:40.000000Z"
+                    }
+                },
+                {
+                    "id": 149295,
+                    "name": "Nyamasaka",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:08.000000Z",
+                    "updated_at": "2022-08-04T12:19:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149295,
+                        "created_at": "2022-08-08T18:32:40.000000Z",
+                        "updated_at": "2022-08-08T18:32:40.000000Z"
+                    }
+                },
+                {
+                    "id": 149296,
+                    "name": "Itumba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:09.000000Z",
+                    "updated_at": "2022-08-04T12:19:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149296,
+                        "created_at": "2022-08-08T18:32:41.000000Z",
+                        "updated_at": "2022-08-08T18:32:41.000000Z"
+                    }
+                },
+                {
+                    "id": 149297,
+                    "name": "Mwasayi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:09.000000Z",
+                    "updated_at": "2022-08-04T12:19:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149297,
+                        "created_at": "2022-08-08T18:32:41.000000Z",
+                        "updated_at": "2022-08-08T18:32:41.000000Z"
+                    }
+                },
+                {
+                    "id": 149298,
+                    "name": "Ng'wamasangu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-04T12:19:10.000000Z",
+                    "updated_at": "2022-08-04T12:19:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 93497,
+                        "area_id": 149298,
+                        "created_at": "2022-08-08T18:32:42.000000Z",
+                        "updated_at": "2022-08-08T18:32:42.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
