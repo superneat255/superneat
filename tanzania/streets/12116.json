@@ -1,0 +1,3367 @@
+{
+    "data": [
+        {
+            "id": 109343,
+            "name": "KANGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 98681,
+                "name": "KINYEREZI",
+                "postcode": "12116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131065,
+                    "name": "Kanga-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:24.000000Z",
+                    "updated_at": "2022-07-27T17:45:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131065,
+                        "created_at": "2022-08-13T11:15:16.000000Z",
+                        "updated_at": "2022-08-13T11:15:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131066,
+                    "name": "Kanga-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:25.000000Z",
+                    "updated_at": "2022-07-27T17:45:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131066,
+                        "created_at": "2022-08-13T11:15:17.000000Z",
+                        "updated_at": "2022-08-13T11:15:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131067,
+                    "name": "Kanga-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:25.000000Z",
+                    "updated_at": "2022-07-27T17:45:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131067,
+                        "created_at": "2022-08-13T11:15:19.000000Z",
+                        "updated_at": "2022-08-13T11:15:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131068,
+                    "name": "Kanga-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:26.000000Z",
+                    "updated_at": "2022-07-27T17:45:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131068,
+                        "created_at": "2022-08-13T11:15:20.000000Z",
+                        "updated_at": "2022-08-13T11:15:20.000000Z"
+                    }
+                },
+                {
+                    "id": 131069,
+                    "name": "Kanga-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:26.000000Z",
+                    "updated_at": "2022-07-27T17:45:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131069,
+                        "created_at": "2022-08-13T11:15:22.000000Z",
+                        "updated_at": "2022-08-13T11:15:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131070,
+                    "name": "Kanga-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:27.000000Z",
+                    "updated_at": "2022-07-27T17:45:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131070,
+                        "created_at": "2022-08-13T11:15:23.000000Z",
+                        "updated_at": "2022-08-13T11:15:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131071,
+                    "name": "Kanga-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:28.000000Z",
+                    "updated_at": "2022-07-27T17:45:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131071,
+                        "created_at": "2022-08-13T11:15:24.000000Z",
+                        "updated_at": "2022-08-13T11:15:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131072,
+                    "name": "Kanga-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:28.000000Z",
+                    "updated_at": "2022-07-27T17:45:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131072,
+                        "created_at": "2022-08-13T11:15:26.000000Z",
+                        "updated_at": "2022-08-13T11:15:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131073,
+                    "name": "Kanga-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:29.000000Z",
+                    "updated_at": "2022-07-27T17:45:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131073,
+                        "created_at": "2022-08-13T11:15:27.000000Z",
+                        "updated_at": "2022-08-13T11:15:27.000000Z"
+                    }
+                },
+                {
+                    "id": 131074,
+                    "name": "Kanga-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:29.000000Z",
+                    "updated_at": "2022-07-27T17:45:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131074,
+                        "created_at": "2022-08-13T11:15:29.000000Z",
+                        "updated_at": "2022-08-13T11:15:29.000000Z"
+                    }
+                },
+                {
+                    "id": 131075,
+                    "name": "Kanga-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:30.000000Z",
+                    "updated_at": "2022-07-27T17:45:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131075,
+                        "created_at": "2022-08-13T11:15:30.000000Z",
+                        "updated_at": "2022-08-13T11:15:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131076,
+                    "name": "Kanga-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:31.000000Z",
+                    "updated_at": "2022-07-27T17:45:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131076,
+                        "created_at": "2022-08-13T11:15:32.000000Z",
+                        "updated_at": "2022-08-13T11:15:32.000000Z"
+                    }
+                },
+                {
+                    "id": 131077,
+                    "name": "Kanga-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:32.000000Z",
+                    "updated_at": "2022-07-27T17:45:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131077,
+                        "created_at": "2022-08-13T11:15:34.000000Z",
+                        "updated_at": "2022-08-13T11:15:34.000000Z"
+                    }
+                },
+                {
+                    "id": 131078,
+                    "name": "Kanga-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:32.000000Z",
+                    "updated_at": "2022-07-27T17:45:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131078,
+                        "created_at": "2022-08-13T11:15:35.000000Z",
+                        "updated_at": "2022-08-13T11:15:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131079,
+                    "name": "Kanga-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:33.000000Z",
+                    "updated_at": "2022-07-27T17:45:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131079,
+                        "created_at": "2022-08-13T11:15:37.000000Z",
+                        "updated_at": "2022-08-13T11:15:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131080,
+                    "name": "Kanga-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:34.000000Z",
+                    "updated_at": "2022-07-27T17:45:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131080,
+                        "created_at": "2022-08-13T11:15:39.000000Z",
+                        "updated_at": "2022-08-13T11:15:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131081,
+                    "name": "Kanga-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:35.000000Z",
+                    "updated_at": "2022-07-27T17:45:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131081,
+                        "created_at": "2022-08-13T11:15:41.000000Z",
+                        "updated_at": "2022-08-13T11:15:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131082,
+                    "name": "Kanga-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:36.000000Z",
+                    "updated_at": "2022-07-27T17:45:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131082,
+                        "created_at": "2022-08-13T11:15:43.000000Z",
+                        "updated_at": "2022-08-13T11:15:43.000000Z"
+                    }
+                },
+                {
+                    "id": 131083,
+                    "name": "Kanga-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:37.000000Z",
+                    "updated_at": "2022-07-27T17:45:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131083,
+                        "created_at": "2022-08-13T11:15:45.000000Z",
+                        "updated_at": "2022-08-13T11:15:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131084,
+                    "name": "Kanga-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:38.000000Z",
+                    "updated_at": "2022-07-27T17:45:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131084,
+                        "created_at": "2022-08-13T11:15:46.000000Z",
+                        "updated_at": "2022-08-13T11:15:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131085,
+                    "name": "Kanga-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:39.000000Z",
+                    "updated_at": "2022-07-27T17:45:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131085,
+                        "created_at": "2022-08-13T11:15:48.000000Z",
+                        "updated_at": "2022-08-13T11:15:48.000000Z"
+                    }
+                },
+                {
+                    "id": 131086,
+                    "name": "Kanga-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:40.000000Z",
+                    "updated_at": "2022-07-27T17:45:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131086,
+                        "created_at": "2022-08-13T11:15:50.000000Z",
+                        "updated_at": "2022-08-13T11:15:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131087,
+                    "name": "Kanga-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:41.000000Z",
+                    "updated_at": "2022-07-27T17:45:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109343,
+                        "area_id": 131087,
+                        "created_at": "2022-08-13T11:15:52.000000Z",
+                        "updated_at": "2022-08-13T11:15:52.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 109344,
+            "name": "KIBAGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 98681,
+                "name": "KINYEREZI",
+                "postcode": "12116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131162,
+                    "name": "Kibaga-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:08.000000Z",
+                    "updated_at": "2022-07-27T17:49:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131162,
+                        "created_at": "2022-08-13T11:19:22.000000Z",
+                        "updated_at": "2022-08-13T11:19:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131163,
+                    "name": "Kibaga-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:08.000000Z",
+                    "updated_at": "2022-07-27T17:49:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131163,
+                        "created_at": "2022-08-13T11:19:25.000000Z",
+                        "updated_at": "2022-08-13T11:19:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131164,
+                    "name": "Kibaga-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:09.000000Z",
+                    "updated_at": "2022-07-27T17:49:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131164,
+                        "created_at": "2022-08-13T11:19:26.000000Z",
+                        "updated_at": "2022-08-13T11:19:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131165,
+                    "name": "Kibaga-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:09.000000Z",
+                    "updated_at": "2022-07-27T17:49:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131165,
+                        "created_at": "2022-08-13T11:19:28.000000Z",
+                        "updated_at": "2022-08-13T11:19:28.000000Z"
+                    }
+                },
+                {
+                    "id": 131166,
+                    "name": "Kibaga-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:10.000000Z",
+                    "updated_at": "2022-07-27T17:49:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131166,
+                        "created_at": "2022-08-13T11:19:30.000000Z",
+                        "updated_at": "2022-08-13T11:19:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131167,
+                    "name": "Kibaga-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:10.000000Z",
+                    "updated_at": "2022-07-27T17:49:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131167,
+                        "created_at": "2022-08-13T11:19:31.000000Z",
+                        "updated_at": "2022-08-13T11:19:31.000000Z"
+                    }
+                },
+                {
+                    "id": 131168,
+                    "name": "Kibaga-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:11.000000Z",
+                    "updated_at": "2022-07-27T17:49:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131168,
+                        "created_at": "2022-08-13T11:19:33.000000Z",
+                        "updated_at": "2022-08-13T11:19:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131169,
+                    "name": "Kibaga-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:12.000000Z",
+                    "updated_at": "2022-07-27T17:49:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131169,
+                        "created_at": "2022-08-13T11:19:35.000000Z",
+                        "updated_at": "2022-08-13T11:19:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131170,
+                    "name": "Kibaga-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:12.000000Z",
+                    "updated_at": "2022-07-27T17:49:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131170,
+                        "created_at": "2022-08-13T11:19:37.000000Z",
+                        "updated_at": "2022-08-13T11:19:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131171,
+                    "name": "Kibaga-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:13.000000Z",
+                    "updated_at": "2022-07-27T17:49:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131171,
+                        "created_at": "2022-08-13T11:19:38.000000Z",
+                        "updated_at": "2022-08-13T11:19:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131172,
+                    "name": "Kibaga-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:14.000000Z",
+                    "updated_at": "2022-07-27T17:49:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131172,
+                        "created_at": "2022-08-13T11:19:40.000000Z",
+                        "updated_at": "2022-08-13T11:19:40.000000Z"
+                    }
+                },
+                {
+                    "id": 131173,
+                    "name": "Kibaga-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:15.000000Z",
+                    "updated_at": "2022-07-27T17:49:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131173,
+                        "created_at": "2022-08-13T11:19:42.000000Z",
+                        "updated_at": "2022-08-13T11:19:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131174,
+                    "name": "Kibaga-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:16.000000Z",
+                    "updated_at": "2022-07-27T17:49:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131174,
+                        "created_at": "2022-08-13T11:19:44.000000Z",
+                        "updated_at": "2022-08-13T11:19:44.000000Z"
+                    }
+                },
+                {
+                    "id": 131175,
+                    "name": "Kibaga-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:16.000000Z",
+                    "updated_at": "2022-07-27T17:49:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131175,
+                        "created_at": "2022-08-13T11:19:46.000000Z",
+                        "updated_at": "2022-08-13T11:19:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131176,
+                    "name": "Kibaga-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:17.000000Z",
+                    "updated_at": "2022-07-27T17:49:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131176,
+                        "created_at": "2022-08-13T11:19:48.000000Z",
+                        "updated_at": "2022-08-13T11:19:48.000000Z"
+                    }
+                },
+                {
+                    "id": 131177,
+                    "name": "Kibaga-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:18.000000Z",
+                    "updated_at": "2022-07-27T17:49:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131177,
+                        "created_at": "2022-08-13T11:19:50.000000Z",
+                        "updated_at": "2022-08-13T11:19:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131178,
+                    "name": "Kibaga-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:19.000000Z",
+                    "updated_at": "2022-07-27T17:49:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131178,
+                        "created_at": "2022-08-13T11:19:52.000000Z",
+                        "updated_at": "2022-08-13T11:19:52.000000Z"
+                    }
+                },
+                {
+                    "id": 131179,
+                    "name": "Kibaga-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:20.000000Z",
+                    "updated_at": "2022-07-27T17:49:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131179,
+                        "created_at": "2022-08-13T11:19:54.000000Z",
+                        "updated_at": "2022-08-13T11:19:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131180,
+                    "name": "Kibaga-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:21.000000Z",
+                    "updated_at": "2022-07-27T17:49:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131180,
+                        "created_at": "2022-08-13T11:19:56.000000Z",
+                        "updated_at": "2022-08-13T11:19:56.000000Z"
+                    }
+                },
+                {
+                    "id": 131181,
+                    "name": "Kibaga-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:22.000000Z",
+                    "updated_at": "2022-07-27T17:49:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131181,
+                        "created_at": "2022-08-13T11:19:58.000000Z",
+                        "updated_at": "2022-08-13T11:19:58.000000Z"
+                    }
+                },
+                {
+                    "id": 131182,
+                    "name": "Kibaga-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:23.000000Z",
+                    "updated_at": "2022-07-27T17:49:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131182,
+                        "created_at": "2022-08-13T11:20:01.000000Z",
+                        "updated_at": "2022-08-13T11:20:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131183,
+                    "name": "Kibaga-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:24.000000Z",
+                    "updated_at": "2022-07-27T17:49:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131183,
+                        "created_at": "2022-08-13T11:20:03.000000Z",
+                        "updated_at": "2022-08-13T11:20:03.000000Z"
+                    }
+                },
+                {
+                    "id": 131184,
+                    "name": "Kibaga-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:25.000000Z",
+                    "updated_at": "2022-07-27T17:49:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131184,
+                        "created_at": "2022-08-13T11:20:05.000000Z",
+                        "updated_at": "2022-08-13T11:20:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131185,
+                    "name": "Kibaga-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:26.000000Z",
+                    "updated_at": "2022-07-27T17:49:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131185,
+                        "created_at": "2022-08-13T11:20:07.000000Z",
+                        "updated_at": "2022-08-13T11:20:07.000000Z"
+                    }
+                },
+                {
+                    "id": 131186,
+                    "name": "Kibaga-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:27.000000Z",
+                    "updated_at": "2022-07-27T17:49:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131186,
+                        "created_at": "2022-08-13T11:20:09.000000Z",
+                        "updated_at": "2022-08-13T11:20:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131187,
+                    "name": "Kibaga-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:28.000000Z",
+                    "updated_at": "2022-07-27T17:49:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131187,
+                        "created_at": "2022-08-13T11:20:11.000000Z",
+                        "updated_at": "2022-08-13T11:20:11.000000Z"
+                    }
+                },
+                {
+                    "id": 131188,
+                    "name": "Kibaga-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:30.000000Z",
+                    "updated_at": "2022-07-27T17:49:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131188,
+                        "created_at": "2022-08-13T11:20:14.000000Z",
+                        "updated_at": "2022-08-13T11:20:14.000000Z"
+                    }
+                },
+                {
+                    "id": 131189,
+                    "name": "Kibaga-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:31.000000Z",
+                    "updated_at": "2022-07-27T17:49:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131189,
+                        "created_at": "2022-08-13T11:20:16.000000Z",
+                        "updated_at": "2022-08-13T11:20:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131190,
+                    "name": "Kibaga-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:32.000000Z",
+                    "updated_at": "2022-07-27T17:49:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131190,
+                        "created_at": "2022-08-13T11:20:18.000000Z",
+                        "updated_at": "2022-08-13T11:20:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131191,
+                    "name": "Kibaga-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:33.000000Z",
+                    "updated_at": "2022-07-27T17:49:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131191,
+                        "created_at": "2022-08-13T11:20:21.000000Z",
+                        "updated_at": "2022-08-13T11:20:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131192,
+                    "name": "Kibaga-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:35.000000Z",
+                    "updated_at": "2022-07-27T17:49:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131192,
+                        "created_at": "2022-08-13T11:20:23.000000Z",
+                        "updated_at": "2022-08-13T11:20:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131193,
+                    "name": "Kibaga-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:36.000000Z",
+                    "updated_at": "2022-07-27T17:49:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131193,
+                        "created_at": "2022-08-13T11:20:25.000000Z",
+                        "updated_at": "2022-08-13T11:20:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131194,
+                    "name": "Kibaga-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:37.000000Z",
+                    "updated_at": "2022-07-27T17:49:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131194,
+                        "created_at": "2022-08-13T11:20:28.000000Z",
+                        "updated_at": "2022-08-13T11:20:28.000000Z"
+                    }
+                },
+                {
+                    "id": 131195,
+                    "name": "Kibaga-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:39.000000Z",
+                    "updated_at": "2022-07-27T17:49:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131195,
+                        "created_at": "2022-08-13T11:20:30.000000Z",
+                        "updated_at": "2022-08-13T11:20:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131196,
+                    "name": "Kibaga-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:40.000000Z",
+                    "updated_at": "2022-07-27T17:49:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131196,
+                        "created_at": "2022-08-13T11:20:33.000000Z",
+                        "updated_at": "2022-08-13T11:20:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131197,
+                    "name": "Kibaga-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:41.000000Z",
+                    "updated_at": "2022-07-27T17:49:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131197,
+                        "created_at": "2022-08-13T11:20:35.000000Z",
+                        "updated_at": "2022-08-13T11:20:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131198,
+                    "name": "Kibaga-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:43.000000Z",
+                    "updated_at": "2022-07-27T17:49:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109344,
+                        "area_id": 131198,
+                        "created_at": "2022-08-13T11:20:38.000000Z",
+                        "updated_at": "2022-08-13T11:20:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 109345,
+            "name": "KICHANGANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 98681,
+                "name": "KINYEREZI",
+                "postcode": "12116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131141,
+                    "name": "Kichangani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:47:03.000000Z",
+                    "updated_at": "2022-07-27T17:47:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109345,
+                        "area_id": 131141,
+                        "created_at": "2022-08-13T11:18:53.000000Z",
+                        "updated_at": "2022-08-13T11:18:53.000000Z"
+                    }
+                },
+                {
+                    "id": 131142,
+                    "name": "Kichangani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:47:03.000000Z",
+                    "updated_at": "2022-07-27T17:47:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109345,
+                        "area_id": 131142,
+                        "created_at": "2022-08-13T11:18:54.000000Z",
+                        "updated_at": "2022-08-13T11:18:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131143,
+                    "name": "Kichangani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:47:03.000000Z",
+                    "updated_at": "2022-07-27T17:47:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109345,
+                        "area_id": 131143,
+                        "created_at": "2022-08-13T11:18:54.000000Z",
+                        "updated_at": "2022-08-13T11:18:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131144,
+                    "name": "Kichangani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:47:03.000000Z",
+                    "updated_at": "2022-07-27T17:47:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109345,
+                        "area_id": 131144,
+                        "created_at": "2022-08-13T11:18:54.000000Z",
+                        "updated_at": "2022-08-13T11:18:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131145,
+                    "name": "Kichangani-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:47:04.000000Z",
+                    "updated_at": "2022-07-27T17:47:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109345,
+                        "area_id": 131145,
+                        "created_at": "2022-08-13T11:18:54.000000Z",
+                        "updated_at": "2022-08-13T11:18:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 109346,
+            "name": "KIFURU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 98681,
+                "name": "KINYEREZI",
+                "postcode": "12116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131146,
+                    "name": "Kifuru-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:54.000000Z",
+                    "updated_at": "2022-07-27T17:48:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131146,
+                        "created_at": "2022-08-13T11:18:58.000000Z",
+                        "updated_at": "2022-08-13T11:18:58.000000Z"
+                    }
+                },
+                {
+                    "id": 131147,
+                    "name": "Kifuru-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:55.000000Z",
+                    "updated_at": "2022-07-27T17:48:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131147,
+                        "created_at": "2022-08-13T11:18:59.000000Z",
+                        "updated_at": "2022-08-13T11:18:59.000000Z"
+                    }
+                },
+                {
+                    "id": 131148,
+                    "name": "Kifuru-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:55.000000Z",
+                    "updated_at": "2022-07-27T17:48:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131148,
+                        "created_at": "2022-08-13T11:19:01.000000Z",
+                        "updated_at": "2022-08-13T11:19:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131149,
+                    "name": "Kifuru-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:56.000000Z",
+                    "updated_at": "2022-07-27T17:48:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131149,
+                        "created_at": "2022-08-13T11:19:02.000000Z",
+                        "updated_at": "2022-08-13T11:19:02.000000Z"
+                    }
+                },
+                {
+                    "id": 131150,
+                    "name": "Kifuru-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:57.000000Z",
+                    "updated_at": "2022-07-27T17:48:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131150,
+                        "created_at": "2022-08-13T11:19:03.000000Z",
+                        "updated_at": "2022-08-13T11:19:03.000000Z"
+                    }
+                },
+                {
+                    "id": 131151,
+                    "name": "Kifuru-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:58.000000Z",
+                    "updated_at": "2022-07-27T17:48:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131151,
+                        "created_at": "2022-08-13T11:19:05.000000Z",
+                        "updated_at": "2022-08-13T11:19:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131152,
+                    "name": "Kifuru-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:59.000000Z",
+                    "updated_at": "2022-07-27T17:48:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131152,
+                        "created_at": "2022-08-13T11:19:06.000000Z",
+                        "updated_at": "2022-08-13T11:19:06.000000Z"
+                    }
+                },
+                {
+                    "id": 131153,
+                    "name": "Kifuru-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:48:59.000000Z",
+                    "updated_at": "2022-07-27T17:48:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131153,
+                        "created_at": "2022-08-13T11:19:07.000000Z",
+                        "updated_at": "2022-08-13T11:19:07.000000Z"
+                    }
+                },
+                {
+                    "id": 131154,
+                    "name": "Kifuru-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:00.000000Z",
+                    "updated_at": "2022-07-27T17:49:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131154,
+                        "created_at": "2022-08-13T11:19:09.000000Z",
+                        "updated_at": "2022-08-13T11:19:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131155,
+                    "name": "Kifuru-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:01.000000Z",
+                    "updated_at": "2022-07-27T17:49:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131155,
+                        "created_at": "2022-08-13T11:19:10.000000Z",
+                        "updated_at": "2022-08-13T11:19:10.000000Z"
+                    }
+                },
+                {
+                    "id": 131156,
+                    "name": "Kifuru-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:02.000000Z",
+                    "updated_at": "2022-07-27T17:49:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131156,
+                        "created_at": "2022-08-13T11:19:12.000000Z",
+                        "updated_at": "2022-08-13T11:19:12.000000Z"
+                    }
+                },
+                {
+                    "id": 131157,
+                    "name": "Kifuru-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:03.000000Z",
+                    "updated_at": "2022-07-27T17:49:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131157,
+                        "created_at": "2022-08-13T11:19:13.000000Z",
+                        "updated_at": "2022-08-13T11:19:13.000000Z"
+                    }
+                },
+                {
+                    "id": 131158,
+                    "name": "Kifuru-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:04.000000Z",
+                    "updated_at": "2022-07-27T17:49:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131158,
+                        "created_at": "2022-08-13T11:19:15.000000Z",
+                        "updated_at": "2022-08-13T11:19:15.000000Z"
+                    }
+                },
+                {
+                    "id": 131159,
+                    "name": "Kifuru-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:05.000000Z",
+                    "updated_at": "2022-07-27T17:49:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131159,
+                        "created_at": "2022-08-13T11:19:17.000000Z",
+                        "updated_at": "2022-08-13T11:19:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131160,
+                    "name": "Kifuru-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:06.000000Z",
+                    "updated_at": "2022-07-27T17:49:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131160,
+                        "created_at": "2022-08-13T11:19:19.000000Z",
+                        "updated_at": "2022-08-13T11:19:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131161,
+                    "name": "Kifuru-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:49:07.000000Z",
+                    "updated_at": "2022-07-27T17:49:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109346,
+                        "area_id": 131161,
+                        "created_at": "2022-08-13T11:19:20.000000Z",
+                        "updated_at": "2022-08-13T11:19:20.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 109347,
+            "name": "KINYEREZI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 98681,
+                "name": "KINYEREZI",
+                "postcode": "12116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131088,
+                    "name": "Kinyerezi-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:42.000000Z",
+                    "updated_at": "2022-07-27T17:45:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131088,
+                        "created_at": "2022-08-13T11:15:54.000000Z",
+                        "updated_at": "2022-08-13T11:15:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131089,
+                    "name": "Kinyerezi-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:43.000000Z",
+                    "updated_at": "2022-07-27T17:45:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131089,
+                        "created_at": "2022-08-13T11:15:57.000000Z",
+                        "updated_at": "2022-08-13T11:15:57.000000Z"
+                    }
+                },
+                {
+                    "id": 131090,
+                    "name": "Kinyerezi-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:44.000000Z",
+                    "updated_at": "2022-07-27T17:45:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131090,
+                        "created_at": "2022-08-13T11:16:00.000000Z",
+                        "updated_at": "2022-08-13T11:16:00.000000Z"
+                    }
+                },
+                {
+                    "id": 131091,
+                    "name": "Kinyerezi-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:45.000000Z",
+                    "updated_at": "2022-07-27T17:45:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131091,
+                        "created_at": "2022-08-13T11:16:02.000000Z",
+                        "updated_at": "2022-08-13T11:16:02.000000Z"
+                    }
+                },
+                {
+                    "id": 131092,
+                    "name": "Kinyerezi-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:45.000000Z",
+                    "updated_at": "2022-07-27T17:45:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131092,
+                        "created_at": "2022-08-13T11:16:05.000000Z",
+                        "updated_at": "2022-08-13T11:16:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131093,
+                    "name": "Kinyerezi-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:46.000000Z",
+                    "updated_at": "2022-07-27T17:45:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131093,
+                        "created_at": "2022-08-13T11:16:08.000000Z",
+                        "updated_at": "2022-08-13T11:16:08.000000Z"
+                    }
+                },
+                {
+                    "id": 131094,
+                    "name": "Kinyerezi-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:47.000000Z",
+                    "updated_at": "2022-07-27T17:45:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131094,
+                        "created_at": "2022-08-13T11:16:10.000000Z",
+                        "updated_at": "2022-08-13T11:16:10.000000Z"
+                    }
+                },
+                {
+                    "id": 131095,
+                    "name": "Kinyerezi-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:47.000000Z",
+                    "updated_at": "2022-07-27T17:45:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131095,
+                        "created_at": "2022-08-13T11:16:13.000000Z",
+                        "updated_at": "2022-08-13T11:16:13.000000Z"
+                    }
+                },
+                {
+                    "id": 131096,
+                    "name": "Kinyerezi-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:48.000000Z",
+                    "updated_at": "2022-07-27T17:45:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131096,
+                        "created_at": "2022-08-13T11:16:16.000000Z",
+                        "updated_at": "2022-08-13T11:16:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131097,
+                    "name": "Kinyerezi-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:49.000000Z",
+                    "updated_at": "2022-07-27T17:45:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131097,
+                        "created_at": "2022-08-13T11:16:19.000000Z",
+                        "updated_at": "2022-08-13T11:16:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131098,
+                    "name": "Kinyerezi-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:50.000000Z",
+                    "updated_at": "2022-07-27T17:45:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131098,
+                        "created_at": "2022-08-13T11:16:22.000000Z",
+                        "updated_at": "2022-08-13T11:16:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131099,
+                    "name": "Kinyerezi-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:51.000000Z",
+                    "updated_at": "2022-07-27T17:45:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131099,
+                        "created_at": "2022-08-13T11:16:24.000000Z",
+                        "updated_at": "2022-08-13T11:16:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131100,
+                    "name": "Kinyerezi-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:52.000000Z",
+                    "updated_at": "2022-07-27T17:45:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131100,
+                        "created_at": "2022-08-13T11:16:27.000000Z",
+                        "updated_at": "2022-08-13T11:16:27.000000Z"
+                    }
+                },
+                {
+                    "id": 131101,
+                    "name": "Kinyerezi-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:53.000000Z",
+                    "updated_at": "2022-07-27T17:45:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131101,
+                        "created_at": "2022-08-13T11:16:30.000000Z",
+                        "updated_at": "2022-08-13T11:16:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131102,
+                    "name": "Kinyerezi-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:53.000000Z",
+                    "updated_at": "2022-07-27T17:45:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131102,
+                        "created_at": "2022-08-13T11:16:33.000000Z",
+                        "updated_at": "2022-08-13T11:16:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131103,
+                    "name": "Kinyerezi-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:54.000000Z",
+                    "updated_at": "2022-07-27T17:45:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131103,
+                        "created_at": "2022-08-13T11:16:36.000000Z",
+                        "updated_at": "2022-08-13T11:16:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131104,
+                    "name": "Kinyerezi-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:56.000000Z",
+                    "updated_at": "2022-07-27T17:45:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131104,
+                        "created_at": "2022-08-13T11:16:39.000000Z",
+                        "updated_at": "2022-08-13T11:16:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131105,
+                    "name": "Kinyerezi-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:57.000000Z",
+                    "updated_at": "2022-07-27T17:45:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131105,
+                        "created_at": "2022-08-13T11:16:42.000000Z",
+                        "updated_at": "2022-08-13T11:16:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131106,
+                    "name": "Kinyerezi-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:58.000000Z",
+                    "updated_at": "2022-07-27T17:45:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131106,
+                        "created_at": "2022-08-13T11:16:45.000000Z",
+                        "updated_at": "2022-08-13T11:16:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131107,
+                    "name": "Kinyerezi-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:45:59.000000Z",
+                    "updated_at": "2022-07-27T17:45:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131107,
+                        "created_at": "2022-08-13T11:16:48.000000Z",
+                        "updated_at": "2022-08-13T11:16:48.000000Z"
+                    }
+                },
+                {
+                    "id": 131108,
+                    "name": "Kinyerezi-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:01.000000Z",
+                    "updated_at": "2022-07-27T17:46:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131108,
+                        "created_at": "2022-08-13T11:16:51.000000Z",
+                        "updated_at": "2022-08-13T11:16:51.000000Z"
+                    }
+                },
+                {
+                    "id": 131109,
+                    "name": "Kinyerezi-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:02.000000Z",
+                    "updated_at": "2022-07-27T17:46:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131109,
+                        "created_at": "2022-08-13T11:16:55.000000Z",
+                        "updated_at": "2022-08-13T11:16:55.000000Z"
+                    }
+                },
+                {
+                    "id": 131110,
+                    "name": "Kinyerezi-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:03.000000Z",
+                    "updated_at": "2022-07-27T17:46:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131110,
+                        "created_at": "2022-08-13T11:16:58.000000Z",
+                        "updated_at": "2022-08-13T11:16:58.000000Z"
+                    }
+                },
+                {
+                    "id": 131111,
+                    "name": "Kinyerezi-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:05.000000Z",
+                    "updated_at": "2022-07-27T17:46:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131111,
+                        "created_at": "2022-08-13T11:17:01.000000Z",
+                        "updated_at": "2022-08-13T11:17:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131112,
+                    "name": "Kinyerezi-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:06.000000Z",
+                    "updated_at": "2022-07-27T17:46:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131112,
+                        "created_at": "2022-08-13T11:17:05.000000Z",
+                        "updated_at": "2022-08-13T11:17:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131113,
+                    "name": "Kinyerezi-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:07.000000Z",
+                    "updated_at": "2022-07-27T17:46:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131113,
+                        "created_at": "2022-08-13T11:17:08.000000Z",
+                        "updated_at": "2022-08-13T11:17:08.000000Z"
+                    }
+                },
+                {
+                    "id": 131114,
+                    "name": "Kinyerezi-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:09.000000Z",
+                    "updated_at": "2022-07-27T17:46:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131114,
+                        "created_at": "2022-08-13T11:17:11.000000Z",
+                        "updated_at": "2022-08-13T11:17:11.000000Z"
+                    }
+                },
+                {
+                    "id": 131115,
+                    "name": "Kinyerezi-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:10.000000Z",
+                    "updated_at": "2022-07-27T17:46:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131115,
+                        "created_at": "2022-08-13T11:17:15.000000Z",
+                        "updated_at": "2022-08-13T11:17:15.000000Z"
+                    }
+                },
+                {
+                    "id": 131116,
+                    "name": "Kinyerezi-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:12.000000Z",
+                    "updated_at": "2022-07-27T17:46:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131116,
+                        "created_at": "2022-08-13T11:17:18.000000Z",
+                        "updated_at": "2022-08-13T11:17:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131117,
+                    "name": "Kinyerezi-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:14.000000Z",
+                    "updated_at": "2022-07-27T17:46:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131117,
+                        "created_at": "2022-08-13T11:17:21.000000Z",
+                        "updated_at": "2022-08-13T11:17:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131118,
+                    "name": "Kinyerezi-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:15.000000Z",
+                    "updated_at": "2022-07-27T17:46:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131118,
+                        "created_at": "2022-08-13T11:17:25.000000Z",
+                        "updated_at": "2022-08-13T11:17:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131119,
+                    "name": "Kinyerezi-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:17.000000Z",
+                    "updated_at": "2022-07-27T17:46:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131119,
+                        "created_at": "2022-08-13T11:17:28.000000Z",
+                        "updated_at": "2022-08-13T11:17:28.000000Z"
+                    }
+                },
+                {
+                    "id": 131120,
+                    "name": "Kinyerezi-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:19.000000Z",
+                    "updated_at": "2022-07-27T17:46:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131120,
+                        "created_at": "2022-08-13T11:17:31.000000Z",
+                        "updated_at": "2022-08-13T11:17:31.000000Z"
+                    }
+                },
+                {
+                    "id": 131121,
+                    "name": "Kinyerezi-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:20.000000Z",
+                    "updated_at": "2022-07-27T17:46:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131121,
+                        "created_at": "2022-08-13T11:17:35.000000Z",
+                        "updated_at": "2022-08-13T11:17:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131122,
+                    "name": "Kinyerezi-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:22.000000Z",
+                    "updated_at": "2022-07-27T17:46:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131122,
+                        "created_at": "2022-08-13T11:17:38.000000Z",
+                        "updated_at": "2022-08-13T11:17:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131123,
+                    "name": "Kinyerezi-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:25.000000Z",
+                    "updated_at": "2022-07-27T17:46:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131123,
+                        "created_at": "2022-08-13T11:17:42.000000Z",
+                        "updated_at": "2022-08-13T11:17:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131124,
+                    "name": "Kinyerezi-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:27.000000Z",
+                    "updated_at": "2022-07-27T17:46:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131124,
+                        "created_at": "2022-08-13T11:17:46.000000Z",
+                        "updated_at": "2022-08-13T11:17:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131125,
+                    "name": "Kinyerezi-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:29.000000Z",
+                    "updated_at": "2022-07-27T17:46:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131125,
+                        "created_at": "2022-08-13T11:17:49.000000Z",
+                        "updated_at": "2022-08-13T11:17:49.000000Z"
+                    }
+                },
+                {
+                    "id": 131126,
+                    "name": "Kinyerezi-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:30.000000Z",
+                    "updated_at": "2022-07-27T17:46:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131126,
+                        "created_at": "2022-08-13T11:17:53.000000Z",
+                        "updated_at": "2022-08-13T11:17:53.000000Z"
+                    }
+                },
+                {
+                    "id": 131127,
+                    "name": "Kinyerezi-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:32.000000Z",
+                    "updated_at": "2022-07-27T17:46:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131127,
+                        "created_at": "2022-08-13T11:17:57.000000Z",
+                        "updated_at": "2022-08-13T11:17:57.000000Z"
+                    }
+                },
+                {
+                    "id": 131128,
+                    "name": "Kinyerezi-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:34.000000Z",
+                    "updated_at": "2022-07-27T17:46:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131128,
+                        "created_at": "2022-08-13T11:18:01.000000Z",
+                        "updated_at": "2022-08-13T11:18:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131129,
+                    "name": "Kinyerezi-42",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:36.000000Z",
+                    "updated_at": "2022-07-27T17:46:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "042",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131129,
+                        "created_at": "2022-08-13T11:18:05.000000Z",
+                        "updated_at": "2022-08-13T11:18:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131130,
+                    "name": "Kinyerezi-43",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:38.000000Z",
+                    "updated_at": "2022-07-27T17:46:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "043",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131130,
+                        "created_at": "2022-08-13T11:18:09.000000Z",
+                        "updated_at": "2022-08-13T11:18:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131131,
+                    "name": "Kinyerezi-44",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:41.000000Z",
+                    "updated_at": "2022-07-27T17:46:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "044",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131131,
+                        "created_at": "2022-08-13T11:18:13.000000Z",
+                        "updated_at": "2022-08-13T11:18:13.000000Z"
+                    }
+                },
+                {
+                    "id": 131132,
+                    "name": "Kinyerezi-45",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:43.000000Z",
+                    "updated_at": "2022-07-27T17:46:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "045",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131132,
+                        "created_at": "2022-08-13T11:18:17.000000Z",
+                        "updated_at": "2022-08-13T11:18:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131133,
+                    "name": "Kinyerezi-46",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:45.000000Z",
+                    "updated_at": "2022-07-27T17:46:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "046",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131133,
+                        "created_at": "2022-08-13T11:18:21.000000Z",
+                        "updated_at": "2022-08-13T11:18:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131134,
+                    "name": "Kinyerezi-47",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:48.000000Z",
+                    "updated_at": "2022-07-27T17:46:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "047",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131134,
+                        "created_at": "2022-08-13T11:18:25.000000Z",
+                        "updated_at": "2022-08-13T11:18:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131135,
+                    "name": "Kinyerezi-48",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:50.000000Z",
+                    "updated_at": "2022-07-27T17:46:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "048",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131135,
+                        "created_at": "2022-08-13T11:18:29.000000Z",
+                        "updated_at": "2022-08-13T11:18:29.000000Z"
+                    }
+                },
+                {
+                    "id": 131136,
+                    "name": "Kinyerezi-49",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:52.000000Z",
+                    "updated_at": "2022-07-27T17:46:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "049",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131136,
+                        "created_at": "2022-08-13T11:18:33.000000Z",
+                        "updated_at": "2022-08-13T11:18:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131137,
+                    "name": "Kinyerezi-50",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:54.000000Z",
+                    "updated_at": "2022-07-27T17:46:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "050",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131137,
+                        "created_at": "2022-08-13T11:18:37.000000Z",
+                        "updated_at": "2022-08-13T11:18:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131138,
+                    "name": "Kinyerezi-51",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:56.000000Z",
+                    "updated_at": "2022-07-27T17:46:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "051",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131138,
+                        "created_at": "2022-08-13T11:18:41.000000Z",
+                        "updated_at": "2022-08-13T11:18:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131139,
+                    "name": "Kinyerezi-52",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:46:58.000000Z",
+                    "updated_at": "2022-07-27T17:46:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "052",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131139,
+                        "created_at": "2022-08-13T11:18:45.000000Z",
+                        "updated_at": "2022-08-13T11:18:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131140,
+                    "name": "Kinyerezi-53",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:47:01.000000Z",
+                    "updated_at": "2022-07-27T17:47:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "053",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 109347,
+                        "area_id": 131140,
+                        "created_at": "2022-08-13T11:18:49.000000Z",
+                        "updated_at": "2022-08-13T11:18:49.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 109348,
+            "name": "KWALIMBAGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 98681,
+                "name": "KINYEREZI",
+                "postcode": "12116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        }
+    ]
+}
