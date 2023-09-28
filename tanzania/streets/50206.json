@@ -1,0 +1,844 @@
+{
+    "data": [
+        {
+            "id": 100451,
+            "name": "BUJOMBE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75209,
+                "name": "MWESE",
+                "postcode": "50206",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75203,
+                    "name": "TANGANYIKA DISTRICT COUNCIL",
+                    "postcode": "502",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75202,
+                        "name": "TANGANYIKA",
+                        "postcode": "502",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137109,
+                    "name": "Katente",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:54.000000Z",
+                    "updated_at": "2022-07-29T10:15:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100451,
+                        "area_id": 137109,
+                        "created_at": "2022-08-12T14:42:29.000000Z",
+                        "updated_at": "2022-08-12T14:42:29.000000Z"
+                    }
+                },
+                {
+                    "id": 137110,
+                    "name": "Matimba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:54.000000Z",
+                    "updated_at": "2022-07-29T10:15:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100451,
+                        "area_id": 137110,
+                        "created_at": "2022-08-12T14:42:29.000000Z",
+                        "updated_at": "2022-08-12T14:42:29.000000Z"
+                    }
+                },
+                {
+                    "id": 137111,
+                    "name": "Mabwensofu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:55.000000Z",
+                    "updated_at": "2022-07-29T10:15:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100451,
+                        "area_id": 137111,
+                        "created_at": "2022-08-12T14:42:29.000000Z",
+                        "updated_at": "2022-08-12T14:42:29.000000Z"
+                    }
+                },
+                {
+                    "id": 137112,
+                    "name": "Kasangasi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:55.000000Z",
+                    "updated_at": "2022-07-29T10:15:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100451,
+                        "area_id": 137112,
+                        "created_at": "2022-08-12T14:42:29.000000Z",
+                        "updated_at": "2022-08-12T14:42:29.000000Z"
+                    }
+                },
+                {
+                    "id": 137113,
+                    "name": "Kasunga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:55.000000Z",
+                    "updated_at": "2022-07-29T10:15:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100451,
+                        "area_id": 137113,
+                        "created_at": "2022-08-12T14:42:30.000000Z",
+                        "updated_at": "2022-08-12T14:42:30.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100452,
+            "name": "LUGONESI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75209,
+                "name": "MWESE",
+                "postcode": "50206",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75203,
+                    "name": "TANGANYIKA DISTRICT COUNCIL",
+                    "postcode": "502",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75202,
+                        "name": "TANGANYIKA",
+                        "postcode": "502",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137103,
+                    "name": "Namba 4C",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:53.000000Z",
+                    "updated_at": "2022-07-29T10:15:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100452,
+                        "area_id": 137103,
+                        "created_at": "2022-08-12T14:42:27.000000Z",
+                        "updated_at": "2022-08-12T14:42:27.000000Z"
+                    }
+                },
+                {
+                    "id": 137104,
+                    "name": "Namba 4E",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:53.000000Z",
+                    "updated_at": "2022-07-29T10:15:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100452,
+                        "area_id": 137104,
+                        "created_at": "2022-08-12T14:42:27.000000Z",
+                        "updated_at": "2022-08-12T14:42:27.000000Z"
+                    }
+                },
+                {
+                    "id": 137105,
+                    "name": "Namba 4D",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:53.000000Z",
+                    "updated_at": "2022-07-29T10:15:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100452,
+                        "area_id": 137105,
+                        "created_at": "2022-08-12T14:42:28.000000Z",
+                        "updated_at": "2022-08-12T14:42:28.000000Z"
+                    }
+                },
+                {
+                    "id": 137106,
+                    "name": "Namba 5A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:54.000000Z",
+                    "updated_at": "2022-07-29T10:15:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100452,
+                        "area_id": 137106,
+                        "created_at": "2022-08-12T14:42:28.000000Z",
+                        "updated_at": "2022-08-12T14:42:28.000000Z"
+                    }
+                },
+                {
+                    "id": 137107,
+                    "name": "Namba 4A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:54.000000Z",
+                    "updated_at": "2022-07-29T10:15:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100452,
+                        "area_id": 137107,
+                        "created_at": "2022-08-12T14:42:28.000000Z",
+                        "updated_at": "2022-08-12T14:42:28.000000Z"
+                    }
+                },
+                {
+                    "id": 137108,
+                    "name": "Namba 4B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:54.000000Z",
+                    "updated_at": "2022-07-29T10:15:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100452,
+                        "area_id": 137108,
+                        "created_at": "2022-08-12T14:42:29.000000Z",
+                        "updated_at": "2022-08-12T14:42:29.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100453,
+            "name": "LWEGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75209,
+                "name": "MWESE",
+                "postcode": "50206",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75203,
+                    "name": "TANGANYIKA DISTRICT COUNCIL",
+                    "postcode": "502",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75202,
+                        "name": "TANGANYIKA",
+                        "postcode": "502",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137092,
+                    "name": "Namba 1",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:51.000000Z",
+                    "updated_at": "2022-07-29T10:15:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100453,
+                        "area_id": 137092,
+                        "created_at": "2022-08-12T14:42:24.000000Z",
+                        "updated_at": "2022-08-12T14:42:24.000000Z"
+                    }
+                },
+                {
+                    "id": 137093,
+                    "name": "Igalula",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:52.000000Z",
+                    "updated_at": "2022-07-29T10:15:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100453,
+                        "area_id": 137093,
+                        "created_at": "2022-08-12T14:42:25.000000Z",
+                        "updated_at": "2022-08-12T14:42:25.000000Z"
+                    }
+                },
+                {
+                    "id": 137094,
+                    "name": "Namba 7A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:52.000000Z",
+                    "updated_at": "2022-07-29T10:15:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100453,
+                        "area_id": 137094,
+                        "created_at": "2022-08-12T14:42:25.000000Z",
+                        "updated_at": "2022-08-12T14:42:25.000000Z"
+                    }
+                },
+                {
+                    "id": 137095,
+                    "name": "Namba 7B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:52.000000Z",
+                    "updated_at": "2022-07-29T10:15:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100453,
+                        "area_id": 137095,
+                        "created_at": "2022-08-12T14:42:25.000000Z",
+                        "updated_at": "2022-08-12T14:42:25.000000Z"
+                    }
+                },
+                {
+                    "id": 137096,
+                    "name": "Namba 8A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:52.000000Z",
+                    "updated_at": "2022-07-29T10:15:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100453,
+                        "area_id": 137096,
+                        "created_at": "2022-08-12T14:42:25.000000Z",
+                        "updated_at": "2022-08-12T14:42:25.000000Z"
+                    }
+                },
+                {
+                    "id": 137097,
+                    "name": "Namba 8B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:52.000000Z",
+                    "updated_at": "2022-07-29T10:15:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100453,
+                        "area_id": 137097,
+                        "created_at": "2022-08-12T14:42:25.000000Z",
+                        "updated_at": "2022-08-12T14:42:25.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100450,
+            "name": "MWESE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75209,
+                "name": "MWESE",
+                "postcode": "50206",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75203,
+                    "name": "TANGANYIKA DISTRICT COUNCIL",
+                    "postcode": "502",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75202,
+                        "name": "TANGANYIKA",
+                        "postcode": "502",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137098,
+                    "name": "Namba 3C",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:52.000000Z",
+                    "updated_at": "2022-07-29T10:15:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100450,
+                        "area_id": 137098,
+                        "created_at": "2022-08-12T14:42:26.000000Z",
+                        "updated_at": "2022-08-12T14:42:26.000000Z"
+                    }
+                },
+                {
+                    "id": 137099,
+                    "name": "Namba 3B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:52.000000Z",
+                    "updated_at": "2022-07-29T10:15:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100450,
+                        "area_id": 137099,
+                        "created_at": "2022-08-12T14:42:26.000000Z",
+                        "updated_at": "2022-08-12T14:42:26.000000Z"
+                    }
+                },
+                {
+                    "id": 137100,
+                    "name": "Namba 3A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:53.000000Z",
+                    "updated_at": "2022-07-29T10:15:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100450,
+                        "area_id": 137100,
+                        "created_at": "2022-08-12T14:42:26.000000Z",
+                        "updated_at": "2022-08-12T14:42:26.000000Z"
+                    }
+                },
+                {
+                    "id": 137101,
+                    "name": "Namba 3D",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:53.000000Z",
+                    "updated_at": "2022-07-29T10:15:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100450,
+                        "area_id": 137101,
+                        "created_at": "2022-08-12T14:42:27.000000Z",
+                        "updated_at": "2022-08-12T14:42:27.000000Z"
+                    }
+                },
+                {
+                    "id": 137102,
+                    "name": "Namba 2",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:15:53.000000Z",
+                    "updated_at": "2022-07-29T10:15:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100450,
+                        "area_id": 137102,
+                        "created_at": "2022-08-12T14:42:27.000000Z",
+                        "updated_at": "2022-08-12T14:42:27.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
