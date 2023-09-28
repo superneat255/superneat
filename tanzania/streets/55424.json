@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "id": 80120,
+            "name": "ILANGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80116,
+                "name": "KILESHA",
+                "postcode": "55424",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 79985,
+                    "name": "KALAMBO DISTRICT COUNCIL",
+                    "postcode": "554",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 79984,
+                        "name": "KALAMBO",
+                        "postcode": "554",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 79504,
+                            "name": "RUKWA",
+                            "postcode": "55",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 174959,
+                    "name": "Kalambalile",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:41.000000Z",
+                    "updated_at": "2022-08-08T14:35:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80120,
+                        "area_id": 174959,
+                        "created_at": "2022-08-08T14:48:38.000000Z",
+                        "updated_at": "2022-08-08T14:48:38.000000Z"
+                    }
+                },
+                {
+                    "id": 174960,
+                    "name": "Kasa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:41.000000Z",
+                    "updated_at": "2022-08-08T14:35:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80120,
+                        "area_id": 174960,
+                        "created_at": "2022-08-08T14:48:38.000000Z",
+                        "updated_at": "2022-08-08T14:48:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80119,
+            "name": "ITEKESHA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80116,
+                "name": "KILESHA",
+                "postcode": "55424",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 79985,
+                    "name": "KALAMBO DISTRICT COUNCIL",
+                    "postcode": "554",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 79984,
+                        "name": "KALAMBO",
+                        "postcode": "554",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 79504,
+                            "name": "RUKWA",
+                            "postcode": "55",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 174951,
+                    "name": "Kagera",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:39.000000Z",
+                    "updated_at": "2022-08-08T14:35:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80119,
+                        "area_id": 174951,
+                        "created_at": "2022-08-08T14:48:37.000000Z",
+                        "updated_at": "2022-08-08T14:48:37.000000Z"
+                    }
+                },
+                {
+                    "id": 174952,
+                    "name": "Itekesha(Itekesha\"A\")",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:39.000000Z",
+                    "updated_at": "2022-08-08T14:35:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80119,
+                        "area_id": 174952,
+                        "created_at": "2022-08-08T14:48:37.000000Z",
+                        "updated_at": "2022-08-08T14:48:37.000000Z"
+                    }
+                },
+                {
+                    "id": 174953,
+                    "name": "Madebe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:39.000000Z",
+                    "updated_at": "2022-08-08T14:35:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80119,
+                        "area_id": 174953,
+                        "created_at": "2022-08-08T14:48:37.000000Z",
+                        "updated_at": "2022-08-08T14:48:37.000000Z"
+                    }
+                },
+                {
+                    "id": 174954,
+                    "name": "Mizumbi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:40.000000Z",
+                    "updated_at": "2022-08-08T14:35:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80119,
+                        "area_id": 174954,
+                        "created_at": "2022-08-08T14:48:37.000000Z",
+                        "updated_at": "2022-08-08T14:48:37.000000Z"
+                    }
+                },
+                {
+                    "id": 174955,
+                    "name": "Seketa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:40.000000Z",
+                    "updated_at": "2022-08-08T14:35:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80119,
+                        "area_id": 174955,
+                        "created_at": "2022-08-08T14:48:38.000000Z",
+                        "updated_at": "2022-08-08T14:48:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80118,
+            "name": "KAMBO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80116,
+                "name": "KILESHA",
+                "postcode": "55424",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 79985,
+                    "name": "KALAMBO DISTRICT COUNCIL",
+                    "postcode": "554",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 79984,
+                        "name": "KALAMBO",
+                        "postcode": "554",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 79504,
+                            "name": "RUKWA",
+                            "postcode": "55",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 174956,
+                    "name": "Kaloleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:40.000000Z",
+                    "updated_at": "2022-08-08T14:35:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80118,
+                        "area_id": 174956,
+                        "created_at": "2022-08-08T14:48:38.000000Z",
+                        "updated_at": "2022-08-08T14:48:38.000000Z"
+                    }
+                },
+                {
+                    "id": 174957,
+                    "name": "Kilambo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:40.000000Z",
+                    "updated_at": "2022-08-08T14:35:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80118,
+                        "area_id": 174957,
+                        "created_at": "2022-08-08T14:48:38.000000Z",
+                        "updated_at": "2022-08-08T14:48:38.000000Z"
+                    }
+                },
+                {
+                    "id": 174958,
+                    "name": "Milaza",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:41.000000Z",
+                    "updated_at": "2022-08-08T14:35:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80118,
+                        "area_id": 174958,
+                        "created_at": "2022-08-08T14:48:38.000000Z",
+                        "updated_at": "2022-08-08T14:48:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80121,
+            "name": "KIFONE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80116,
+                "name": "KILESHA",
+                "postcode": "55424",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 79985,
+                    "name": "KALAMBO DISTRICT COUNCIL",
+                    "postcode": "554",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 79984,
+                        "name": "KALAMBO",
+                        "postcode": "554",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 79504,
+                            "name": "RUKWA",
+                            "postcode": "55",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 174961,
+                    "name": "Kifone",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:41.000000Z",
+                    "updated_at": "2022-08-08T14:35:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80121,
+                        "area_id": 174961,
+                        "created_at": "2022-08-08T14:48:39.000000Z",
+                        "updated_at": "2022-08-08T14:48:39.000000Z"
+                    }
+                },
+                {
+                    "id": 174962,
+                    "name": "Lemi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:41.000000Z",
+                    "updated_at": "2022-08-08T14:35:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80121,
+                        "area_id": 174962,
+                        "created_at": "2022-08-08T14:48:39.000000Z",
+                        "updated_at": "2022-08-08T14:48:39.000000Z"
+                    }
+                },
+                {
+                    "id": 174963,
+                    "name": "Sundu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:41.000000Z",
+                    "updated_at": "2022-08-08T14:35:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80121,
+                        "area_id": 174963,
+                        "created_at": "2022-08-08T14:48:39.000000Z",
+                        "updated_at": "2022-08-08T14:48:39.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 80117,
+            "name": "KILESHA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 80116,
+                "name": "KILESHA",
+                "postcode": "55424",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 79985,
+                    "name": "KALAMBO DISTRICT COUNCIL",
+                    "postcode": "554",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 79984,
+                        "name": "KALAMBO",
+                        "postcode": "554",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 79504,
+                            "name": "RUKWA",
+                            "postcode": "55",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 174949,
+                    "name": "Kakoma",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:39.000000Z",
+                    "updated_at": "2022-08-08T14:35:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80117,
+                        "area_id": 174949,
+                        "created_at": "2022-08-08T14:48:36.000000Z",
+                        "updated_at": "2022-08-08T14:48:36.000000Z"
+                    }
+                },
+                {
+                    "id": 174950,
+                    "name": "Kilesha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:35:39.000000Z",
+                    "updated_at": "2022-08-08T14:35:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 80117,
+                        "area_id": 174950,
+                        "created_at": "2022-08-08T14:48:36.000000Z",
+                        "updated_at": "2022-08-08T14:48:36.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
