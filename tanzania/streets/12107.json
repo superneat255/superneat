@@ -1,0 +1,4434 @@
+{
+    "data": [
+        {
+            "id": 72226,
+            "name": "MARKAZ",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72225,
+                "name": "UKONGA",
+                "postcode": "12107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131821,
+                    "name": "Markaz-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:35.000000Z",
+                    "updated_at": "2022-07-27T17:55:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131821,
+                        "created_at": "2022-07-27T17:55:35.000000Z",
+                        "updated_at": "2022-07-27T17:55:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131822,
+                    "name": "Markaz-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:35.000000Z",
+                    "updated_at": "2022-07-27T17:55:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131822,
+                        "created_at": "2022-07-27T17:55:35.000000Z",
+                        "updated_at": "2022-07-27T17:55:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131823,
+                    "name": "Markaz-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:35.000000Z",
+                    "updated_at": "2022-07-27T17:55:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131823,
+                        "created_at": "2022-07-27T17:55:35.000000Z",
+                        "updated_at": "2022-07-27T17:55:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131824,
+                    "name": "Markaz-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:35.000000Z",
+                    "updated_at": "2022-07-27T17:55:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131824,
+                        "created_at": "2022-07-27T17:55:35.000000Z",
+                        "updated_at": "2022-07-27T17:55:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131825,
+                    "name": "Markaz-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:36.000000Z",
+                    "updated_at": "2022-07-27T17:55:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131825,
+                        "created_at": "2022-07-27T17:55:36.000000Z",
+                        "updated_at": "2022-07-27T17:55:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131826,
+                    "name": "Markaz-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:36.000000Z",
+                    "updated_at": "2022-07-27T17:55:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131826,
+                        "created_at": "2022-07-27T17:55:36.000000Z",
+                        "updated_at": "2022-07-27T17:55:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131827,
+                    "name": "Markaz-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:36.000000Z",
+                    "updated_at": "2022-07-27T17:55:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131827,
+                        "created_at": "2022-07-27T17:55:36.000000Z",
+                        "updated_at": "2022-07-27T17:55:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131828,
+                    "name": "Markaz-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:36.000000Z",
+                    "updated_at": "2022-07-27T17:55:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131828,
+                        "created_at": "2022-07-27T17:55:36.000000Z",
+                        "updated_at": "2022-07-27T17:55:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131829,
+                    "name": "Markaz-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:37.000000Z",
+                    "updated_at": "2022-07-27T17:55:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131829,
+                        "created_at": "2022-07-27T17:55:37.000000Z",
+                        "updated_at": "2022-07-27T17:55:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131830,
+                    "name": "Markaz-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:37.000000Z",
+                    "updated_at": "2022-07-27T17:55:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131830,
+                        "created_at": "2022-07-27T17:55:37.000000Z",
+                        "updated_at": "2022-07-27T17:55:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131831,
+                    "name": "Markaz-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:37.000000Z",
+                    "updated_at": "2022-07-27T17:55:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131831,
+                        "created_at": "2022-07-27T17:55:37.000000Z",
+                        "updated_at": "2022-07-27T17:55:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131832,
+                    "name": "Markaz-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:37.000000Z",
+                    "updated_at": "2022-07-27T17:55:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131832,
+                        "created_at": "2022-07-27T17:55:37.000000Z",
+                        "updated_at": "2022-07-27T17:55:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131833,
+                    "name": "Markaz-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:38.000000Z",
+                    "updated_at": "2022-07-27T17:55:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131833,
+                        "created_at": "2022-07-27T17:55:38.000000Z",
+                        "updated_at": "2022-07-27T17:55:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131834,
+                    "name": "Markaz-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:38.000000Z",
+                    "updated_at": "2022-07-27T17:55:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131834,
+                        "created_at": "2022-07-27T17:55:38.000000Z",
+                        "updated_at": "2022-07-27T17:55:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131835,
+                    "name": "Markaz-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:38.000000Z",
+                    "updated_at": "2022-07-27T17:55:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131835,
+                        "created_at": "2022-07-27T17:55:38.000000Z",
+                        "updated_at": "2022-07-27T17:55:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131836,
+                    "name": "Markaz-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:39.000000Z",
+                    "updated_at": "2022-07-27T17:55:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131836,
+                        "created_at": "2022-07-27T17:55:39.000000Z",
+                        "updated_at": "2022-07-27T17:55:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131837,
+                    "name": "Markaz-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:39.000000Z",
+                    "updated_at": "2022-07-27T17:55:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131837,
+                        "created_at": "2022-07-27T17:55:39.000000Z",
+                        "updated_at": "2022-07-27T17:55:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131838,
+                    "name": "Markaz-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:39.000000Z",
+                    "updated_at": "2022-07-27T17:55:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72226,
+                        "area_id": 131838,
+                        "created_at": "2022-07-27T17:55:39.000000Z",
+                        "updated_at": "2022-07-27T17:55:39.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72227,
+            "name": "MAZIZINI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72225,
+                "name": "UKONGA",
+                "postcode": "12107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131742,
+                    "name": "Mazizini-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:28.000000Z",
+                    "updated_at": "2022-07-27T17:54:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131742,
+                        "created_at": "2022-07-27T17:54:28.000000Z",
+                        "updated_at": "2022-07-27T17:54:28.000000Z"
+                    }
+                },
+                {
+                    "id": 131743,
+                    "name": "Mazizini-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:29.000000Z",
+                    "updated_at": "2022-07-27T17:54:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131743,
+                        "created_at": "2022-07-27T17:54:29.000000Z",
+                        "updated_at": "2022-07-27T17:54:29.000000Z"
+                    }
+                },
+                {
+                    "id": 131744,
+                    "name": "Mazizini-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:29.000000Z",
+                    "updated_at": "2022-07-27T17:54:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131744,
+                        "created_at": "2022-07-27T17:54:29.000000Z",
+                        "updated_at": "2022-07-27T17:54:29.000000Z"
+                    }
+                },
+                {
+                    "id": 131745,
+                    "name": "Mazizini-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:29.000000Z",
+                    "updated_at": "2022-07-27T17:54:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131745,
+                        "created_at": "2022-07-27T17:54:29.000000Z",
+                        "updated_at": "2022-07-27T17:54:29.000000Z"
+                    }
+                },
+                {
+                    "id": 131746,
+                    "name": "Mazizini-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:30.000000Z",
+                    "updated_at": "2022-07-27T17:54:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131746,
+                        "created_at": "2022-07-27T17:54:30.000000Z",
+                        "updated_at": "2022-07-27T17:54:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131747,
+                    "name": "Mazizini-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:30.000000Z",
+                    "updated_at": "2022-07-27T17:54:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131747,
+                        "created_at": "2022-07-27T17:54:30.000000Z",
+                        "updated_at": "2022-07-27T17:54:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131748,
+                    "name": "Mazizini-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:30.000000Z",
+                    "updated_at": "2022-07-27T17:54:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131748,
+                        "created_at": "2022-07-27T17:54:30.000000Z",
+                        "updated_at": "2022-07-27T17:54:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131749,
+                    "name": "Mazizini-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:31.000000Z",
+                    "updated_at": "2022-07-27T17:54:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131749,
+                        "created_at": "2022-07-27T17:54:31.000000Z",
+                        "updated_at": "2022-07-27T17:54:31.000000Z"
+                    }
+                },
+                {
+                    "id": 131750,
+                    "name": "Mazizini-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:31.000000Z",
+                    "updated_at": "2022-07-27T17:54:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131750,
+                        "created_at": "2022-07-27T17:54:31.000000Z",
+                        "updated_at": "2022-07-27T17:54:31.000000Z"
+                    }
+                },
+                {
+                    "id": 131751,
+                    "name": "Mazizini-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:32.000000Z",
+                    "updated_at": "2022-07-27T17:54:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131751,
+                        "created_at": "2022-07-27T17:54:32.000000Z",
+                        "updated_at": "2022-07-27T17:54:32.000000Z"
+                    }
+                },
+                {
+                    "id": 131752,
+                    "name": "Mazizini-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:32.000000Z",
+                    "updated_at": "2022-07-27T17:54:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131752,
+                        "created_at": "2022-07-27T17:54:32.000000Z",
+                        "updated_at": "2022-07-27T17:54:32.000000Z"
+                    }
+                },
+                {
+                    "id": 131753,
+                    "name": "Mazizini-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:33.000000Z",
+                    "updated_at": "2022-07-27T17:54:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131753,
+                        "created_at": "2022-07-27T17:54:33.000000Z",
+                        "updated_at": "2022-07-27T17:54:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131754,
+                    "name": "Mazizini-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:33.000000Z",
+                    "updated_at": "2022-07-27T17:54:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131754,
+                        "created_at": "2022-07-27T17:54:33.000000Z",
+                        "updated_at": "2022-07-27T17:54:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131755,
+                    "name": "Mazizini-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:34.000000Z",
+                    "updated_at": "2022-07-27T17:54:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131755,
+                        "created_at": "2022-07-27T17:54:34.000000Z",
+                        "updated_at": "2022-07-27T17:54:34.000000Z"
+                    }
+                },
+                {
+                    "id": 131756,
+                    "name": "Mazizini-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:34.000000Z",
+                    "updated_at": "2022-07-27T17:54:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131756,
+                        "created_at": "2022-07-27T17:54:34.000000Z",
+                        "updated_at": "2022-07-27T17:54:34.000000Z"
+                    }
+                },
+                {
+                    "id": 131757,
+                    "name": "Mazizini-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:35.000000Z",
+                    "updated_at": "2022-07-27T17:54:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131757,
+                        "created_at": "2022-07-27T17:54:35.000000Z",
+                        "updated_at": "2022-07-27T17:54:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131758,
+                    "name": "Mazizini-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:36.000000Z",
+                    "updated_at": "2022-07-27T17:54:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131758,
+                        "created_at": "2022-07-27T17:54:36.000000Z",
+                        "updated_at": "2022-07-27T17:54:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131759,
+                    "name": "Mazizini-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:36.000000Z",
+                    "updated_at": "2022-07-27T17:54:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131759,
+                        "created_at": "2022-07-27T17:54:36.000000Z",
+                        "updated_at": "2022-07-27T17:54:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131760,
+                    "name": "Mazizini-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:37.000000Z",
+                    "updated_at": "2022-07-27T17:54:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131760,
+                        "created_at": "2022-07-27T17:54:37.000000Z",
+                        "updated_at": "2022-07-27T17:54:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131761,
+                    "name": "Mazizini-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:38.000000Z",
+                    "updated_at": "2022-07-27T17:54:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131761,
+                        "created_at": "2022-07-27T17:54:38.000000Z",
+                        "updated_at": "2022-07-27T17:54:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131762,
+                    "name": "Mazizini-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:38.000000Z",
+                    "updated_at": "2022-07-27T17:54:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131762,
+                        "created_at": "2022-07-27T17:54:38.000000Z",
+                        "updated_at": "2022-07-27T17:54:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131763,
+                    "name": "Mazizini-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:39.000000Z",
+                    "updated_at": "2022-07-27T17:54:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131763,
+                        "created_at": "2022-07-27T17:54:39.000000Z",
+                        "updated_at": "2022-07-27T17:54:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131764,
+                    "name": "Mazizini-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:40.000000Z",
+                    "updated_at": "2022-07-27T17:54:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131764,
+                        "created_at": "2022-07-27T17:54:40.000000Z",
+                        "updated_at": "2022-07-27T17:54:40.000000Z"
+                    }
+                },
+                {
+                    "id": 131765,
+                    "name": "Mazizini-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:40.000000Z",
+                    "updated_at": "2022-07-27T17:54:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131765,
+                        "created_at": "2022-07-27T17:54:40.000000Z",
+                        "updated_at": "2022-07-27T17:54:40.000000Z"
+                    }
+                },
+                {
+                    "id": 131766,
+                    "name": "Mazizini-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:41.000000Z",
+                    "updated_at": "2022-07-27T17:54:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131766,
+                        "created_at": "2022-07-27T17:54:41.000000Z",
+                        "updated_at": "2022-07-27T17:54:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131767,
+                    "name": "Mazizini-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:42.000000Z",
+                    "updated_at": "2022-07-27T17:54:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131767,
+                        "created_at": "2022-07-27T17:54:42.000000Z",
+                        "updated_at": "2022-07-27T17:54:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131768,
+                    "name": "Mazizini-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:42.000000Z",
+                    "updated_at": "2022-07-27T17:54:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131768,
+                        "created_at": "2022-07-27T17:54:42.000000Z",
+                        "updated_at": "2022-07-27T17:54:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131769,
+                    "name": "Mazizini-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:43.000000Z",
+                    "updated_at": "2022-07-27T17:54:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131769,
+                        "created_at": "2022-07-27T17:54:43.000000Z",
+                        "updated_at": "2022-07-27T17:54:43.000000Z"
+                    }
+                },
+                {
+                    "id": 131770,
+                    "name": "Mazizini-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:44.000000Z",
+                    "updated_at": "2022-07-27T17:54:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131770,
+                        "created_at": "2022-07-27T17:54:44.000000Z",
+                        "updated_at": "2022-07-27T17:54:44.000000Z"
+                    }
+                },
+                {
+                    "id": 131771,
+                    "name": "Mazizini-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:45.000000Z",
+                    "updated_at": "2022-07-27T17:54:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131771,
+                        "created_at": "2022-07-27T17:54:45.000000Z",
+                        "updated_at": "2022-07-27T17:54:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131772,
+                    "name": "Mazizini-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:45.000000Z",
+                    "updated_at": "2022-07-27T17:54:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131772,
+                        "created_at": "2022-07-27T17:54:45.000000Z",
+                        "updated_at": "2022-07-27T17:54:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131773,
+                    "name": "Mazizini-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:46.000000Z",
+                    "updated_at": "2022-07-27T17:54:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131773,
+                        "created_at": "2022-07-27T17:54:46.000000Z",
+                        "updated_at": "2022-07-27T17:54:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131774,
+                    "name": "Mazizini-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:47.000000Z",
+                    "updated_at": "2022-07-27T17:54:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131774,
+                        "created_at": "2022-07-27T17:54:47.000000Z",
+                        "updated_at": "2022-07-27T17:54:47.000000Z"
+                    }
+                },
+                {
+                    "id": 131775,
+                    "name": "Mazizini-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:48.000000Z",
+                    "updated_at": "2022-07-27T17:54:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131775,
+                        "created_at": "2022-07-27T17:54:48.000000Z",
+                        "updated_at": "2022-07-27T17:54:48.000000Z"
+                    }
+                },
+                {
+                    "id": 131776,
+                    "name": "Mazizini-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:49.000000Z",
+                    "updated_at": "2022-07-27T17:54:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131776,
+                        "created_at": "2022-07-27T17:54:49.000000Z",
+                        "updated_at": "2022-07-27T17:54:49.000000Z"
+                    }
+                },
+                {
+                    "id": 131777,
+                    "name": "Mazizini-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:50.000000Z",
+                    "updated_at": "2022-07-27T17:54:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131777,
+                        "created_at": "2022-07-27T17:54:50.000000Z",
+                        "updated_at": "2022-07-27T17:54:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131778,
+                    "name": "Mazizini-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:50.000000Z",
+                    "updated_at": "2022-07-27T17:54:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131778,
+                        "created_at": "2022-07-27T17:54:50.000000Z",
+                        "updated_at": "2022-07-27T17:54:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131779,
+                    "name": "Mazizini-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:51.000000Z",
+                    "updated_at": "2022-07-27T17:54:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131779,
+                        "created_at": "2022-07-27T17:54:51.000000Z",
+                        "updated_at": "2022-07-27T17:54:51.000000Z"
+                    }
+                },
+                {
+                    "id": 131780,
+                    "name": "Mazizini-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:52.000000Z",
+                    "updated_at": "2022-07-27T17:54:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131780,
+                        "created_at": "2022-07-27T17:54:52.000000Z",
+                        "updated_at": "2022-07-27T17:54:52.000000Z"
+                    }
+                },
+                {
+                    "id": 131781,
+                    "name": "Mazizini-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:53.000000Z",
+                    "updated_at": "2022-07-27T17:54:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131781,
+                        "created_at": "2022-07-27T17:54:53.000000Z",
+                        "updated_at": "2022-07-27T17:54:53.000000Z"
+                    }
+                },
+                {
+                    "id": 131782,
+                    "name": "Mazizini-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:54.000000Z",
+                    "updated_at": "2022-07-27T17:54:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131782,
+                        "created_at": "2022-07-27T17:54:54.000000Z",
+                        "updated_at": "2022-07-27T17:54:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131783,
+                    "name": "Mazizini-42",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:55.000000Z",
+                    "updated_at": "2022-07-27T17:54:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "042",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131783,
+                        "created_at": "2022-07-27T17:54:55.000000Z",
+                        "updated_at": "2022-07-27T17:54:55.000000Z"
+                    }
+                },
+                {
+                    "id": 131784,
+                    "name": "Mazizini-43",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:56.000000Z",
+                    "updated_at": "2022-07-27T17:54:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "043",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131784,
+                        "created_at": "2022-07-27T17:54:56.000000Z",
+                        "updated_at": "2022-07-27T17:54:56.000000Z"
+                    }
+                },
+                {
+                    "id": 131785,
+                    "name": "Mazizini-44",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:57.000000Z",
+                    "updated_at": "2022-07-27T17:54:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "044",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131785,
+                        "created_at": "2022-07-27T17:54:57.000000Z",
+                        "updated_at": "2022-07-27T17:54:57.000000Z"
+                    }
+                },
+                {
+                    "id": 131786,
+                    "name": "Mazizini-45",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:58.000000Z",
+                    "updated_at": "2022-07-27T17:54:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "045",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131786,
+                        "created_at": "2022-07-27T17:54:58.000000Z",
+                        "updated_at": "2022-07-27T17:54:58.000000Z"
+                    }
+                },
+                {
+                    "id": 131787,
+                    "name": "Mazizini-46",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:59.000000Z",
+                    "updated_at": "2022-07-27T17:54:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "046",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131787,
+                        "created_at": "2022-07-27T17:54:59.000000Z",
+                        "updated_at": "2022-07-27T17:54:59.000000Z"
+                    }
+                },
+                {
+                    "id": 131788,
+                    "name": "Mazizini-47",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:00.000000Z",
+                    "updated_at": "2022-07-27T17:55:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "047",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131788,
+                        "created_at": "2022-07-27T17:55:00.000000Z",
+                        "updated_at": "2022-07-27T17:55:00.000000Z"
+                    }
+                },
+                {
+                    "id": 131789,
+                    "name": "Mazizini-48",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:01.000000Z",
+                    "updated_at": "2022-07-27T17:55:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "048",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131789,
+                        "created_at": "2022-07-27T17:55:01.000000Z",
+                        "updated_at": "2022-07-27T17:55:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131790,
+                    "name": "Mazizini-49",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:01.000000Z",
+                    "updated_at": "2022-07-27T17:55:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "049",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131790,
+                        "created_at": "2022-07-27T17:55:01.000000Z",
+                        "updated_at": "2022-07-27T17:55:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131791,
+                    "name": "Mazizini-50",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:02.000000Z",
+                    "updated_at": "2022-07-27T17:55:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "050",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131791,
+                        "created_at": "2022-07-27T17:55:02.000000Z",
+                        "updated_at": "2022-07-27T17:55:02.000000Z"
+                    }
+                },
+                {
+                    "id": 131792,
+                    "name": "Mazizini-51",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:03.000000Z",
+                    "updated_at": "2022-07-27T17:55:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "051",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131792,
+                        "created_at": "2022-07-27T17:55:03.000000Z",
+                        "updated_at": "2022-07-27T17:55:03.000000Z"
+                    }
+                },
+                {
+                    "id": 131793,
+                    "name": "Mazizini-52",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:04.000000Z",
+                    "updated_at": "2022-07-27T17:55:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "052",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131793,
+                        "created_at": "2022-07-27T17:55:04.000000Z",
+                        "updated_at": "2022-07-27T17:55:04.000000Z"
+                    }
+                },
+                {
+                    "id": 131794,
+                    "name": "Mazizini-53",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:05.000000Z",
+                    "updated_at": "2022-07-27T17:55:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "053",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131794,
+                        "created_at": "2022-07-27T17:55:05.000000Z",
+                        "updated_at": "2022-07-27T17:55:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131795,
+                    "name": "Mazizini-54",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:06.000000Z",
+                    "updated_at": "2022-07-27T17:55:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "054",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131795,
+                        "created_at": "2022-07-27T17:55:06.000000Z",
+                        "updated_at": "2022-07-27T17:55:06.000000Z"
+                    }
+                },
+                {
+                    "id": 131796,
+                    "name": "Mazizini-55",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:07.000000Z",
+                    "updated_at": "2022-07-27T17:55:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "055",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131796,
+                        "created_at": "2022-07-27T17:55:07.000000Z",
+                        "updated_at": "2022-07-27T17:55:07.000000Z"
+                    }
+                },
+                {
+                    "id": 131797,
+                    "name": "Mazizini-56",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:08.000000Z",
+                    "updated_at": "2022-07-27T17:55:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "056",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131797,
+                        "created_at": "2022-07-27T17:55:08.000000Z",
+                        "updated_at": "2022-07-27T17:55:08.000000Z"
+                    }
+                },
+                {
+                    "id": 131798,
+                    "name": "Mazizini-57",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:09.000000Z",
+                    "updated_at": "2022-07-27T17:55:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "057",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131798,
+                        "created_at": "2022-07-27T17:55:09.000000Z",
+                        "updated_at": "2022-07-27T17:55:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131799,
+                    "name": "Mazizini-58",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:10.000000Z",
+                    "updated_at": "2022-07-27T17:55:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "058",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131799,
+                        "created_at": "2022-07-27T17:55:10.000000Z",
+                        "updated_at": "2022-07-27T17:55:10.000000Z"
+                    }
+                },
+                {
+                    "id": 131800,
+                    "name": "Mazizini-59",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:11.000000Z",
+                    "updated_at": "2022-07-27T17:55:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "059",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131800,
+                        "created_at": "2022-07-27T17:55:11.000000Z",
+                        "updated_at": "2022-07-27T17:55:11.000000Z"
+                    }
+                },
+                {
+                    "id": 131801,
+                    "name": "Mazizini-60",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:12.000000Z",
+                    "updated_at": "2022-07-27T17:55:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "060",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131801,
+                        "created_at": "2022-07-27T17:55:12.000000Z",
+                        "updated_at": "2022-07-27T17:55:12.000000Z"
+                    }
+                },
+                {
+                    "id": 131802,
+                    "name": "Mazizini-61",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:14.000000Z",
+                    "updated_at": "2022-07-27T17:55:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "061",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131802,
+                        "created_at": "2022-07-27T17:55:14.000000Z",
+                        "updated_at": "2022-07-27T17:55:14.000000Z"
+                    }
+                },
+                {
+                    "id": 131803,
+                    "name": "Mazizini-62",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:15.000000Z",
+                    "updated_at": "2022-07-27T17:55:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "062",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131803,
+                        "created_at": "2022-07-27T17:55:15.000000Z",
+                        "updated_at": "2022-07-27T17:55:15.000000Z"
+                    }
+                },
+                {
+                    "id": 131804,
+                    "name": "Mazizini-63",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:16.000000Z",
+                    "updated_at": "2022-07-27T17:55:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "063",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131804,
+                        "created_at": "2022-07-27T17:55:16.000000Z",
+                        "updated_at": "2022-07-27T17:55:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131805,
+                    "name": "Mazizini-64",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:17.000000Z",
+                    "updated_at": "2022-07-27T17:55:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "064",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131805,
+                        "created_at": "2022-07-27T17:55:17.000000Z",
+                        "updated_at": "2022-07-27T17:55:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131806,
+                    "name": "Mazizini-65",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:18.000000Z",
+                    "updated_at": "2022-07-27T17:55:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "065",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131806,
+                        "created_at": "2022-07-27T17:55:18.000000Z",
+                        "updated_at": "2022-07-27T17:55:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131807,
+                    "name": "Mazizini-66",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:19.000000Z",
+                    "updated_at": "2022-07-27T17:55:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "066",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131807,
+                        "created_at": "2022-07-27T17:55:19.000000Z",
+                        "updated_at": "2022-07-27T17:55:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131808,
+                    "name": "Mazizini-67",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:21.000000Z",
+                    "updated_at": "2022-07-27T17:55:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "067",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131808,
+                        "created_at": "2022-07-27T17:55:21.000000Z",
+                        "updated_at": "2022-07-27T17:55:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131809,
+                    "name": "Mazizini-68",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:22.000000Z",
+                    "updated_at": "2022-07-27T17:55:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "068",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131809,
+                        "created_at": "2022-07-27T17:55:22.000000Z",
+                        "updated_at": "2022-07-27T17:55:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131810,
+                    "name": "Mazizini-69",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:23.000000Z",
+                    "updated_at": "2022-07-27T17:55:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "069",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131810,
+                        "created_at": "2022-07-27T17:55:23.000000Z",
+                        "updated_at": "2022-07-27T17:55:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131811,
+                    "name": "Mazizini-70",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:24.000000Z",
+                    "updated_at": "2022-07-27T17:55:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "070",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131811,
+                        "created_at": "2022-07-27T17:55:24.000000Z",
+                        "updated_at": "2022-07-27T17:55:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131812,
+                    "name": "Mazizini-71",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:25.000000Z",
+                    "updated_at": "2022-07-27T17:55:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "071",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131812,
+                        "created_at": "2022-07-27T17:55:25.000000Z",
+                        "updated_at": "2022-07-27T17:55:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131813,
+                    "name": "Mazizini-72",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:26.000000Z",
+                    "updated_at": "2022-07-27T17:55:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "072",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131813,
+                        "created_at": "2022-07-27T17:55:26.000000Z",
+                        "updated_at": "2022-07-27T17:55:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131814,
+                    "name": "Mazizini-73",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:27.000000Z",
+                    "updated_at": "2022-07-27T17:55:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "073",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131814,
+                        "created_at": "2022-07-27T17:55:27.000000Z",
+                        "updated_at": "2022-07-27T17:55:27.000000Z"
+                    }
+                },
+                {
+                    "id": 131815,
+                    "name": "Mazizini-74",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:28.000000Z",
+                    "updated_at": "2022-07-27T17:55:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "074",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131815,
+                        "created_at": "2022-07-27T17:55:28.000000Z",
+                        "updated_at": "2022-07-27T17:55:28.000000Z"
+                    }
+                },
+                {
+                    "id": 131816,
+                    "name": "Mazizini-75",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:29.000000Z",
+                    "updated_at": "2022-07-27T17:55:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "075",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131816,
+                        "created_at": "2022-07-27T17:55:29.000000Z",
+                        "updated_at": "2022-07-27T17:55:29.000000Z"
+                    }
+                },
+                {
+                    "id": 131817,
+                    "name": "Mazizini-76",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:30.000000Z",
+                    "updated_at": "2022-07-27T17:55:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "076",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131817,
+                        "created_at": "2022-07-27T17:55:30.000000Z",
+                        "updated_at": "2022-07-27T17:55:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131818,
+                    "name": "Mazizini-77",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:31.000000Z",
+                    "updated_at": "2022-07-27T17:55:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "077",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131818,
+                        "created_at": "2022-07-27T17:55:31.000000Z",
+                        "updated_at": "2022-07-27T17:55:31.000000Z"
+                    }
+                },
+                {
+                    "id": 131819,
+                    "name": "Mazizini-78",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:32.000000Z",
+                    "updated_at": "2022-07-27T17:55:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "078",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131819,
+                        "created_at": "2022-07-27T17:55:32.000000Z",
+                        "updated_at": "2022-07-27T17:55:32.000000Z"
+                    }
+                },
+                {
+                    "id": 131820,
+                    "name": "Mazizini-79",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:34.000000Z",
+                    "updated_at": "2022-07-27T17:55:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "079",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72227,
+                        "area_id": 131820,
+                        "created_at": "2022-07-27T17:55:34.000000Z",
+                        "updated_at": "2022-07-27T17:55:34.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 98735,
+            "name": "MONGOLANDEGE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72225,
+                "name": "UKONGA",
+                "postcode": "12107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131676,
+                    "name": "Mongolandege-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:50.000000Z",
+                    "updated_at": "2022-07-27T17:53:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131676,
+                        "created_at": "2022-07-27T17:53:50.000000Z",
+                        "updated_at": "2022-07-27T17:53:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131677,
+                    "name": "Mongolandege-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:50.000000Z",
+                    "updated_at": "2022-07-27T17:53:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131677,
+                        "created_at": "2022-07-27T17:53:50.000000Z",
+                        "updated_at": "2022-07-27T17:53:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131678,
+                    "name": "Mongolandege-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:51.000000Z",
+                    "updated_at": "2022-07-27T17:53:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131678,
+                        "created_at": "2022-07-27T17:53:51.000000Z",
+                        "updated_at": "2022-07-27T17:53:51.000000Z"
+                    }
+                },
+                {
+                    "id": 131679,
+                    "name": "Mongolandege-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:51.000000Z",
+                    "updated_at": "2022-07-27T17:53:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131679,
+                        "created_at": "2022-07-27T17:53:51.000000Z",
+                        "updated_at": "2022-07-27T17:53:51.000000Z"
+                    }
+                },
+                {
+                    "id": 131680,
+                    "name": "Mongolandege-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:52.000000Z",
+                    "updated_at": "2022-07-27T17:53:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131680,
+                        "created_at": "2022-07-27T17:53:52.000000Z",
+                        "updated_at": "2022-07-27T17:53:52.000000Z"
+                    }
+                },
+                {
+                    "id": 131681,
+                    "name": "Mongolandege-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:52.000000Z",
+                    "updated_at": "2022-07-27T17:53:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131681,
+                        "created_at": "2022-07-27T17:53:52.000000Z",
+                        "updated_at": "2022-07-27T17:53:52.000000Z"
+                    }
+                },
+                {
+                    "id": 131682,
+                    "name": "Mongolandege-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:53.000000Z",
+                    "updated_at": "2022-07-27T17:53:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131682,
+                        "created_at": "2022-07-27T17:53:53.000000Z",
+                        "updated_at": "2022-07-27T17:53:53.000000Z"
+                    }
+                },
+                {
+                    "id": 131683,
+                    "name": "Mongolandege-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:53.000000Z",
+                    "updated_at": "2022-07-27T17:53:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131683,
+                        "created_at": "2022-07-27T17:53:53.000000Z",
+                        "updated_at": "2022-07-27T17:53:53.000000Z"
+                    }
+                },
+                {
+                    "id": 131684,
+                    "name": "Mongolandege-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:53.000000Z",
+                    "updated_at": "2022-07-27T17:53:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131684,
+                        "created_at": "2022-07-27T17:53:53.000000Z",
+                        "updated_at": "2022-07-27T17:53:53.000000Z"
+                    }
+                },
+                {
+                    "id": 131685,
+                    "name": "Mongolandege-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:54.000000Z",
+                    "updated_at": "2022-07-27T17:53:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131685,
+                        "created_at": "2022-07-27T17:53:54.000000Z",
+                        "updated_at": "2022-07-27T17:53:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131686,
+                    "name": "Mongolandege-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:54.000000Z",
+                    "updated_at": "2022-07-27T17:53:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131686,
+                        "created_at": "2022-07-27T17:53:54.000000Z",
+                        "updated_at": "2022-07-27T17:53:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131687,
+                    "name": "Mongolandege-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:55.000000Z",
+                    "updated_at": "2022-07-27T17:53:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131687,
+                        "created_at": "2022-07-27T17:53:55.000000Z",
+                        "updated_at": "2022-07-27T17:53:55.000000Z"
+                    }
+                },
+                {
+                    "id": 131688,
+                    "name": "Mongolandege-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:55.000000Z",
+                    "updated_at": "2022-07-27T17:53:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131688,
+                        "created_at": "2022-07-27T17:53:55.000000Z",
+                        "updated_at": "2022-07-27T17:53:55.000000Z"
+                    }
+                },
+                {
+                    "id": 131689,
+                    "name": "Mongolandege-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:56.000000Z",
+                    "updated_at": "2022-07-27T17:53:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131689,
+                        "created_at": "2022-07-27T17:53:56.000000Z",
+                        "updated_at": "2022-07-27T17:53:56.000000Z"
+                    }
+                },
+                {
+                    "id": 131690,
+                    "name": "Mongolandege-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:56.000000Z",
+                    "updated_at": "2022-07-27T17:53:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131690,
+                        "created_at": "2022-07-27T17:53:56.000000Z",
+                        "updated_at": "2022-07-27T17:53:56.000000Z"
+                    }
+                },
+                {
+                    "id": 131691,
+                    "name": "Mongolandege-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:57.000000Z",
+                    "updated_at": "2022-07-27T17:53:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131691,
+                        "created_at": "2022-07-27T17:53:57.000000Z",
+                        "updated_at": "2022-07-27T17:53:57.000000Z"
+                    }
+                },
+                {
+                    "id": 131692,
+                    "name": "Mongolandege-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:58.000000Z",
+                    "updated_at": "2022-07-27T17:53:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131692,
+                        "created_at": "2022-07-27T17:53:58.000000Z",
+                        "updated_at": "2022-07-27T17:53:58.000000Z"
+                    }
+                },
+                {
+                    "id": 131693,
+                    "name": "Mongolandege-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:58.000000Z",
+                    "updated_at": "2022-07-27T17:53:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131693,
+                        "created_at": "2022-07-27T17:53:58.000000Z",
+                        "updated_at": "2022-07-27T17:53:58.000000Z"
+                    }
+                },
+                {
+                    "id": 131694,
+                    "name": "Mongolandege-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:59.000000Z",
+                    "updated_at": "2022-07-27T17:53:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131694,
+                        "created_at": "2022-07-27T17:53:59.000000Z",
+                        "updated_at": "2022-07-27T17:53:59.000000Z"
+                    }
+                },
+                {
+                    "id": 131695,
+                    "name": "Mongolandege-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:53:59.000000Z",
+                    "updated_at": "2022-07-27T17:53:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131695,
+                        "created_at": "2022-07-27T17:53:59.000000Z",
+                        "updated_at": "2022-07-27T17:53:59.000000Z"
+                    }
+                },
+                {
+                    "id": 131696,
+                    "name": "Mongolandege-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:00.000000Z",
+                    "updated_at": "2022-07-27T17:54:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131696,
+                        "created_at": "2022-07-27T17:54:00.000000Z",
+                        "updated_at": "2022-07-27T17:54:00.000000Z"
+                    }
+                },
+                {
+                    "id": 131697,
+                    "name": "Mongolandege-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:01.000000Z",
+                    "updated_at": "2022-07-27T17:54:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131697,
+                        "created_at": "2022-07-27T17:54:01.000000Z",
+                        "updated_at": "2022-07-27T17:54:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131698,
+                    "name": "Mongolandege-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:01.000000Z",
+                    "updated_at": "2022-07-27T17:54:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131698,
+                        "created_at": "2022-07-27T17:54:01.000000Z",
+                        "updated_at": "2022-07-27T17:54:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131699,
+                    "name": "Mongolandege-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:02.000000Z",
+                    "updated_at": "2022-07-27T17:54:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131699,
+                        "created_at": "2022-07-27T17:54:02.000000Z",
+                        "updated_at": "2022-07-27T17:54:02.000000Z"
+                    }
+                },
+                {
+                    "id": 131700,
+                    "name": "Mongolandege-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:03.000000Z",
+                    "updated_at": "2022-07-27T17:54:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131700,
+                        "created_at": "2022-07-27T17:54:03.000000Z",
+                        "updated_at": "2022-07-27T17:54:03.000000Z"
+                    }
+                },
+                {
+                    "id": 131701,
+                    "name": "Mongolandege-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:04.000000Z",
+                    "updated_at": "2022-07-27T17:54:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131701,
+                        "created_at": "2022-07-27T17:54:04.000000Z",
+                        "updated_at": "2022-07-27T17:54:04.000000Z"
+                    }
+                },
+                {
+                    "id": 131702,
+                    "name": "Mongolandege-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:04.000000Z",
+                    "updated_at": "2022-07-27T17:54:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131702,
+                        "created_at": "2022-07-27T17:54:04.000000Z",
+                        "updated_at": "2022-07-27T17:54:04.000000Z"
+                    }
+                },
+                {
+                    "id": 131703,
+                    "name": "Mongolandege-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:05.000000Z",
+                    "updated_at": "2022-07-27T17:54:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131703,
+                        "created_at": "2022-07-27T17:54:05.000000Z",
+                        "updated_at": "2022-07-27T17:54:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131704,
+                    "name": "Mongolandege-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:06.000000Z",
+                    "updated_at": "2022-07-27T17:54:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131704,
+                        "created_at": "2022-07-27T17:54:06.000000Z",
+                        "updated_at": "2022-07-27T17:54:06.000000Z"
+                    }
+                },
+                {
+                    "id": 131705,
+                    "name": "Mongolandege-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:07.000000Z",
+                    "updated_at": "2022-07-27T17:54:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131705,
+                        "created_at": "2022-07-27T17:54:07.000000Z",
+                        "updated_at": "2022-07-27T17:54:07.000000Z"
+                    }
+                },
+                {
+                    "id": 131706,
+                    "name": "Mongolandege-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:07.000000Z",
+                    "updated_at": "2022-07-27T17:54:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131706,
+                        "created_at": "2022-07-27T17:54:07.000000Z",
+                        "updated_at": "2022-07-27T17:54:07.000000Z"
+                    }
+                },
+                {
+                    "id": 131707,
+                    "name": "Mongolandege-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:08.000000Z",
+                    "updated_at": "2022-07-27T17:54:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131707,
+                        "created_at": "2022-07-27T17:54:08.000000Z",
+                        "updated_at": "2022-07-27T17:54:08.000000Z"
+                    }
+                },
+                {
+                    "id": 131708,
+                    "name": "Mongolandege-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:09.000000Z",
+                    "updated_at": "2022-07-27T17:54:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131708,
+                        "created_at": "2022-07-27T17:54:09.000000Z",
+                        "updated_at": "2022-07-27T17:54:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131709,
+                    "name": "Mongolandege-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:10.000000Z",
+                    "updated_at": "2022-07-27T17:54:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131709,
+                        "created_at": "2022-07-27T17:54:10.000000Z",
+                        "updated_at": "2022-07-27T17:54:10.000000Z"
+                    }
+                },
+                {
+                    "id": 131710,
+                    "name": "Mongolandege-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:10.000000Z",
+                    "updated_at": "2022-07-27T17:54:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131710,
+                        "created_at": "2022-07-27T17:54:10.000000Z",
+                        "updated_at": "2022-07-27T17:54:10.000000Z"
+                    }
+                },
+                {
+                    "id": 131711,
+                    "name": "Mongolandege-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:11.000000Z",
+                    "updated_at": "2022-07-27T17:54:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131711,
+                        "created_at": "2022-07-27T17:54:11.000000Z",
+                        "updated_at": "2022-07-27T17:54:11.000000Z"
+                    }
+                },
+                {
+                    "id": 131712,
+                    "name": "Mongolandege-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:12.000000Z",
+                    "updated_at": "2022-07-27T17:54:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131712,
+                        "created_at": "2022-07-27T17:54:12.000000Z",
+                        "updated_at": "2022-07-27T17:54:12.000000Z"
+                    }
+                },
+                {
+                    "id": 131713,
+                    "name": "Mongolandege-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:13.000000Z",
+                    "updated_at": "2022-07-27T17:54:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131713,
+                        "created_at": "2022-07-27T17:54:13.000000Z",
+                        "updated_at": "2022-07-27T17:54:13.000000Z"
+                    }
+                },
+                {
+                    "id": 131714,
+                    "name": "Mongolandege-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:14.000000Z",
+                    "updated_at": "2022-07-27T17:54:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131714,
+                        "created_at": "2022-07-27T17:54:14.000000Z",
+                        "updated_at": "2022-07-27T17:54:14.000000Z"
+                    }
+                },
+                {
+                    "id": 131715,
+                    "name": "Mongolandege-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:15.000000Z",
+                    "updated_at": "2022-07-27T17:54:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98735,
+                        "area_id": 131715,
+                        "created_at": "2022-07-27T17:54:15.000000Z",
+                        "updated_at": "2022-07-27T17:54:15.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72229,
+            "name": "MWEMBE MADAFU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72225,
+                "name": "UKONGA",
+                "postcode": "12107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131716,
+                    "name": "Mwembe Madafu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:16.000000Z",
+                    "updated_at": "2022-07-27T17:54:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131716,
+                        "created_at": "2022-07-27T17:54:16.000000Z",
+                        "updated_at": "2022-07-27T17:54:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131717,
+                    "name": "Mwembe Madafu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:16.000000Z",
+                    "updated_at": "2022-07-27T17:54:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131717,
+                        "created_at": "2022-07-27T17:54:16.000000Z",
+                        "updated_at": "2022-07-27T17:54:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131718,
+                    "name": "Mwembe Madafu-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:16.000000Z",
+                    "updated_at": "2022-07-27T17:54:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131718,
+                        "created_at": "2022-07-27T17:54:16.000000Z",
+                        "updated_at": "2022-07-27T17:54:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131719,
+                    "name": "Mwembe Madafu-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:17.000000Z",
+                    "updated_at": "2022-07-27T17:54:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131719,
+                        "created_at": "2022-07-27T17:54:17.000000Z",
+                        "updated_at": "2022-07-27T17:54:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131720,
+                    "name": "Mwembe Madafu-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:17.000000Z",
+                    "updated_at": "2022-07-27T17:54:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131720,
+                        "created_at": "2022-07-27T17:54:17.000000Z",
+                        "updated_at": "2022-07-27T17:54:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131721,
+                    "name": "Mwembe Madafu-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:17.000000Z",
+                    "updated_at": "2022-07-27T17:54:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131721,
+                        "created_at": "2022-07-27T17:54:17.000000Z",
+                        "updated_at": "2022-07-27T17:54:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131722,
+                    "name": "Mwembe Madafu-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:18.000000Z",
+                    "updated_at": "2022-07-27T17:54:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131722,
+                        "created_at": "2022-07-27T17:54:18.000000Z",
+                        "updated_at": "2022-07-27T17:54:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131723,
+                    "name": "Mwembe Madafu-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:18.000000Z",
+                    "updated_at": "2022-07-27T17:54:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131723,
+                        "created_at": "2022-07-27T17:54:18.000000Z",
+                        "updated_at": "2022-07-27T17:54:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131724,
+                    "name": "Mwembe Madafu-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:18.000000Z",
+                    "updated_at": "2022-07-27T17:54:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131724,
+                        "created_at": "2022-07-27T17:54:18.000000Z",
+                        "updated_at": "2022-07-27T17:54:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131725,
+                    "name": "Mwembe Madafu-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:19.000000Z",
+                    "updated_at": "2022-07-27T17:54:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131725,
+                        "created_at": "2022-07-27T17:54:19.000000Z",
+                        "updated_at": "2022-07-27T17:54:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131726,
+                    "name": "Mwembe Madafu-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:19.000000Z",
+                    "updated_at": "2022-07-27T17:54:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131726,
+                        "created_at": "2022-07-27T17:54:19.000000Z",
+                        "updated_at": "2022-07-27T17:54:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131727,
+                    "name": "Mwembe Madafu-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:20.000000Z",
+                    "updated_at": "2022-07-27T17:54:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131727,
+                        "created_at": "2022-07-27T17:54:20.000000Z",
+                        "updated_at": "2022-07-27T17:54:20.000000Z"
+                    }
+                },
+                {
+                    "id": 131728,
+                    "name": "Mwembe Madafu-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:20.000000Z",
+                    "updated_at": "2022-07-27T17:54:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131728,
+                        "created_at": "2022-07-27T17:54:20.000000Z",
+                        "updated_at": "2022-07-27T17:54:20.000000Z"
+                    }
+                },
+                {
+                    "id": 131729,
+                    "name": "Mwembe Madafu-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:21.000000Z",
+                    "updated_at": "2022-07-27T17:54:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131729,
+                        "created_at": "2022-07-27T17:54:21.000000Z",
+                        "updated_at": "2022-07-27T17:54:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131730,
+                    "name": "Mwembe Madafu-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:21.000000Z",
+                    "updated_at": "2022-07-27T17:54:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131730,
+                        "created_at": "2022-07-27T17:54:21.000000Z",
+                        "updated_at": "2022-07-27T17:54:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131731,
+                    "name": "Mwembe Madafu-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:22.000000Z",
+                    "updated_at": "2022-07-27T17:54:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131731,
+                        "created_at": "2022-07-27T17:54:22.000000Z",
+                        "updated_at": "2022-07-27T17:54:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131732,
+                    "name": "Mwembe Madafu-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:22.000000Z",
+                    "updated_at": "2022-07-27T17:54:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131732,
+                        "created_at": "2022-07-27T17:54:22.000000Z",
+                        "updated_at": "2022-07-27T17:54:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131733,
+                    "name": "Mwembe Madafu-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:23.000000Z",
+                    "updated_at": "2022-07-27T17:54:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131733,
+                        "created_at": "2022-07-27T17:54:23.000000Z",
+                        "updated_at": "2022-07-27T17:54:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131734,
+                    "name": "Mwembe Madafu-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:23.000000Z",
+                    "updated_at": "2022-07-27T17:54:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131734,
+                        "created_at": "2022-07-27T17:54:23.000000Z",
+                        "updated_at": "2022-07-27T17:54:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131735,
+                    "name": "Mwembe Madafu-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:24.000000Z",
+                    "updated_at": "2022-07-27T17:54:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131735,
+                        "created_at": "2022-07-27T17:54:24.000000Z",
+                        "updated_at": "2022-07-27T17:54:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131736,
+                    "name": "Mwembe Madafu-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:25.000000Z",
+                    "updated_at": "2022-07-27T17:54:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131736,
+                        "created_at": "2022-07-27T17:54:25.000000Z",
+                        "updated_at": "2022-07-27T17:54:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131737,
+                    "name": "Mwembe Madafu-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:25.000000Z",
+                    "updated_at": "2022-07-27T17:54:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131737,
+                        "created_at": "2022-07-27T17:54:25.000000Z",
+                        "updated_at": "2022-07-27T17:54:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131738,
+                    "name": "Mwembe Madafu-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:26.000000Z",
+                    "updated_at": "2022-07-27T17:54:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131738,
+                        "created_at": "2022-07-27T17:54:26.000000Z",
+                        "updated_at": "2022-07-27T17:54:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131739,
+                    "name": "Mwembe Madafu-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:26.000000Z",
+                    "updated_at": "2022-07-27T17:54:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131739,
+                        "created_at": "2022-07-27T17:54:26.000000Z",
+                        "updated_at": "2022-07-27T17:54:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131740,
+                    "name": "Mwembe Madafu-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:27.000000Z",
+                    "updated_at": "2022-07-27T17:54:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131740,
+                        "created_at": "2022-07-27T17:54:27.000000Z",
+                        "updated_at": "2022-07-27T17:54:27.000000Z"
+                    }
+                },
+                {
+                    "id": 131741,
+                    "name": "Mwembe Madafu-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:54:28.000000Z",
+                    "updated_at": "2022-07-27T17:54:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72229,
+                        "area_id": 131741,
+                        "created_at": "2022-07-27T17:54:28.000000Z",
+                        "updated_at": "2022-07-27T17:54:28.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72230,
+            "name": "SABASABA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72225,
+                "name": "UKONGA",
+                "postcode": "12107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131839,
+                    "name": "Sabasaba-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:39.000000Z",
+                    "updated_at": "2022-07-27T17:55:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131839,
+                        "created_at": "2022-07-27T17:55:39.000000Z",
+                        "updated_at": "2022-07-27T17:55:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131840,
+                    "name": "Sabasaba-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:40.000000Z",
+                    "updated_at": "2022-07-27T17:55:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131840,
+                        "created_at": "2022-07-27T17:55:40.000000Z",
+                        "updated_at": "2022-07-27T17:55:40.000000Z"
+                    }
+                },
+                {
+                    "id": 131841,
+                    "name": "Sabasaba-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:40.000000Z",
+                    "updated_at": "2022-07-27T17:55:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131841,
+                        "created_at": "2022-07-27T17:55:40.000000Z",
+                        "updated_at": "2022-07-27T17:55:40.000000Z"
+                    }
+                },
+                {
+                    "id": 131842,
+                    "name": "Sabasaba-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:40.000000Z",
+                    "updated_at": "2022-07-27T17:55:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131842,
+                        "created_at": "2022-07-27T17:55:40.000000Z",
+                        "updated_at": "2022-07-27T17:55:40.000000Z"
+                    }
+                },
+                {
+                    "id": 131843,
+                    "name": "Sabasaba-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:41.000000Z",
+                    "updated_at": "2022-07-27T17:55:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131843,
+                        "created_at": "2022-07-27T17:55:41.000000Z",
+                        "updated_at": "2022-07-27T17:55:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131844,
+                    "name": "Sabasaba-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:41.000000Z",
+                    "updated_at": "2022-07-27T17:55:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131844,
+                        "created_at": "2022-07-27T17:55:41.000000Z",
+                        "updated_at": "2022-07-27T17:55:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131845,
+                    "name": "Sabasaba-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:41.000000Z",
+                    "updated_at": "2022-07-27T17:55:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131845,
+                        "created_at": "2022-07-27T17:55:41.000000Z",
+                        "updated_at": "2022-07-27T17:55:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131846,
+                    "name": "Sabasaba-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:42.000000Z",
+                    "updated_at": "2022-07-27T17:55:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131846,
+                        "created_at": "2022-07-27T17:55:42.000000Z",
+                        "updated_at": "2022-07-27T17:55:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131847,
+                    "name": "Sabasaba-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:42.000000Z",
+                    "updated_at": "2022-07-27T17:55:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131847,
+                        "created_at": "2022-07-27T17:55:42.000000Z",
+                        "updated_at": "2022-07-27T17:55:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131848,
+                    "name": "Sabasaba-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:42.000000Z",
+                    "updated_at": "2022-07-27T17:55:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131848,
+                        "created_at": "2022-07-27T17:55:42.000000Z",
+                        "updated_at": "2022-07-27T17:55:42.000000Z"
+                    }
+                },
+                {
+                    "id": 131849,
+                    "name": "Sabasaba-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:43.000000Z",
+                    "updated_at": "2022-07-27T17:55:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131849,
+                        "created_at": "2022-07-27T17:55:43.000000Z",
+                        "updated_at": "2022-07-27T17:55:43.000000Z"
+                    }
+                },
+                {
+                    "id": 131850,
+                    "name": "Sabasaba-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:43.000000Z",
+                    "updated_at": "2022-07-27T17:55:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131850,
+                        "created_at": "2022-07-27T17:55:43.000000Z",
+                        "updated_at": "2022-07-27T17:55:43.000000Z"
+                    }
+                },
+                {
+                    "id": 131851,
+                    "name": "Sabasaba-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:43.000000Z",
+                    "updated_at": "2022-07-27T17:55:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131851,
+                        "created_at": "2022-07-27T17:55:43.000000Z",
+                        "updated_at": "2022-07-27T17:55:43.000000Z"
+                    }
+                },
+                {
+                    "id": 131852,
+                    "name": "Sabasaba-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:44.000000Z",
+                    "updated_at": "2022-07-27T17:55:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131852,
+                        "created_at": "2022-07-27T17:55:44.000000Z",
+                        "updated_at": "2022-07-27T17:55:44.000000Z"
+                    }
+                },
+                {
+                    "id": 131853,
+                    "name": "Sabasaba-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:44.000000Z",
+                    "updated_at": "2022-07-27T17:55:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131853,
+                        "created_at": "2022-07-27T17:55:44.000000Z",
+                        "updated_at": "2022-07-27T17:55:44.000000Z"
+                    }
+                },
+                {
+                    "id": 131854,
+                    "name": "Sabasaba-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:44.000000Z",
+                    "updated_at": "2022-07-27T17:55:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131854,
+                        "created_at": "2022-07-27T17:55:44.000000Z",
+                        "updated_at": "2022-07-27T17:55:44.000000Z"
+                    }
+                },
+                {
+                    "id": 131855,
+                    "name": "Sabasaba-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:45.000000Z",
+                    "updated_at": "2022-07-27T17:55:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131855,
+                        "created_at": "2022-07-27T17:55:45.000000Z",
+                        "updated_at": "2022-07-27T17:55:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131856,
+                    "name": "Sabasaba-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:45.000000Z",
+                    "updated_at": "2022-07-27T17:55:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131856,
+                        "created_at": "2022-07-27T17:55:45.000000Z",
+                        "updated_at": "2022-07-27T17:55:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131857,
+                    "name": "Sabasaba-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:46.000000Z",
+                    "updated_at": "2022-07-27T17:55:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131857,
+                        "created_at": "2022-07-27T17:55:46.000000Z",
+                        "updated_at": "2022-07-27T17:55:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131858,
+                    "name": "Sabasaba-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:46.000000Z",
+                    "updated_at": "2022-07-27T17:55:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131858,
+                        "created_at": "2022-07-27T17:55:46.000000Z",
+                        "updated_at": "2022-07-27T17:55:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131859,
+                    "name": "Sabasaba-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:46.000000Z",
+                    "updated_at": "2022-07-27T17:55:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131859,
+                        "created_at": "2022-07-27T17:55:46.000000Z",
+                        "updated_at": "2022-07-27T17:55:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131860,
+                    "name": "Sabasaba-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:47.000000Z",
+                    "updated_at": "2022-07-27T17:55:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131860,
+                        "created_at": "2022-07-27T17:55:47.000000Z",
+                        "updated_at": "2022-07-27T17:55:47.000000Z"
+                    }
+                },
+                {
+                    "id": 131861,
+                    "name": "Sabasaba-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:47.000000Z",
+                    "updated_at": "2022-07-27T17:55:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131861,
+                        "created_at": "2022-07-27T17:55:47.000000Z",
+                        "updated_at": "2022-07-27T17:55:47.000000Z"
+                    }
+                },
+                {
+                    "id": 131862,
+                    "name": "Sabasaba-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:48.000000Z",
+                    "updated_at": "2022-07-27T17:55:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131862,
+                        "created_at": "2022-07-27T17:55:48.000000Z",
+                        "updated_at": "2022-07-27T17:55:48.000000Z"
+                    }
+                },
+                {
+                    "id": 131863,
+                    "name": "Sabasaba-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:48.000000Z",
+                    "updated_at": "2022-07-27T17:55:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131863,
+                        "created_at": "2022-07-27T17:55:48.000000Z",
+                        "updated_at": "2022-07-27T17:55:48.000000Z"
+                    }
+                },
+                {
+                    "id": 131864,
+                    "name": "Sabasaba-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:49.000000Z",
+                    "updated_at": "2022-07-27T17:55:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131864,
+                        "created_at": "2022-07-27T17:55:49.000000Z",
+                        "updated_at": "2022-07-27T17:55:49.000000Z"
+                    }
+                },
+                {
+                    "id": 131865,
+                    "name": "Sabasaba-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:49.000000Z",
+                    "updated_at": "2022-07-27T17:55:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131865,
+                        "created_at": "2022-07-27T17:55:49.000000Z",
+                        "updated_at": "2022-07-27T17:55:49.000000Z"
+                    }
+                },
+                {
+                    "id": 131866,
+                    "name": "Sabasaba-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:50.000000Z",
+                    "updated_at": "2022-07-27T17:55:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131866,
+                        "created_at": "2022-07-27T17:55:50.000000Z",
+                        "updated_at": "2022-07-27T17:55:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131867,
+                    "name": "Sabasaba-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:50.000000Z",
+                    "updated_at": "2022-07-27T17:55:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131867,
+                        "created_at": "2022-07-27T17:55:50.000000Z",
+                        "updated_at": "2022-07-27T17:55:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131868,
+                    "name": "Sabasaba-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:55:50.000000Z",
+                    "updated_at": "2022-07-27T17:55:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72230,
+                        "area_id": 131868,
+                        "created_at": "2022-07-27T17:55:50.000000Z",
+                        "updated_at": "2022-07-27T17:55:50.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
