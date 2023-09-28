@@ -1,0 +1,664 @@
+{
+    "data": [
+        {
+            "id": 74007,
+            "name": "IGUNDA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 74005,
+                "name": "NYANZWA",
+                "postcode": "51324",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 73890,
+                    "name": "KILOLO DISTRICT COUNCIL",
+                    "postcode": "513",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 73889,
+                        "name": "KILOLO",
+                        "postcode": "513",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70844,
+                            "name": "IRINGA",
+                            "postcode": "51",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 167802,
+                    "name": "Balali",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74007,
+                        "area_id": 167802,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167803,
+                    "name": "Madukani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74007,
+                        "area_id": 167803,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167804,
+                    "name": "Idodi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74007,
+                        "area_id": 167804,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167805,
+                    "name": "Beku",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74007,
+                        "area_id": 167805,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167806,
+                    "name": "Kidohoo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74007,
+                        "area_id": 167806,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                },
+                {
+                    "id": 167807,
+                    "name": "Igunda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74007,
+                        "area_id": 167807,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 74008,
+            "name": "MGOWELO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 74005,
+                "name": "NYANZWA",
+                "postcode": "51324",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 73890,
+                    "name": "KILOLO DISTRICT COUNCIL",
+                    "postcode": "513",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 73889,
+                        "name": "KILOLO",
+                        "postcode": "513",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70844,
+                            "name": "IRINGA",
+                            "postcode": "51",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 167808,
+                    "name": "Kibandulo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74008,
+                        "area_id": 167808,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                },
+                {
+                    "id": 167809,
+                    "name": "Vinyungu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74008,
+                        "area_id": 167809,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                },
+                {
+                    "id": 167810,
+                    "name": "Makuka",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74008,
+                        "area_id": 167810,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                },
+                {
+                    "id": 167811,
+                    "name": "Mtwango",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74008,
+                        "area_id": 167811,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                },
+                {
+                    "id": 167812,
+                    "name": "Kimbigili",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74008,
+                        "area_id": 167812,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                },
+                {
+                    "id": 167813,
+                    "name": "Wafugaji",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:06.000000Z",
+                    "updated_at": "2022-08-08T13:21:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74008,
+                        "area_id": 167813,
+                        "created_at": "2022-08-08T13:27:11.000000Z",
+                        "updated_at": "2022-08-08T13:27:11.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 74006,
+            "name": "NYANZWA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 74005,
+                "name": "NYANZWA",
+                "postcode": "51324",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 73890,
+                    "name": "KILOLO DISTRICT COUNCIL",
+                    "postcode": "513",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 73889,
+                        "name": "KILOLO",
+                        "postcode": "513",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70844,
+                            "name": "IRINGA",
+                            "postcode": "51",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 167796,
+                    "name": "Mpakani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74006,
+                        "area_id": 167796,
+                        "created_at": "2022-08-08T13:27:09.000000Z",
+                        "updated_at": "2022-08-08T13:27:09.000000Z"
+                    }
+                },
+                {
+                    "id": 167797,
+                    "name": "Sokoni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74006,
+                        "area_id": 167797,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167798,
+                    "name": "Minazini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74006,
+                        "area_id": 167798,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167799,
+                    "name": "Miembeni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74006,
+                        "area_id": 167799,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167800,
+                    "name": "Mpilipili",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74006,
+                        "area_id": 167800,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                },
+                {
+                    "id": 167801,
+                    "name": "Itemela",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T13:21:05.000000Z",
+                    "updated_at": "2022-08-08T13:21:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 74006,
+                        "area_id": 167801,
+                        "created_at": "2022-08-08T13:27:10.000000Z",
+                        "updated_at": "2022-08-08T13:27:10.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
