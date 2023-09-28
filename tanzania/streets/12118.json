@@ -1,0 +1,2620 @@
+{
+    "data": [
+        {
+            "id": 72296,
+            "name": "FARU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72295,
+                "name": "MNYAMANI",
+                "postcode": "12118",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130825,
+                    "name": "Faru-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:29.000000Z",
+                    "updated_at": "2022-07-27T17:44:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130825,
+                        "created_at": "2022-08-13T11:13:48.000000Z",
+                        "updated_at": "2022-08-13T11:13:48.000000Z"
+                    }
+                },
+                {
+                    "id": 130826,
+                    "name": "Faru-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:29.000000Z",
+                    "updated_at": "2022-07-27T17:44:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130826,
+                        "created_at": "2022-08-13T11:13:48.000000Z",
+                        "updated_at": "2022-08-13T11:13:48.000000Z"
+                    }
+                },
+                {
+                    "id": 130827,
+                    "name": "Faru-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:29.000000Z",
+                    "updated_at": "2022-07-27T17:44:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130827,
+                        "created_at": "2022-08-13T11:13:49.000000Z",
+                        "updated_at": "2022-08-13T11:13:49.000000Z"
+                    }
+                },
+                {
+                    "id": 130828,
+                    "name": "Faru-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:29.000000Z",
+                    "updated_at": "2022-07-27T17:44:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130828,
+                        "created_at": "2022-08-13T11:13:49.000000Z",
+                        "updated_at": "2022-08-13T11:13:49.000000Z"
+                    }
+                },
+                {
+                    "id": 130829,
+                    "name": "Faru-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:29.000000Z",
+                    "updated_at": "2022-07-27T17:44:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130829,
+                        "created_at": "2022-08-13T11:13:49.000000Z",
+                        "updated_at": "2022-08-13T11:13:49.000000Z"
+                    }
+                },
+                {
+                    "id": 130830,
+                    "name": "Faru-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:30.000000Z",
+                    "updated_at": "2022-07-27T17:44:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130830,
+                        "created_at": "2022-08-13T11:13:49.000000Z",
+                        "updated_at": "2022-08-13T11:13:49.000000Z"
+                    }
+                },
+                {
+                    "id": 130831,
+                    "name": "Faru-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:30.000000Z",
+                    "updated_at": "2022-07-27T17:44:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130831,
+                        "created_at": "2022-08-13T11:13:50.000000Z",
+                        "updated_at": "2022-08-13T11:13:50.000000Z"
+                    }
+                },
+                {
+                    "id": 130832,
+                    "name": "Faru-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:30.000000Z",
+                    "updated_at": "2022-07-27T17:44:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130832,
+                        "created_at": "2022-08-13T11:13:50.000000Z",
+                        "updated_at": "2022-08-13T11:13:50.000000Z"
+                    }
+                },
+                {
+                    "id": 130833,
+                    "name": "Faru-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:30.000000Z",
+                    "updated_at": "2022-07-27T17:44:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130833,
+                        "created_at": "2022-08-13T11:13:50.000000Z",
+                        "updated_at": "2022-08-13T11:13:50.000000Z"
+                    }
+                },
+                {
+                    "id": 130834,
+                    "name": "Faru-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:30.000000Z",
+                    "updated_at": "2022-07-27T17:44:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130834,
+                        "created_at": "2022-08-13T11:13:50.000000Z",
+                        "updated_at": "2022-08-13T11:13:50.000000Z"
+                    }
+                },
+                {
+                    "id": 130835,
+                    "name": "Faru-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:30.000000Z",
+                    "updated_at": "2022-07-27T17:44:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130835,
+                        "created_at": "2022-08-13T11:13:51.000000Z",
+                        "updated_at": "2022-08-13T11:13:51.000000Z"
+                    }
+                },
+                {
+                    "id": 130836,
+                    "name": "Faru-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:30.000000Z",
+                    "updated_at": "2022-07-27T17:44:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130836,
+                        "created_at": "2022-08-13T11:13:51.000000Z",
+                        "updated_at": "2022-08-13T11:13:51.000000Z"
+                    }
+                },
+                {
+                    "id": 130837,
+                    "name": "Faru-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:31.000000Z",
+                    "updated_at": "2022-07-27T17:44:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130837,
+                        "created_at": "2022-08-13T11:13:51.000000Z",
+                        "updated_at": "2022-08-13T11:13:51.000000Z"
+                    }
+                },
+                {
+                    "id": 130838,
+                    "name": "Faru-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:31.000000Z",
+                    "updated_at": "2022-07-27T17:44:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130838,
+                        "created_at": "2022-08-13T11:13:52.000000Z",
+                        "updated_at": "2022-08-13T11:13:52.000000Z"
+                    }
+                },
+                {
+                    "id": 130839,
+                    "name": "Faru-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:31.000000Z",
+                    "updated_at": "2022-07-27T17:44:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130839,
+                        "created_at": "2022-08-13T11:13:52.000000Z",
+                        "updated_at": "2022-08-13T11:13:52.000000Z"
+                    }
+                },
+                {
+                    "id": 130840,
+                    "name": "Faru-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:31.000000Z",
+                    "updated_at": "2022-07-27T17:44:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130840,
+                        "created_at": "2022-08-13T11:13:52.000000Z",
+                        "updated_at": "2022-08-13T11:13:52.000000Z"
+                    }
+                },
+                {
+                    "id": 130841,
+                    "name": "Faru-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:31.000000Z",
+                    "updated_at": "2022-07-27T17:44:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130841,
+                        "created_at": "2022-08-13T11:13:52.000000Z",
+                        "updated_at": "2022-08-13T11:13:52.000000Z"
+                    }
+                },
+                {
+                    "id": 130842,
+                    "name": "Faru-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:31.000000Z",
+                    "updated_at": "2022-07-27T17:44:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130842,
+                        "created_at": "2022-08-13T11:13:53.000000Z",
+                        "updated_at": "2022-08-13T11:13:53.000000Z"
+                    }
+                },
+                {
+                    "id": 130843,
+                    "name": "Faru-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:32.000000Z",
+                    "updated_at": "2022-07-27T17:44:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130843,
+                        "created_at": "2022-08-13T11:13:53.000000Z",
+                        "updated_at": "2022-08-13T11:13:53.000000Z"
+                    }
+                },
+                {
+                    "id": 130844,
+                    "name": "Faru-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:32.000000Z",
+                    "updated_at": "2022-07-27T17:44:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130844,
+                        "created_at": "2022-08-13T11:13:53.000000Z",
+                        "updated_at": "2022-08-13T11:13:53.000000Z"
+                    }
+                },
+                {
+                    "id": 130845,
+                    "name": "Faru-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:32.000000Z",
+                    "updated_at": "2022-07-27T17:44:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130845,
+                        "created_at": "2022-08-13T11:13:54.000000Z",
+                        "updated_at": "2022-08-13T11:13:54.000000Z"
+                    }
+                },
+                {
+                    "id": 130846,
+                    "name": "Faru-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:32.000000Z",
+                    "updated_at": "2022-07-27T17:44:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130846,
+                        "created_at": "2022-08-13T11:13:54.000000Z",
+                        "updated_at": "2022-08-13T11:13:54.000000Z"
+                    }
+                },
+                {
+                    "id": 130847,
+                    "name": "Faru-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:32.000000Z",
+                    "updated_at": "2022-07-27T17:44:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130847,
+                        "created_at": "2022-08-13T11:13:54.000000Z",
+                        "updated_at": "2022-08-13T11:13:54.000000Z"
+                    }
+                },
+                {
+                    "id": 130848,
+                    "name": "Faru-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:32.000000Z",
+                    "updated_at": "2022-07-27T17:44:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130848,
+                        "created_at": "2022-08-13T11:13:54.000000Z",
+                        "updated_at": "2022-08-13T11:13:54.000000Z"
+                    }
+                },
+                {
+                    "id": 130849,
+                    "name": "Faru-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:33.000000Z",
+                    "updated_at": "2022-07-27T17:44:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130849,
+                        "created_at": "2022-08-13T11:13:55.000000Z",
+                        "updated_at": "2022-08-13T11:13:55.000000Z"
+                    }
+                },
+                {
+                    "id": 130850,
+                    "name": "Faru-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:33.000000Z",
+                    "updated_at": "2022-07-27T17:44:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130850,
+                        "created_at": "2022-08-13T11:13:55.000000Z",
+                        "updated_at": "2022-08-13T11:13:55.000000Z"
+                    }
+                },
+                {
+                    "id": 130851,
+                    "name": "Faru-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:33.000000Z",
+                    "updated_at": "2022-07-27T17:44:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130851,
+                        "created_at": "2022-08-13T11:13:55.000000Z",
+                        "updated_at": "2022-08-13T11:13:55.000000Z"
+                    }
+                },
+                {
+                    "id": 130852,
+                    "name": "Faru-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:33.000000Z",
+                    "updated_at": "2022-07-27T17:44:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130852,
+                        "created_at": "2022-08-13T11:13:56.000000Z",
+                        "updated_at": "2022-08-13T11:13:56.000000Z"
+                    }
+                },
+                {
+                    "id": 130853,
+                    "name": "Faru-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:33.000000Z",
+                    "updated_at": "2022-07-27T17:44:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130853,
+                        "created_at": "2022-08-13T11:13:56.000000Z",
+                        "updated_at": "2022-08-13T11:13:56.000000Z"
+                    }
+                },
+                {
+                    "id": 130854,
+                    "name": "Faru-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:34.000000Z",
+                    "updated_at": "2022-07-27T17:44:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130854,
+                        "created_at": "2022-08-13T11:13:56.000000Z",
+                        "updated_at": "2022-08-13T11:13:56.000000Z"
+                    }
+                },
+                {
+                    "id": 130855,
+                    "name": "Faru-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:34.000000Z",
+                    "updated_at": "2022-07-27T17:44:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130855,
+                        "created_at": "2022-08-13T11:13:56.000000Z",
+                        "updated_at": "2022-08-13T11:13:56.000000Z"
+                    }
+                },
+                {
+                    "id": 130856,
+                    "name": "Faru-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:34.000000Z",
+                    "updated_at": "2022-07-27T17:44:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130856,
+                        "created_at": "2022-08-13T11:13:57.000000Z",
+                        "updated_at": "2022-08-13T11:13:57.000000Z"
+                    }
+                },
+                {
+                    "id": 130857,
+                    "name": "Faru-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:34.000000Z",
+                    "updated_at": "2022-07-27T17:44:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130857,
+                        "created_at": "2022-08-13T11:13:57.000000Z",
+                        "updated_at": "2022-08-13T11:13:57.000000Z"
+                    }
+                },
+                {
+                    "id": 130858,
+                    "name": "Faru-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:34.000000Z",
+                    "updated_at": "2022-07-27T17:44:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130858,
+                        "created_at": "2022-08-13T11:13:57.000000Z",
+                        "updated_at": "2022-08-13T11:13:57.000000Z"
+                    }
+                },
+                {
+                    "id": 130859,
+                    "name": "Faru-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:34.000000Z",
+                    "updated_at": "2022-07-27T17:44:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130859,
+                        "created_at": "2022-08-13T11:13:58.000000Z",
+                        "updated_at": "2022-08-13T11:13:58.000000Z"
+                    }
+                },
+                {
+                    "id": 130860,
+                    "name": "Faru-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:35.000000Z",
+                    "updated_at": "2022-07-27T17:44:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130860,
+                        "created_at": "2022-08-13T11:13:58.000000Z",
+                        "updated_at": "2022-08-13T11:13:58.000000Z"
+                    }
+                },
+                {
+                    "id": 130861,
+                    "name": "Faru-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:35.000000Z",
+                    "updated_at": "2022-07-27T17:44:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130861,
+                        "created_at": "2022-08-13T11:13:58.000000Z",
+                        "updated_at": "2022-08-13T11:13:58.000000Z"
+                    }
+                },
+                {
+                    "id": 130862,
+                    "name": "Faru-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:35.000000Z",
+                    "updated_at": "2022-07-27T17:44:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130862,
+                        "created_at": "2022-08-13T11:13:58.000000Z",
+                        "updated_at": "2022-08-13T11:13:58.000000Z"
+                    }
+                },
+                {
+                    "id": 130863,
+                    "name": "Faru-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:35.000000Z",
+                    "updated_at": "2022-07-27T17:44:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130863,
+                        "created_at": "2022-08-13T11:13:59.000000Z",
+                        "updated_at": "2022-08-13T11:13:59.000000Z"
+                    }
+                },
+                {
+                    "id": 130864,
+                    "name": "Faru-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:35.000000Z",
+                    "updated_at": "2022-07-27T17:44:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130864,
+                        "created_at": "2022-08-13T11:13:59.000000Z",
+                        "updated_at": "2022-08-13T11:13:59.000000Z"
+                    }
+                },
+                {
+                    "id": 130865,
+                    "name": "Faru-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:35.000000Z",
+                    "updated_at": "2022-07-27T17:44:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130865,
+                        "created_at": "2022-08-13T11:13:59.000000Z",
+                        "updated_at": "2022-08-13T11:13:59.000000Z"
+                    }
+                },
+                {
+                    "id": 130866,
+                    "name": "Faru-42",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:36.000000Z",
+                    "updated_at": "2022-07-27T17:44:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "042",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130866,
+                        "created_at": "2022-08-13T11:13:59.000000Z",
+                        "updated_at": "2022-08-13T11:13:59.000000Z"
+                    }
+                },
+                {
+                    "id": 130867,
+                    "name": "Faru-43",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:36.000000Z",
+                    "updated_at": "2022-07-27T17:44:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "043",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130867,
+                        "created_at": "2022-08-13T11:14:00.000000Z",
+                        "updated_at": "2022-08-13T11:14:00.000000Z"
+                    }
+                },
+                {
+                    "id": 130868,
+                    "name": "Faru-44",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:36.000000Z",
+                    "updated_at": "2022-07-27T17:44:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "044",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130868,
+                        "created_at": "2022-08-13T11:14:00.000000Z",
+                        "updated_at": "2022-08-13T11:14:00.000000Z"
+                    }
+                },
+                {
+                    "id": 130869,
+                    "name": "Faru-45",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:36.000000Z",
+                    "updated_at": "2022-07-27T17:44:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "045",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130869,
+                        "created_at": "2022-08-13T11:14:00.000000Z",
+                        "updated_at": "2022-08-13T11:14:00.000000Z"
+                    }
+                },
+                {
+                    "id": 130870,
+                    "name": "Faru-46",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:36.000000Z",
+                    "updated_at": "2022-07-27T17:44:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "046",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130870,
+                        "created_at": "2022-08-13T11:14:01.000000Z",
+                        "updated_at": "2022-08-13T11:14:01.000000Z"
+                    }
+                },
+                {
+                    "id": 130871,
+                    "name": "Faru-47",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:36.000000Z",
+                    "updated_at": "2022-07-27T17:44:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "047",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72296,
+                        "area_id": 130871,
+                        "created_at": "2022-08-13T11:14:01.000000Z",
+                        "updated_at": "2022-08-13T11:14:01.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72297,
+            "name": "MALUZUKU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72295,
+                "name": "MNYAMANI",
+                "postcode": "12118",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130781,
+                    "name": "Maruzuku-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:20.000000Z",
+                    "updated_at": "2022-07-27T17:44:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130781,
+                        "created_at": "2022-07-27T17:44:20.000000Z",
+                        "updated_at": "2022-07-27T17:44:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130782,
+                    "name": "Maruzuku-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:20.000000Z",
+                    "updated_at": "2022-07-27T17:44:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130782,
+                        "created_at": "2022-07-27T17:44:20.000000Z",
+                        "updated_at": "2022-07-27T17:44:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130783,
+                    "name": "Maruzuku-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:21.000000Z",
+                    "updated_at": "2022-07-27T17:44:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130783,
+                        "created_at": "2022-07-27T17:44:21.000000Z",
+                        "updated_at": "2022-07-27T17:44:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130784,
+                    "name": "Maruzuku-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:21.000000Z",
+                    "updated_at": "2022-07-27T17:44:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130784,
+                        "created_at": "2022-07-27T17:44:21.000000Z",
+                        "updated_at": "2022-07-27T17:44:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130785,
+                    "name": "Maruzuku-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:21.000000Z",
+                    "updated_at": "2022-07-27T17:44:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130785,
+                        "created_at": "2022-07-27T17:44:21.000000Z",
+                        "updated_at": "2022-07-27T17:44:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130786,
+                    "name": "Maruzuku-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:21.000000Z",
+                    "updated_at": "2022-07-27T17:44:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130786,
+                        "created_at": "2022-07-27T17:44:21.000000Z",
+                        "updated_at": "2022-07-27T17:44:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130787,
+                    "name": "Maruzuku-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:21.000000Z",
+                    "updated_at": "2022-07-27T17:44:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130787,
+                        "created_at": "2022-07-27T17:44:21.000000Z",
+                        "updated_at": "2022-07-27T17:44:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130788,
+                    "name": "Maruzuku-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:21.000000Z",
+                    "updated_at": "2022-07-27T17:44:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130788,
+                        "created_at": "2022-07-27T17:44:21.000000Z",
+                        "updated_at": "2022-07-27T17:44:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130789,
+                    "name": "Maruzuku-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:22.000000Z",
+                    "updated_at": "2022-07-27T17:44:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130789,
+                        "created_at": "2022-07-27T17:44:22.000000Z",
+                        "updated_at": "2022-07-27T17:44:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130790,
+                    "name": "Maruzuku-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:22.000000Z",
+                    "updated_at": "2022-07-27T17:44:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130790,
+                        "created_at": "2022-07-27T17:44:22.000000Z",
+                        "updated_at": "2022-07-27T17:44:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130791,
+                    "name": "Maruzuku-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:22.000000Z",
+                    "updated_at": "2022-07-27T17:44:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130791,
+                        "created_at": "2022-07-27T17:44:22.000000Z",
+                        "updated_at": "2022-07-27T17:44:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130792,
+                    "name": "Maruzuku-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:22.000000Z",
+                    "updated_at": "2022-07-27T17:44:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130792,
+                        "created_at": "2022-07-27T17:44:22.000000Z",
+                        "updated_at": "2022-07-27T17:44:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130793,
+                    "name": "Maruzuku-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:22.000000Z",
+                    "updated_at": "2022-07-27T17:44:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130793,
+                        "created_at": "2022-07-27T17:44:22.000000Z",
+                        "updated_at": "2022-07-27T17:44:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130794,
+                    "name": "Maruzuku-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:22.000000Z",
+                    "updated_at": "2022-07-27T17:44:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130794,
+                        "created_at": "2022-07-27T17:44:22.000000Z",
+                        "updated_at": "2022-07-27T17:44:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130795,
+                    "name": "Maruzuku-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:23.000000Z",
+                    "updated_at": "2022-07-27T17:44:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130795,
+                        "created_at": "2022-07-27T17:44:23.000000Z",
+                        "updated_at": "2022-07-27T17:44:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130796,
+                    "name": "Maruzuku-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:23.000000Z",
+                    "updated_at": "2022-07-27T17:44:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130796,
+                        "created_at": "2022-07-27T17:44:23.000000Z",
+                        "updated_at": "2022-07-27T17:44:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130797,
+                    "name": "Maruzuku-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:23.000000Z",
+                    "updated_at": "2022-07-27T17:44:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130797,
+                        "created_at": "2022-07-27T17:44:23.000000Z",
+                        "updated_at": "2022-07-27T17:44:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130798,
+                    "name": "Maruzuku-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:23.000000Z",
+                    "updated_at": "2022-07-27T17:44:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130798,
+                        "created_at": "2022-07-27T17:44:23.000000Z",
+                        "updated_at": "2022-07-27T17:44:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130799,
+                    "name": "Maruzuku-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:23.000000Z",
+                    "updated_at": "2022-07-27T17:44:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130799,
+                        "created_at": "2022-07-27T17:44:23.000000Z",
+                        "updated_at": "2022-07-27T17:44:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130800,
+                    "name": "Maruzuku-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:24.000000Z",
+                    "updated_at": "2022-07-27T17:44:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72297,
+                        "area_id": 130800,
+                        "created_at": "2022-07-27T17:44:24.000000Z",
+                        "updated_at": "2022-07-27T17:44:24.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72298,
+            "name": "MJI MPYA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72295,
+                "name": "MNYAMANI",
+                "postcode": "12118",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130764,
+                    "name": "Mji Mpya-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:18.000000Z",
+                    "updated_at": "2022-07-27T17:44:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130764,
+                        "created_at": "2022-08-13T11:13:33.000000Z",
+                        "updated_at": "2022-08-13T11:13:33.000000Z"
+                    }
+                },
+                {
+                    "id": 130765,
+                    "name": "Mji Mpya-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:18.000000Z",
+                    "updated_at": "2022-07-27T17:44:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130765,
+                        "created_at": "2022-08-13T11:13:33.000000Z",
+                        "updated_at": "2022-08-13T11:13:33.000000Z"
+                    }
+                },
+                {
+                    "id": 130766,
+                    "name": "Mji Mpya-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:18.000000Z",
+                    "updated_at": "2022-07-27T17:44:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130766,
+                        "created_at": "2022-08-13T11:13:34.000000Z",
+                        "updated_at": "2022-08-13T11:13:34.000000Z"
+                    }
+                },
+                {
+                    "id": 130767,
+                    "name": "Mji Mpya-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:18.000000Z",
+                    "updated_at": "2022-07-27T17:44:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130767,
+                        "created_at": "2022-08-13T11:13:34.000000Z",
+                        "updated_at": "2022-08-13T11:13:34.000000Z"
+                    }
+                },
+                {
+                    "id": 130768,
+                    "name": "Mji Mpya-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:18.000000Z",
+                    "updated_at": "2022-07-27T17:44:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130768,
+                        "created_at": "2022-08-13T11:13:34.000000Z",
+                        "updated_at": "2022-08-13T11:13:34.000000Z"
+                    }
+                },
+                {
+                    "id": 130769,
+                    "name": "Mji Mpya-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:19.000000Z",
+                    "updated_at": "2022-07-27T17:44:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130769,
+                        "created_at": "2022-08-13T11:13:34.000000Z",
+                        "updated_at": "2022-08-13T11:13:34.000000Z"
+                    }
+                },
+                {
+                    "id": 130770,
+                    "name": "Mji Mpya-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:19.000000Z",
+                    "updated_at": "2022-07-27T17:44:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130770,
+                        "created_at": "2022-08-13T11:13:35.000000Z",
+                        "updated_at": "2022-08-13T11:13:35.000000Z"
+                    }
+                },
+                {
+                    "id": 130771,
+                    "name": "Mji Mpya-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:19.000000Z",
+                    "updated_at": "2022-07-27T17:44:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130771,
+                        "created_at": "2022-08-13T11:13:35.000000Z",
+                        "updated_at": "2022-08-13T11:13:35.000000Z"
+                    }
+                },
+                {
+                    "id": 130772,
+                    "name": "Mji Mpya-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:19.000000Z",
+                    "updated_at": "2022-07-27T17:44:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130772,
+                        "created_at": "2022-08-13T11:13:35.000000Z",
+                        "updated_at": "2022-08-13T11:13:35.000000Z"
+                    }
+                },
+                {
+                    "id": 130773,
+                    "name": "Mji Mpya-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:19.000000Z",
+                    "updated_at": "2022-07-27T17:44:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130773,
+                        "created_at": "2022-08-13T11:13:35.000000Z",
+                        "updated_at": "2022-08-13T11:13:35.000000Z"
+                    }
+                },
+                {
+                    "id": 130774,
+                    "name": "Mji Mpya-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:19.000000Z",
+                    "updated_at": "2022-07-27T17:44:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130774,
+                        "created_at": "2022-08-13T11:13:36.000000Z",
+                        "updated_at": "2022-08-13T11:13:36.000000Z"
+                    }
+                },
+                {
+                    "id": 130775,
+                    "name": "Mji Mpya-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:19.000000Z",
+                    "updated_at": "2022-07-27T17:44:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130775,
+                        "created_at": "2022-08-13T11:13:36.000000Z",
+                        "updated_at": "2022-08-13T11:13:36.000000Z"
+                    }
+                },
+                {
+                    "id": 130776,
+                    "name": "Mji Mpya-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:20.000000Z",
+                    "updated_at": "2022-07-27T17:44:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130776,
+                        "created_at": "2022-08-13T11:13:36.000000Z",
+                        "updated_at": "2022-08-13T11:13:36.000000Z"
+                    }
+                },
+                {
+                    "id": 130777,
+                    "name": "Mji Mpya-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:20.000000Z",
+                    "updated_at": "2022-07-27T17:44:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130777,
+                        "created_at": "2022-08-13T11:13:37.000000Z",
+                        "updated_at": "2022-08-13T11:13:37.000000Z"
+                    }
+                },
+                {
+                    "id": 130778,
+                    "name": "Mji Mpya-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:20.000000Z",
+                    "updated_at": "2022-07-27T17:44:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130778,
+                        "created_at": "2022-08-13T11:13:37.000000Z",
+                        "updated_at": "2022-08-13T11:13:37.000000Z"
+                    }
+                },
+                {
+                    "id": 130779,
+                    "name": "Mji Mpya-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:20.000000Z",
+                    "updated_at": "2022-07-27T17:44:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130779,
+                        "created_at": "2022-08-13T11:13:37.000000Z",
+                        "updated_at": "2022-08-13T11:13:37.000000Z"
+                    }
+                },
+                {
+                    "id": 130780,
+                    "name": "Mji Mpya-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:20.000000Z",
+                    "updated_at": "2022-07-27T17:44:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72298,
+                        "area_id": 130780,
+                        "created_at": "2022-08-13T11:13:38.000000Z",
+                        "updated_at": "2022-08-13T11:13:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72299,
+            "name": "MNYAMANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72295,
+                "name": "MNYAMANI",
+                "postcode": "12118",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130801,
+                    "name": "Mnyamani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:24.000000Z",
+                    "updated_at": "2022-07-27T17:44:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130801,
+                        "created_at": "2022-08-13T11:13:40.000000Z",
+                        "updated_at": "2022-08-13T11:13:40.000000Z"
+                    }
+                },
+                {
+                    "id": 130802,
+                    "name": "Mnyamani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:24.000000Z",
+                    "updated_at": "2022-07-27T17:44:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130802,
+                        "created_at": "2022-08-13T11:13:40.000000Z",
+                        "updated_at": "2022-08-13T11:13:40.000000Z"
+                    }
+                },
+                {
+                    "id": 130803,
+                    "name": "Mnyamani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:24.000000Z",
+                    "updated_at": "2022-07-27T17:44:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130803,
+                        "created_at": "2022-08-13T11:13:41.000000Z",
+                        "updated_at": "2022-08-13T11:13:41.000000Z"
+                    }
+                },
+                {
+                    "id": 130804,
+                    "name": "Mnyamani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:24.000000Z",
+                    "updated_at": "2022-07-27T17:44:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130804,
+                        "created_at": "2022-08-13T11:13:41.000000Z",
+                        "updated_at": "2022-08-13T11:13:41.000000Z"
+                    }
+                },
+                {
+                    "id": 130805,
+                    "name": "Mnyamani-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:25.000000Z",
+                    "updated_at": "2022-07-27T17:44:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130805,
+                        "created_at": "2022-08-13T11:13:41.000000Z",
+                        "updated_at": "2022-08-13T11:13:41.000000Z"
+                    }
+                },
+                {
+                    "id": 130806,
+                    "name": "Mnyamani-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:25.000000Z",
+                    "updated_at": "2022-07-27T17:44:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130806,
+                        "created_at": "2022-08-13T11:13:42.000000Z",
+                        "updated_at": "2022-08-13T11:13:42.000000Z"
+                    }
+                },
+                {
+                    "id": 130807,
+                    "name": "Mnyamani-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:25.000000Z",
+                    "updated_at": "2022-07-27T17:44:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130807,
+                        "created_at": "2022-08-13T11:13:42.000000Z",
+                        "updated_at": "2022-08-13T11:13:42.000000Z"
+                    }
+                },
+                {
+                    "id": 130808,
+                    "name": "Mnyamani-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:25.000000Z",
+                    "updated_at": "2022-07-27T17:44:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130808,
+                        "created_at": "2022-08-13T11:13:42.000000Z",
+                        "updated_at": "2022-08-13T11:13:42.000000Z"
+                    }
+                },
+                {
+                    "id": 130809,
+                    "name": "Mnyamani-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:25.000000Z",
+                    "updated_at": "2022-07-27T17:44:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130809,
+                        "created_at": "2022-08-13T11:13:43.000000Z",
+                        "updated_at": "2022-08-13T11:13:43.000000Z"
+                    }
+                },
+                {
+                    "id": 130810,
+                    "name": "Mnyamani-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:26.000000Z",
+                    "updated_at": "2022-07-27T17:44:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130810,
+                        "created_at": "2022-08-13T11:13:43.000000Z",
+                        "updated_at": "2022-08-13T11:13:43.000000Z"
+                    }
+                },
+                {
+                    "id": 130811,
+                    "name": "Mnyamani-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:26.000000Z",
+                    "updated_at": "2022-07-27T17:44:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130811,
+                        "created_at": "2022-08-13T11:13:43.000000Z",
+                        "updated_at": "2022-08-13T11:13:43.000000Z"
+                    }
+                },
+                {
+                    "id": 130812,
+                    "name": "Mnyamani-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:26.000000Z",
+                    "updated_at": "2022-07-27T17:44:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130812,
+                        "created_at": "2022-08-13T11:13:44.000000Z",
+                        "updated_at": "2022-08-13T11:13:44.000000Z"
+                    }
+                },
+                {
+                    "id": 130813,
+                    "name": "Mnyamani-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:26.000000Z",
+                    "updated_at": "2022-07-27T17:44:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130813,
+                        "created_at": "2022-08-13T11:13:44.000000Z",
+                        "updated_at": "2022-08-13T11:13:44.000000Z"
+                    }
+                },
+                {
+                    "id": 130814,
+                    "name": "Mnyamani-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:26.000000Z",
+                    "updated_at": "2022-07-27T17:44:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130814,
+                        "created_at": "2022-08-13T11:13:44.000000Z",
+                        "updated_at": "2022-08-13T11:13:44.000000Z"
+                    }
+                },
+                {
+                    "id": 130815,
+                    "name": "Mnyamani-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:27.000000Z",
+                    "updated_at": "2022-07-27T17:44:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130815,
+                        "created_at": "2022-08-13T11:13:45.000000Z",
+                        "updated_at": "2022-08-13T11:13:45.000000Z"
+                    }
+                },
+                {
+                    "id": 130816,
+                    "name": "Mnyamani-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:27.000000Z",
+                    "updated_at": "2022-07-27T17:44:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130816,
+                        "created_at": "2022-08-13T11:13:45.000000Z",
+                        "updated_at": "2022-08-13T11:13:45.000000Z"
+                    }
+                },
+                {
+                    "id": 130817,
+                    "name": "Mnyamani-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:27.000000Z",
+                    "updated_at": "2022-07-27T17:44:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130817,
+                        "created_at": "2022-08-13T11:13:45.000000Z",
+                        "updated_at": "2022-08-13T11:13:45.000000Z"
+                    }
+                },
+                {
+                    "id": 130818,
+                    "name": "Mnyamani-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:27.000000Z",
+                    "updated_at": "2022-07-27T17:44:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130818,
+                        "created_at": "2022-08-13T11:13:46.000000Z",
+                        "updated_at": "2022-08-13T11:13:46.000000Z"
+                    }
+                },
+                {
+                    "id": 130819,
+                    "name": "Mnyamani-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:27.000000Z",
+                    "updated_at": "2022-07-27T17:44:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130819,
+                        "created_at": "2022-08-13T11:13:46.000000Z",
+                        "updated_at": "2022-08-13T11:13:46.000000Z"
+                    }
+                },
+                {
+                    "id": 130820,
+                    "name": "Mnyamani-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:28.000000Z",
+                    "updated_at": "2022-07-27T17:44:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130820,
+                        "created_at": "2022-08-13T11:13:46.000000Z",
+                        "updated_at": "2022-08-13T11:13:46.000000Z"
+                    }
+                },
+                {
+                    "id": 130821,
+                    "name": "Mnyamani-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:28.000000Z",
+                    "updated_at": "2022-07-27T17:44:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130821,
+                        "created_at": "2022-08-13T11:13:47.000000Z",
+                        "updated_at": "2022-08-13T11:13:47.000000Z"
+                    }
+                },
+                {
+                    "id": 130822,
+                    "name": "Mnyamani-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:28.000000Z",
+                    "updated_at": "2022-07-27T17:44:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130822,
+                        "created_at": "2022-08-13T11:13:47.000000Z",
+                        "updated_at": "2022-08-13T11:13:47.000000Z"
+                    }
+                },
+                {
+                    "id": 130823,
+                    "name": "Mnyamani-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:28.000000Z",
+                    "updated_at": "2022-07-27T17:44:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130823,
+                        "created_at": "2022-08-13T11:13:47.000000Z",
+                        "updated_at": "2022-08-13T11:13:47.000000Z"
+                    }
+                },
+                {
+                    "id": 130824,
+                    "name": "Mnyamani-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:44:29.000000Z",
+                    "updated_at": "2022-07-27T17:44:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72299,
+                        "area_id": 130824,
+                        "created_at": "2022-08-13T11:13:48.000000Z",
+                        "updated_at": "2022-08-13T11:13:48.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
