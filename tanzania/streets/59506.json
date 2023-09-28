@@ -1,0 +1,903 @@
+{
+    "data": [
+        {
+            "id": 79414,
+            "name": "IHELA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 79411,
+                "name": "TANDALA",
+                "postcode": "59506",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 70923,
+                    "name": "MAKETE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 70904,
+                        "name": "MAKETE",
+                        "postcode": "595",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70887,
+                            "name": "NJOMBE",
+                            "postcode": "59",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 120199,
+                    "name": "Maganga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:46.000000Z",
+                    "updated_at": "2022-07-27T10:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79414,
+                        "area_id": 120199,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                },
+                {
+                    "id": 120200,
+                    "name": "Ujovela",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:46.000000Z",
+                    "updated_at": "2022-07-27T10:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79414,
+                        "area_id": 120200,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                },
+                {
+                    "id": 120201,
+                    "name": "Ntagala (Tagara)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:47.000000Z",
+                    "updated_at": "2022-07-27T10:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79414,
+                        "area_id": 120201,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                },
+                {
+                    "id": 120202,
+                    "name": "Ihela Shuleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:47.000000Z",
+                    "updated_at": "2022-07-27T10:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79414,
+                        "area_id": 120202,
+                        "created_at": "2022-08-12T15:53:22.000000Z",
+                        "updated_at": "2022-08-12T15:53:22.000000Z"
+                    }
+                },
+                {
+                    "id": 120203,
+                    "name": "Usimwa (Uswimwa)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:47.000000Z",
+                    "updated_at": "2022-07-27T10:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79414,
+                        "area_id": 120203,
+                        "created_at": "2022-08-12T15:53:22.000000Z",
+                        "updated_at": "2022-08-12T15:53:22.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 79413,
+            "name": "IKONDA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 79411,
+                "name": "TANDALA",
+                "postcode": "59506",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 70923,
+                    "name": "MAKETE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 70904,
+                        "name": "MAKETE",
+                        "postcode": "595",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70887,
+                            "name": "NJOMBE",
+                            "postcode": "59",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 120204,
+                    "name": "Lutsala",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:47.000000Z",
+                    "updated_at": "2022-07-27T10:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79413,
+                        "area_id": 120204,
+                        "created_at": "2022-08-12T15:53:22.000000Z",
+                        "updated_at": "2022-08-12T15:53:22.000000Z"
+                    }
+                },
+                {
+                    "id": 120205,
+                    "name": "Bara",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:47.000000Z",
+                    "updated_at": "2022-07-27T10:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "301",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79413,
+                        "area_id": 120205,
+                        "created_at": "2022-08-12T15:53:22.000000Z",
+                        "updated_at": "2022-08-12T15:53:22.000000Z"
+                    }
+                },
+                {
+                    "id": 120206,
+                    "name": "Gongoti",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:48.000000Z",
+                    "updated_at": "2022-07-27T10:07:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "302",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79413,
+                        "area_id": 120206,
+                        "created_at": "2022-08-12T15:53:23.000000Z",
+                        "updated_at": "2022-08-12T15:53:23.000000Z"
+                    }
+                },
+                {
+                    "id": 120207,
+                    "name": "Ikonda Bonde (Ikonda Bondeni)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:48.000000Z",
+                    "updated_at": "2022-07-27T10:07:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "303",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79413,
+                        "area_id": 120207,
+                        "created_at": "2022-08-12T15:53:23.000000Z",
+                        "updated_at": "2022-08-12T15:53:23.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 79412,
+            "name": "TANDALA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 79411,
+                "name": "TANDALA",
+                "postcode": "59506",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 70923,
+                    "name": "MAKETE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 70904,
+                        "name": "MAKETE",
+                        "postcode": "595",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70887,
+                            "name": "NJOMBE",
+                            "postcode": "59",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 120188,
+                    "name": "Utsewa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:41.000000Z",
+                    "updated_at": "2022-07-27T10:07:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79412,
+                        "area_id": 120188,
+                        "created_at": "2022-08-12T15:53:14.000000Z",
+                        "updated_at": "2022-08-12T15:53:14.000000Z"
+                    }
+                },
+                {
+                    "id": 120189,
+                    "name": "Lwangilo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:42.000000Z",
+                    "updated_at": "2022-07-27T10:07:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "301",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79412,
+                        "area_id": 120189,
+                        "created_at": "2022-08-12T15:53:15.000000Z",
+                        "updated_at": "2022-08-12T15:53:15.000000Z"
+                    }
+                },
+                {
+                    "id": 120190,
+                    "name": "Chuoni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:43.000000Z",
+                    "updated_at": "2022-07-27T10:07:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "302",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79412,
+                        "area_id": 120190,
+                        "created_at": "2022-08-12T15:53:16.000000Z",
+                        "updated_at": "2022-08-12T15:53:16.000000Z"
+                    }
+                },
+                {
+                    "id": 120191,
+                    "name": "Kilovoko",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:44.000000Z",
+                    "updated_at": "2022-07-27T10:07:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "303",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79412,
+                        "area_id": 120191,
+                        "created_at": "2022-08-12T15:53:17.000000Z",
+                        "updated_at": "2022-08-12T15:53:17.000000Z"
+                    }
+                },
+                {
+                    "id": 120192,
+                    "name": "Posta",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:44.000000Z",
+                    "updated_at": "2022-07-27T10:07:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "304",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79412,
+                        "area_id": 120192,
+                        "created_at": "2022-08-12T15:53:18.000000Z",
+                        "updated_at": "2022-08-12T15:53:18.000000Z"
+                    }
+                },
+                {
+                    "id": 120193,
+                    "name": "Singida",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:45.000000Z",
+                    "updated_at": "2022-07-27T10:07:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "305",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79412,
+                        "area_id": 120193,
+                        "created_at": "2022-08-12T15:53:19.000000Z",
+                        "updated_at": "2022-08-12T15:53:19.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 79415,
+            "name": "USAGATIKWA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 79411,
+                "name": "TANDALA",
+                "postcode": "59506",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 70923,
+                    "name": "MAKETE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 70904,
+                        "name": "MAKETE",
+                        "postcode": "595",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70887,
+                            "name": "NJOMBE",
+                            "postcode": "59",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 120194,
+                    "name": "Wambuliwa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:46.000000Z",
+                    "updated_at": "2022-07-27T10:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79415,
+                        "area_id": 120194,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                },
+                {
+                    "id": 120195,
+                    "name": "Ipondo (Ipindo)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:46.000000Z",
+                    "updated_at": "2022-07-27T10:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79415,
+                        "area_id": 120195,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                },
+                {
+                    "id": 120196,
+                    "name": "Kidasi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:46.000000Z",
+                    "updated_at": "2022-07-27T10:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79415,
+                        "area_id": 120196,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                },
+                {
+                    "id": 120197,
+                    "name": "Kina",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:46.000000Z",
+                    "updated_at": "2022-07-27T10:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79415,
+                        "area_id": 120197,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                },
+                {
+                    "id": 120198,
+                    "name": "Kidimilo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:07:46.000000Z",
+                    "updated_at": "2022-07-27T10:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 79415,
+                        "area_id": 120198,
+                        "created_at": "2022-08-12T15:53:21.000000Z",
+                        "updated_at": "2022-08-12T15:53:21.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 109073,
+            "name": "USANGATIKWA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 79411,
+                "name": "TANDALA",
+                "postcode": "59506",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 70923,
+                    "name": "MAKETE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 70904,
+                        "name": "MAKETE",
+                        "postcode": "595",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70887,
+                            "name": "NJOMBE",
+                            "postcode": "59",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        }
+    ]
+}
