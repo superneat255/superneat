@@ -1,0 +1,824 @@
+{
+    "data": [
+        {
+            "id": 81927,
+            "name": "CHUNGU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81925,
+                "name": "GIBISHI",
+                "postcode": "39131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81830,
+                    "name": "BARIADI DISTRICT COUNCIL",
+                    "postcode": "391",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81726,
+                        "name": "BARIADI",
+                        "postcode": "391",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 134925,
+                    "name": "Maganzo 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:09.000000Z",
+                    "updated_at": "2022-07-28T13:06:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81927,
+                        "area_id": 134925,
+                        "created_at": "2022-08-12T14:24:38.000000Z",
+                        "updated_at": "2022-08-12T14:24:38.000000Z"
+                    }
+                },
+                {
+                    "id": 134926,
+                    "name": "Maganzo 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:09.000000Z",
+                    "updated_at": "2022-07-28T13:06:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81927,
+                        "area_id": 134926,
+                        "created_at": "2022-08-12T14:24:38.000000Z",
+                        "updated_at": "2022-08-12T14:24:38.000000Z"
+                    }
+                },
+                {
+                    "id": 134927,
+                    "name": "Songambele",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:09.000000Z",
+                    "updated_at": "2022-07-28T13:06:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81927,
+                        "area_id": 134927,
+                        "created_at": "2022-08-12T14:24:38.000000Z",
+                        "updated_at": "2022-08-12T14:24:38.000000Z"
+                    }
+                },
+                {
+                    "id": 134928,
+                    "name": "Chungu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:09.000000Z",
+                    "updated_at": "2022-07-28T13:06:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81927,
+                        "area_id": 134928,
+                        "created_at": "2022-08-12T14:24:38.000000Z",
+                        "updated_at": "2022-08-12T14:24:38.000000Z"
+                    }
+                },
+                {
+                    "id": 134929,
+                    "name": "Itundulu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:10.000000Z",
+                    "updated_at": "2022-07-28T13:06:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81927,
+                        "area_id": 134929,
+                        "created_at": "2022-08-12T14:24:38.000000Z",
+                        "updated_at": "2022-08-12T14:24:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81926,
+            "name": "GIBISHI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81925,
+                "name": "GIBISHI",
+                "postcode": "39131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81830,
+                    "name": "BARIADI DISTRICT COUNCIL",
+                    "postcode": "391",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81726,
+                        "name": "BARIADI",
+                        "postcode": "391",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 134930,
+                    "name": "Mlimani 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:10.000000Z",
+                    "updated_at": "2022-07-28T13:06:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81926,
+                        "area_id": 134930,
+                        "created_at": "2022-08-12T14:24:39.000000Z",
+                        "updated_at": "2022-08-12T14:24:39.000000Z"
+                    }
+                },
+                {
+                    "id": 134931,
+                    "name": "Madukani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:10.000000Z",
+                    "updated_at": "2022-07-28T13:06:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81926,
+                        "area_id": 134931,
+                        "created_at": "2022-08-12T14:24:39.000000Z",
+                        "updated_at": "2022-08-12T14:24:39.000000Z"
+                    }
+                },
+                {
+                    "id": 134932,
+                    "name": "Mlimani 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:10.000000Z",
+                    "updated_at": "2022-07-28T13:06:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81926,
+                        "area_id": 134932,
+                        "created_at": "2022-08-12T14:24:39.000000Z",
+                        "updated_at": "2022-08-12T14:24:39.000000Z"
+                    }
+                },
+                {
+                    "id": 134933,
+                    "name": "Ihusi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:10.000000Z",
+                    "updated_at": "2022-07-28T13:06:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81926,
+                        "area_id": 134933,
+                        "created_at": "2022-08-12T14:24:39.000000Z",
+                        "updated_at": "2022-08-12T14:24:39.000000Z"
+                    }
+                },
+                {
+                    "id": 134934,
+                    "name": "Kanada",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:10.000000Z",
+                    "updated_at": "2022-07-28T13:06:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81926,
+                        "area_id": 134934,
+                        "created_at": "2022-08-12T14:24:40.000000Z",
+                        "updated_at": "2022-08-12T14:24:40.000000Z"
+                    }
+                },
+                {
+                    "id": 134935,
+                    "name": "Kahama",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:11.000000Z",
+                    "updated_at": "2022-07-28T13:06:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81926,
+                        "area_id": 134935,
+                        "created_at": "2022-08-12T14:24:40.000000Z",
+                        "updated_at": "2022-08-12T14:24:40.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81929,
+            "name": "IHULA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81925,
+                "name": "GIBISHI",
+                "postcode": "39131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81830,
+                    "name": "BARIADI DISTRICT COUNCIL",
+                    "postcode": "391",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81726,
+                        "name": "BARIADI",
+                        "postcode": "391",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 134941,
+                    "name": "Guya",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:12.000000Z",
+                    "updated_at": "2022-07-28T13:06:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81929,
+                        "area_id": 134941,
+                        "created_at": "2022-08-12T14:24:42.000000Z",
+                        "updated_at": "2022-08-12T14:24:42.000000Z"
+                    }
+                },
+                {
+                    "id": 134942,
+                    "name": "Ihula",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:12.000000Z",
+                    "updated_at": "2022-07-28T13:06:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81929,
+                        "area_id": 134942,
+                        "created_at": "2022-08-12T14:24:42.000000Z",
+                        "updated_at": "2022-08-12T14:24:42.000000Z"
+                    }
+                },
+                {
+                    "id": 134943,
+                    "name": "Ikungulyaza",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:12.000000Z",
+                    "updated_at": "2022-07-28T13:06:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81929,
+                        "area_id": 134943,
+                        "created_at": "2022-08-12T14:24:42.000000Z",
+                        "updated_at": "2022-08-12T14:24:42.000000Z"
+                    }
+                },
+                {
+                    "id": 134944,
+                    "name": "Duma",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:12.000000Z",
+                    "updated_at": "2022-07-28T13:06:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81929,
+                        "area_id": 134944,
+                        "created_at": "2022-08-12T14:24:42.000000Z",
+                        "updated_at": "2022-08-12T14:24:42.000000Z"
+                    }
+                },
+                {
+                    "id": 134945,
+                    "name": "Mbugani 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:12.000000Z",
+                    "updated_at": "2022-07-28T13:06:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81929,
+                        "area_id": 134945,
+                        "created_at": "2022-08-12T14:24:42.000000Z",
+                        "updated_at": "2022-08-12T14:24:42.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81928,
+            "name": "MWABASABI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81925,
+                "name": "GIBISHI",
+                "postcode": "39131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81830,
+                    "name": "BARIADI DISTRICT COUNCIL",
+                    "postcode": "391",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81726,
+                        "name": "BARIADI",
+                        "postcode": "391",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 134936,
+                    "name": "Mwabasabi 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:11.000000Z",
+                    "updated_at": "2022-07-28T13:06:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81928,
+                        "area_id": 134936,
+                        "created_at": "2022-08-12T14:24:40.000000Z",
+                        "updated_at": "2022-08-12T14:24:40.000000Z"
+                    }
+                },
+                {
+                    "id": 134937,
+                    "name": "Kisesa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:11.000000Z",
+                    "updated_at": "2022-07-28T13:06:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81928,
+                        "area_id": 134937,
+                        "created_at": "2022-08-12T14:24:41.000000Z",
+                        "updated_at": "2022-08-12T14:24:41.000000Z"
+                    }
+                },
+                {
+                    "id": 134938,
+                    "name": "Mbugani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:11.000000Z",
+                    "updated_at": "2022-07-28T13:06:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81928,
+                        "area_id": 134938,
+                        "created_at": "2022-08-12T14:24:41.000000Z",
+                        "updated_at": "2022-08-12T14:24:41.000000Z"
+                    }
+                },
+                {
+                    "id": 134939,
+                    "name": "Mwabasabi 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:11.000000Z",
+                    "updated_at": "2022-07-28T13:06:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81928,
+                        "area_id": 134939,
+                        "created_at": "2022-08-12T14:24:41.000000Z",
+                        "updated_at": "2022-08-12T14:24:41.000000Z"
+                    }
+                },
+                {
+                    "id": 134940,
+                    "name": "Madukani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-28T13:06:12.000000Z",
+                    "updated_at": "2022-07-28T13:06:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81928,
+                        "area_id": 134940,
+                        "created_at": "2022-08-12T14:24:42.000000Z",
+                        "updated_at": "2022-08-12T14:24:42.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
