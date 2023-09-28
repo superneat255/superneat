@@ -1,0 +1,564 @@
+{
+    "data": [
+        {
+            "id": 77496,
+            "name": "CHITANDI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 77495,
+                "name": "NANGWALA",
+                "postcode": "63433",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77439,
+                    "name": "NEWALA TOWN COUNCIL",
+                    "postcode": "634",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77438,
+                        "name": "NEWALA",
+                        "postcode": "634",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 142309,
+                    "name": "Chitandi-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:35.000000Z",
+                    "updated_at": "2022-07-30T08:30:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77496,
+                        "area_id": 142309,
+                        "created_at": "2022-08-13T06:30:58.000000Z",
+                        "updated_at": "2022-08-13T06:30:58.000000Z"
+                    }
+                },
+                {
+                    "id": 142310,
+                    "name": "Chitandi-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:35.000000Z",
+                    "updated_at": "2022-07-30T08:30:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77496,
+                        "area_id": 142310,
+                        "created_at": "2022-08-13T06:30:59.000000Z",
+                        "updated_at": "2022-08-13T06:30:59.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77497,
+            "name": "NANGWALA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 77495,
+                "name": "NANGWALA",
+                "postcode": "63433",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77439,
+                    "name": "NEWALA TOWN COUNCIL",
+                    "postcode": "634",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77438,
+                        "name": "NEWALA",
+                        "postcode": "634",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 142293,
+                    "name": "Nangwala-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:22.000000Z",
+                    "updated_at": "2022-07-30T08:30:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142293,
+                        "created_at": "2022-08-13T06:30:41.000000Z",
+                        "updated_at": "2022-08-13T06:30:41.000000Z"
+                    }
+                },
+                {
+                    "id": 142294,
+                    "name": "Nangwala-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:23.000000Z",
+                    "updated_at": "2022-07-30T08:30:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142294,
+                        "created_at": "2022-08-13T06:30:42.000000Z",
+                        "updated_at": "2022-08-13T06:30:42.000000Z"
+                    }
+                },
+                {
+                    "id": 142295,
+                    "name": "Nangwala-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:23.000000Z",
+                    "updated_at": "2022-07-30T08:30:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142295,
+                        "created_at": "2022-08-13T06:30:43.000000Z",
+                        "updated_at": "2022-08-13T06:30:43.000000Z"
+                    }
+                },
+                {
+                    "id": 142296,
+                    "name": "Nangwala-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:24.000000Z",
+                    "updated_at": "2022-07-30T08:30:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142296,
+                        "created_at": "2022-08-13T06:30:44.000000Z",
+                        "updated_at": "2022-08-13T06:30:44.000000Z"
+                    }
+                },
+                {
+                    "id": 142297,
+                    "name": "Nangwala-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:25.000000Z",
+                    "updated_at": "2022-07-30T08:30:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142297,
+                        "created_at": "2022-08-13T06:30:45.000000Z",
+                        "updated_at": "2022-08-13T06:30:45.000000Z"
+                    }
+                },
+                {
+                    "id": 142298,
+                    "name": "Nangwala-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:26.000000Z",
+                    "updated_at": "2022-07-30T08:30:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142298,
+                        "created_at": "2022-08-13T06:30:45.000000Z",
+                        "updated_at": "2022-08-13T06:30:45.000000Z"
+                    }
+                },
+                {
+                    "id": 142299,
+                    "name": "Nangwala-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:26.000000Z",
+                    "updated_at": "2022-07-30T08:30:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142299,
+                        "created_at": "2022-08-13T06:30:46.000000Z",
+                        "updated_at": "2022-08-13T06:30:46.000000Z"
+                    }
+                },
+                {
+                    "id": 142300,
+                    "name": "Nangwala-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:27.000000Z",
+                    "updated_at": "2022-07-30T08:30:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142300,
+                        "created_at": "2022-08-13T06:30:48.000000Z",
+                        "updated_at": "2022-08-13T06:30:48.000000Z"
+                    }
+                },
+                {
+                    "id": 142301,
+                    "name": "Nangwala-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:28.000000Z",
+                    "updated_at": "2022-07-30T08:30:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142301,
+                        "created_at": "2022-08-13T06:30:49.000000Z",
+                        "updated_at": "2022-08-13T06:30:49.000000Z"
+                    }
+                },
+                {
+                    "id": 142302,
+                    "name": "Nangwala-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:29.000000Z",
+                    "updated_at": "2022-07-30T08:30:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142302,
+                        "created_at": "2022-08-13T06:30:50.000000Z",
+                        "updated_at": "2022-08-13T06:30:50.000000Z"
+                    }
+                },
+                {
+                    "id": 142303,
+                    "name": "Nangwala-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:30.000000Z",
+                    "updated_at": "2022-07-30T08:30:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142303,
+                        "created_at": "2022-08-13T06:30:51.000000Z",
+                        "updated_at": "2022-08-13T06:30:51.000000Z"
+                    }
+                },
+                {
+                    "id": 142304,
+                    "name": "Nangwala-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:31.000000Z",
+                    "updated_at": "2022-07-30T08:30:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142304,
+                        "created_at": "2022-08-13T06:30:52.000000Z",
+                        "updated_at": "2022-08-13T06:30:52.000000Z"
+                    }
+                },
+                {
+                    "id": 142305,
+                    "name": "Nangwala-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:32.000000Z",
+                    "updated_at": "2022-07-30T08:30:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142305,
+                        "created_at": "2022-08-13T06:30:53.000000Z",
+                        "updated_at": "2022-08-13T06:30:53.000000Z"
+                    }
+                },
+                {
+                    "id": 142306,
+                    "name": "Nangwala-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:32.000000Z",
+                    "updated_at": "2022-07-30T08:30:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142306,
+                        "created_at": "2022-08-13T06:30:55.000000Z",
+                        "updated_at": "2022-08-13T06:30:55.000000Z"
+                    }
+                },
+                {
+                    "id": 142307,
+                    "name": "Nangwala-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:33.000000Z",
+                    "updated_at": "2022-07-30T08:30:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142307,
+                        "created_at": "2022-08-13T06:30:56.000000Z",
+                        "updated_at": "2022-08-13T06:30:56.000000Z"
+                    }
+                },
+                {
+                    "id": 142308,
+                    "name": "Nangwala-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T08:30:34.000000Z",
+                    "updated_at": "2022-07-30T08:30:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77497,
+                        "area_id": 142308,
+                        "created_at": "2022-08-13T06:30:57.000000Z",
+                        "updated_at": "2022-08-13T06:30:57.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
