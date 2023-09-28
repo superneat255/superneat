@@ -1,0 +1,1824 @@
+{
+    "data": [
+        {
+            "id": 71336,
+            "name": "BURKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71335,
+                "name": "OLASITI",
+                "postcode": "23119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71210,
+                    "name": "ARUSHA CITY COUNCIL",
+                    "postcode": "231",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71007,
+                        "name": "ARUSHA",
+                        "postcode": "232",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 107048,
+                    "name": "Burka-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:55:32.000000Z",
+                    "updated_at": "2022-07-26T11:55:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107048,
+                        "created_at": "2022-08-13T09:59:58.000000Z",
+                        "updated_at": "2022-08-13T09:59:58.000000Z"
+                    }
+                },
+                {
+                    "id": 107174,
+                    "name": "Burka-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:15.000000Z",
+                    "updated_at": "2022-07-26T11:56:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107174,
+                        "created_at": "2022-08-13T10:00:00.000000Z",
+                        "updated_at": "2022-08-13T10:00:00.000000Z"
+                    }
+                },
+                {
+                    "id": 107284,
+                    "name": "Burka-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:56.000000Z",
+                    "updated_at": "2022-07-26T11:56:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107284,
+                        "created_at": "2022-08-13T10:00:01.000000Z",
+                        "updated_at": "2022-08-13T10:00:01.000000Z"
+                    }
+                },
+                {
+                    "id": 107381,
+                    "name": "Burka-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:57:37.000000Z",
+                    "updated_at": "2022-07-26T11:57:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107381,
+                        "created_at": "2022-08-13T10:00:03.000000Z",
+                        "updated_at": "2022-08-13T10:00:03.000000Z"
+                    }
+                },
+                {
+                    "id": 107460,
+                    "name": "Burka-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:17.000000Z",
+                    "updated_at": "2022-07-26T11:58:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107460,
+                        "created_at": "2022-08-13T10:00:04.000000Z",
+                        "updated_at": "2022-08-13T10:00:04.000000Z"
+                    }
+                },
+                {
+                    "id": 107531,
+                    "name": "Burka-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:51.000000Z",
+                    "updated_at": "2022-07-26T11:58:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107531,
+                        "created_at": "2022-08-13T10:00:06.000000Z",
+                        "updated_at": "2022-08-13T10:00:06.000000Z"
+                    }
+                },
+                {
+                    "id": 107589,
+                    "name": "Burka-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:25.000000Z",
+                    "updated_at": "2022-07-26T11:59:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107589,
+                        "created_at": "2022-08-13T10:00:07.000000Z",
+                        "updated_at": "2022-08-13T10:00:07.000000Z"
+                    }
+                },
+                {
+                    "id": 107637,
+                    "name": "Burka-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:53.000000Z",
+                    "updated_at": "2022-07-26T11:59:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107637,
+                        "created_at": "2022-08-13T10:00:09.000000Z",
+                        "updated_at": "2022-08-13T10:00:09.000000Z"
+                    }
+                },
+                {
+                    "id": 107679,
+                    "name": "Burka-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:23.000000Z",
+                    "updated_at": "2022-07-26T12:00:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71336,
+                        "area_id": 107679,
+                        "created_at": "2022-08-13T10:00:11.000000Z",
+                        "updated_at": "2022-08-13T10:00:11.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 71337,
+            "name": "KIMINDOROSI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71335,
+                "name": "OLASITI",
+                "postcode": "23119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71210,
+                    "name": "ARUSHA CITY COUNCIL",
+                    "postcode": "231",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71007,
+                        "name": "ARUSHA",
+                        "postcode": "232",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 107050,
+                    "name": "Kimindorosi-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:55:34.000000Z",
+                    "updated_at": "2022-07-26T11:55:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107050,
+                        "created_at": "2022-08-13T10:00:16.000000Z",
+                        "updated_at": "2022-08-13T10:00:16.000000Z"
+                    }
+                },
+                {
+                    "id": 107176,
+                    "name": "Kimindorosi-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:17.000000Z",
+                    "updated_at": "2022-07-26T11:56:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107176,
+                        "created_at": "2022-08-13T10:00:18.000000Z",
+                        "updated_at": "2022-08-13T10:00:18.000000Z"
+                    }
+                },
+                {
+                    "id": 107286,
+                    "name": "Kimindorosi-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:58.000000Z",
+                    "updated_at": "2022-07-26T11:56:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107286,
+                        "created_at": "2022-08-13T10:00:20.000000Z",
+                        "updated_at": "2022-08-13T10:00:20.000000Z"
+                    }
+                },
+                {
+                    "id": 107383,
+                    "name": "Kimindorosi-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:57:39.000000Z",
+                    "updated_at": "2022-07-26T11:57:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107383,
+                        "created_at": "2022-08-13T10:00:22.000000Z",
+                        "updated_at": "2022-08-13T10:00:22.000000Z"
+                    }
+                },
+                {
+                    "id": 107462,
+                    "name": "Kimindorosi-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:19.000000Z",
+                    "updated_at": "2022-07-26T11:58:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107462,
+                        "created_at": "2022-08-13T10:00:24.000000Z",
+                        "updated_at": "2022-08-13T10:00:24.000000Z"
+                    }
+                },
+                {
+                    "id": 107533,
+                    "name": "Kimindorosi-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:53.000000Z",
+                    "updated_at": "2022-07-26T11:58:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107533,
+                        "created_at": "2022-08-13T10:00:26.000000Z",
+                        "updated_at": "2022-08-13T10:00:26.000000Z"
+                    }
+                },
+                {
+                    "id": 107591,
+                    "name": "Kimindorosi-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:28.000000Z",
+                    "updated_at": "2022-07-26T11:59:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107591,
+                        "created_at": "2022-08-13T10:00:28.000000Z",
+                        "updated_at": "2022-08-13T10:00:28.000000Z"
+                    }
+                },
+                {
+                    "id": 107639,
+                    "name": "Kimindorosi-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:56.000000Z",
+                    "updated_at": "2022-07-26T11:59:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107639,
+                        "created_at": "2022-08-13T10:00:30.000000Z",
+                        "updated_at": "2022-08-13T10:00:30.000000Z"
+                    }
+                },
+                {
+                    "id": 107681,
+                    "name": "Kimindorosi-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:26.000000Z",
+                    "updated_at": "2022-07-26T12:00:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107681,
+                        "created_at": "2022-08-13T10:00:33.000000Z",
+                        "updated_at": "2022-08-13T10:00:33.000000Z"
+                    }
+                },
+                {
+                    "id": 107713,
+                    "name": "Kimindorosi-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:53.000000Z",
+                    "updated_at": "2022-07-26T12:00:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107713,
+                        "created_at": "2022-08-13T10:00:35.000000Z",
+                        "updated_at": "2022-08-13T10:00:35.000000Z"
+                    }
+                },
+                {
+                    "id": 107739,
+                    "name": "Kimindorosi-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:01:17.000000Z",
+                    "updated_at": "2022-07-26T12:01:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107739,
+                        "created_at": "2022-08-13T10:00:37.000000Z",
+                        "updated_at": "2022-08-13T10:00:37.000000Z"
+                    }
+                },
+                {
+                    "id": 107760,
+                    "name": "Kimindorosi-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:01:39.000000Z",
+                    "updated_at": "2022-07-26T12:01:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107760,
+                        "created_at": "2022-08-13T10:00:40.000000Z",
+                        "updated_at": "2022-08-13T10:00:40.000000Z"
+                    }
+                },
+                {
+                    "id": 107780,
+                    "name": "Kimindorosi-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:02:03.000000Z",
+                    "updated_at": "2022-07-26T12:02:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107780,
+                        "created_at": "2022-08-13T10:00:42.000000Z",
+                        "updated_at": "2022-08-13T10:00:42.000000Z"
+                    }
+                },
+                {
+                    "id": 107798,
+                    "name": "Kimindorosi-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:02:26.000000Z",
+                    "updated_at": "2022-07-26T12:02:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107798,
+                        "created_at": "2022-08-13T10:00:44.000000Z",
+                        "updated_at": "2022-08-13T10:00:44.000000Z"
+                    }
+                },
+                {
+                    "id": 107816,
+                    "name": "Kimindorosi-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:02:50.000000Z",
+                    "updated_at": "2022-07-26T12:02:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107816,
+                        "created_at": "2022-08-13T10:00:47.000000Z",
+                        "updated_at": "2022-08-13T10:00:47.000000Z"
+                    }
+                },
+                {
+                    "id": 107834,
+                    "name": "Kimindorosi-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:03:15.000000Z",
+                    "updated_at": "2022-07-26T12:03:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71337,
+                        "area_id": 107834,
+                        "created_at": "2022-08-13T10:00:50.000000Z",
+                        "updated_at": "2022-08-13T10:00:50.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 71338,
+            "name": "OLASITI CENTRE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71335,
+                "name": "OLASITI",
+                "postcode": "23119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71210,
+                    "name": "ARUSHA CITY COUNCIL",
+                    "postcode": "231",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71007,
+                        "name": "ARUSHA",
+                        "postcode": "232",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 107051,
+                    "name": "Olasiti Centre-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:55:35.000000Z",
+                    "updated_at": "2022-07-26T11:55:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107051,
+                        "created_at": "2022-08-13T10:00:53.000000Z",
+                        "updated_at": "2022-08-13T10:00:53.000000Z"
+                    }
+                },
+                {
+                    "id": 107177,
+                    "name": "Olasiti Centre-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:18.000000Z",
+                    "updated_at": "2022-07-26T11:56:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107177,
+                        "created_at": "2022-08-13T10:00:54.000000Z",
+                        "updated_at": "2022-08-13T10:00:54.000000Z"
+                    }
+                },
+                {
+                    "id": 107287,
+                    "name": "Olasiti Centre-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:59.000000Z",
+                    "updated_at": "2022-07-26T11:56:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107287,
+                        "created_at": "2022-08-13T10:00:55.000000Z",
+                        "updated_at": "2022-08-13T10:00:55.000000Z"
+                    }
+                },
+                {
+                    "id": 107384,
+                    "name": "Olasiti Centre-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:57:41.000000Z",
+                    "updated_at": "2022-07-26T11:57:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107384,
+                        "created_at": "2022-08-13T10:00:57.000000Z",
+                        "updated_at": "2022-08-13T10:00:57.000000Z"
+                    }
+                },
+                {
+                    "id": 107463,
+                    "name": "Olasiti Centre-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:20.000000Z",
+                    "updated_at": "2022-07-26T11:58:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107463,
+                        "created_at": "2022-08-13T10:00:58.000000Z",
+                        "updated_at": "2022-08-13T10:00:58.000000Z"
+                    }
+                },
+                {
+                    "id": 107534,
+                    "name": "Olasiti Centre-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:55.000000Z",
+                    "updated_at": "2022-07-26T11:58:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107534,
+                        "created_at": "2022-08-13T10:00:59.000000Z",
+                        "updated_at": "2022-08-13T10:00:59.000000Z"
+                    }
+                },
+                {
+                    "id": 107592,
+                    "name": "Olasiti Centre-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:29.000000Z",
+                    "updated_at": "2022-07-26T11:59:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107592,
+                        "created_at": "2022-08-13T10:01:00.000000Z",
+                        "updated_at": "2022-08-13T10:01:00.000000Z"
+                    }
+                },
+                {
+                    "id": 107640,
+                    "name": "Olasiti Centre-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:58.000000Z",
+                    "updated_at": "2022-07-26T11:59:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107640,
+                        "created_at": "2022-08-13T10:01:01.000000Z",
+                        "updated_at": "2022-08-13T10:01:01.000000Z"
+                    }
+                },
+                {
+                    "id": 107682,
+                    "name": "Olasiti Centre-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:28.000000Z",
+                    "updated_at": "2022-07-26T12:00:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107682,
+                        "created_at": "2022-08-13T10:01:03.000000Z",
+                        "updated_at": "2022-08-13T10:01:03.000000Z"
+                    }
+                },
+                {
+                    "id": 107714,
+                    "name": "Olasiti Centre-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:55.000000Z",
+                    "updated_at": "2022-07-26T12:00:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107714,
+                        "created_at": "2022-08-13T10:01:04.000000Z",
+                        "updated_at": "2022-08-13T10:01:04.000000Z"
+                    }
+                },
+                {
+                    "id": 107740,
+                    "name": "Olasiti Centre-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:01:18.000000Z",
+                    "updated_at": "2022-07-26T12:01:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71338,
+                        "area_id": 107740,
+                        "created_at": "2022-08-13T10:01:06.000000Z",
+                        "updated_at": "2022-08-13T10:01:06.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 89958,
+            "name": "OLKEREYAN",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71335,
+                "name": "OLASITI",
+                "postcode": "23119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71210,
+                    "name": "ARUSHA CITY COUNCIL",
+                    "postcode": "231",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71007,
+                        "name": "ARUSHA",
+                        "postcode": "232",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 107049,
+                    "name": "Olkeriyan-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:55:33.000000Z",
+                    "updated_at": "2022-07-26T11:55:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107049,
+                        "created_at": "2022-08-01T08:29:41.000000Z",
+                        "updated_at": "2022-08-01T08:29:41.000000Z"
+                    }
+                },
+                {
+                    "id": 107175,
+                    "name": "Olkeriyan-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:16.000000Z",
+                    "updated_at": "2022-07-26T11:56:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107175,
+                        "created_at": "2022-08-01T08:30:49.000000Z",
+                        "updated_at": "2022-08-01T08:30:49.000000Z"
+                    }
+                },
+                {
+                    "id": 107285,
+                    "name": "Olkeriyan-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:57.000000Z",
+                    "updated_at": "2022-07-26T11:56:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107285,
+                        "created_at": "2022-08-01T08:31:53.000000Z",
+                        "updated_at": "2022-08-01T08:31:53.000000Z"
+                    }
+                },
+                {
+                    "id": 107382,
+                    "name": "Olkeriyan-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:57:38.000000Z",
+                    "updated_at": "2022-07-26T11:57:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107382,
+                        "created_at": "2022-08-01T08:32:57.000000Z",
+                        "updated_at": "2022-08-01T08:32:57.000000Z"
+                    }
+                },
+                {
+                    "id": 107461,
+                    "name": "Olkeriyan-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:18.000000Z",
+                    "updated_at": "2022-07-26T11:58:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107461,
+                        "created_at": "2022-08-01T08:33:58.000000Z",
+                        "updated_at": "2022-08-01T08:33:58.000000Z"
+                    }
+                },
+                {
+                    "id": 107532,
+                    "name": "Olkeriyan-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:52.000000Z",
+                    "updated_at": "2022-07-26T11:58:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107532,
+                        "created_at": "2022-08-01T08:37:57.000000Z",
+                        "updated_at": "2022-08-01T08:37:57.000000Z"
+                    }
+                },
+                {
+                    "id": 107590,
+                    "name": "Olkeriyan-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:27.000000Z",
+                    "updated_at": "2022-07-26T11:59:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107590,
+                        "created_at": "2022-08-01T08:38:46.000000Z",
+                        "updated_at": "2022-08-01T08:38:46.000000Z"
+                    }
+                },
+                {
+                    "id": 107638,
+                    "name": "Olkeriyan-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:55.000000Z",
+                    "updated_at": "2022-07-26T11:59:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107638,
+                        "created_at": "2022-08-01T08:39:30.000000Z",
+                        "updated_at": "2022-08-01T08:39:30.000000Z"
+                    }
+                },
+                {
+                    "id": 107680,
+                    "name": "Olkeriyan-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:25.000000Z",
+                    "updated_at": "2022-07-26T12:00:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107680,
+                        "created_at": "2022-08-01T08:40:11.000000Z",
+                        "updated_at": "2022-08-01T08:40:11.000000Z"
+                    }
+                },
+                {
+                    "id": 107712,
+                    "name": "Olkeriyan-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:52.000000Z",
+                    "updated_at": "2022-07-26T12:00:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107712,
+                        "created_at": "2022-08-01T08:40:50.000000Z",
+                        "updated_at": "2022-08-01T08:40:50.000000Z"
+                    }
+                },
+                {
+                    "id": 107738,
+                    "name": "Olkeriyan-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:01:15.000000Z",
+                    "updated_at": "2022-07-26T12:01:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107738,
+                        "created_at": "2022-08-01T08:41:27.000000Z",
+                        "updated_at": "2022-08-01T08:41:27.000000Z"
+                    }
+                },
+                {
+                    "id": 107759,
+                    "name": "Olkeriyan-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:01:38.000000Z",
+                    "updated_at": "2022-07-26T12:01:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107759,
+                        "created_at": "2022-08-01T08:42:04.000000Z",
+                        "updated_at": "2022-08-01T08:42:04.000000Z"
+                    }
+                },
+                {
+                    "id": 107779,
+                    "name": "Olkeriyan-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:02:02.000000Z",
+                    "updated_at": "2022-07-26T12:02:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107779,
+                        "created_at": "2022-08-01T08:42:41.000000Z",
+                        "updated_at": "2022-08-01T08:42:41.000000Z"
+                    }
+                },
+                {
+                    "id": 107797,
+                    "name": "Olkeriyan-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:02:24.000000Z",
+                    "updated_at": "2022-07-26T12:02:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107797,
+                        "created_at": "2022-08-01T08:43:17.000000Z",
+                        "updated_at": "2022-08-01T08:43:17.000000Z"
+                    }
+                },
+                {
+                    "id": 107815,
+                    "name": "Olkeriyan-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:02:48.000000Z",
+                    "updated_at": "2022-07-26T12:02:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107815,
+                        "created_at": "2022-08-01T08:43:53.000000Z",
+                        "updated_at": "2022-08-01T08:43:53.000000Z"
+                    }
+                },
+                {
+                    "id": 107833,
+                    "name": "Olkeriyan-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:03:13.000000Z",
+                    "updated_at": "2022-07-26T12:03:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107833,
+                        "created_at": "2022-08-01T08:44:29.000000Z",
+                        "updated_at": "2022-08-01T08:44:29.000000Z"
+                    }
+                },
+                {
+                    "id": 107849,
+                    "name": "Olkeriyan-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:03:35.000000Z",
+                    "updated_at": "2022-07-26T12:03:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107849,
+                        "created_at": "2022-08-01T08:45:05.000000Z",
+                        "updated_at": "2022-08-01T08:45:05.000000Z"
+                    }
+                },
+                {
+                    "id": 107864,
+                    "name": "Olkeriyan-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:03:57.000000Z",
+                    "updated_at": "2022-07-26T12:03:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107864,
+                        "created_at": "2022-08-01T08:45:39.000000Z",
+                        "updated_at": "2022-08-01T08:45:39.000000Z"
+                    }
+                },
+                {
+                    "id": 107877,
+                    "name": "Olkeriyan-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:04:17.000000Z",
+                    "updated_at": "2022-07-26T12:04:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107877,
+                        "created_at": "2022-08-01T08:46:13.000000Z",
+                        "updated_at": "2022-08-01T08:46:13.000000Z"
+                    }
+                },
+                {
+                    "id": 107890,
+                    "name": "Olkeriyan-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:04:38.000000Z",
+                    "updated_at": "2022-07-26T12:04:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107890,
+                        "created_at": "2022-08-01T08:46:47.000000Z",
+                        "updated_at": "2022-08-01T08:46:47.000000Z"
+                    }
+                },
+                {
+                    "id": 107902,
+                    "name": "Olkeriyan-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:04:58.000000Z",
+                    "updated_at": "2022-07-26T12:04:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 89958,
+                        "area_id": 107902,
+                        "created_at": "2022-08-01T08:47:22.000000Z",
+                        "updated_at": "2022-08-01T08:47:22.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 71340,
+            "name": "OLORESHO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71335,
+                "name": "OLASITI",
+                "postcode": "23119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71210,
+                    "name": "ARUSHA CITY COUNCIL",
+                    "postcode": "231",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71007,
+                        "name": "ARUSHA",
+                        "postcode": "232",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 107052,
+                    "name": "Oloresho-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:55:36.000000Z",
+                    "updated_at": "2022-07-26T11:55:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107052,
+                        "created_at": "2022-08-13T10:01:07.000000Z",
+                        "updated_at": "2022-08-13T10:01:07.000000Z"
+                    }
+                },
+                {
+                    "id": 107178,
+                    "name": "Oloresho-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:56:18.000000Z",
+                    "updated_at": "2022-07-26T11:56:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107178,
+                        "created_at": "2022-08-13T10:01:08.000000Z",
+                        "updated_at": "2022-08-13T10:01:08.000000Z"
+                    }
+                },
+                {
+                    "id": 107288,
+                    "name": "Oloresho-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:57:00.000000Z",
+                    "updated_at": "2022-07-26T11:57:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107288,
+                        "created_at": "2022-08-13T10:01:08.000000Z",
+                        "updated_at": "2022-08-13T10:01:08.000000Z"
+                    }
+                },
+                {
+                    "id": 107385,
+                    "name": "Oloresho-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:57:42.000000Z",
+                    "updated_at": "2022-07-26T11:57:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107385,
+                        "created_at": "2022-08-13T10:01:09.000000Z",
+                        "updated_at": "2022-08-13T10:01:09.000000Z"
+                    }
+                },
+                {
+                    "id": 107464,
+                    "name": "Oloresho-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:21.000000Z",
+                    "updated_at": "2022-07-26T11:58:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107464,
+                        "created_at": "2022-08-13T10:01:09.000000Z",
+                        "updated_at": "2022-08-13T10:01:09.000000Z"
+                    }
+                },
+                {
+                    "id": 107535,
+                    "name": "Oloresho-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:58:55.000000Z",
+                    "updated_at": "2022-07-26T11:58:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107535,
+                        "created_at": "2022-08-13T10:01:10.000000Z",
+                        "updated_at": "2022-08-13T10:01:10.000000Z"
+                    }
+                },
+                {
+                    "id": 107593,
+                    "name": "Oloresho-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:30.000000Z",
+                    "updated_at": "2022-07-26T11:59:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107593,
+                        "created_at": "2022-08-13T10:01:10.000000Z",
+                        "updated_at": "2022-08-13T10:01:10.000000Z"
+                    }
+                },
+                {
+                    "id": 107641,
+                    "name": "Oloresho-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:59:59.000000Z",
+                    "updated_at": "2022-07-26T11:59:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107641,
+                        "created_at": "2022-08-13T10:01:11.000000Z",
+                        "updated_at": "2022-08-13T10:01:11.000000Z"
+                    }
+                },
+                {
+                    "id": 107683,
+                    "name": "Oloresho-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T12:00:29.000000Z",
+                    "updated_at": "2022-07-26T12:00:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71340,
+                        "area_id": 107683,
+                        "created_at": "2022-08-13T10:01:11.000000Z",
+                        "updated_at": "2022-08-13T10:01:11.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
