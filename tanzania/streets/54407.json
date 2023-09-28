@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "id": 83494,
+            "name": "ITUMBULA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83492,
+                "name": "IVUNA",
+                "postcode": "54407",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83468,
+                    "name": "MOMBA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83380,
+                        "name": "MOMBA",
+                        "postcode": "544",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 157841,
+                    "name": "Chumvi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:46.000000Z",
+                    "updated_at": "2022-08-08T09:00:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83494,
+                        "area_id": 157841,
+                        "created_at": "2022-08-08T11:40:01.000000Z",
+                        "updated_at": "2022-08-08T11:40:01.000000Z"
+                    }
+                },
+                {
+                    "id": 157842,
+                    "name": "Nakasanu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:46.000000Z",
+                    "updated_at": "2022-08-08T09:00:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83494,
+                        "area_id": 157842,
+                        "created_at": "2022-08-08T11:40:01.000000Z",
+                        "updated_at": "2022-08-08T11:40:01.000000Z"
+                    }
+                },
+                {
+                    "id": 157843,
+                    "name": "Moraviani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:46.000000Z",
+                    "updated_at": "2022-08-08T09:00:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83494,
+                        "area_id": 157843,
+                        "created_at": "2022-08-08T11:40:01.000000Z",
+                        "updated_at": "2022-08-08T11:40:01.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 83493,
+            "name": "IVUNA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83492,
+                "name": "IVUNA",
+                "postcode": "54407",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83468,
+                    "name": "MOMBA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83380,
+                        "name": "MOMBA",
+                        "postcode": "544",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 157837,
+                    "name": "Ikonje",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:45.000000Z",
+                    "updated_at": "2022-08-08T09:00:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83493,
+                        "area_id": 157837,
+                        "created_at": "2022-08-08T11:40:01.000000Z",
+                        "updated_at": "2022-08-08T11:40:01.000000Z"
+                    }
+                },
+                {
+                    "id": 157838,
+                    "name": "Mnyuzi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:46.000000Z",
+                    "updated_at": "2022-08-08T09:00:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83493,
+                        "area_id": 157838,
+                        "created_at": "2022-08-08T11:40:01.000000Z",
+                        "updated_at": "2022-08-08T11:40:01.000000Z"
+                    }
+                },
+                {
+                    "id": 157839,
+                    "name": "Kaloleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:46.000000Z",
+                    "updated_at": "2022-08-08T09:00:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83493,
+                        "area_id": 157839,
+                        "created_at": "2022-08-08T11:40:01.000000Z",
+                        "updated_at": "2022-08-08T11:40:01.000000Z"
+                    }
+                },
+                {
+                    "id": 157840,
+                    "name": "Kinamwene",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:46.000000Z",
+                    "updated_at": "2022-08-08T09:00:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83493,
+                        "area_id": 157840,
+                        "created_at": "2022-08-08T11:40:01.000000Z",
+                        "updated_at": "2022-08-08T11:40:01.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 83497,
+            "name": "KALUNGU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83492,
+                "name": "IVUNA",
+                "postcode": "54407",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83468,
+                    "name": "MOMBA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83380,
+                        "name": "MOMBA",
+                        "postcode": "544",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 157832,
+                    "name": "Kanisani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:45.000000Z",
+                    "updated_at": "2022-08-08T09:00:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83497,
+                        "area_id": 157832,
+                        "created_at": "2022-08-08T11:40:00.000000Z",
+                        "updated_at": "2022-08-08T11:40:00.000000Z"
+                    }
+                },
+                {
+                    "id": 157833,
+                    "name": "Kalungu \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:45.000000Z",
+                    "updated_at": "2022-08-08T09:00:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83497,
+                        "area_id": 157833,
+                        "created_at": "2022-08-08T11:40:00.000000Z",
+                        "updated_at": "2022-08-08T11:40:00.000000Z"
+                    }
+                },
+                {
+                    "id": 157834,
+                    "name": "Kalungu \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:45.000000Z",
+                    "updated_at": "2022-08-08T09:00:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83497,
+                        "area_id": 157834,
+                        "created_at": "2022-08-08T11:40:00.000000Z",
+                        "updated_at": "2022-08-08T11:40:00.000000Z"
+                    }
+                },
+                {
+                    "id": 157835,
+                    "name": "Mubuyuni (Mbuyuni)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:45.000000Z",
+                    "updated_at": "2022-08-08T09:00:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83497,
+                        "area_id": 157835,
+                        "created_at": "2022-08-08T11:40:00.000000Z",
+                        "updated_at": "2022-08-08T11:40:00.000000Z"
+                    }
+                },
+                {
+                    "id": 157836,
+                    "name": "Nankanga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:45.000000Z",
+                    "updated_at": "2022-08-08T09:00:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83497,
+                        "area_id": 157836,
+                        "created_at": "2022-08-08T11:40:00.000000Z",
+                        "updated_at": "2022-08-08T11:40:00.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 83495,
+            "name": "LWATWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83492,
+                "name": "IVUNA",
+                "postcode": "54407",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83468,
+                    "name": "MOMBA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83380,
+                        "name": "MOMBA",
+                        "postcode": "544",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 157827,
+                    "name": "Mshansha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83495,
+                        "area_id": 157827,
+                        "created_at": "2022-08-08T11:39:59.000000Z",
+                        "updated_at": "2022-08-08T11:39:59.000000Z"
+                    }
+                },
+                {
+                    "id": 157828,
+                    "name": "Mtakuja \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83495,
+                        "area_id": 157828,
+                        "created_at": "2022-08-08T11:39:59.000000Z",
+                        "updated_at": "2022-08-08T11:39:59.000000Z"
+                    }
+                },
+                {
+                    "id": 157829,
+                    "name": "Mtakuja \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83495,
+                        "area_id": 157829,
+                        "created_at": "2022-08-08T11:39:59.000000Z",
+                        "updated_at": "2022-08-08T11:39:59.000000Z"
+                    }
+                },
+                {
+                    "id": 157830,
+                    "name": "Mbambila",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83495,
+                        "area_id": 157830,
+                        "created_at": "2022-08-08T11:39:59.000000Z",
+                        "updated_at": "2022-08-08T11:39:59.000000Z"
+                    }
+                },
+                {
+                    "id": 157831,
+                    "name": "Inunka",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:45.000000Z",
+                    "updated_at": "2022-08-08T09:00:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83495,
+                        "area_id": 157831,
+                        "created_at": "2022-08-08T11:39:59.000000Z",
+                        "updated_at": "2022-08-08T11:39:59.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 102075,
+            "name": "SAMANG'OMBE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83492,
+                "name": "IVUNA",
+                "postcode": "54407",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83468,
+                    "name": "MOMBA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83380,
+                        "name": "MOMBA",
+                        "postcode": "544",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 157822,
+                    "name": "Masuche",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:43.000000Z",
+                    "updated_at": "2022-08-08T09:00:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 102075,
+                        "area_id": 157822,
+                        "created_at": "2022-08-08T11:39:58.000000Z",
+                        "updated_at": "2022-08-08T11:39:58.000000Z"
+                    }
+                },
+                {
+                    "id": 157823,
+                    "name": "Samang'ombe \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 102075,
+                        "area_id": 157823,
+                        "created_at": "2022-08-08T11:39:58.000000Z",
+                        "updated_at": "2022-08-08T11:39:58.000000Z"
+                    }
+                },
+                {
+                    "id": 157824,
+                    "name": "Samang'ombe \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 102075,
+                        "area_id": 157824,
+                        "created_at": "2022-08-08T11:39:58.000000Z",
+                        "updated_at": "2022-08-08T11:39:58.000000Z"
+                    }
+                },
+                {
+                    "id": 157825,
+                    "name": "Forodhani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 102075,
+                        "area_id": 157825,
+                        "created_at": "2022-08-08T11:39:58.000000Z",
+                        "updated_at": "2022-08-08T11:39:58.000000Z"
+                    }
+                },
+                {
+                    "id": 157826,
+                    "name": "Mshansha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:00:44.000000Z",
+                    "updated_at": "2022-08-08T09:00:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 102075,
+                        "area_id": 157826,
+                        "created_at": "2022-08-08T11:39:59.000000Z",
+                        "updated_at": "2022-08-08T11:39:59.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
