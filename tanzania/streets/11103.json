@@ -1,0 +1,906 @@
+{
+    "data": [
+        {
+            "id": 72159,
+            "name": "CHARAMBE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72157,
+                "name": "UPANGA MAGHARIBI",
+                "postcode": "11103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130137,
+                    "name": "Charambe-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130137,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130138,
+                    "name": "Charambe-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130138,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130139,
+                    "name": "Charambe-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130139,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130140,
+                    "name": "Charambe-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130140,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130141,
+                    "name": "Charambe-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130141,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130142,
+                    "name": "Charambe-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130142,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130143,
+                    "name": "Charambe-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130143,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130144,
+                    "name": "Charambe-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130144,
+                        "created_at": "2022-08-13T11:07:22.000000Z",
+                        "updated_at": "2022-08-13T11:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 130145,
+                    "name": "Charambe-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:09.000000Z",
+                    "updated_at": "2022-07-27T17:39:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130145,
+                        "created_at": "2022-08-13T11:07:23.000000Z",
+                        "updated_at": "2022-08-13T11:07:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130146,
+                    "name": "Charambe-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:09.000000Z",
+                    "updated_at": "2022-07-27T17:39:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130146,
+                        "created_at": "2022-08-13T11:07:23.000000Z",
+                        "updated_at": "2022-08-13T11:07:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130147,
+                    "name": "Charambe-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:09.000000Z",
+                    "updated_at": "2022-07-27T17:39:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130147,
+                        "created_at": "2022-08-13T11:07:23.000000Z",
+                        "updated_at": "2022-08-13T11:07:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130148,
+                    "name": "Charambe-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:09.000000Z",
+                    "updated_at": "2022-07-27T17:39:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130148,
+                        "created_at": "2022-08-13T11:07:23.000000Z",
+                        "updated_at": "2022-08-13T11:07:23.000000Z"
+                    }
+                },
+                {
+                    "id": 130149,
+                    "name": "Charambe-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:09.000000Z",
+                    "updated_at": "2022-07-27T17:39:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72159,
+                        "area_id": 130149,
+                        "created_at": "2022-08-13T11:07:23.000000Z",
+                        "updated_at": "2022-08-13T11:07:23.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72158,
+            "name": "FIRE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72157,
+                "name": "UPANGA MAGHARIBI",
+                "postcode": "11103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130128,
+                    "name": "Fire-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130128,
+                        "created_at": "2022-08-13T11:07:20.000000Z",
+                        "updated_at": "2022-08-13T11:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130129,
+                    "name": "Fire-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130129,
+                        "created_at": "2022-08-13T11:07:20.000000Z",
+                        "updated_at": "2022-08-13T11:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130130,
+                    "name": "Fire-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130130,
+                        "created_at": "2022-08-13T11:07:21.000000Z",
+                        "updated_at": "2022-08-13T11:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130131,
+                    "name": "Fire-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130131,
+                        "created_at": "2022-08-13T11:07:21.000000Z",
+                        "updated_at": "2022-08-13T11:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130132,
+                    "name": "Fire-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130132,
+                        "created_at": "2022-08-13T11:07:21.000000Z",
+                        "updated_at": "2022-08-13T11:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130133,
+                    "name": "Fire-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130133,
+                        "created_at": "2022-08-13T11:07:21.000000Z",
+                        "updated_at": "2022-08-13T11:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130134,
+                    "name": "Fire-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130134,
+                        "created_at": "2022-08-13T11:07:21.000000Z",
+                        "updated_at": "2022-08-13T11:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130135,
+                    "name": "Fire-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130135,
+                        "created_at": "2022-08-13T11:07:21.000000Z",
+                        "updated_at": "2022-08-13T11:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 130136,
+                    "name": "Fire-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:08.000000Z",
+                    "updated_at": "2022-07-27T17:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72158,
+                        "area_id": 130136,
+                        "created_at": "2022-08-13T11:07:21.000000Z",
+                        "updated_at": "2022-08-13T11:07:21.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72160,
+            "name": "MFAUME",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72157,
+                "name": "UPANGA MAGHARIBI",
+                "postcode": "11103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130122,
+                    "name": "Mfaume-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:06.000000Z",
+                    "updated_at": "2022-07-27T17:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72160,
+                        "area_id": 130122,
+                        "created_at": "2022-08-13T11:07:19.000000Z",
+                        "updated_at": "2022-08-13T11:07:19.000000Z"
+                    }
+                },
+                {
+                    "id": 130123,
+                    "name": "Mfaume-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:06.000000Z",
+                    "updated_at": "2022-07-27T17:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72160,
+                        "area_id": 130123,
+                        "created_at": "2022-08-13T11:07:20.000000Z",
+                        "updated_at": "2022-08-13T11:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130124,
+                    "name": "Mfaume-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:06.000000Z",
+                    "updated_at": "2022-07-27T17:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72160,
+                        "area_id": 130124,
+                        "created_at": "2022-08-13T11:07:20.000000Z",
+                        "updated_at": "2022-08-13T11:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130125,
+                    "name": "Mfaume-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:06.000000Z",
+                    "updated_at": "2022-07-27T17:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72160,
+                        "area_id": 130125,
+                        "created_at": "2022-08-13T11:07:20.000000Z",
+                        "updated_at": "2022-08-13T11:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130126,
+                    "name": "Mfaume-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:06.000000Z",
+                    "updated_at": "2022-07-27T17:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72160,
+                        "area_id": 130126,
+                        "created_at": "2022-08-13T11:07:20.000000Z",
+                        "updated_at": "2022-08-13T11:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 130127,
+                    "name": "Mfaume-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:07.000000Z",
+                    "updated_at": "2022-07-27T17:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72160,
+                        "area_id": 130127,
+                        "created_at": "2022-08-13T11:07:20.000000Z",
+                        "updated_at": "2022-08-13T11:07:20.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
