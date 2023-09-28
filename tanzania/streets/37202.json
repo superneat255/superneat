@@ -1,0 +1,783 @@
+{
+    "data": [
+        {
+            "id": 81090,
+            "name": "BUGOGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81086,
+                "name": "MWAMALA",
+                "postcode": "37202",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81079,
+                    "name": "SHINYANGA DISTRICT COUNCIL",
+                    "postcode": "372",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193563,
+                    "name": "Mwakado",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:39.000000Z",
+                    "updated_at": "2022-08-10T08:41:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81090,
+                        "area_id": 193563,
+                        "created_at": "2022-08-10T09:35:10.000000Z",
+                        "updated_at": "2022-08-10T09:35:10.000000Z"
+                    }
+                },
+                {
+                    "id": 193564,
+                    "name": "Mwamakono",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:40.000000Z",
+                    "updated_at": "2022-08-10T08:41:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81090,
+                        "area_id": 193564,
+                        "created_at": "2022-08-10T09:35:10.000000Z",
+                        "updated_at": "2022-08-10T09:35:10.000000Z"
+                    }
+                },
+                {
+                    "id": 193565,
+                    "name": "Shatimba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:40.000000Z",
+                    "updated_at": "2022-08-10T08:41:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81090,
+                        "area_id": 193565,
+                        "created_at": "2022-08-10T09:35:11.000000Z",
+                        "updated_at": "2022-08-10T09:35:11.000000Z"
+                    }
+                },
+                {
+                    "id": 193566,
+                    "name": "Ilambalaji",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:41.000000Z",
+                    "updated_at": "2022-08-10T08:41:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81090,
+                        "area_id": 193566,
+                        "created_at": "2022-08-10T09:35:12.000000Z",
+                        "updated_at": "2022-08-10T09:35:12.000000Z"
+                    }
+                },
+                {
+                    "id": 193567,
+                    "name": "Ilalucha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:42.000000Z",
+                    "updated_at": "2022-08-10T08:41:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81090,
+                        "area_id": 193567,
+                        "created_at": "2022-08-10T09:35:13.000000Z",
+                        "updated_at": "2022-08-10T09:35:13.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81088,
+            "name": "BUNONGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81086,
+                "name": "MWAMALA",
+                "postcode": "37202",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81079,
+                    "name": "SHINYANGA DISTRICT COUNCIL",
+                    "postcode": "372",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193568,
+                    "name": "Mwamidu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:42.000000Z",
+                    "updated_at": "2022-08-10T08:41:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193568,
+                        "created_at": "2022-08-10T09:35:14.000000Z",
+                        "updated_at": "2022-08-10T09:35:14.000000Z"
+                    }
+                },
+                {
+                    "id": 193569,
+                    "name": "Mwamasololo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:43.000000Z",
+                    "updated_at": "2022-08-10T08:41:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193569,
+                        "created_at": "2022-08-10T09:35:15.000000Z",
+                        "updated_at": "2022-08-10T09:35:15.000000Z"
+                    }
+                },
+                {
+                    "id": 193570,
+                    "name": "Idubula",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:43.000000Z",
+                    "updated_at": "2022-08-10T08:41:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193570,
+                        "created_at": "2022-08-10T09:35:15.000000Z",
+                        "updated_at": "2022-08-10T09:35:15.000000Z"
+                    }
+                },
+                {
+                    "id": 193571,
+                    "name": "Shitongo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:44.000000Z",
+                    "updated_at": "2022-08-10T08:41:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193571,
+                        "created_at": "2022-08-10T09:35:16.000000Z",
+                        "updated_at": "2022-08-10T09:35:16.000000Z"
+                    }
+                },
+                {
+                    "id": 193572,
+                    "name": "Shimiyu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:44.000000Z",
+                    "updated_at": "2022-08-10T08:41:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193572,
+                        "created_at": "2022-08-10T09:35:17.000000Z",
+                        "updated_at": "2022-08-10T09:35:17.000000Z"
+                    }
+                },
+                {
+                    "id": 193573,
+                    "name": "Nhobola",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:45.000000Z",
+                    "updated_at": "2022-08-10T08:41:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193573,
+                        "created_at": "2022-08-10T09:35:18.000000Z",
+                        "updated_at": "2022-08-10T09:35:18.000000Z"
+                    }
+                },
+                {
+                    "id": 193574,
+                    "name": "Kahama",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:45.000000Z",
+                    "updated_at": "2022-08-10T08:41:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193574,
+                        "created_at": "2022-08-10T09:35:18.000000Z",
+                        "updated_at": "2022-08-10T09:35:18.000000Z"
+                    }
+                },
+                {
+                    "id": 193575,
+                    "name": "Bunonga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:46.000000Z",
+                    "updated_at": "2022-08-10T08:41:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81088,
+                        "area_id": 193575,
+                        "created_at": "2022-08-10T09:35:19.000000Z",
+                        "updated_at": "2022-08-10T09:35:19.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81087,
+            "name": "IBANZA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81086,
+                "name": "MWAMALA",
+                "postcode": "37202",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81079,
+                    "name": "SHINYANGA DISTRICT COUNCIL",
+                    "postcode": "372",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193557,
+                    "name": "Mwagala",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:30.000000Z",
+                    "updated_at": "2022-08-10T08:41:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81087,
+                        "area_id": 193557,
+                        "created_at": "2022-08-10T09:35:01.000000Z",
+                        "updated_at": "2022-08-10T09:35:01.000000Z"
+                    }
+                },
+                {
+                    "id": 193558,
+                    "name": "Ibanza",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:31.000000Z",
+                    "updated_at": "2022-08-10T08:41:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81087,
+                        "area_id": 193558,
+                        "created_at": "2022-08-10T09:35:01.000000Z",
+                        "updated_at": "2022-08-10T09:35:01.000000Z"
+                    }
+                },
+                {
+                    "id": 193559,
+                    "name": "Lukelege",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:31.000000Z",
+                    "updated_at": "2022-08-10T08:41:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81087,
+                        "area_id": 193559,
+                        "created_at": "2022-08-10T09:35:02.000000Z",
+                        "updated_at": "2022-08-10T09:35:02.000000Z"
+                    }
+                },
+                {
+                    "id": 193560,
+                    "name": "Bunoko",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:32.000000Z",
+                    "updated_at": "2022-08-10T08:41:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81087,
+                        "area_id": 193560,
+                        "created_at": "2022-08-10T09:35:03.000000Z",
+                        "updated_at": "2022-08-10T09:35:03.000000Z"
+                    }
+                },
+                {
+                    "id": 193561,
+                    "name": "Ng'honde",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:32.000000Z",
+                    "updated_at": "2022-08-10T08:41:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81087,
+                        "area_id": 193561,
+                        "created_at": "2022-08-10T09:35:03.000000Z",
+                        "updated_at": "2022-08-10T09:35:03.000000Z"
+                    }
+                },
+                {
+                    "id": 193562,
+                    "name": "Selemi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:41:33.000000Z",
+                    "updated_at": "2022-08-10T08:41:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81087,
+                        "area_id": 193562,
+                        "created_at": "2022-08-10T09:35:04.000000Z",
+                        "updated_at": "2022-08-10T09:35:04.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81089,
+            "name": "MWAMALA \u201cB\u201d",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81086,
+                "name": "MWAMALA",
+                "postcode": "37202",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81079,
+                    "name": "SHINYANGA DISTRICT COUNCIL",
+                    "postcode": "372",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        }
+    ]
+}
