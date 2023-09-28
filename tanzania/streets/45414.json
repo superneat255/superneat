@@ -1,0 +1,864 @@
+{
+    "data": [
+        {
+            "id": 84129,
+            "name": "GULUMUNI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84126,
+                "name": "WELA",
+                "postcode": "45414",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84080,
+                    "name": "NZEGA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84042,
+                        "name": "NZEGA",
+                        "postcode": "454",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173559,
+                    "name": "Mwamilembe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:32.000000Z",
+                    "updated_at": "2022-08-08T14:23:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84129,
+                        "area_id": 173559,
+                        "created_at": "2022-08-08T14:23:32.000000Z",
+                        "updated_at": "2022-08-08T14:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 173560,
+                    "name": "Imalamagembe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:32.000000Z",
+                    "updated_at": "2022-08-08T14:23:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84129,
+                        "area_id": 173560,
+                        "created_at": "2022-08-08T14:23:32.000000Z",
+                        "updated_at": "2022-08-08T14:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 173561,
+                    "name": "Lindyati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:33.000000Z",
+                    "updated_at": "2022-08-08T14:23:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84129,
+                        "area_id": 173561,
+                        "created_at": "2022-08-08T14:23:33.000000Z",
+                        "updated_at": "2022-08-08T14:23:33.000000Z"
+                    }
+                },
+                {
+                    "id": 173562,
+                    "name": "Gulumuni Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:33.000000Z",
+                    "updated_at": "2022-08-08T14:23:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84129,
+                        "area_id": 173562,
+                        "created_at": "2022-08-08T14:23:33.000000Z",
+                        "updated_at": "2022-08-08T14:23:33.000000Z"
+                    }
+                },
+                {
+                    "id": 173563,
+                    "name": "Gulumuni Kusini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:34.000000Z",
+                    "updated_at": "2022-08-08T14:23:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84129,
+                        "area_id": 173563,
+                        "created_at": "2022-08-08T14:23:34.000000Z",
+                        "updated_at": "2022-08-08T14:23:34.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 84128,
+            "name": "MALILITA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84126,
+                "name": "WELA",
+                "postcode": "45414",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84080,
+                    "name": "NZEGA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84042,
+                        "name": "NZEGA",
+                        "postcode": "454",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173552,
+                    "name": "Malilita Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:28.000000Z",
+                    "updated_at": "2022-08-08T14:23:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84128,
+                        "area_id": 173552,
+                        "created_at": "2022-08-08T14:23:28.000000Z",
+                        "updated_at": "2022-08-08T14:23:28.000000Z"
+                    }
+                },
+                {
+                    "id": 173553,
+                    "name": "Matanda ya Usule",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:29.000000Z",
+                    "updated_at": "2022-08-08T14:23:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84128,
+                        "area_id": 173553,
+                        "created_at": "2022-08-08T14:23:29.000000Z",
+                        "updated_at": "2022-08-08T14:23:29.000000Z"
+                    }
+                },
+                {
+                    "id": 173554,
+                    "name": "Matanda ya Nzega",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:29.000000Z",
+                    "updated_at": "2022-08-08T14:23:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84128,
+                        "area_id": 173554,
+                        "created_at": "2022-08-08T14:23:29.000000Z",
+                        "updated_at": "2022-08-08T14:23:29.000000Z"
+                    }
+                },
+                {
+                    "id": 173555,
+                    "name": "Isadukilo B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:30.000000Z",
+                    "updated_at": "2022-08-08T14:23:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84128,
+                        "area_id": 173555,
+                        "created_at": "2022-08-08T14:23:30.000000Z",
+                        "updated_at": "2022-08-08T14:23:30.000000Z"
+                    }
+                },
+                {
+                    "id": 173556,
+                    "name": "Isadukilo A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:30.000000Z",
+                    "updated_at": "2022-08-08T14:23:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84128,
+                        "area_id": 173556,
+                        "created_at": "2022-08-08T14:23:30.000000Z",
+                        "updated_at": "2022-08-08T14:23:30.000000Z"
+                    }
+                },
+                {
+                    "id": 173557,
+                    "name": "Mwatenge B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:31.000000Z",
+                    "updated_at": "2022-08-08T14:23:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84128,
+                        "area_id": 173557,
+                        "created_at": "2022-08-08T14:23:31.000000Z",
+                        "updated_at": "2022-08-08T14:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 173558,
+                    "name": "Mwatenge A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:31.000000Z",
+                    "updated_at": "2022-08-08T14:23:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84128,
+                        "area_id": 173558,
+                        "created_at": "2022-08-08T14:23:31.000000Z",
+                        "updated_at": "2022-08-08T14:23:31.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 84130,
+            "name": "MWASAMBO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84126,
+                "name": "WELA",
+                "postcode": "45414",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84080,
+                    "name": "NZEGA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84042,
+                        "name": "NZEGA",
+                        "postcode": "454",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173547,
+                    "name": "Mwasambo \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:26.000000Z",
+                    "updated_at": "2022-08-08T14:23:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84130,
+                        "area_id": 173547,
+                        "created_at": "2022-08-08T14:23:26.000000Z",
+                        "updated_at": "2022-08-08T14:23:26.000000Z"
+                    }
+                },
+                {
+                    "id": 173548,
+                    "name": "Mwasambo Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:26.000000Z",
+                    "updated_at": "2022-08-08T14:23:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84130,
+                        "area_id": 173548,
+                        "created_at": "2022-08-08T14:23:26.000000Z",
+                        "updated_at": "2022-08-08T14:23:26.000000Z"
+                    }
+                },
+                {
+                    "id": 173549,
+                    "name": "Unyunduru",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:27.000000Z",
+                    "updated_at": "2022-08-08T14:23:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84130,
+                        "area_id": 173549,
+                        "created_at": "2022-08-08T14:23:27.000000Z",
+                        "updated_at": "2022-08-08T14:23:27.000000Z"
+                    }
+                },
+                {
+                    "id": 173550,
+                    "name": "Mwasambo \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:27.000000Z",
+                    "updated_at": "2022-08-08T14:23:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84130,
+                        "area_id": 173550,
+                        "created_at": "2022-08-08T14:23:27.000000Z",
+                        "updated_at": "2022-08-08T14:23:27.000000Z"
+                    }
+                },
+                {
+                    "id": 173551,
+                    "name": "Mwanyagula",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:28.000000Z",
+                    "updated_at": "2022-08-08T14:23:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84130,
+                        "area_id": 173551,
+                        "created_at": "2022-08-08T14:23:28.000000Z",
+                        "updated_at": "2022-08-08T14:23:28.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 84127,
+            "name": "WELA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 84126,
+                "name": "WELA",
+                "postcode": "45414",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 84080,
+                    "name": "NZEGA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 84042,
+                        "name": "NZEGA",
+                        "postcode": "454",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83555,
+                            "name": "TABORA",
+                            "postcode": "45",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173564,
+                    "name": "Usulwanguku",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:34.000000Z",
+                    "updated_at": "2022-08-08T14:23:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84127,
+                        "area_id": 173564,
+                        "created_at": "2022-08-08T14:23:34.000000Z",
+                        "updated_at": "2022-08-08T14:23:34.000000Z"
+                    }
+                },
+                {
+                    "id": 173565,
+                    "name": "Usalama",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:35.000000Z",
+                    "updated_at": "2022-08-08T14:23:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84127,
+                        "area_id": 173565,
+                        "created_at": "2022-08-08T14:23:35.000000Z",
+                        "updated_at": "2022-08-08T14:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 173566,
+                    "name": "Kityelo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:35.000000Z",
+                    "updated_at": "2022-08-08T14:23:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84127,
+                        "area_id": 173566,
+                        "created_at": "2022-08-08T14:23:35.000000Z",
+                        "updated_at": "2022-08-08T14:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 173567,
+                    "name": "Wela Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:36.000000Z",
+                    "updated_at": "2022-08-08T14:23:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84127,
+                        "area_id": 173567,
+                        "created_at": "2022-08-08T14:23:36.000000Z",
+                        "updated_at": "2022-08-08T14:23:36.000000Z"
+                    }
+                },
+                {
+                    "id": 173568,
+                    "name": "Wela Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:36.000000Z",
+                    "updated_at": "2022-08-08T14:23:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84127,
+                        "area_id": 173568,
+                        "created_at": "2022-08-08T14:23:36.000000Z",
+                        "updated_at": "2022-08-08T14:23:36.000000Z"
+                    }
+                },
+                {
+                    "id": 173569,
+                    "name": "Igombe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:23:37.000000Z",
+                    "updated_at": "2022-08-08T14:23:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 84127,
+                        "area_id": 173569,
+                        "created_at": "2022-08-08T14:23:37.000000Z",
+                        "updated_at": "2022-08-08T14:23:37.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
