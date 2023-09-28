@@ -1,0 +1,3886 @@
+{
+    "data": [
+        {
+            "id": 72764,
+            "name": "BAMBA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101864,
+                    "name": "Bamba-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:08.000000Z",
+                    "updated_at": "2022-07-18T20:18:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0704131304206001",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101864,
+                        "created_at": "2022-07-27T15:26:22.000000Z",
+                        "updated_at": "2022-07-27T15:26:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101867,
+                    "name": "Bamba-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:09.000000Z",
+                    "updated_at": "2022-07-18T20:18:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 104,
+                    "geocode": "0704131304206002",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101867,
+                        "created_at": "2022-07-27T15:26:22.000000Z",
+                        "updated_at": "2022-07-27T15:26:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101865,
+                    "name": "Bamba-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:09.000000Z",
+                    "updated_at": "2022-07-18T20:18:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 104,
+                    "geocode": "0704131304206003",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101865,
+                        "created_at": "2022-07-27T15:26:23.000000Z",
+                        "updated_at": "2022-07-27T15:26:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101866,
+                    "name": "Bamba-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:09.000000Z",
+                    "updated_at": "2022-07-18T20:18:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 110,
+                    "geocode": "0704131304206004",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101866,
+                        "created_at": "2022-07-27T15:26:24.000000Z",
+                        "updated_at": "2022-07-27T15:26:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101868,
+                    "name": "Bamba-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:10.000000Z",
+                    "updated_at": "2022-07-18T20:18:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 120,
+                    "geocode": "0704131304206005",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101868,
+                        "created_at": "2022-07-27T15:26:25.000000Z",
+                        "updated_at": "2022-07-27T15:26:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101873,
+                    "name": "Bamba-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:12.000000Z",
+                    "updated_at": "2022-07-18T20:18:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 120,
+                    "geocode": "0704131304206006",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101873,
+                        "created_at": "2022-07-27T15:26:26.000000Z",
+                        "updated_at": "2022-07-27T15:26:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101871,
+                    "name": "Bamba-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:11.000000Z",
+                    "updated_at": "2022-07-18T20:18:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 120,
+                    "geocode": "0704131304206007",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101871,
+                        "created_at": "2022-07-27T15:26:26.000000Z",
+                        "updated_at": "2022-07-27T15:26:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101870,
+                    "name": "Bamba-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:11.000000Z",
+                    "updated_at": "2022-07-18T20:18:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 120,
+                    "geocode": "0704131304206008",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101870,
+                        "created_at": "2022-07-27T15:26:27.000000Z",
+                        "updated_at": "2022-07-27T15:26:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101872,
+                    "name": "Bamba-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:12.000000Z",
+                    "updated_at": "2022-07-18T20:18:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 120,
+                    "geocode": "0704131304206009",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101872,
+                        "created_at": "2022-07-27T15:26:28.000000Z",
+                        "updated_at": "2022-07-27T15:26:28.000000Z"
+                    }
+                },
+                {
+                    "id": 101869,
+                    "name": "Bamba-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:10.000000Z",
+                    "updated_at": "2022-07-18T20:18:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 120,
+                    "geocode": "0704131304206010",
+                    "pivot": {
+                        "location_id": 72764,
+                        "area_id": 101869,
+                        "created_at": "2022-07-27T15:26:29.000000Z",
+                        "updated_at": "2022-07-27T15:26:29.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72765,
+            "name": "DEGE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101896,
+                    "name": "Dege-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:34.000000Z",
+                    "updated_at": "2022-07-18T20:18:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 118,
+                    "geocode": "0704131304201001",
+                    "pivot": {
+                        "location_id": 72765,
+                        "area_id": 101896,
+                        "created_at": "2022-07-27T15:24:51.000000Z",
+                        "updated_at": "2022-07-27T15:24:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101899,
+                    "name": "Dege-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:35.000000Z",
+                    "updated_at": "2022-07-18T20:18:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 116,
+                    "geocode": "0704131304201002",
+                    "pivot": {
+                        "location_id": 72765,
+                        "area_id": 101899,
+                        "created_at": "2022-07-27T15:24:52.000000Z",
+                        "updated_at": "2022-07-27T15:24:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101895,
+                    "name": "Dege-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:34.000000Z",
+                    "updated_at": "2022-07-18T20:18:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 107,
+                    "geocode": "0704131304201003",
+                    "pivot": {
+                        "location_id": 72765,
+                        "area_id": 101895,
+                        "created_at": "2022-07-27T15:24:52.000000Z",
+                        "updated_at": "2022-07-27T15:24:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101898,
+                    "name": "Dege-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:35.000000Z",
+                    "updated_at": "2022-07-18T20:18:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 109,
+                    "geocode": "0704131304201004",
+                    "pivot": {
+                        "location_id": 72765,
+                        "area_id": 101898,
+                        "created_at": "2022-07-27T15:24:53.000000Z",
+                        "updated_at": "2022-07-27T15:24:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101894,
+                    "name": "Dege-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:33.000000Z",
+                    "updated_at": "2022-07-18T20:18:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 103,
+                    "geocode": "0704131304201005",
+                    "pivot": {
+                        "location_id": 72765,
+                        "area_id": 101894,
+                        "created_at": "2022-07-27T15:24:54.000000Z",
+                        "updated_at": "2022-07-27T15:24:54.000000Z"
+                    }
+                },
+                {
+                    "id": 101893,
+                    "name": "Dege-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:33.000000Z",
+                    "updated_at": "2022-07-18T20:18:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 109,
+                    "geocode": "0704131304201006",
+                    "pivot": {
+                        "location_id": 72765,
+                        "area_id": 101893,
+                        "created_at": "2022-07-27T15:24:54.000000Z",
+                        "updated_at": "2022-07-27T15:24:54.000000Z"
+                    }
+                },
+                {
+                    "id": 101897,
+                    "name": "Dege-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:34.000000Z",
+                    "updated_at": "2022-07-18T20:18:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 110,
+                    "geocode": "0704131304201007",
+                    "pivot": {
+                        "location_id": 72765,
+                        "area_id": 101897,
+                        "created_at": "2022-07-27T15:24:55.000000Z",
+                        "updated_at": "2022-07-27T15:24:55.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72766,
+            "name": "KICHANGANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101928,
+                    "name": "Kichangani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:53.000000Z",
+                    "updated_at": "2022-07-18T20:18:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 100,
+                    "geocode": "0704131304209001",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101928,
+                        "created_at": "2022-07-27T15:26:32.000000Z",
+                        "updated_at": "2022-07-27T15:26:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101930,
+                    "name": "Kichangani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:53.000000Z",
+                    "updated_at": "2022-07-18T20:18:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 110,
+                    "geocode": "0704131304209002",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101930,
+                        "created_at": "2022-07-27T15:26:33.000000Z",
+                        "updated_at": "2022-07-27T15:26:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101933,
+                    "name": "Kichangani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:54.000000Z",
+                    "updated_at": "2022-07-18T20:18:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 120,
+                    "geocode": "0704131304209003",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101933,
+                        "created_at": "2022-07-27T15:26:33.000000Z",
+                        "updated_at": "2022-07-27T15:26:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101934,
+                    "name": "Kichangani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:55.000000Z",
+                    "updated_at": "2022-07-18T20:18:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 96,
+                    "geocode": "0704131304209004",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101934,
+                        "created_at": "2022-07-27T15:26:34.000000Z",
+                        "updated_at": "2022-07-27T15:26:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101925,
+                    "name": "Kichangani-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:52.000000Z",
+                    "updated_at": "2022-07-18T20:18:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 118,
+                    "geocode": "0704131304209005",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101925,
+                        "created_at": "2022-07-27T15:26:34.000000Z",
+                        "updated_at": "2022-07-27T15:26:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101929,
+                    "name": "Kichangani-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:53.000000Z",
+                    "updated_at": "2022-07-18T20:18:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 121,
+                    "geocode": "0704131304209006",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101929,
+                        "created_at": "2022-07-27T15:26:35.000000Z",
+                        "updated_at": "2022-07-27T15:26:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101927,
+                    "name": "Kichangani-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:52.000000Z",
+                    "updated_at": "2022-07-18T20:18:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 100,
+                    "geocode": "0704131304209007",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101927,
+                        "created_at": "2022-07-27T15:26:35.000000Z",
+                        "updated_at": "2022-07-27T15:26:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101932,
+                    "name": "Kichangani-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:54.000000Z",
+                    "updated_at": "2022-07-18T20:18:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 99,
+                    "geocode": "0704131304209008",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101932,
+                        "created_at": "2022-07-27T15:26:36.000000Z",
+                        "updated_at": "2022-07-27T15:26:36.000000Z"
+                    }
+                },
+                {
+                    "id": 101923,
+                    "name": "Kichangani-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:51.000000Z",
+                    "updated_at": "2022-07-18T20:18:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 118,
+                    "geocode": "0704131304209009",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101923,
+                        "created_at": "2022-07-27T15:26:37.000000Z",
+                        "updated_at": "2022-07-27T15:26:37.000000Z"
+                    }
+                },
+                {
+                    "id": 101931,
+                    "name": "Kichangani-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:54.000000Z",
+                    "updated_at": "2022-07-18T20:18:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 120,
+                    "geocode": "0704131304209010",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101931,
+                        "created_at": "2022-07-27T15:26:37.000000Z",
+                        "updated_at": "2022-07-27T15:26:37.000000Z"
+                    }
+                },
+                {
+                    "id": 101924,
+                    "name": "Kichangani-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:51.000000Z",
+                    "updated_at": "2022-07-18T20:18:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 124,
+                    "geocode": "0704131304209011",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101924,
+                        "created_at": "2022-07-27T15:26:38.000000Z",
+                        "updated_at": "2022-07-27T15:26:38.000000Z"
+                    }
+                },
+                {
+                    "id": 101926,
+                    "name": "Kichangani-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:52.000000Z",
+                    "updated_at": "2022-07-18T20:18:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 115,
+                    "geocode": "0704131304209012",
+                    "pivot": {
+                        "location_id": 72766,
+                        "area_id": 101926,
+                        "created_at": "2022-07-27T15:26:38.000000Z",
+                        "updated_at": "2022-07-27T15:26:38.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72767,
+            "name": "KIZANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101920,
+                    "name": "Kizani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:49.000000Z",
+                    "updated_at": "2022-07-18T20:18:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0704131304204001",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101920,
+                        "created_at": "2022-07-27T15:25:50.000000Z",
+                        "updated_at": "2022-07-27T15:25:50.000000Z"
+                    }
+                },
+                {
+                    "id": 101919,
+                    "name": "Kizani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:48.000000Z",
+                    "updated_at": "2022-07-18T20:18:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 120,
+                    "geocode": "0704131304204002",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101919,
+                        "created_at": "2022-07-27T15:25:52.000000Z",
+                        "updated_at": "2022-07-27T15:25:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101903,
+                    "name": "Kizani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:37.000000Z",
+                    "updated_at": "2022-07-18T20:18:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 112,
+                    "geocode": "0704131304204003",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101903,
+                        "created_at": "2022-07-27T15:25:53.000000Z",
+                        "updated_at": "2022-07-27T15:25:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101918,
+                    "name": "Kizani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:47.000000Z",
+                    "updated_at": "2022-07-18T20:18:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 119,
+                    "geocode": "0704131304204004",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101918,
+                        "created_at": "2022-07-27T15:25:54.000000Z",
+                        "updated_at": "2022-07-27T15:25:54.000000Z"
+                    }
+                },
+                {
+                    "id": 101913,
+                    "name": "Kizani-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:43.000000Z",
+                    "updated_at": "2022-07-18T20:18:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 118,
+                    "geocode": "0704131304204005",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101913,
+                        "created_at": "2022-07-27T15:25:55.000000Z",
+                        "updated_at": "2022-07-27T15:25:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101912,
+                    "name": "Kizani-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:42.000000Z",
+                    "updated_at": "2022-07-18T20:18:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 120,
+                    "geocode": "0704131304204006",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101912,
+                        "created_at": "2022-07-27T15:25:57.000000Z",
+                        "updated_at": "2022-07-27T15:25:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101917,
+                    "name": "Kizani-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:46.000000Z",
+                    "updated_at": "2022-07-18T20:18:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 120,
+                    "geocode": "0704131304204007",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101917,
+                        "created_at": "2022-07-27T15:25:58.000000Z",
+                        "updated_at": "2022-07-27T15:25:58.000000Z"
+                    }
+                },
+                {
+                    "id": 101905,
+                    "name": "Kizani-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:38.000000Z",
+                    "updated_at": "2022-07-18T20:18:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 120,
+                    "geocode": "0704131304204008",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101905,
+                        "created_at": "2022-07-27T15:25:59.000000Z",
+                        "updated_at": "2022-07-27T15:25:59.000000Z"
+                    }
+                },
+                {
+                    "id": 101907,
+                    "name": "Kizani-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:40.000000Z",
+                    "updated_at": "2022-07-18T20:18:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 118,
+                    "geocode": "0704131304204009",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101907,
+                        "created_at": "2022-07-27T15:26:01.000000Z",
+                        "updated_at": "2022-07-27T15:26:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101901,
+                    "name": "Kizani-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:36.000000Z",
+                    "updated_at": "2022-07-18T20:18:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 119,
+                    "geocode": "0704131304204010",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101901,
+                        "created_at": "2022-07-27T15:26:02.000000Z",
+                        "updated_at": "2022-07-27T15:26:02.000000Z"
+                    }
+                },
+                {
+                    "id": 101906,
+                    "name": "Kizani-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:39.000000Z",
+                    "updated_at": "2022-07-18T20:18:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 120,
+                    "geocode": "0704131304204011",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101906,
+                        "created_at": "2022-07-27T15:26:04.000000Z",
+                        "updated_at": "2022-07-27T15:26:04.000000Z"
+                    }
+                },
+                {
+                    "id": 101902,
+                    "name": "Kizani-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:37.000000Z",
+                    "updated_at": "2022-07-18T20:18:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 120,
+                    "geocode": "0704131304204012",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101902,
+                        "created_at": "2022-07-27T15:26:06.000000Z",
+                        "updated_at": "2022-07-27T15:26:06.000000Z"
+                    }
+                },
+                {
+                    "id": 101904,
+                    "name": "Kizani-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:38.000000Z",
+                    "updated_at": "2022-07-18T20:18:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 128,
+                    "geocode": "0704131304204013",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101904,
+                        "created_at": "2022-07-27T15:26:07.000000Z",
+                        "updated_at": "2022-07-27T15:26:07.000000Z"
+                    }
+                },
+                {
+                    "id": 101908,
+                    "name": "Kizani-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:40.000000Z",
+                    "updated_at": "2022-07-18T20:18:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 118,
+                    "geocode": "0704131304204014",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101908,
+                        "created_at": "2022-07-27T15:26:09.000000Z",
+                        "updated_at": "2022-07-27T15:26:09.000000Z"
+                    }
+                },
+                {
+                    "id": 101900,
+                    "name": "Kizani-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:36.000000Z",
+                    "updated_at": "2022-07-18T20:18:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 120,
+                    "geocode": "0704131304204015",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101900,
+                        "created_at": "2022-07-27T15:26:11.000000Z",
+                        "updated_at": "2022-07-27T15:26:11.000000Z"
+                    }
+                },
+                {
+                    "id": 101915,
+                    "name": "Kizani-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:45.000000Z",
+                    "updated_at": "2022-07-18T20:18:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 119,
+                    "geocode": "0704131304204016",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101915,
+                        "created_at": "2022-07-27T15:26:13.000000Z",
+                        "updated_at": "2022-07-27T15:26:13.000000Z"
+                    }
+                },
+                {
+                    "id": 101916,
+                    "name": "Kizani-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:45.000000Z",
+                    "updated_at": "2022-07-18T20:18:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 119,
+                    "geocode": "0704131304204017",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101916,
+                        "created_at": "2022-07-27T15:26:14.000000Z",
+                        "updated_at": "2022-07-27T15:26:14.000000Z"
+                    }
+                },
+                {
+                    "id": 101914,
+                    "name": "Kizani-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:44.000000Z",
+                    "updated_at": "2022-07-18T20:18:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 120,
+                    "geocode": "0704131304204018",
+                    "pivot": {
+                        "location_id": 72767,
+                        "area_id": 101914,
+                        "created_at": "2022-07-27T15:26:16.000000Z",
+                        "updated_at": "2022-07-27T15:26:16.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72768,
+            "name": "MALIMBIKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101860,
+                    "name": "Malimbika-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:07.000000Z",
+                    "updated_at": "2022-07-18T20:18:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 115,
+                    "geocode": "0704131304202001",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101860,
+                        "created_at": "2022-07-27T15:24:55.000000Z",
+                        "updated_at": "2022-07-27T15:24:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101859,
+                    "name": "Malimbika-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:07.000000Z",
+                    "updated_at": "2022-07-18T20:18:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 118,
+                    "geocode": "0704131304202002",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101859,
+                        "created_at": "2022-07-27T15:24:56.000000Z",
+                        "updated_at": "2022-07-27T15:24:56.000000Z"
+                    }
+                },
+                {
+                    "id": 101922,
+                    "name": "Malimbika-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:51.000000Z",
+                    "updated_at": "2022-07-18T20:18:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 116,
+                    "geocode": "0704131304202003",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101922,
+                        "created_at": "2022-07-27T15:24:57.000000Z",
+                        "updated_at": "2022-07-27T15:24:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101955,
+                    "name": "Malimbika-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:02.000000Z",
+                    "updated_at": "2022-07-18T20:19:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 115,
+                    "geocode": "0704131304202004",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101955,
+                        "created_at": "2022-07-27T15:24:58.000000Z",
+                        "updated_at": "2022-07-27T15:24:58.000000Z"
+                    }
+                },
+                {
+                    "id": 101956,
+                    "name": "Malimbika-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:03.000000Z",
+                    "updated_at": "2022-07-18T20:19:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 115,
+                    "geocode": "0704131304202005",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101956,
+                        "created_at": "2022-07-27T15:24:59.000000Z",
+                        "updated_at": "2022-07-27T15:24:59.000000Z"
+                    }
+                },
+                {
+                    "id": 101954,
+                    "name": "Malimbika-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:02.000000Z",
+                    "updated_at": "2022-07-18T20:19:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 120,
+                    "geocode": "0704131304202006",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101954,
+                        "created_at": "2022-07-27T15:25:00.000000Z",
+                        "updated_at": "2022-07-27T15:25:00.000000Z"
+                    }
+                },
+                {
+                    "id": 101957,
+                    "name": "Malimbika-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:03.000000Z",
+                    "updated_at": "2022-07-18T20:19:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 120,
+                    "geocode": "0704131304202007",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101957,
+                        "created_at": "2022-07-27T15:25:01.000000Z",
+                        "updated_at": "2022-07-27T15:25:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101958,
+                    "name": "Malimbika-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:04.000000Z",
+                    "updated_at": "2022-07-18T20:19:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 120,
+                    "geocode": "0704131304202008",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101958,
+                        "created_at": "2022-07-27T15:25:02.000000Z",
+                        "updated_at": "2022-07-27T15:25:02.000000Z"
+                    }
+                },
+                {
+                    "id": 101959,
+                    "name": "Malimbika-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:04.000000Z",
+                    "updated_at": "2022-07-18T20:19:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 115,
+                    "geocode": "0704131304202009",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101959,
+                        "created_at": "2022-07-27T15:25:03.000000Z",
+                        "updated_at": "2022-07-27T15:25:03.000000Z"
+                    }
+                },
+                {
+                    "id": 101960,
+                    "name": "Malimbika-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:05.000000Z",
+                    "updated_at": "2022-07-18T20:19:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 100,
+                    "geocode": "0704131304202010",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101960,
+                        "created_at": "2022-07-27T15:25:04.000000Z",
+                        "updated_at": "2022-07-27T15:25:04.000000Z"
+                    }
+                },
+                {
+                    "id": 101961,
+                    "name": "Malimbika-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:05.000000Z",
+                    "updated_at": "2022-07-18T20:19:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 100,
+                    "geocode": "0704131304202011",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101961,
+                        "created_at": "2022-07-27T15:25:05.000000Z",
+                        "updated_at": "2022-07-27T15:25:05.000000Z"
+                    }
+                },
+                {
+                    "id": 101858,
+                    "name": "Malimbika-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:07.000000Z",
+                    "updated_at": "2022-07-18T20:18:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 120,
+                    "geocode": "0704131304202012",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101858,
+                        "created_at": "2022-07-27T15:25:06.000000Z",
+                        "updated_at": "2022-07-27T15:25:06.000000Z"
+                    }
+                },
+                {
+                    "id": 101921,
+                    "name": "Malimbika-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:50.000000Z",
+                    "updated_at": "2022-07-18T20:18:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 112,
+                    "geocode": "0704131304202013",
+                    "pivot": {
+                        "location_id": 72768,
+                        "area_id": 101921,
+                        "created_at": "2022-07-27T15:25:07.000000Z",
+                        "updated_at": "2022-07-27T15:25:07.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72769,
+            "name": "MBWAMAJI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101946,
+                    "name": "Mbwamaji-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:59.000000Z",
+                    "updated_at": "2022-07-18T20:18:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 53,
+                    "geocode": "0704131304205001",
+                    "pivot": {
+                        "location_id": 72769,
+                        "area_id": 101946,
+                        "created_at": "2022-07-27T15:26:18.000000Z",
+                        "updated_at": "2022-07-27T15:26:18.000000Z"
+                    }
+                },
+                {
+                    "id": 101947,
+                    "name": "Mbwamaji-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:00.000000Z",
+                    "updated_at": "2022-07-18T20:19:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 56,
+                    "geocode": "0704131304205002",
+                    "pivot": {
+                        "location_id": 72769,
+                        "area_id": 101947,
+                        "created_at": "2022-07-27T15:26:18.000000Z",
+                        "updated_at": "2022-07-27T15:26:18.000000Z"
+                    }
+                },
+                {
+                    "id": 101952,
+                    "name": "Mbwamaji-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:01.000000Z",
+                    "updated_at": "2022-07-18T20:19:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 64,
+                    "geocode": "0704131304205003",
+                    "pivot": {
+                        "location_id": 72769,
+                        "area_id": 101952,
+                        "created_at": "2022-07-27T15:26:19.000000Z",
+                        "updated_at": "2022-07-27T15:26:19.000000Z"
+                    }
+                },
+                {
+                    "id": 101948,
+                    "name": "Mbwamaji-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:00.000000Z",
+                    "updated_at": "2022-07-18T20:19:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 87,
+                    "geocode": "0704131304205004",
+                    "pivot": {
+                        "location_id": 72769,
+                        "area_id": 101948,
+                        "created_at": "2022-07-27T15:26:19.000000Z",
+                        "updated_at": "2022-07-27T15:26:19.000000Z"
+                    }
+                },
+                {
+                    "id": 101951,
+                    "name": "Mbwamaji-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:01.000000Z",
+                    "updated_at": "2022-07-18T20:19:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 65,
+                    "geocode": "0704131304205005",
+                    "pivot": {
+                        "location_id": 72769,
+                        "area_id": 101951,
+                        "created_at": "2022-07-27T15:26:20.000000Z",
+                        "updated_at": "2022-07-27T15:26:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101950,
+                    "name": "Mbwamaji-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:00.000000Z",
+                    "updated_at": "2022-07-18T20:19:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 67,
+                    "geocode": "0704131304205006",
+                    "pivot": {
+                        "location_id": 72769,
+                        "area_id": 101950,
+                        "created_at": "2022-07-27T15:26:20.000000Z",
+                        "updated_at": "2022-07-27T15:26:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101949,
+                    "name": "Mbwamaji-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:00.000000Z",
+                    "updated_at": "2022-07-18T20:19:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 62,
+                    "geocode": "0704131304205007",
+                    "pivot": {
+                        "location_id": 72769,
+                        "area_id": 101949,
+                        "created_at": "2022-07-27T15:26:21.000000Z",
+                        "updated_at": "2022-07-27T15:26:21.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72770,
+            "name": "MINONDO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101935,
+                    "name": "Minondo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:55.000000Z",
+                    "updated_at": "2022-07-18T20:18:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 101,
+                    "geocode": "0704131304211001",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101935,
+                        "created_at": "2022-07-27T15:26:39.000000Z",
+                        "updated_at": "2022-07-27T15:26:39.000000Z"
+                    }
+                },
+                {
+                    "id": 101940,
+                    "name": "Minondo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:57.000000Z",
+                    "updated_at": "2022-07-18T20:18:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 110,
+                    "geocode": "0704131304211002",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101940,
+                        "created_at": "2022-07-27T15:26:40.000000Z",
+                        "updated_at": "2022-07-27T15:26:40.000000Z"
+                    }
+                },
+                {
+                    "id": 101936,
+                    "name": "Minondo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:56.000000Z",
+                    "updated_at": "2022-07-18T20:18:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 120,
+                    "geocode": "0704131304211003",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101936,
+                        "created_at": "2022-07-27T15:26:41.000000Z",
+                        "updated_at": "2022-07-27T15:26:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101945,
+                    "name": "Minondo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:59.000000Z",
+                    "updated_at": "2022-07-18T20:18:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 110,
+                    "geocode": "0704131304211004",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101945,
+                        "created_at": "2022-07-27T15:26:41.000000Z",
+                        "updated_at": "2022-07-27T15:26:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101941,
+                    "name": "Minondo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:57.000000Z",
+                    "updated_at": "2022-07-18T20:18:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 90,
+                    "geocode": "0704131304211005",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101941,
+                        "created_at": "2022-07-27T15:26:42.000000Z",
+                        "updated_at": "2022-07-27T15:26:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101937,
+                    "name": "Minondo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:56.000000Z",
+                    "updated_at": "2022-07-18T20:18:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 85,
+                    "geocode": "0704131304211006",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101937,
+                        "created_at": "2022-07-27T15:26:42.000000Z",
+                        "updated_at": "2022-07-27T15:26:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101944,
+                    "name": "Minondo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:58.000000Z",
+                    "updated_at": "2022-07-18T20:18:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 100,
+                    "geocode": "0704131304211007",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101944,
+                        "created_at": "2022-07-27T15:26:43.000000Z",
+                        "updated_at": "2022-07-27T15:26:43.000000Z"
+                    }
+                },
+                {
+                    "id": 101939,
+                    "name": "Minondo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:57.000000Z",
+                    "updated_at": "2022-07-18T20:18:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 100,
+                    "geocode": "0704131304211008",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101939,
+                        "created_at": "2022-07-27T15:26:44.000000Z",
+                        "updated_at": "2022-07-27T15:26:44.000000Z"
+                    }
+                },
+                {
+                    "id": 101938,
+                    "name": "Minondo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:56.000000Z",
+                    "updated_at": "2022-07-18T20:18:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 110,
+                    "geocode": "0704131304211009",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101938,
+                        "created_at": "2022-07-27T15:26:44.000000Z",
+                        "updated_at": "2022-07-27T15:26:44.000000Z"
+                    }
+                },
+                {
+                    "id": 101943,
+                    "name": "Minondo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:58.000000Z",
+                    "updated_at": "2022-07-18T20:18:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 120,
+                    "geocode": "0704131304211010",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101943,
+                        "created_at": "2022-07-27T15:26:45.000000Z",
+                        "updated_at": "2022-07-27T15:26:45.000000Z"
+                    }
+                },
+                {
+                    "id": 101942,
+                    "name": "Minondo-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:58.000000Z",
+                    "updated_at": "2022-07-18T20:18:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 115,
+                    "geocode": "0704131304211011",
+                    "pivot": {
+                        "location_id": 72770,
+                        "area_id": 101942,
+                        "created_at": "2022-07-27T15:26:46.000000Z",
+                        "updated_at": "2022-07-27T15:26:46.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72771,
+            "name": "MKWAJUNI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101910,
+                    "name": "Mkwajuni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:41.000000Z",
+                    "updated_at": "2022-07-18T20:18:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 118,
+                    "geocode": "0704131304208001",
+                    "pivot": {
+                        "location_id": 72771,
+                        "area_id": 101910,
+                        "created_at": "2022-07-27T15:26:31.000000Z",
+                        "updated_at": "2022-07-27T15:26:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101911,
+                    "name": "Mkwajuni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:42.000000Z",
+                    "updated_at": "2022-07-18T20:18:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 120,
+                    "geocode": "0704131304208002",
+                    "pivot": {
+                        "location_id": 72771,
+                        "area_id": 101911,
+                        "created_at": "2022-07-27T15:26:31.000000Z",
+                        "updated_at": "2022-07-27T15:26:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101909,
+                    "name": "Mkwajuni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:41.000000Z",
+                    "updated_at": "2022-07-18T20:18:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 111,
+                    "geocode": "0704131304208003",
+                    "pivot": {
+                        "location_id": 72771,
+                        "area_id": 101909,
+                        "created_at": "2022-07-27T15:26:32.000000Z",
+                        "updated_at": "2022-07-27T15:26:32.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72772,
+            "name": "MWANZO MGUMU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127728,
+                    "name": "Mwanzomgumu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:31:27.000000Z",
+                    "updated_at": "2022-07-27T11:31:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72772,
+                        "area_id": 127728,
+                        "created_at": "2022-07-27T15:26:47.000000Z",
+                        "updated_at": "2022-07-27T15:26:47.000000Z"
+                    }
+                },
+                {
+                    "id": 127729,
+                    "name": "Mwanzomgumu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:31:28.000000Z",
+                    "updated_at": "2022-07-27T11:31:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72772,
+                        "area_id": 127729,
+                        "created_at": "2022-07-27T15:26:47.000000Z",
+                        "updated_at": "2022-07-27T15:26:47.000000Z"
+                    }
+                },
+                {
+                    "id": 127730,
+                    "name": "Mwanzomgumu-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:31:29.000000Z",
+                    "updated_at": "2022-07-27T11:31:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72772,
+                        "area_id": 127730,
+                        "created_at": "2022-07-27T15:26:48.000000Z",
+                        "updated_at": "2022-07-27T15:26:48.000000Z"
+                    }
+                },
+                {
+                    "id": 127731,
+                    "name": "Mwanzomgumu-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:31:30.000000Z",
+                    "updated_at": "2022-07-27T11:31:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72772,
+                        "area_id": 127731,
+                        "created_at": "2022-07-27T15:26:49.000000Z",
+                        "updated_at": "2022-07-27T15:26:49.000000Z"
+                    }
+                },
+                {
+                    "id": 127732,
+                    "name": "Mwanzomgumu-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:31:31.000000Z",
+                    "updated_at": "2022-07-27T11:31:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72772,
+                        "area_id": 127732,
+                        "created_at": "2022-07-27T15:26:50.000000Z",
+                        "updated_at": "2022-07-27T15:26:50.000000Z"
+                    }
+                },
+                {
+                    "id": 127733,
+                    "name": "Mwanzomgumu-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:31:32.000000Z",
+                    "updated_at": "2022-07-27T11:31:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72772,
+                        "area_id": 127733,
+                        "created_at": "2022-07-27T15:26:51.000000Z",
+                        "updated_at": "2022-07-27T15:26:51.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72773,
+            "name": "MWERA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101891,
+                    "name": "Mwera-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:30.000000Z",
+                    "updated_at": "2022-07-18T20:18:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0704131304203001",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101891,
+                        "created_at": "2022-07-27T15:25:08.000000Z",
+                        "updated_at": "2022-07-27T15:25:08.000000Z"
+                    }
+                },
+                {
+                    "id": 101878,
+                    "name": "Mwera-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:15.000000Z",
+                    "updated_at": "2022-07-18T20:18:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 116,
+                    "geocode": "0704131304203002",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101878,
+                        "created_at": "2022-07-27T15:25:10.000000Z",
+                        "updated_at": "2022-07-27T15:25:10.000000Z"
+                    }
+                },
+                {
+                    "id": 101874,
+                    "name": "Mwera-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:13.000000Z",
+                    "updated_at": "2022-07-18T20:18:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 118,
+                    "geocode": "0704131304203003",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101874,
+                        "created_at": "2022-07-27T15:25:12.000000Z",
+                        "updated_at": "2022-07-27T15:25:12.000000Z"
+                    }
+                },
+                {
+                    "id": 101880,
+                    "name": "Mwera-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:17.000000Z",
+                    "updated_at": "2022-07-18T20:18:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 114,
+                    "geocode": "0704131304203004",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101880,
+                        "created_at": "2022-07-27T15:25:14.000000Z",
+                        "updated_at": "2022-07-27T15:25:14.000000Z"
+                    }
+                },
+                {
+                    "id": 101875,
+                    "name": "Mwera-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:13.000000Z",
+                    "updated_at": "2022-07-18T20:18:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 115,
+                    "geocode": "0704131304203005",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101875,
+                        "created_at": "2022-07-27T15:25:16.000000Z",
+                        "updated_at": "2022-07-27T15:25:16.000000Z"
+                    }
+                },
+                {
+                    "id": 101886,
+                    "name": "Mwera-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:23.000000Z",
+                    "updated_at": "2022-07-18T20:18:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 120,
+                    "geocode": "0704131304203006",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101886,
+                        "created_at": "2022-07-27T15:25:18.000000Z",
+                        "updated_at": "2022-07-27T15:25:18.000000Z"
+                    }
+                },
+                {
+                    "id": 101879,
+                    "name": "Mwera-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:16.000000Z",
+                    "updated_at": "2022-07-18T20:18:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 121,
+                    "geocode": "0704131304203007",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101879,
+                        "created_at": "2022-07-27T15:25:20.000000Z",
+                        "updated_at": "2022-07-27T15:25:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101883,
+                    "name": "Mwera-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:20.000000Z",
+                    "updated_at": "2022-07-18T20:18:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 119,
+                    "geocode": "0704131304203008",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101883,
+                        "created_at": "2022-07-27T15:25:22.000000Z",
+                        "updated_at": "2022-07-27T15:25:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101881,
+                    "name": "Mwera-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:18.000000Z",
+                    "updated_at": "2022-07-18T20:18:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 120,
+                    "geocode": "0704131304203009",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101881,
+                        "created_at": "2022-07-27T15:25:24.000000Z",
+                        "updated_at": "2022-07-27T15:25:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101890,
+                    "name": "Mwera-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:29.000000Z",
+                    "updated_at": "2022-07-18T20:18:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 117,
+                    "geocode": "0704131304203010",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101890,
+                        "created_at": "2022-07-27T15:25:26.000000Z",
+                        "updated_at": "2022-07-27T15:25:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101876,
+                    "name": "Mwera-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:14.000000Z",
+                    "updated_at": "2022-07-18T20:18:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 117,
+                    "geocode": "0704131304203011",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101876,
+                        "created_at": "2022-07-27T15:25:28.000000Z",
+                        "updated_at": "2022-07-27T15:25:28.000000Z"
+                    }
+                },
+                {
+                    "id": 101877,
+                    "name": "Mwera-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:15.000000Z",
+                    "updated_at": "2022-07-18T20:18:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 120,
+                    "geocode": "0704131304203012",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101877,
+                        "created_at": "2022-07-27T15:25:30.000000Z",
+                        "updated_at": "2022-07-27T15:25:30.000000Z"
+                    }
+                },
+                {
+                    "id": 101885,
+                    "name": "Mwera-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:22.000000Z",
+                    "updated_at": "2022-07-18T20:18:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 120,
+                    "geocode": "0704131304203013",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101885,
+                        "created_at": "2022-07-27T15:25:33.000000Z",
+                        "updated_at": "2022-07-27T15:25:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101887,
+                    "name": "Mwera-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:25.000000Z",
+                    "updated_at": "2022-07-18T20:18:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 100,
+                    "geocode": "0704131304203014",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101887,
+                        "created_at": "2022-07-27T15:25:35.000000Z",
+                        "updated_at": "2022-07-27T15:25:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101884,
+                    "name": "Mwera-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:21.000000Z",
+                    "updated_at": "2022-07-18T20:18:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 120,
+                    "geocode": "0704131304203015",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101884,
+                        "created_at": "2022-07-27T15:25:38.000000Z",
+                        "updated_at": "2022-07-27T15:25:38.000000Z"
+                    }
+                },
+                {
+                    "id": 101888,
+                    "name": "Mwera-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:26.000000Z",
+                    "updated_at": "2022-07-18T20:18:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 120,
+                    "geocode": "0704131304203016",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101888,
+                        "created_at": "2022-07-27T15:25:40.000000Z",
+                        "updated_at": "2022-07-27T15:25:40.000000Z"
+                    }
+                },
+                {
+                    "id": 101892,
+                    "name": "Mwera-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:32.000000Z",
+                    "updated_at": "2022-07-18T20:18:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 106,
+                    "geocode": "0704131304203017",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101892,
+                        "created_at": "2022-07-27T15:25:43.000000Z",
+                        "updated_at": "2022-07-27T15:25:43.000000Z"
+                    }
+                },
+                {
+                    "id": 101882,
+                    "name": "Mwera-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:19.000000Z",
+                    "updated_at": "2022-07-18T20:18:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 120,
+                    "geocode": "0704131304203018",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101882,
+                        "created_at": "2022-07-27T15:25:45.000000Z",
+                        "updated_at": "2022-07-27T15:25:45.000000Z"
+                    }
+                },
+                {
+                    "id": 101889,
+                    "name": "Mwera-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:27.000000Z",
+                    "updated_at": "2022-07-18T20:18:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 120,
+                    "geocode": "0704131304203019",
+                    "pivot": {
+                        "location_id": 72773,
+                        "area_id": 101889,
+                        "created_at": "2022-07-27T15:25:48.000000Z",
+                        "updated_at": "2022-07-27T15:25:48.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72774,
+            "name": "SARA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101862,
+                    "name": "Sara-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:08.000000Z",
+                    "updated_at": "2022-07-18T20:18:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 72,
+                    "geocode": "0704131304210001",
+                    "pivot": {
+                        "location_id": 72774,
+                        "area_id": 101862,
+                        "created_at": "2022-07-27T15:26:39.000000Z",
+                        "updated_at": "2022-07-27T15:26:39.000000Z"
+                    }
+                },
+                {
+                    "id": 101863,
+                    "name": "Sara-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:08.000000Z",
+                    "updated_at": "2022-07-18T20:18:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 86,
+                    "geocode": "0704131304210002",
+                    "pivot": {
+                        "location_id": 72774,
+                        "area_id": 101863,
+                        "created_at": "2022-07-27T15:26:39.000000Z",
+                        "updated_at": "2022-07-27T15:26:39.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72775,
+            "name": "SHIRIKISHO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101853,
+                    "name": "Shirikisho-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:05.000000Z",
+                    "updated_at": "2022-07-18T20:18:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 63,
+                    "geocode": "0704131304213001",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101853,
+                        "created_at": "2022-07-27T15:26:52.000000Z",
+                        "updated_at": "2022-07-27T15:26:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101852,
+                    "name": "Shirikisho-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:05.000000Z",
+                    "updated_at": "2022-07-18T20:18:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 79,
+                    "geocode": "0704131304213002",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101852,
+                        "created_at": "2022-07-27T15:26:52.000000Z",
+                        "updated_at": "2022-07-27T15:26:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101854,
+                    "name": "Shirikisho-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:05.000000Z",
+                    "updated_at": "2022-07-18T20:18:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 51,
+                    "geocode": "0704131304213003",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101854,
+                        "created_at": "2022-07-27T15:26:53.000000Z",
+                        "updated_at": "2022-07-27T15:26:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101861,
+                    "name": "Shirikisho-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:08.000000Z",
+                    "updated_at": "2022-07-18T20:18:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 51,
+                    "geocode": "0704131304213004",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101861,
+                        "created_at": "2022-07-27T15:26:53.000000Z",
+                        "updated_at": "2022-07-27T15:26:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101857,
+                    "name": "Shirikisho-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:06.000000Z",
+                    "updated_at": "2022-07-18T20:18:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 69,
+                    "geocode": "0704131304213005",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101857,
+                        "created_at": "2022-07-27T15:26:53.000000Z",
+                        "updated_at": "2022-07-27T15:26:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101855,
+                    "name": "Shirikisho-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:06.000000Z",
+                    "updated_at": "2022-07-18T20:18:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 85,
+                    "geocode": "0704131304213006",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101855,
+                        "created_at": "2022-07-27T15:26:54.000000Z",
+                        "updated_at": "2022-07-27T15:26:54.000000Z"
+                    }
+                },
+                {
+                    "id": 101856,
+                    "name": "Shirikisho-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:06.000000Z",
+                    "updated_at": "2022-07-18T20:18:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 68,
+                    "geocode": "0704131304213007",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101856,
+                        "created_at": "2022-07-27T15:26:54.000000Z",
+                        "updated_at": "2022-07-27T15:26:54.000000Z"
+                    }
+                },
+                {
+                    "id": 101851,
+                    "name": "Shirikisho-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:04.000000Z",
+                    "updated_at": "2022-07-18T20:18:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 70,
+                    "geocode": "0704131304213008",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101851,
+                        "created_at": "2022-07-27T15:26:55.000000Z",
+                        "updated_at": "2022-07-27T15:26:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101850,
+                    "name": "Shirikisho-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:04.000000Z",
+                    "updated_at": "2022-07-18T20:18:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 75,
+                    "geocode": "0704131304213009",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101850,
+                        "created_at": "2022-07-27T15:26:55.000000Z",
+                        "updated_at": "2022-07-27T15:26:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101953,
+                    "name": "Shirikisho-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:19:02.000000Z",
+                    "updated_at": "2022-07-18T20:19:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 72,
+                    "geocode": "0704131304213010",
+                    "pivot": {
+                        "location_id": 72775,
+                        "area_id": 101953,
+                        "created_at": "2022-07-27T15:26:56.000000Z",
+                        "updated_at": "2022-07-27T15:26:56.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72776,
+            "name": "VISIKINI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72763,
+                "name": "SOMANGILA",
+                "postcode": "17102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101849,
+                    "name": "Visikini-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:04.000000Z",
+                    "updated_at": "2022-07-18T20:18:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0704131304207001",
+                    "pivot": {
+                        "location_id": 72776,
+                        "area_id": 101849,
+                        "created_at": "2022-07-27T15:26:30.000000Z",
+                        "updated_at": "2022-07-27T15:26:30.000000Z"
+                    }
+                },
+                {
+                    "id": 101848,
+                    "name": "Visikini-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:04.000000Z",
+                    "updated_at": "2022-07-18T20:18:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 111,
+                    "geocode": "0704131304207002",
+                    "pivot": {
+                        "location_id": 72776,
+                        "area_id": 101848,
+                        "created_at": "2022-07-27T15:26:30.000000Z",
+                        "updated_at": "2022-07-27T15:26:30.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
