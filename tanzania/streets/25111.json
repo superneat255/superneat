@@ -1,0 +1,984 @@
+{
+    "data": [
+        {
+            "id": 97558,
+            "name": "KWA KOMBA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75404,
+                "name": "MJI MPYA",
+                "postcode": "25111",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75393,
+                    "name": "MOSHI MUNICIPAL COUNCIL",
+                    "postcode": "251",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97583,
+                    "name": "Kwa Komba-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:33.000000Z",
+                    "updated_at": "2022-07-13T09:10:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0304131216201001",
+                    "pivot": {
+                        "location_id": 97558,
+                        "area_id": 97583,
+                        "created_at": "2022-08-13T15:03:03.000000Z",
+                        "updated_at": "2022-08-13T15:03:03.000000Z"
+                    }
+                },
+                {
+                    "id": 97579,
+                    "name": "Kwa Komba-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:32.000000Z",
+                    "updated_at": "2022-07-13T09:10:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 90,
+                    "geocode": "0304131216201002",
+                    "pivot": {
+                        "location_id": 97558,
+                        "area_id": 97579,
+                        "created_at": "2022-08-13T15:03:03.000000Z",
+                        "updated_at": "2022-08-13T15:03:03.000000Z"
+                    }
+                },
+                {
+                    "id": 97578,
+                    "name": "Kwa Komba-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:32.000000Z",
+                    "updated_at": "2022-07-13T09:10:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 130,
+                    "geocode": "0304131216201003",
+                    "pivot": {
+                        "location_id": 97558,
+                        "area_id": 97578,
+                        "created_at": "2022-08-13T15:03:04.000000Z",
+                        "updated_at": "2022-08-13T15:03:04.000000Z"
+                    }
+                },
+                {
+                    "id": 97584,
+                    "name": "Kwa Komba-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:33.000000Z",
+                    "updated_at": "2022-07-13T09:10:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 135,
+                    "geocode": "0304131216201004",
+                    "pivot": {
+                        "location_id": 97558,
+                        "area_id": 97584,
+                        "created_at": "2022-08-13T15:03:04.000000Z",
+                        "updated_at": "2022-08-13T15:03:04.000000Z"
+                    }
+                },
+                {
+                    "id": 97580,
+                    "name": "Kwa Komba-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:33.000000Z",
+                    "updated_at": "2022-07-13T09:10:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 145,
+                    "geocode": "0304131216201005",
+                    "pivot": {
+                        "location_id": 97558,
+                        "area_id": 97580,
+                        "created_at": "2022-08-13T15:03:04.000000Z",
+                        "updated_at": "2022-08-13T15:03:04.000000Z"
+                    }
+                },
+                {
+                    "id": 97581,
+                    "name": "Kwa Komba-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:33.000000Z",
+                    "updated_at": "2022-07-13T09:10:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 135,
+                    "geocode": "0304131216201006",
+                    "pivot": {
+                        "location_id": 97558,
+                        "area_id": 97581,
+                        "created_at": "2022-08-13T15:03:04.000000Z",
+                        "updated_at": "2022-08-13T15:03:04.000000Z"
+                    }
+                },
+                {
+                    "id": 97582,
+                    "name": "Kwa Komba-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:33.000000Z",
+                    "updated_at": "2022-07-13T09:10:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 120,
+                    "geocode": "0304131216201007",
+                    "pivot": {
+                        "location_id": 97558,
+                        "area_id": 97582,
+                        "created_at": "2022-08-13T15:03:05.000000Z",
+                        "updated_at": "2022-08-13T15:03:05.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97557,
+            "name": "KWA MTEI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75404,
+                "name": "MJI MPYA",
+                "postcode": "25111",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75393,
+                    "name": "MOSHI MUNICIPAL COUNCIL",
+                    "postcode": "251",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97585,
+                    "name": "Kwa Mtei-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:33.000000Z",
+                    "updated_at": "2022-07-13T09:10:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 147,
+                    "geocode": "0304131216202001",
+                    "pivot": {
+                        "location_id": 97557,
+                        "area_id": 97585,
+                        "created_at": "2022-08-13T15:03:05.000000Z",
+                        "updated_at": "2022-08-13T15:03:05.000000Z"
+                    }
+                },
+                {
+                    "id": 97588,
+                    "name": "Kwa Mtei-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:34.000000Z",
+                    "updated_at": "2022-07-13T09:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 141,
+                    "geocode": "0304131216202002",
+                    "pivot": {
+                        "location_id": 97557,
+                        "area_id": 97588,
+                        "created_at": "2022-08-13T15:03:05.000000Z",
+                        "updated_at": "2022-08-13T15:03:05.000000Z"
+                    }
+                },
+                {
+                    "id": 97590,
+                    "name": "Kwa Mtei-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:34.000000Z",
+                    "updated_at": "2022-07-13T09:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 156,
+                    "geocode": "0304131216202003",
+                    "pivot": {
+                        "location_id": 97557,
+                        "area_id": 97590,
+                        "created_at": "2022-08-13T15:03:05.000000Z",
+                        "updated_at": "2022-08-13T15:03:05.000000Z"
+                    }
+                },
+                {
+                    "id": 97589,
+                    "name": "Kwa Mtei-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:34.000000Z",
+                    "updated_at": "2022-07-13T09:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 141,
+                    "geocode": "0304131216202004",
+                    "pivot": {
+                        "location_id": 97557,
+                        "area_id": 97589,
+                        "created_at": "2022-08-13T15:03:05.000000Z",
+                        "updated_at": "2022-08-13T15:03:05.000000Z"
+                    }
+                },
+                {
+                    "id": 97587,
+                    "name": "Kwa Mtei-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:34.000000Z",
+                    "updated_at": "2022-07-13T09:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 127,
+                    "geocode": "0304131216202005",
+                    "pivot": {
+                        "location_id": 97557,
+                        "area_id": 97587,
+                        "created_at": "2022-08-13T15:03:06.000000Z",
+                        "updated_at": "2022-08-13T15:03:06.000000Z"
+                    }
+                },
+                {
+                    "id": 97586,
+                    "name": "Kwa Mtei-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:34.000000Z",
+                    "updated_at": "2022-07-13T09:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 97,
+                    "geocode": "0304131216202006",
+                    "pivot": {
+                        "location_id": 97557,
+                        "area_id": 97586,
+                        "created_at": "2022-08-13T15:03:06.000000Z",
+                        "updated_at": "2022-08-13T15:03:06.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97560,
+            "name": "LANGONI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75404,
+                "name": "MJI MPYA",
+                "postcode": "25111",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75393,
+                    "name": "MOSHI MUNICIPAL COUNCIL",
+                    "postcode": "251",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97603,
+                    "name": "Langoni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:37.000000Z",
+                    "updated_at": "2022-07-13T09:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 139,
+                    "geocode": "0304131216204001",
+                    "pivot": {
+                        "location_id": 97560,
+                        "area_id": 97603,
+                        "created_at": "2022-08-13T15:03:12.000000Z",
+                        "updated_at": "2022-08-13T15:03:12.000000Z"
+                    }
+                },
+                {
+                    "id": 97604,
+                    "name": "Langoni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:37.000000Z",
+                    "updated_at": "2022-07-13T09:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 142,
+                    "geocode": "0304131216204002",
+                    "pivot": {
+                        "location_id": 97560,
+                        "area_id": 97604,
+                        "created_at": "2022-08-13T15:03:12.000000Z",
+                        "updated_at": "2022-08-13T15:03:12.000000Z"
+                    }
+                },
+                {
+                    "id": 97605,
+                    "name": "Langoni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:37.000000Z",
+                    "updated_at": "2022-07-13T09:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 140,
+                    "geocode": "0304131216204003",
+                    "pivot": {
+                        "location_id": 97560,
+                        "area_id": 97605,
+                        "created_at": "2022-08-13T15:03:13.000000Z",
+                        "updated_at": "2022-08-13T15:03:13.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97559,
+            "name": "SOKONI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75404,
+                "name": "MJI MPYA",
+                "postcode": "25111",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75393,
+                    "name": "MOSHI MUNICIPAL COUNCIL",
+                    "postcode": "251",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97597,
+                    "name": "Sokoni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:36.000000Z",
+                    "updated_at": "2022-07-13T09:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 131,
+                    "geocode": "0304131216203001",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97597,
+                        "created_at": "2022-08-13T15:03:06.000000Z",
+                        "updated_at": "2022-08-13T15:03:06.000000Z"
+                    }
+                },
+                {
+                    "id": 97606,
+                    "name": "Sokoni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:37.000000Z",
+                    "updated_at": "2022-07-13T09:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 128,
+                    "geocode": "0304131216203002",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97606,
+                        "created_at": "2022-08-13T15:03:07.000000Z",
+                        "updated_at": "2022-08-13T15:03:07.000000Z"
+                    }
+                },
+                {
+                    "id": 97602,
+                    "name": "Sokoni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:37.000000Z",
+                    "updated_at": "2022-07-13T09:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 128,
+                    "geocode": "0304131216203003",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97602,
+                        "created_at": "2022-08-13T15:03:07.000000Z",
+                        "updated_at": "2022-08-13T15:03:07.000000Z"
+                    }
+                },
+                {
+                    "id": 97594,
+                    "name": "Sokoni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:35.000000Z",
+                    "updated_at": "2022-07-13T09:10:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 139,
+                    "geocode": "0304131216203004",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97594,
+                        "created_at": "2022-08-13T15:03:08.000000Z",
+                        "updated_at": "2022-08-13T15:03:08.000000Z"
+                    }
+                },
+                {
+                    "id": 97601,
+                    "name": "Sokoni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:36.000000Z",
+                    "updated_at": "2022-07-13T09:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 136,
+                    "geocode": "0304131216203005",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97601,
+                        "created_at": "2022-08-13T15:03:08.000000Z",
+                        "updated_at": "2022-08-13T15:03:08.000000Z"
+                    }
+                },
+                {
+                    "id": 97592,
+                    "name": "Sokoni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:34.000000Z",
+                    "updated_at": "2022-07-13T09:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 134,
+                    "geocode": "0304131216203006",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97592,
+                        "created_at": "2022-08-13T15:03:08.000000Z",
+                        "updated_at": "2022-08-13T15:03:08.000000Z"
+                    }
+                },
+                {
+                    "id": 97595,
+                    "name": "Sokoni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:35.000000Z",
+                    "updated_at": "2022-07-13T09:10:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 133,
+                    "geocode": "0304131216203007",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97595,
+                        "created_at": "2022-08-13T15:03:09.000000Z",
+                        "updated_at": "2022-08-13T15:03:09.000000Z"
+                    }
+                },
+                {
+                    "id": 97599,
+                    "name": "Sokoni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:36.000000Z",
+                    "updated_at": "2022-07-13T09:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 132,
+                    "geocode": "0304131216203008",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97599,
+                        "created_at": "2022-08-13T15:03:09.000000Z",
+                        "updated_at": "2022-08-13T15:03:09.000000Z"
+                    }
+                },
+                {
+                    "id": 97600,
+                    "name": "Sokoni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:36.000000Z",
+                    "updated_at": "2022-07-13T09:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 137,
+                    "geocode": "0304131216203009",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97600,
+                        "created_at": "2022-08-13T15:03:10.000000Z",
+                        "updated_at": "2022-08-13T15:03:10.000000Z"
+                    }
+                },
+                {
+                    "id": 97593,
+                    "name": "Sokoni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:35.000000Z",
+                    "updated_at": "2022-07-13T09:10:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 120,
+                    "geocode": "0304131216203010",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97593,
+                        "created_at": "2022-08-13T15:03:10.000000Z",
+                        "updated_at": "2022-08-13T15:03:10.000000Z"
+                    }
+                },
+                {
+                    "id": 97591,
+                    "name": "Sokoni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:34.000000Z",
+                    "updated_at": "2022-07-13T09:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 120,
+                    "geocode": "0304131216203011",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97591,
+                        "created_at": "2022-08-13T15:03:11.000000Z",
+                        "updated_at": "2022-08-13T15:03:11.000000Z"
+                    }
+                },
+                {
+                    "id": 97598,
+                    "name": "Sokoni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:36.000000Z",
+                    "updated_at": "2022-07-13T09:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 145,
+                    "geocode": "0304131216203012",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97598,
+                        "created_at": "2022-08-13T15:03:11.000000Z",
+                        "updated_at": "2022-08-13T15:03:11.000000Z"
+                    }
+                },
+                {
+                    "id": 97596,
+                    "name": "Sokoni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:10:35.000000Z",
+                    "updated_at": "2022-07-13T09:10:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 120,
+                    "geocode": "0304131216203013",
+                    "pivot": {
+                        "location_id": 97559,
+                        "area_id": 97596,
+                        "created_at": "2022-08-13T15:03:12.000000Z",
+                        "updated_at": "2022-08-13T15:03:12.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
