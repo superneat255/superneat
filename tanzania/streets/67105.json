@@ -1,0 +1,1984 @@
+{
+    "data": [
+        {
+            "id": 86184,
+            "name": "KANISANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98031,
+                    "name": "Kanisani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:03.000000Z",
+                    "updated_at": "2022-07-13T09:27:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 58,
+                    "geocode": "0502231102203001",
+                    "pivot": {
+                        "location_id": 86184,
+                        "area_id": 98031,
+                        "created_at": "2022-08-13T14:35:11.000000Z",
+                        "updated_at": "2022-08-13T14:35:11.000000Z"
+                    }
+                },
+                {
+                    "id": 98035,
+                    "name": "Kanisani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:05.000000Z",
+                    "updated_at": "2022-07-13T09:27:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 65,
+                    "geocode": "0502231102203002",
+                    "pivot": {
+                        "location_id": 86184,
+                        "area_id": 98035,
+                        "created_at": "2022-08-13T14:35:12.000000Z",
+                        "updated_at": "2022-08-13T14:35:12.000000Z"
+                    }
+                },
+                {
+                    "id": 98032,
+                    "name": "Kanisani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:03.000000Z",
+                    "updated_at": "2022-07-13T09:27:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 52,
+                    "geocode": "0502231102203003",
+                    "pivot": {
+                        "location_id": 86184,
+                        "area_id": 98032,
+                        "created_at": "2022-08-13T14:35:12.000000Z",
+                        "updated_at": "2022-08-13T14:35:12.000000Z"
+                    }
+                },
+                {
+                    "id": 98034,
+                    "name": "Kanisani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:04.000000Z",
+                    "updated_at": "2022-07-13T09:27:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 55,
+                    "geocode": "0502231102203004",
+                    "pivot": {
+                        "location_id": 86184,
+                        "area_id": 98034,
+                        "created_at": "2022-08-13T14:35:13.000000Z",
+                        "updated_at": "2022-08-13T14:35:13.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86191,
+            "name": "KIDUGALO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98038,
+                    "name": "Kidugalo-1",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:10.000000Z",
+                    "updated_at": "2022-07-13T09:27:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 50,
+                    "geocode": "0502231102204001",
+                    "pivot": {
+                        "location_id": 86191,
+                        "area_id": 98038,
+                        "created_at": "2022-08-13T14:35:13.000000Z",
+                        "updated_at": "2022-08-13T14:35:13.000000Z"
+                    }
+                },
+                {
+                    "id": 98036,
+                    "name": "Kidugalo-2",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:09.000000Z",
+                    "updated_at": "2022-07-13T09:27:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 50,
+                    "geocode": "0502231102204002",
+                    "pivot": {
+                        "location_id": 86191,
+                        "area_id": 98036,
+                        "created_at": "2022-08-13T14:35:14.000000Z",
+                        "updated_at": "2022-08-13T14:35:14.000000Z"
+                    }
+                },
+                {
+                    "id": 98037,
+                    "name": "Kidugalo-3",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:09.000000Z",
+                    "updated_at": "2022-07-13T09:27:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 59,
+                    "geocode": "0502231102204003",
+                    "pivot": {
+                        "location_id": 86191,
+                        "area_id": 98037,
+                        "created_at": "2022-08-13T14:35:14.000000Z",
+                        "updated_at": "2022-08-13T14:35:14.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86186,
+            "name": "KISWANYA A",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98887,
+                    "name": "Kiswanya A-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:31.000000Z",
+                    "updated_at": "2022-07-14T09:07:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 53,
+                    "geocode": "0502231102206001",
+                    "pivot": {
+                        "location_id": 86186,
+                        "area_id": 98887,
+                        "created_at": "2022-07-14T09:07:31.000000Z",
+                        "updated_at": "2022-07-14T09:07:31.000000Z"
+                    }
+                },
+                {
+                    "id": 98888,
+                    "name": "Kiswanya A-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:31.000000Z",
+                    "updated_at": "2022-07-14T09:07:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 52,
+                    "geocode": "0502231102206002",
+                    "pivot": {
+                        "location_id": 86186,
+                        "area_id": 98888,
+                        "created_at": "2022-07-14T09:07:31.000000Z",
+                        "updated_at": "2022-07-14T09:07:31.000000Z"
+                    }
+                },
+                {
+                    "id": 98889,
+                    "name": "Kiswanya A-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:32.000000Z",
+                    "updated_at": "2022-07-14T09:07:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 56,
+                    "geocode": "0502231102206003",
+                    "pivot": {
+                        "location_id": 86186,
+                        "area_id": 98889,
+                        "created_at": "2022-07-14T09:07:32.000000Z",
+                        "updated_at": "2022-07-14T09:07:32.000000Z"
+                    }
+                },
+                {
+                    "id": 115515,
+                    "name": "Kiswanya 'A'-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:19.000000Z",
+                    "updated_at": "2022-07-27T09:05:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86186,
+                        "area_id": 115515,
+                        "created_at": "2022-07-27T09:05:19.000000Z",
+                        "updated_at": "2022-07-27T09:05:19.000000Z"
+                    }
+                },
+                {
+                    "id": 115516,
+                    "name": "Kiswanya 'A'-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:19.000000Z",
+                    "updated_at": "2022-07-27T09:05:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86186,
+                        "area_id": 115516,
+                        "created_at": "2022-07-27T09:05:19.000000Z",
+                        "updated_at": "2022-07-27T09:05:19.000000Z"
+                    }
+                },
+                {
+                    "id": 115517,
+                    "name": "Kiswanya 'A'-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:20.000000Z",
+                    "updated_at": "2022-07-27T09:05:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86186,
+                        "area_id": 115517,
+                        "created_at": "2022-07-27T09:05:20.000000Z",
+                        "updated_at": "2022-07-27T09:05:20.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86187,
+            "name": "KISWANYA B",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98882,
+                    "name": "Kiswanya B-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:28.000000Z",
+                    "updated_at": "2022-07-14T09:07:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 66,
+                    "geocode": "0502231102205001",
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 98882,
+                        "created_at": "2022-07-14T09:07:28.000000Z",
+                        "updated_at": "2022-07-14T09:07:28.000000Z"
+                    }
+                },
+                {
+                    "id": 98883,
+                    "name": "Kiswanya B-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:29.000000Z",
+                    "updated_at": "2022-07-14T09:07:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 64,
+                    "geocode": "0502231102205002",
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 98883,
+                        "created_at": "2022-07-14T09:07:29.000000Z",
+                        "updated_at": "2022-07-14T09:07:29.000000Z"
+                    }
+                },
+                {
+                    "id": 98884,
+                    "name": "Kiswanya B-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:29.000000Z",
+                    "updated_at": "2022-07-14T09:07:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 64,
+                    "geocode": "0502231102205003",
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 98884,
+                        "created_at": "2022-07-14T09:07:29.000000Z",
+                        "updated_at": "2022-07-14T09:07:29.000000Z"
+                    }
+                },
+                {
+                    "id": 98885,
+                    "name": "Kiswanya B-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:29.000000Z",
+                    "updated_at": "2022-07-14T09:07:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 62,
+                    "geocode": "0502231102205004",
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 98885,
+                        "created_at": "2022-07-14T09:07:29.000000Z",
+                        "updated_at": "2022-07-14T09:07:29.000000Z"
+                    }
+                },
+                {
+                    "id": 98886,
+                    "name": "Kiswanya B-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:30.000000Z",
+                    "updated_at": "2022-07-14T09:07:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 60,
+                    "geocode": "0502231102205005",
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 98886,
+                        "created_at": "2022-07-14T09:07:30.000000Z",
+                        "updated_at": "2022-07-14T09:07:30.000000Z"
+                    }
+                },
+                {
+                    "id": 115510,
+                    "name": "Kiswanya \"B\"-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:16.000000Z",
+                    "updated_at": "2022-07-27T09:05:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 115510,
+                        "created_at": "2022-07-27T09:05:16.000000Z",
+                        "updated_at": "2022-07-27T09:05:16.000000Z"
+                    }
+                },
+                {
+                    "id": 115511,
+                    "name": "Kiswanya \"B\"-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:17.000000Z",
+                    "updated_at": "2022-07-27T09:05:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 115511,
+                        "created_at": "2022-07-27T09:05:17.000000Z",
+                        "updated_at": "2022-07-27T09:05:17.000000Z"
+                    }
+                },
+                {
+                    "id": 115512,
+                    "name": "Kiswanya \"B\"-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:17.000000Z",
+                    "updated_at": "2022-07-27T09:05:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 115512,
+                        "created_at": "2022-07-27T09:05:17.000000Z",
+                        "updated_at": "2022-07-27T09:05:17.000000Z"
+                    }
+                },
+                {
+                    "id": 115513,
+                    "name": "Kiswanya \"B\"-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:18.000000Z",
+                    "updated_at": "2022-07-27T09:05:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 115513,
+                        "created_at": "2022-07-27T09:05:18.000000Z",
+                        "updated_at": "2022-07-27T09:05:18.000000Z"
+                    }
+                },
+                {
+                    "id": 115514,
+                    "name": "Kiswanya \"B\"-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:05:18.000000Z",
+                    "updated_at": "2022-07-27T09:05:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 86187,
+                        "area_id": 115514,
+                        "created_at": "2022-07-27T09:05:18.000000Z",
+                        "updated_at": "2022-07-27T09:05:18.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86193,
+            "name": "MAELEWANO A",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98028,
+                    "name": "Maelewano A-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:01.000000Z",
+                    "updated_at": "2022-07-13T09:27:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 53,
+                    "geocode": "0502231102202001",
+                    "pivot": {
+                        "location_id": 86193,
+                        "area_id": 98028,
+                        "created_at": "2022-08-13T14:35:10.000000Z",
+                        "updated_at": "2022-08-13T14:35:10.000000Z"
+                    }
+                },
+                {
+                    "id": 98030,
+                    "name": "Maelewano A-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:02.000000Z",
+                    "updated_at": "2022-07-13T09:27:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 51,
+                    "geocode": "0502231102202002",
+                    "pivot": {
+                        "location_id": 86193,
+                        "area_id": 98030,
+                        "created_at": "2022-08-13T14:35:10.000000Z",
+                        "updated_at": "2022-08-13T14:35:10.000000Z"
+                    }
+                },
+                {
+                    "id": 98027,
+                    "name": "Maelewano A-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:01.000000Z",
+                    "updated_at": "2022-07-13T09:27:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 55,
+                    "geocode": "0502231102202003",
+                    "pivot": {
+                        "location_id": 86193,
+                        "area_id": 98027,
+                        "created_at": "2022-08-13T14:35:11.000000Z",
+                        "updated_at": "2022-08-13T14:35:11.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86194,
+            "name": "MAELEWANO B",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98025,
+                    "name": "Maelewano B-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:00.000000Z",
+                    "updated_at": "2022-07-13T09:27:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 50,
+                    "geocode": "0502231102201001",
+                    "pivot": {
+                        "location_id": 86194,
+                        "area_id": 98025,
+                        "created_at": "2022-08-13T14:35:08.000000Z",
+                        "updated_at": "2022-08-13T14:35:08.000000Z"
+                    }
+                },
+                {
+                    "id": 98029,
+                    "name": "Maelewano B-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:02.000000Z",
+                    "updated_at": "2022-07-13T09:27:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 51,
+                    "geocode": "0502231102201002",
+                    "pivot": {
+                        "location_id": 86194,
+                        "area_id": 98029,
+                        "created_at": "2022-08-13T14:35:09.000000Z",
+                        "updated_at": "2022-08-13T14:35:09.000000Z"
+                    }
+                },
+                {
+                    "id": 98033,
+                    "name": "Maelewano B-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:04.000000Z",
+                    "updated_at": "2022-07-13T09:27:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 52,
+                    "geocode": "0502231102201003",
+                    "pivot": {
+                        "location_id": 86194,
+                        "area_id": 98033,
+                        "created_at": "2022-08-13T14:35:09.000000Z",
+                        "updated_at": "2022-08-13T14:35:09.000000Z"
+                    }
+                },
+                {
+                    "id": 98026,
+                    "name": "Maelewano B-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:00.000000Z",
+                    "updated_at": "2022-07-13T09:27:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 50,
+                    "geocode": "0502231102201004",
+                    "pivot": {
+                        "location_id": 86194,
+                        "area_id": 98026,
+                        "created_at": "2022-08-13T14:35:10.000000Z",
+                        "updated_at": "2022-08-13T14:35:10.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86192,
+            "name": "MINDU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98041,
+                    "name": "Mindu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:11.000000Z",
+                    "updated_at": "2022-07-13T09:27:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 25,
+                    "geocode": "0502231102211001",
+                    "pivot": {
+                        "location_id": 86192,
+                        "area_id": 98041,
+                        "created_at": "2022-08-13T14:35:24.000000Z",
+                        "updated_at": "2022-08-13T14:35:24.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86190,
+            "name": "SABU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98892,
+                    "name": "Sabu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:38.000000Z",
+                    "updated_at": "2022-07-14T09:07:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 67,
+                    "geocode": "0502231102207001",
+                    "pivot": {
+                        "location_id": 86190,
+                        "area_id": 98892,
+                        "created_at": "2022-08-13T14:35:18.000000Z",
+                        "updated_at": "2022-08-13T14:35:18.000000Z"
+                    }
+                },
+                {
+                    "id": 98893,
+                    "name": "Sabu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T09:07:38.000000Z",
+                    "updated_at": "2022-07-14T09:07:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 63,
+                    "geocode": "0502231102207002",
+                    "pivot": {
+                        "location_id": 86190,
+                        "area_id": 98893,
+                        "created_at": "2022-08-13T14:35:19.000000Z",
+                        "updated_at": "2022-08-13T14:35:19.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86185,
+            "name": "UKUTU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98044,
+                    "name": "Ukutu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:12.000000Z",
+                    "updated_at": "2022-07-13T09:27:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 54,
+                    "geocode": "0502231102210001",
+                    "pivot": {
+                        "location_id": 86185,
+                        "area_id": 98044,
+                        "created_at": "2022-08-13T14:35:21.000000Z",
+                        "updated_at": "2022-08-13T14:35:21.000000Z"
+                    }
+                },
+                {
+                    "id": 98047,
+                    "name": "Ukutu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:13.000000Z",
+                    "updated_at": "2022-07-13T09:27:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 53,
+                    "geocode": "0502231102210002",
+                    "pivot": {
+                        "location_id": 86185,
+                        "area_id": 98047,
+                        "created_at": "2022-08-13T14:35:22.000000Z",
+                        "updated_at": "2022-08-13T14:35:22.000000Z"
+                    }
+                },
+                {
+                    "id": 98043,
+                    "name": "Ukutu-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:12.000000Z",
+                    "updated_at": "2022-07-13T09:27:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 55,
+                    "geocode": "0502231102210003",
+                    "pivot": {
+                        "location_id": 86185,
+                        "area_id": 98043,
+                        "created_at": "2022-08-13T14:35:22.000000Z",
+                        "updated_at": "2022-08-13T14:35:22.000000Z"
+                    }
+                },
+                {
+                    "id": 98042,
+                    "name": "Ukutu-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:11.000000Z",
+                    "updated_at": "2022-07-13T09:27:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 55,
+                    "geocode": "0502231102210004",
+                    "pivot": {
+                        "location_id": 86185,
+                        "area_id": 98042,
+                        "created_at": "2022-08-13T14:35:23.000000Z",
+                        "updated_at": "2022-08-13T14:35:23.000000Z"
+                    }
+                },
+                {
+                    "id": 98046,
+                    "name": "Ukutu-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:13.000000Z",
+                    "updated_at": "2022-07-13T09:27:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 52,
+                    "geocode": "0502231102210005",
+                    "pivot": {
+                        "location_id": 86185,
+                        "area_id": 98046,
+                        "created_at": "2022-08-13T14:35:23.000000Z",
+                        "updated_at": "2022-08-13T14:35:23.000000Z"
+                    }
+                },
+                {
+                    "id": 98045,
+                    "name": "Ukutu-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:12.000000Z",
+                    "updated_at": "2022-07-13T09:27:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 52,
+                    "geocode": "0502231102210006",
+                    "pivot": {
+                        "location_id": 86185,
+                        "area_id": 98045,
+                        "created_at": "2022-08-13T14:35:23.000000Z",
+                        "updated_at": "2022-08-13T14:35:23.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86188,
+            "name": "UNGUU A",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98048,
+                    "name": "Unguu A-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:13.000000Z",
+                    "updated_at": "2022-07-13T09:27:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 53,
+                    "geocode": "0502231102209001",
+                    "pivot": {
+                        "location_id": 86188,
+                        "area_id": 98048,
+                        "created_at": "2022-08-13T14:35:20.000000Z",
+                        "updated_at": "2022-08-13T14:35:20.000000Z"
+                    }
+                },
+                {
+                    "id": 98050,
+                    "name": "Unguu A-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:14.000000Z",
+                    "updated_at": "2022-07-13T09:27:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 50,
+                    "geocode": "0502231102209002",
+                    "pivot": {
+                        "location_id": 86188,
+                        "area_id": 98050,
+                        "created_at": "2022-08-13T14:35:20.000000Z",
+                        "updated_at": "2022-08-13T14:35:20.000000Z"
+                    }
+                },
+                {
+                    "id": 98049,
+                    "name": "Unguu A-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:14.000000Z",
+                    "updated_at": "2022-07-13T09:27:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 58,
+                    "geocode": "0502231102209003",
+                    "pivot": {
+                        "location_id": 86188,
+                        "area_id": 98049,
+                        "created_at": "2022-08-13T14:35:21.000000Z",
+                        "updated_at": "2022-08-13T14:35:21.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 86189,
+            "name": "UNGUU B",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76652,
+                "name": "UWANJA WA TAIFA",
+                "postcode": "67105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76647,
+                    "name": "MOROGORO MUNICIPAL COUNCIL",
+                    "postcode": "671",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76677,
+                        "name": "MOROGORO",
+                        "postcode": "672",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98039,
+                    "name": "Unguu B-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:10.000000Z",
+                    "updated_at": "2022-07-13T09:27:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 58,
+                    "geocode": "0502231102208001",
+                    "pivot": {
+                        "location_id": 86189,
+                        "area_id": 98039,
+                        "created_at": "2022-08-13T14:35:19.000000Z",
+                        "updated_at": "2022-08-13T14:35:19.000000Z"
+                    }
+                },
+                {
+                    "id": 98040,
+                    "name": "Unguu B-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:27:10.000000Z",
+                    "updated_at": "2022-07-13T09:27:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 57,
+                    "geocode": "0502231102208002",
+                    "pivot": {
+                        "location_id": 86189,
+                        "area_id": 98040,
+                        "created_at": "2022-08-13T14:35:19.000000Z",
+                        "updated_at": "2022-08-13T14:35:19.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
