@@ -1,0 +1,644 @@
+{
+    "data": [
+        {
+            "id": 103223,
+            "name": "IGOTA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76829,
+                "name": "LUPIRO",
+                "postcode": "67607",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76823,
+                    "name": "ULANGA DISTRICT COUNCIL",
+                    "postcode": "676",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76822,
+                        "name": "ULANGA",
+                        "postcode": "676",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 112297,
+                    "name": "Igota",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:35.000000Z",
+                    "updated_at": "2022-07-27T08:21:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "301",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103223,
+                        "area_id": 112297,
+                        "created_at": "2022-07-27T08:24:54.000000Z",
+                        "updated_at": "2022-07-27T08:24:54.000000Z"
+                    }
+                },
+                {
+                    "id": 112298,
+                    "name": "Mikindani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:35.000000Z",
+                    "updated_at": "2022-07-27T08:21:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "302",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103223,
+                        "area_id": 112298,
+                        "created_at": "2022-07-27T08:24:54.000000Z",
+                        "updated_at": "2022-07-27T08:24:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 103222,
+            "name": "LUPIRO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76829,
+                "name": "LUPIRO",
+                "postcode": "67607",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76823,
+                    "name": "ULANGA DISTRICT COUNCIL",
+                    "postcode": "676",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76822,
+                        "name": "ULANGA",
+                        "postcode": "676",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 112305,
+                    "name": "Ndolo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:39.000000Z",
+                    "updated_at": "2022-07-27T08:21:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "301",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103222,
+                        "area_id": 112305,
+                        "created_at": "2022-07-27T08:24:57.000000Z",
+                        "updated_at": "2022-07-27T08:24:57.000000Z"
+                    }
+                },
+                {
+                    "id": 112306,
+                    "name": "Lupiro Shuleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:39.000000Z",
+                    "updated_at": "2022-07-27T08:21:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "302",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103222,
+                        "area_id": 112306,
+                        "created_at": "2022-07-27T08:24:58.000000Z",
+                        "updated_at": "2022-07-27T08:24:58.000000Z"
+                    }
+                },
+                {
+                    "id": 112307,
+                    "name": "Libalatula",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:40.000000Z",
+                    "updated_at": "2022-07-27T08:21:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "303",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103222,
+                        "area_id": 112307,
+                        "created_at": "2022-07-27T08:24:59.000000Z",
+                        "updated_at": "2022-07-27T08:24:59.000000Z"
+                    }
+                },
+                {
+                    "id": 112308,
+                    "name": "Mabatini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:41.000000Z",
+                    "updated_at": "2022-07-27T08:21:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "304",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103222,
+                        "area_id": 112308,
+                        "created_at": "2022-07-27T08:24:59.000000Z",
+                        "updated_at": "2022-07-27T08:24:59.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 103224,
+            "name": "MADIBIRA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76829,
+                "name": "LUPIRO",
+                "postcode": "67607",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76823,
+                    "name": "ULANGA DISTRICT COUNCIL",
+                    "postcode": "676",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76822,
+                        "name": "ULANGA",
+                        "postcode": "676",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 112302,
+                    "name": "Lupiro Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:37.000000Z",
+                    "updated_at": "2022-07-27T08:21:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "301",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103224,
+                        "area_id": 112302,
+                        "created_at": "2022-07-27T08:24:56.000000Z",
+                        "updated_at": "2022-07-27T08:24:56.000000Z"
+                    }
+                },
+                {
+                    "id": 112303,
+                    "name": "Madibira",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:38.000000Z",
+                    "updated_at": "2022-07-27T08:21:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "302",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103224,
+                        "area_id": 112303,
+                        "created_at": "2022-07-27T08:24:56.000000Z",
+                        "updated_at": "2022-07-27T08:24:56.000000Z"
+                    }
+                },
+                {
+                    "id": 112304,
+                    "name": "Golani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:38.000000Z",
+                    "updated_at": "2022-07-27T08:21:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "303",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103224,
+                        "area_id": 112304,
+                        "created_at": "2022-07-27T08:24:57.000000Z",
+                        "updated_at": "2022-07-27T08:24:57.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 103225,
+            "name": "NAKAFULU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76829,
+                "name": "LUPIRO",
+                "postcode": "67607",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76823,
+                    "name": "ULANGA DISTRICT COUNCIL",
+                    "postcode": "676",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76822,
+                        "name": "ULANGA",
+                        "postcode": "676",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70892,
+                            "name": "MOROGORO",
+                            "postcode": "67",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 112299,
+                    "name": "Uarabuni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:36.000000Z",
+                    "updated_at": "2022-07-27T08:21:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103225,
+                        "area_id": 112299,
+                        "created_at": "2022-07-27T08:24:55.000000Z",
+                        "updated_at": "2022-07-27T08:24:55.000000Z"
+                    }
+                },
+                {
+                    "id": 112300,
+                    "name": "Minazini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:36.000000Z",
+                    "updated_at": "2022-07-27T08:21:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103225,
+                        "area_id": 112300,
+                        "created_at": "2022-07-27T08:24:55.000000Z",
+                        "updated_at": "2022-07-27T08:24:55.000000Z"
+                    }
+                },
+                {
+                    "id": 112301,
+                    "name": "Mpakani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T08:21:37.000000Z",
+                    "updated_at": "2022-07-27T08:21:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 103225,
+                        "area_id": 112301,
+                        "created_at": "2022-07-27T08:24:55.000000Z",
+                        "updated_at": "2022-07-27T08:24:55.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
