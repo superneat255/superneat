@@ -1,0 +1,844 @@
+{
+    "data": [
+        {
+            "id": 77634,
+            "name": "MDENGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 77633,
+                "name": "MIKUMBI",
+                "postcode": "63431",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77515,
+                    "name": "NEWALA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77438,
+                        "name": "NEWALA",
+                        "postcode": "634",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 140523,
+                    "name": "Kanisani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:49.000000Z",
+                    "updated_at": "2022-07-30T06:38:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77634,
+                        "area_id": 140523,
+                        "created_at": "2022-08-13T06:18:30.000000Z",
+                        "updated_at": "2022-08-13T06:18:30.000000Z"
+                    }
+                },
+                {
+                    "id": 140524,
+                    "name": "Mdenga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:49.000000Z",
+                    "updated_at": "2022-07-30T06:38:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77634,
+                        "area_id": 140524,
+                        "created_at": "2022-08-13T06:18:31.000000Z",
+                        "updated_at": "2022-08-13T06:18:31.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77638,
+            "name": "MIKUMBI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 77633,
+                "name": "MIKUMBI",
+                "postcode": "63431",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77515,
+                    "name": "NEWALA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77438,
+                        "name": "NEWALA",
+                        "postcode": "634",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 140511,
+                    "name": "Lidimba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:43.000000Z",
+                    "updated_at": "2022-07-30T06:38:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77638,
+                        "area_id": 140511,
+                        "created_at": "2022-08-13T06:18:25.000000Z",
+                        "updated_at": "2022-08-13T06:18:25.000000Z"
+                    }
+                },
+                {
+                    "id": 140512,
+                    "name": "Mikumbi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:43.000000Z",
+                    "updated_at": "2022-07-30T06:38:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77638,
+                        "area_id": 140512,
+                        "created_at": "2022-08-13T06:18:25.000000Z",
+                        "updated_at": "2022-08-13T06:18:25.000000Z"
+                    }
+                },
+                {
+                    "id": 140513,
+                    "name": "Chilangala",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:44.000000Z",
+                    "updated_at": "2022-07-30T06:38:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77638,
+                        "area_id": 140513,
+                        "created_at": "2022-08-13T06:18:26.000000Z",
+                        "updated_at": "2022-08-13T06:18:26.000000Z"
+                    }
+                },
+                {
+                    "id": 140514,
+                    "name": "Chidengele",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:44.000000Z",
+                    "updated_at": "2022-07-30T06:38:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77638,
+                        "area_id": 140514,
+                        "created_at": "2022-08-13T06:18:26.000000Z",
+                        "updated_at": "2022-08-13T06:18:26.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77636,
+            "name": "MKONGI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 77633,
+                "name": "MIKUMBI",
+                "postcode": "63431",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77515,
+                    "name": "NEWALA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77438,
+                        "name": "NEWALA",
+                        "postcode": "634",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 140515,
+                    "name": "Shuleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:45.000000Z",
+                    "updated_at": "2022-07-30T06:38:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77636,
+                        "area_id": 140515,
+                        "created_at": "2022-08-13T06:18:27.000000Z",
+                        "updated_at": "2022-08-13T06:18:27.000000Z"
+                    }
+                },
+                {
+                    "id": 140516,
+                    "name": "Sokoni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:45.000000Z",
+                    "updated_at": "2022-07-30T06:38:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77636,
+                        "area_id": 140516,
+                        "created_at": "2022-08-13T06:18:27.000000Z",
+                        "updated_at": "2022-08-13T06:18:27.000000Z"
+                    }
+                },
+                {
+                    "id": 140517,
+                    "name": "Bondeni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:46.000000Z",
+                    "updated_at": "2022-07-30T06:38:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77636,
+                        "area_id": 140517,
+                        "created_at": "2022-08-13T06:18:28.000000Z",
+                        "updated_at": "2022-08-13T06:18:28.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77637,
+            "name": "NAMANGUDU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 77633,
+                "name": "MIKUMBI",
+                "postcode": "63431",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77515,
+                    "name": "NEWALA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77438,
+                        "name": "NEWALA",
+                        "postcode": "634",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 140518,
+                    "name": "Dinyehe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:46.000000Z",
+                    "updated_at": "2022-07-30T06:38:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77637,
+                        "area_id": 140518,
+                        "created_at": "2022-08-13T06:18:28.000000Z",
+                        "updated_at": "2022-08-13T06:18:28.000000Z"
+                    }
+                },
+                {
+                    "id": 140519,
+                    "name": "Chikunda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:47.000000Z",
+                    "updated_at": "2022-07-30T06:38:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77637,
+                        "area_id": 140519,
+                        "created_at": "2022-08-13T06:18:29.000000Z",
+                        "updated_at": "2022-08-13T06:18:29.000000Z"
+                    }
+                },
+                {
+                    "id": 140520,
+                    "name": "Namangudu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:47.000000Z",
+                    "updated_at": "2022-07-30T06:38:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77637,
+                        "area_id": 140520,
+                        "created_at": "2022-08-13T06:18:29.000000Z",
+                        "updated_at": "2022-08-13T06:18:29.000000Z"
+                    }
+                },
+                {
+                    "id": 140521,
+                    "name": "Miyao",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:48.000000Z",
+                    "updated_at": "2022-07-30T06:38:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77637,
+                        "area_id": 140521,
+                        "created_at": "2022-08-13T06:18:29.000000Z",
+                        "updated_at": "2022-08-13T06:18:29.000000Z"
+                    }
+                },
+                {
+                    "id": 140522,
+                    "name": "Mahichi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:48.000000Z",
+                    "updated_at": "2022-07-30T06:38:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77637,
+                        "area_id": 140522,
+                        "created_at": "2022-08-13T06:18:30.000000Z",
+                        "updated_at": "2022-08-13T06:18:30.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77635,
+            "name": "NAVANGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 77633,
+                "name": "MIKUMBI",
+                "postcode": "63431",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77515,
+                    "name": "NEWALA DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77438,
+                        "name": "NEWALA",
+                        "postcode": "634",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 140508,
+                    "name": "Nahanga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:41.000000Z",
+                    "updated_at": "2022-07-30T06:38:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77635,
+                        "area_id": 140508,
+                        "created_at": "2022-08-13T06:18:23.000000Z",
+                        "updated_at": "2022-08-13T06:18:23.000000Z"
+                    }
+                },
+                {
+                    "id": 140509,
+                    "name": "Kusini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:42.000000Z",
+                    "updated_at": "2022-07-30T06:38:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77635,
+                        "area_id": 140509,
+                        "created_at": "2022-08-13T06:18:24.000000Z",
+                        "updated_at": "2022-08-13T06:18:24.000000Z"
+                    }
+                },
+                {
+                    "id": 140510,
+                    "name": "Navanga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T06:38:42.000000Z",
+                    "updated_at": "2022-07-30T06:38:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 77635,
+                        "area_id": 140510,
+                        "created_at": "2022-08-13T06:18:24.000000Z",
+                        "updated_at": "2022-08-13T06:18:24.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
