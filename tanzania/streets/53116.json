@@ -1,0 +1,1844 @@
+{
+    "data": [
+        {
+            "id": 89484,
+            "name": "HALENGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71033,
+                "name": "NZOVWE",
+                "postcode": "53116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71017,
+                    "name": "MBEYA CITY COUNCIL",
+                    "postcode": "531",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71016,
+                        "name": "MBEYA CBD",
+                        "postcode": "531",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 71015,
+                            "name": "MBEYA",
+                            "postcode": "53",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97999,
+                    "name": "Halengo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:35.000000Z",
+                    "updated_at": "2022-07-13T09:24:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 100,
+                    "geocode": "1202241125204001",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 97999,
+                        "created_at": "2022-08-08T12:07:40.000000Z",
+                        "updated_at": "2022-08-08T12:07:40.000000Z"
+                    }
+                },
+                {
+                    "id": 98013,
+                    "name": "Halengo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:37.000000Z",
+                    "updated_at": "2022-07-13T09:24:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 120,
+                    "geocode": "1202241125204002",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 98013,
+                        "created_at": "2022-08-08T12:07:40.000000Z",
+                        "updated_at": "2022-08-08T12:07:40.000000Z"
+                    }
+                },
+                {
+                    "id": 98004,
+                    "name": "Halengo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:36.000000Z",
+                    "updated_at": "2022-07-13T09:24:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 120,
+                    "geocode": "1202241125204003",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 98004,
+                        "created_at": "2022-08-08T12:07:40.000000Z",
+                        "updated_at": "2022-08-08T12:07:40.000000Z"
+                    }
+                },
+                {
+                    "id": 98002,
+                    "name": "Halengo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:35.000000Z",
+                    "updated_at": "2022-07-13T09:24:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 110,
+                    "geocode": "1202241125204004",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 98002,
+                        "created_at": "2022-08-08T12:07:41.000000Z",
+                        "updated_at": "2022-08-08T12:07:41.000000Z"
+                    }
+                },
+                {
+                    "id": 98003,
+                    "name": "Halengo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:35.000000Z",
+                    "updated_at": "2022-07-13T09:24:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 120,
+                    "geocode": "1202241125204005",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 98003,
+                        "created_at": "2022-08-08T12:07:41.000000Z",
+                        "updated_at": "2022-08-08T12:07:41.000000Z"
+                    }
+                },
+                {
+                    "id": 98007,
+                    "name": "Halengo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:36.000000Z",
+                    "updated_at": "2022-07-13T09:24:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 120,
+                    "geocode": "1202241125204006",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 98007,
+                        "created_at": "2022-08-08T12:07:41.000000Z",
+                        "updated_at": "2022-08-08T12:07:41.000000Z"
+                    }
+                },
+                {
+                    "id": 97996,
+                    "name": "Halengo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:34.000000Z",
+                    "updated_at": "2022-07-13T09:24:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 130,
+                    "geocode": "1202241125204007",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 97996,
+                        "created_at": "2022-08-08T12:07:42.000000Z",
+                        "updated_at": "2022-08-08T12:07:42.000000Z"
+                    }
+                },
+                {
+                    "id": 98006,
+                    "name": "Halengo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:36.000000Z",
+                    "updated_at": "2022-07-13T09:24:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 125,
+                    "geocode": "1202241125204008",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 98006,
+                        "created_at": "2022-08-08T12:07:42.000000Z",
+                        "updated_at": "2022-08-08T12:07:42.000000Z"
+                    }
+                },
+                {
+                    "id": 97997,
+                    "name": "Halengo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:34.000000Z",
+                    "updated_at": "2022-07-13T09:24:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 115,
+                    "geocode": "1202241125204009",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 97997,
+                        "created_at": "2022-08-08T12:07:42.000000Z",
+                        "updated_at": "2022-08-08T12:07:42.000000Z"
+                    }
+                },
+                {
+                    "id": 98011,
+                    "name": "Halengo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:37.000000Z",
+                    "updated_at": "2022-07-13T09:24:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 100,
+                    "geocode": "1202241125204010",
+                    "pivot": {
+                        "location_id": 89484,
+                        "area_id": 98011,
+                        "created_at": "2022-08-08T12:07:43.000000Z",
+                        "updated_at": "2022-08-08T12:07:43.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 89490,
+            "name": "KILIMAHEWA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71033,
+                "name": "NZOVWE",
+                "postcode": "53116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71017,
+                    "name": "MBEYA CITY COUNCIL",
+                    "postcode": "531",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71016,
+                        "name": "MBEYA CBD",
+                        "postcode": "531",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 71015,
+                            "name": "MBEYA",
+                            "postcode": "53",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97977,
+                    "name": "Kilimahewa-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:31.000000Z",
+                    "updated_at": "2022-07-13T09:24:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 90,
+                    "geocode": "1202241125203001",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97977,
+                        "created_at": "2022-08-08T12:07:38.000000Z",
+                        "updated_at": "2022-08-08T12:07:38.000000Z"
+                    }
+                },
+                {
+                    "id": 97980,
+                    "name": "Kilimahewa-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:31.000000Z",
+                    "updated_at": "2022-07-13T09:24:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 100,
+                    "geocode": "1202241125203002",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97980,
+                        "created_at": "2022-08-08T12:07:38.000000Z",
+                        "updated_at": "2022-08-08T12:07:38.000000Z"
+                    }
+                },
+                {
+                    "id": 97975,
+                    "name": "Kilimahewa-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:31.000000Z",
+                    "updated_at": "2022-07-13T09:24:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 100,
+                    "geocode": "1202241125203003",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97975,
+                        "created_at": "2022-08-08T12:07:39.000000Z",
+                        "updated_at": "2022-08-08T12:07:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97973,
+                    "name": "Kilimahewa-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:30.000000Z",
+                    "updated_at": "2022-07-13T09:24:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 98,
+                    "geocode": "1202241125203004",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97973,
+                        "created_at": "2022-08-08T12:07:39.000000Z",
+                        "updated_at": "2022-08-08T12:07:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97974,
+                    "name": "Kilimahewa-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:30.000000Z",
+                    "updated_at": "2022-07-13T09:24:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 140,
+                    "geocode": "1202241125203005",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97974,
+                        "created_at": "2022-08-08T12:07:39.000000Z",
+                        "updated_at": "2022-08-08T12:07:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97979,
+                    "name": "Kilimahewa-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:31.000000Z",
+                    "updated_at": "2022-07-13T09:24:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 140,
+                    "geocode": "1202241125203006",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97979,
+                        "created_at": "2022-08-08T12:07:39.000000Z",
+                        "updated_at": "2022-08-08T12:07:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97976,
+                    "name": "Kilimahewa-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:31.000000Z",
+                    "updated_at": "2022-07-13T09:24:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 95,
+                    "geocode": "1202241125203007",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97976,
+                        "created_at": "2022-08-08T12:07:39.000000Z",
+                        "updated_at": "2022-08-08T12:07:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97978,
+                    "name": "Kilimahewa-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:31.000000Z",
+                    "updated_at": "2022-07-13T09:24:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 90,
+                    "geocode": "1202241125203008",
+                    "pivot": {
+                        "location_id": 89490,
+                        "area_id": 97978,
+                        "created_at": "2022-08-08T12:07:39.000000Z",
+                        "updated_at": "2022-08-08T12:07:39.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 89489,
+            "name": "NDANYELA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71033,
+                "name": "NZOVWE",
+                "postcode": "53116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71017,
+                    "name": "MBEYA CITY COUNCIL",
+                    "postcode": "531",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71016,
+                        "name": "MBEYA CBD",
+                        "postcode": "531",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 71015,
+                            "name": "MBEYA",
+                            "postcode": "53",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97939,
+                    "name": "Ndanyela-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:23.000000Z",
+                    "updated_at": "2022-07-13T09:24:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "1202241125201001",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97939,
+                        "created_at": "2022-08-08T12:07:17.000000Z",
+                        "updated_at": "2022-08-08T12:07:17.000000Z"
+                    }
+                },
+                {
+                    "id": 97946,
+                    "name": "Ndanyela-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:24.000000Z",
+                    "updated_at": "2022-07-13T09:24:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 145,
+                    "geocode": "1202241125201002",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97946,
+                        "created_at": "2022-08-08T12:07:17.000000Z",
+                        "updated_at": "2022-08-08T12:07:17.000000Z"
+                    }
+                },
+                {
+                    "id": 97970,
+                    "name": "Ndanyela-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:30.000000Z",
+                    "updated_at": "2022-07-13T09:24:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 145,
+                    "geocode": "1202241125201003",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97970,
+                        "created_at": "2022-08-08T12:07:18.000000Z",
+                        "updated_at": "2022-08-08T12:07:18.000000Z"
+                    }
+                },
+                {
+                    "id": 97960,
+                    "name": "Ndanyela-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:27.000000Z",
+                    "updated_at": "2022-07-13T09:24:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 135,
+                    "geocode": "1202241125201004",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97960,
+                        "created_at": "2022-08-08T12:07:18.000000Z",
+                        "updated_at": "2022-08-08T12:07:18.000000Z"
+                    }
+                },
+                {
+                    "id": 97949,
+                    "name": "Ndanyela-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:25.000000Z",
+                    "updated_at": "2022-07-13T09:24:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 100,
+                    "geocode": "1202241125201005",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97949,
+                        "created_at": "2022-08-08T12:07:19.000000Z",
+                        "updated_at": "2022-08-08T12:07:19.000000Z"
+                    }
+                },
+                {
+                    "id": 97940,
+                    "name": "Ndanyela-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:23.000000Z",
+                    "updated_at": "2022-07-13T09:24:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 135,
+                    "geocode": "1202241125201006",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97940,
+                        "created_at": "2022-08-08T12:07:19.000000Z",
+                        "updated_at": "2022-08-08T12:07:19.000000Z"
+                    }
+                },
+                {
+                    "id": 97938,
+                    "name": "Ndanyela-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:23.000000Z",
+                    "updated_at": "2022-07-13T09:24:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 145,
+                    "geocode": "1202241125201007",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97938,
+                        "created_at": "2022-08-08T12:07:19.000000Z",
+                        "updated_at": "2022-08-08T12:07:19.000000Z"
+                    }
+                },
+                {
+                    "id": 97936,
+                    "name": "Ndanyela-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:22.000000Z",
+                    "updated_at": "2022-07-13T09:24:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 120,
+                    "geocode": "1202241125201008",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97936,
+                        "created_at": "2022-08-08T12:07:20.000000Z",
+                        "updated_at": "2022-08-08T12:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 97935,
+                    "name": "Ndanyela-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:22.000000Z",
+                    "updated_at": "2022-07-13T09:24:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 120,
+                    "geocode": "1202241125201009",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97935,
+                        "created_at": "2022-08-08T12:07:20.000000Z",
+                        "updated_at": "2022-08-08T12:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 97937,
+                    "name": "Ndanyela-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:22.000000Z",
+                    "updated_at": "2022-07-13T09:24:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 130,
+                    "geocode": "1202241125201010",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97937,
+                        "created_at": "2022-08-08T12:07:21.000000Z",
+                        "updated_at": "2022-08-08T12:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 97966,
+                    "name": "Ndanyela-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:29.000000Z",
+                    "updated_at": "2022-07-13T09:24:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 130,
+                    "geocode": "1202241125201011",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97966,
+                        "created_at": "2022-08-08T12:07:21.000000Z",
+                        "updated_at": "2022-08-08T12:07:21.000000Z"
+                    }
+                },
+                {
+                    "id": 97943,
+                    "name": "Ndanyela-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:24.000000Z",
+                    "updated_at": "2022-07-13T09:24:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 135,
+                    "geocode": "1202241125201012",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97943,
+                        "created_at": "2022-08-08T12:07:22.000000Z",
+                        "updated_at": "2022-08-08T12:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 97971,
+                    "name": "Ndanyela-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:30.000000Z",
+                    "updated_at": "2022-07-13T09:24:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 120,
+                    "geocode": "1202241125201013",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97971,
+                        "created_at": "2022-08-08T12:07:22.000000Z",
+                        "updated_at": "2022-08-08T12:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 97947,
+                    "name": "Ndanyela-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:24.000000Z",
+                    "updated_at": "2022-07-13T09:24:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 100,
+                    "geocode": "1202241125201014",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97947,
+                        "created_at": "2022-08-08T12:07:22.000000Z",
+                        "updated_at": "2022-08-08T12:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 97959,
+                    "name": "Ndanyela-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:27.000000Z",
+                    "updated_at": "2022-07-13T09:24:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 145,
+                    "geocode": "1202241125201015",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97959,
+                        "created_at": "2022-08-08T12:07:23.000000Z",
+                        "updated_at": "2022-08-08T12:07:23.000000Z"
+                    }
+                },
+                {
+                    "id": 97958,
+                    "name": "Ndanyela-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:27.000000Z",
+                    "updated_at": "2022-07-13T09:24:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 150,
+                    "geocode": "1202241125201016",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97958,
+                        "created_at": "2022-08-08T12:07:23.000000Z",
+                        "updated_at": "2022-08-08T12:07:23.000000Z"
+                    }
+                },
+                {
+                    "id": 97941,
+                    "name": "Ndanyela-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:23.000000Z",
+                    "updated_at": "2022-07-13T09:24:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 130,
+                    "geocode": "1202241125201017",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97941,
+                        "created_at": "2022-08-08T12:07:24.000000Z",
+                        "updated_at": "2022-08-08T12:07:24.000000Z"
+                    }
+                },
+                {
+                    "id": 97944,
+                    "name": "Ndanyela-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:24.000000Z",
+                    "updated_at": "2022-07-13T09:24:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 100,
+                    "geocode": "1202241125201018",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97944,
+                        "created_at": "2022-08-08T12:07:24.000000Z",
+                        "updated_at": "2022-08-08T12:07:24.000000Z"
+                    }
+                },
+                {
+                    "id": 97963,
+                    "name": "Ndanyela-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:28.000000Z",
+                    "updated_at": "2022-07-13T09:24:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 135,
+                    "geocode": "1202241125201019",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97963,
+                        "created_at": "2022-08-08T12:07:24.000000Z",
+                        "updated_at": "2022-08-08T12:07:24.000000Z"
+                    }
+                },
+                {
+                    "id": 97965,
+                    "name": "Ndanyela-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:29.000000Z",
+                    "updated_at": "2022-07-13T09:24:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 120,
+                    "geocode": "1202241125201020",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97965,
+                        "created_at": "2022-08-08T12:07:25.000000Z",
+                        "updated_at": "2022-08-08T12:07:25.000000Z"
+                    }
+                },
+                {
+                    "id": 97967,
+                    "name": "Ndanyela-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:29.000000Z",
+                    "updated_at": "2022-07-13T09:24:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 80,
+                    "geocode": "1202241125201021",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97967,
+                        "created_at": "2022-08-08T12:07:25.000000Z",
+                        "updated_at": "2022-08-08T12:07:25.000000Z"
+                    }
+                },
+                {
+                    "id": 97955,
+                    "name": "Ndanyela-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:26.000000Z",
+                    "updated_at": "2022-07-13T09:24:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 100,
+                    "geocode": "1202241125201022",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97955,
+                        "created_at": "2022-08-08T12:07:26.000000Z",
+                        "updated_at": "2022-08-08T12:07:26.000000Z"
+                    }
+                },
+                {
+                    "id": 97945,
+                    "name": "Ndanyela-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:24.000000Z",
+                    "updated_at": "2022-07-13T09:24:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 135,
+                    "geocode": "1202241125201023",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97945,
+                        "created_at": "2022-08-08T12:07:26.000000Z",
+                        "updated_at": "2022-08-08T12:07:26.000000Z"
+                    }
+                },
+                {
+                    "id": 97953,
+                    "name": "Ndanyela-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:26.000000Z",
+                    "updated_at": "2022-07-13T09:24:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 80,
+                    "geocode": "1202241125201024",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97953,
+                        "created_at": "2022-08-08T12:07:27.000000Z",
+                        "updated_at": "2022-08-08T12:07:27.000000Z"
+                    }
+                },
+                {
+                    "id": 97972,
+                    "name": "Ndanyela-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:30.000000Z",
+                    "updated_at": "2022-07-13T09:24:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 85,
+                    "geocode": "1202241125201025",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97972,
+                        "created_at": "2022-08-08T12:07:27.000000Z",
+                        "updated_at": "2022-08-08T12:07:27.000000Z"
+                    }
+                },
+                {
+                    "id": 97950,
+                    "name": "Ndanyela-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:25.000000Z",
+                    "updated_at": "2022-07-13T09:24:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 135,
+                    "geocode": "1202241125201026",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97950,
+                        "created_at": "2022-08-08T12:07:27.000000Z",
+                        "updated_at": "2022-08-08T12:07:27.000000Z"
+                    }
+                },
+                {
+                    "id": 97962,
+                    "name": "Ndanyela-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:28.000000Z",
+                    "updated_at": "2022-07-13T09:24:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 120,
+                    "geocode": "1202241125201027",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97962,
+                        "created_at": "2022-08-08T12:07:28.000000Z",
+                        "updated_at": "2022-08-08T12:07:28.000000Z"
+                    }
+                },
+                {
+                    "id": 97951,
+                    "name": "Ndanyela-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:25.000000Z",
+                    "updated_at": "2022-07-13T09:24:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 135,
+                    "geocode": "1202241125201028",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97951,
+                        "created_at": "2022-08-08T12:07:28.000000Z",
+                        "updated_at": "2022-08-08T12:07:28.000000Z"
+                    }
+                },
+                {
+                    "id": 97964,
+                    "name": "Ndanyela-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:28.000000Z",
+                    "updated_at": "2022-07-13T09:24:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 90,
+                    "geocode": "1202241125201029",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97964,
+                        "created_at": "2022-08-08T12:07:29.000000Z",
+                        "updated_at": "2022-08-08T12:07:29.000000Z"
+                    }
+                },
+                {
+                    "id": 97954,
+                    "name": "Ndanyela-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:26.000000Z",
+                    "updated_at": "2022-07-13T09:24:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": 130,
+                    "geocode": "1202241125201030",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97954,
+                        "created_at": "2022-08-08T12:07:29.000000Z",
+                        "updated_at": "2022-08-08T12:07:29.000000Z"
+                    }
+                },
+                {
+                    "id": 97969,
+                    "name": "Ndanyela-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:29.000000Z",
+                    "updated_at": "2022-07-13T09:24:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": 150,
+                    "geocode": "1202241125201031",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97969,
+                        "created_at": "2022-08-08T12:07:30.000000Z",
+                        "updated_at": "2022-08-08T12:07:30.000000Z"
+                    }
+                },
+                {
+                    "id": 97968,
+                    "name": "Ndanyela-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:29.000000Z",
+                    "updated_at": "2022-07-13T09:24:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": 135,
+                    "geocode": "1202241125201032",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97968,
+                        "created_at": "2022-08-08T12:07:30.000000Z",
+                        "updated_at": "2022-08-08T12:07:30.000000Z"
+                    }
+                },
+                {
+                    "id": 97952,
+                    "name": "Ndanyela-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:26.000000Z",
+                    "updated_at": "2022-07-13T09:24:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": 140,
+                    "geocode": "1202241125201033",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97952,
+                        "created_at": "2022-08-08T12:07:30.000000Z",
+                        "updated_at": "2022-08-08T12:07:30.000000Z"
+                    }
+                },
+                {
+                    "id": 97956,
+                    "name": "Ndanyela-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:27.000000Z",
+                    "updated_at": "2022-07-13T09:24:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": 110,
+                    "geocode": "1202241125201034",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97956,
+                        "created_at": "2022-08-08T12:07:31.000000Z",
+                        "updated_at": "2022-08-08T12:07:31.000000Z"
+                    }
+                },
+                {
+                    "id": 97957,
+                    "name": "Ndanyela-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:27.000000Z",
+                    "updated_at": "2022-07-13T09:24:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": 150,
+                    "geocode": "1202241125201035",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97957,
+                        "created_at": "2022-08-08T12:07:31.000000Z",
+                        "updated_at": "2022-08-08T12:07:31.000000Z"
+                    }
+                },
+                {
+                    "id": 97961,
+                    "name": "Ndanyela-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:28.000000Z",
+                    "updated_at": "2022-07-13T09:24:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": 150,
+                    "geocode": "1202241125201036",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97961,
+                        "created_at": "2022-08-08T12:07:32.000000Z",
+                        "updated_at": "2022-08-08T12:07:32.000000Z"
+                    }
+                },
+                {
+                    "id": 97948,
+                    "name": "Ndanyela-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:24.000000Z",
+                    "updated_at": "2022-07-13T09:24:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": 150,
+                    "geocode": "1202241125201037",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97948,
+                        "created_at": "2022-08-08T12:07:32.000000Z",
+                        "updated_at": "2022-08-08T12:07:32.000000Z"
+                    }
+                },
+                {
+                    "id": 97942,
+                    "name": "Ndanyela-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:23.000000Z",
+                    "updated_at": "2022-07-13T09:24:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": 150,
+                    "geocode": "1202241125201038",
+                    "pivot": {
+                        "location_id": 89489,
+                        "area_id": 97942,
+                        "created_at": "2022-08-08T12:07:33.000000Z",
+                        "updated_at": "2022-08-08T12:07:33.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 89487,
+            "name": "NZOVWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71033,
+                "name": "NZOVWE",
+                "postcode": "53116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71017,
+                    "name": "MBEYA CITY COUNCIL",
+                    "postcode": "531",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71016,
+                        "name": "MBEYA CBD",
+                        "postcode": "531",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 71015,
+                            "name": "MBEYA",
+                            "postcode": "53",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98012,
+                    "name": "Nzovwe-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:37.000000Z",
+                    "updated_at": "2022-07-13T09:24:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 110,
+                    "geocode": "1202241125202001",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 98012,
+                        "created_at": "2022-08-08T12:07:33.000000Z",
+                        "updated_at": "2022-08-08T12:07:33.000000Z"
+                    }
+                },
+                {
+                    "id": 97931,
+                    "name": "Nzovwe-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:21.000000Z",
+                    "updated_at": "2022-07-13T09:24:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 78,
+                    "geocode": "1202241125202002",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97931,
+                        "created_at": "2022-08-08T12:07:33.000000Z",
+                        "updated_at": "2022-08-08T12:07:33.000000Z"
+                    }
+                },
+                {
+                    "id": 97928,
+                    "name": "Nzovwe-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:21.000000Z",
+                    "updated_at": "2022-07-13T09:24:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 130,
+                    "geocode": "1202241125202003",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97928,
+                        "created_at": "2022-08-08T12:07:34.000000Z",
+                        "updated_at": "2022-08-08T12:07:34.000000Z"
+                    }
+                },
+                {
+                    "id": 97932,
+                    "name": "Nzovwe-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:22.000000Z",
+                    "updated_at": "2022-07-13T09:24:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 130,
+                    "geocode": "1202241125202004",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97932,
+                        "created_at": "2022-08-08T12:07:34.000000Z",
+                        "updated_at": "2022-08-08T12:07:34.000000Z"
+                    }
+                },
+                {
+                    "id": 97930,
+                    "name": "Nzovwe-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:21.000000Z",
+                    "updated_at": "2022-07-13T09:24:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 130,
+                    "geocode": "1202241125202005",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97930,
+                        "created_at": "2022-08-08T12:07:34.000000Z",
+                        "updated_at": "2022-08-08T12:07:34.000000Z"
+                    }
+                },
+                {
+                    "id": 97934,
+                    "name": "Nzovwe-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:22.000000Z",
+                    "updated_at": "2022-07-13T09:24:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 70,
+                    "geocode": "1202241125202006",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97934,
+                        "created_at": "2022-08-08T12:07:35.000000Z",
+                        "updated_at": "2022-08-08T12:07:35.000000Z"
+                    }
+                },
+                {
+                    "id": 97927,
+                    "name": "Nzovwe-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:21.000000Z",
+                    "updated_at": "2022-07-13T09:24:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 110,
+                    "geocode": "1202241125202007",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97927,
+                        "created_at": "2022-08-08T12:07:35.000000Z",
+                        "updated_at": "2022-08-08T12:07:35.000000Z"
+                    }
+                },
+                {
+                    "id": 98010,
+                    "name": "Nzovwe-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:37.000000Z",
+                    "updated_at": "2022-07-13T09:24:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 86,
+                    "geocode": "1202241125202008",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 98010,
+                        "created_at": "2022-08-08T12:07:35.000000Z",
+                        "updated_at": "2022-08-08T12:07:35.000000Z"
+                    }
+                },
+                {
+                    "id": 98008,
+                    "name": "Nzovwe-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:36.000000Z",
+                    "updated_at": "2022-07-13T09:24:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 73,
+                    "geocode": "1202241125202009",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 98008,
+                        "created_at": "2022-08-08T12:07:35.000000Z",
+                        "updated_at": "2022-08-08T12:07:35.000000Z"
+                    }
+                },
+                {
+                    "id": 97998,
+                    "name": "Nzovwe-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:34.000000Z",
+                    "updated_at": "2022-07-13T09:24:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 98,
+                    "geocode": "1202241125202010",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97998,
+                        "created_at": "2022-08-08T12:07:36.000000Z",
+                        "updated_at": "2022-08-08T12:07:36.000000Z"
+                    }
+                },
+                {
+                    "id": 97929,
+                    "name": "Nzovwe-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:21.000000Z",
+                    "updated_at": "2022-07-13T09:24:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 80,
+                    "geocode": "1202241125202011",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97929,
+                        "created_at": "2022-08-08T12:07:36.000000Z",
+                        "updated_at": "2022-08-08T12:07:36.000000Z"
+                    }
+                },
+                {
+                    "id": 97933,
+                    "name": "Nzovwe-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:22.000000Z",
+                    "updated_at": "2022-07-13T09:24:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 123,
+                    "geocode": "1202241125202012",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 97933,
+                        "created_at": "2022-08-08T12:07:36.000000Z",
+                        "updated_at": "2022-08-08T12:07:36.000000Z"
+                    }
+                },
+                {
+                    "id": 98001,
+                    "name": "Nzovwe-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:35.000000Z",
+                    "updated_at": "2022-07-13T09:24:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 118,
+                    "geocode": "1202241125202013",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 98001,
+                        "created_at": "2022-08-08T12:07:37.000000Z",
+                        "updated_at": "2022-08-08T12:07:37.000000Z"
+                    }
+                },
+                {
+                    "id": 98000,
+                    "name": "Nzovwe-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:35.000000Z",
+                    "updated_at": "2022-07-13T09:24:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 70,
+                    "geocode": "1202241125202014",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 98000,
+                        "created_at": "2022-08-08T12:07:37.000000Z",
+                        "updated_at": "2022-08-08T12:07:37.000000Z"
+                    }
+                },
+                {
+                    "id": 98009,
+                    "name": "Nzovwe-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:37.000000Z",
+                    "updated_at": "2022-07-13T09:24:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 70,
+                    "geocode": "1202241125202015",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 98009,
+                        "created_at": "2022-08-08T12:07:37.000000Z",
+                        "updated_at": "2022-08-08T12:07:37.000000Z"
+                    }
+                },
+                {
+                    "id": 98005,
+                    "name": "Nzovwe-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:24:36.000000Z",
+                    "updated_at": "2022-07-13T09:24:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 87,
+                    "geocode": "1202241125202016",
+                    "pivot": {
+                        "location_id": 89487,
+                        "area_id": 98005,
+                        "created_at": "2022-08-08T12:07:38.000000Z",
+                        "updated_at": "2022-08-08T12:07:38.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
