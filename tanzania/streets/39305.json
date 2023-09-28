@@ -1,0 +1,924 @@
+{
+    "data": [
+        {
+            "id": 82087,
+            "name": "GUMALI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 82083,
+                "name": "MASELA",
+                "postcode": "39305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 82064,
+                    "name": "MASWA DISTRICT COUNCIL",
+                    "postcode": "393",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 82063,
+                        "name": "MASWA",
+                        "postcode": "393",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 118450,
+                    "name": "Gumali",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82087,
+                        "area_id": 118450,
+                        "created_at": "2022-08-12T14:29:22.000000Z",
+                        "updated_at": "2022-08-12T14:29:22.000000Z"
+                    }
+                },
+                {
+                    "id": 118451,
+                    "name": "Masuha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82087,
+                        "area_id": 118451,
+                        "created_at": "2022-08-12T14:29:22.000000Z",
+                        "updated_at": "2022-08-12T14:29:22.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 82084,
+            "name": "MASELA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 82083,
+                "name": "MASELA",
+                "postcode": "39305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 82064,
+                    "name": "MASWA DISTRICT COUNCIL",
+                    "postcode": "393",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 82063,
+                        "name": "MASWA",
+                        "postcode": "393",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 118445,
+                    "name": "Isada",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82084,
+                        "area_id": 118445,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                },
+                {
+                    "id": 118446,
+                    "name": "Bulolangulu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82084,
+                        "area_id": 118446,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                },
+                {
+                    "id": 118447,
+                    "name": "Masela",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82084,
+                        "area_id": 118447,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                },
+                {
+                    "id": 118448,
+                    "name": "Mwakwibilinga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82084,
+                        "area_id": 118448,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                },
+                {
+                    "id": 118449,
+                    "name": "Pandagi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82084,
+                        "area_id": 118449,
+                        "created_at": "2022-08-12T14:29:22.000000Z",
+                        "updated_at": "2022-08-12T14:29:22.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 82088,
+            "name": "MWABUKI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 82083,
+                "name": "MASELA",
+                "postcode": "39305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 82064,
+                    "name": "MASWA DISTRICT COUNCIL",
+                    "postcode": "393",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 82063,
+                        "name": "MASWA",
+                        "postcode": "393",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 118443,
+                    "name": "Likenejo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:03.000000Z",
+                    "updated_at": "2022-07-27T09:24:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82088,
+                        "area_id": 118443,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                },
+                {
+                    "id": 118444,
+                    "name": "Mwabuki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82088,
+                        "area_id": 118444,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 82086,
+            "name": "MWASAYI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 82083,
+                "name": "MASELA",
+                "postcode": "39305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 82064,
+                    "name": "MASWA DISTRICT COUNCIL",
+                    "postcode": "393",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 82063,
+                        "name": "MASWA",
+                        "postcode": "393",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 118438,
+                    "name": "Mwasayi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:03.000000Z",
+                    "updated_at": "2022-07-27T09:24:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82086,
+                        "area_id": 118438,
+                        "created_at": "2022-08-12T14:29:20.000000Z",
+                        "updated_at": "2022-08-12T14:29:20.000000Z"
+                    }
+                },
+                {
+                    "id": 118439,
+                    "name": "Mwakudawa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:03.000000Z",
+                    "updated_at": "2022-07-27T09:24:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82086,
+                        "area_id": 118439,
+                        "created_at": "2022-08-12T14:29:20.000000Z",
+                        "updated_at": "2022-08-12T14:29:20.000000Z"
+                    }
+                },
+                {
+                    "id": 118440,
+                    "name": "Bupumba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:03.000000Z",
+                    "updated_at": "2022-07-27T09:24:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82086,
+                        "area_id": 118440,
+                        "created_at": "2022-08-12T14:29:20.000000Z",
+                        "updated_at": "2022-08-12T14:29:20.000000Z"
+                    }
+                },
+                {
+                    "id": 118441,
+                    "name": "Ibindo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:03.000000Z",
+                    "updated_at": "2022-07-27T09:24:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82086,
+                        "area_id": 118441,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                },
+                {
+                    "id": 118442,
+                    "name": "Mwakijabende",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:03.000000Z",
+                    "updated_at": "2022-07-27T09:24:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82086,
+                        "area_id": 118442,
+                        "created_at": "2022-08-12T14:29:21.000000Z",
+                        "updated_at": "2022-08-12T14:29:21.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 82085,
+            "name": "WIGELEKELO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 82083,
+                "name": "MASELA",
+                "postcode": "39305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 82064,
+                    "name": "MASWA DISTRICT COUNCIL",
+                    "postcode": "393",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 82063,
+                        "name": "MASWA",
+                        "postcode": "393",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 81725,
+                            "name": "SIMIYU",
+                            "postcode": "39",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 118452,
+                    "name": "Wigelekelo Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82085,
+                        "area_id": 118452,
+                        "created_at": "2022-08-12T14:29:22.000000Z",
+                        "updated_at": "2022-08-12T14:29:22.000000Z"
+                    }
+                },
+                {
+                    "id": 118453,
+                    "name": "Wigelekelo Magharibi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:04.000000Z",
+                    "updated_at": "2022-07-27T09:24:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82085,
+                        "area_id": 118453,
+                        "created_at": "2022-08-12T14:29:22.000000Z",
+                        "updated_at": "2022-08-12T14:29:22.000000Z"
+                    }
+                },
+                {
+                    "id": 118454,
+                    "name": "Ng'wande (Ng'hwande)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:05.000000Z",
+                    "updated_at": "2022-07-27T09:24:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82085,
+                        "area_id": 118454,
+                        "created_at": "2022-08-12T14:29:22.000000Z",
+                        "updated_at": "2022-08-12T14:29:22.000000Z"
+                    }
+                },
+                {
+                    "id": 118455,
+                    "name": "Shagihilu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:05.000000Z",
+                    "updated_at": "2022-07-27T09:24:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82085,
+                        "area_id": 118455,
+                        "created_at": "2022-08-12T14:29:23.000000Z",
+                        "updated_at": "2022-08-12T14:29:23.000000Z"
+                    }
+                },
+                {
+                    "id": 118456,
+                    "name": "Isagenghe (Isageng'he)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:05.000000Z",
+                    "updated_at": "2022-07-27T09:24:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82085,
+                        "area_id": 118456,
+                        "created_at": "2022-08-12T14:29:23.000000Z",
+                        "updated_at": "2022-08-12T14:29:23.000000Z"
+                    }
+                },
+                {
+                    "id": 118457,
+                    "name": "Mita",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:05.000000Z",
+                    "updated_at": "2022-07-27T09:24:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82085,
+                        "area_id": 118457,
+                        "created_at": "2022-08-12T14:29:23.000000Z",
+                        "updated_at": "2022-08-12T14:29:23.000000Z"
+                    }
+                },
+                {
+                    "id": 118458,
+                    "name": "Mwasaida (Mwasayida)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T09:24:05.000000Z",
+                    "updated_at": "2022-07-27T09:24:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 82085,
+                        "area_id": 118458,
+                        "created_at": "2022-08-12T14:29:23.000000Z",
+                        "updated_at": "2022-08-12T14:29:23.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
