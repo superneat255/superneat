@@ -1,0 +1,904 @@
+{
+    "data": [
+        {
+            "id": 81249,
+            "name": "IGOMELO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81248,
+                "name": "MALUNGA",
+                "postcode": "37305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191028,
+                    "name": "Igomelo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:13.000000Z",
+                    "updated_at": "2022-08-10T08:12:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191028,
+                        "created_at": "2022-08-10T08:12:13.000000Z",
+                        "updated_at": "2022-08-10T08:12:13.000000Z"
+                    }
+                },
+                {
+                    "id": 191029,
+                    "name": "Igomelo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:15.000000Z",
+                    "updated_at": "2022-08-10T08:12:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191029,
+                        "created_at": "2022-08-10T08:12:15.000000Z",
+                        "updated_at": "2022-08-10T08:12:15.000000Z"
+                    }
+                },
+                {
+                    "id": 191030,
+                    "name": "Igomelo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:16.000000Z",
+                    "updated_at": "2022-08-10T08:12:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191030,
+                        "created_at": "2022-08-10T08:12:16.000000Z",
+                        "updated_at": "2022-08-10T08:12:16.000000Z"
+                    }
+                },
+                {
+                    "id": 191031,
+                    "name": "Igomelo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:17.000000Z",
+                    "updated_at": "2022-08-10T08:12:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191031,
+                        "created_at": "2022-08-10T08:12:17.000000Z",
+                        "updated_at": "2022-08-10T08:12:17.000000Z"
+                    }
+                },
+                {
+                    "id": 191032,
+                    "name": "Igomelo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:18.000000Z",
+                    "updated_at": "2022-08-10T08:12:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191032,
+                        "created_at": "2022-08-10T08:12:18.000000Z",
+                        "updated_at": "2022-08-10T08:12:18.000000Z"
+                    }
+                },
+                {
+                    "id": 191033,
+                    "name": "Igomelo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:20.000000Z",
+                    "updated_at": "2022-08-10T08:12:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191033,
+                        "created_at": "2022-08-10T08:12:20.000000Z",
+                        "updated_at": "2022-08-10T08:12:20.000000Z"
+                    }
+                },
+                {
+                    "id": 191034,
+                    "name": "Igomelo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:21.000000Z",
+                    "updated_at": "2022-08-10T08:12:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191034,
+                        "created_at": "2022-08-10T08:12:21.000000Z",
+                        "updated_at": "2022-08-10T08:12:21.000000Z"
+                    }
+                },
+                {
+                    "id": 191035,
+                    "name": "Igomelo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:22.000000Z",
+                    "updated_at": "2022-08-10T08:12:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191035,
+                        "created_at": "2022-08-10T08:12:22.000000Z",
+                        "updated_at": "2022-08-10T08:12:22.000000Z"
+                    }
+                },
+                {
+                    "id": 191036,
+                    "name": "Igomelo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:23.000000Z",
+                    "updated_at": "2022-08-10T08:12:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191036,
+                        "created_at": "2022-08-10T08:12:23.000000Z",
+                        "updated_at": "2022-08-10T08:12:23.000000Z"
+                    }
+                },
+                {
+                    "id": 191037,
+                    "name": "Igomelo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:24.000000Z",
+                    "updated_at": "2022-08-10T08:12:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191037,
+                        "created_at": "2022-08-10T08:12:24.000000Z",
+                        "updated_at": "2022-08-10T08:12:24.000000Z"
+                    }
+                },
+                {
+                    "id": 191038,
+                    "name": "Igomelo-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:26.000000Z",
+                    "updated_at": "2022-08-10T08:12:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191038,
+                        "created_at": "2022-08-10T08:12:26.000000Z",
+                        "updated_at": "2022-08-10T08:12:26.000000Z"
+                    }
+                },
+                {
+                    "id": 191039,
+                    "name": "Igomelo-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:27.000000Z",
+                    "updated_at": "2022-08-10T08:12:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81249,
+                        "area_id": 191039,
+                        "created_at": "2022-08-10T08:12:27.000000Z",
+                        "updated_at": "2022-08-10T08:12:27.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81250,
+            "name": "KOROGWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81248,
+                "name": "MALUNGA",
+                "postcode": "37305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191040,
+                    "name": "Korogwe-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:28.000000Z",
+                    "updated_at": "2022-08-10T08:12:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191040,
+                        "created_at": "2022-08-10T08:12:28.000000Z",
+                        "updated_at": "2022-08-10T08:12:28.000000Z"
+                    }
+                },
+                {
+                    "id": 191041,
+                    "name": "Korogwe-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:29.000000Z",
+                    "updated_at": "2022-08-10T08:12:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191041,
+                        "created_at": "2022-08-10T08:12:29.000000Z",
+                        "updated_at": "2022-08-10T08:12:29.000000Z"
+                    }
+                },
+                {
+                    "id": 191042,
+                    "name": "Korogwe-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:30.000000Z",
+                    "updated_at": "2022-08-10T08:12:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191042,
+                        "created_at": "2022-08-10T08:12:30.000000Z",
+                        "updated_at": "2022-08-10T08:12:30.000000Z"
+                    }
+                },
+                {
+                    "id": 191043,
+                    "name": "Korogwe-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:30.000000Z",
+                    "updated_at": "2022-08-10T08:12:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191043,
+                        "created_at": "2022-08-10T08:12:30.000000Z",
+                        "updated_at": "2022-08-10T08:12:30.000000Z"
+                    }
+                },
+                {
+                    "id": 191044,
+                    "name": "Korogwe-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:31.000000Z",
+                    "updated_at": "2022-08-10T08:12:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191044,
+                        "created_at": "2022-08-10T08:12:31.000000Z",
+                        "updated_at": "2022-08-10T08:12:31.000000Z"
+                    }
+                },
+                {
+                    "id": 191045,
+                    "name": "Korogwe-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:32.000000Z",
+                    "updated_at": "2022-08-10T08:12:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191045,
+                        "created_at": "2022-08-10T08:12:32.000000Z",
+                        "updated_at": "2022-08-10T08:12:32.000000Z"
+                    }
+                },
+                {
+                    "id": 191046,
+                    "name": "Korogwe-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:32.000000Z",
+                    "updated_at": "2022-08-10T08:12:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191046,
+                        "created_at": "2022-08-10T08:12:32.000000Z",
+                        "updated_at": "2022-08-10T08:12:32.000000Z"
+                    }
+                },
+                {
+                    "id": 191047,
+                    "name": "Korogwe-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:33.000000Z",
+                    "updated_at": "2022-08-10T08:12:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81250,
+                        "area_id": 191047,
+                        "created_at": "2022-08-10T08:12:33.000000Z",
+                        "updated_at": "2022-08-10T08:12:33.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81251,
+            "name": "MALUNGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81248,
+                "name": "MALUNGA",
+                "postcode": "37305",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191048,
+                    "name": "Malunga-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:34.000000Z",
+                    "updated_at": "2022-08-10T08:12:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191048,
+                        "created_at": "2022-08-10T08:12:34.000000Z",
+                        "updated_at": "2022-08-10T08:12:34.000000Z"
+                    }
+                },
+                {
+                    "id": 191049,
+                    "name": "Malunga-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:35.000000Z",
+                    "updated_at": "2022-08-10T08:12:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191049,
+                        "created_at": "2022-08-10T08:12:35.000000Z",
+                        "updated_at": "2022-08-10T08:12:35.000000Z"
+                    }
+                },
+                {
+                    "id": 191050,
+                    "name": "Malunga-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:35.000000Z",
+                    "updated_at": "2022-08-10T08:12:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191050,
+                        "created_at": "2022-08-10T08:12:35.000000Z",
+                        "updated_at": "2022-08-10T08:12:35.000000Z"
+                    }
+                },
+                {
+                    "id": 191051,
+                    "name": "Malunga-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:36.000000Z",
+                    "updated_at": "2022-08-10T08:12:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191051,
+                        "created_at": "2022-08-10T08:12:36.000000Z",
+                        "updated_at": "2022-08-10T08:12:36.000000Z"
+                    }
+                },
+                {
+                    "id": 191052,
+                    "name": "Malunga-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:36.000000Z",
+                    "updated_at": "2022-08-10T08:12:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191052,
+                        "created_at": "2022-08-10T08:12:36.000000Z",
+                        "updated_at": "2022-08-10T08:12:36.000000Z"
+                    }
+                },
+                {
+                    "id": 191053,
+                    "name": "Malunga-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:37.000000Z",
+                    "updated_at": "2022-08-10T08:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191053,
+                        "created_at": "2022-08-10T08:12:37.000000Z",
+                        "updated_at": "2022-08-10T08:12:37.000000Z"
+                    }
+                },
+                {
+                    "id": 191054,
+                    "name": "Malunga-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:38.000000Z",
+                    "updated_at": "2022-08-10T08:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191054,
+                        "created_at": "2022-08-10T08:12:38.000000Z",
+                        "updated_at": "2022-08-10T08:12:38.000000Z"
+                    }
+                },
+                {
+                    "id": 191055,
+                    "name": "Malunga-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:38.000000Z",
+                    "updated_at": "2022-08-10T08:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191055,
+                        "created_at": "2022-08-10T08:12:38.000000Z",
+                        "updated_at": "2022-08-10T08:12:38.000000Z"
+                    }
+                },
+                {
+                    "id": 191056,
+                    "name": "Malunga-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:39.000000Z",
+                    "updated_at": "2022-08-10T08:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191056,
+                        "created_at": "2022-08-10T08:12:39.000000Z",
+                        "updated_at": "2022-08-10T08:12:39.000000Z"
+                    }
+                },
+                {
+                    "id": 191057,
+                    "name": "Malunga-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:12:40.000000Z",
+                    "updated_at": "2022-08-10T08:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81251,
+                        "area_id": 191057,
+                        "created_at": "2022-08-10T08:12:40.000000Z",
+                        "updated_at": "2022-08-10T08:12:40.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
