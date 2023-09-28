@@ -1,0 +1,824 @@
+{
+    "data": [
+        {
+            "id": 73043,
+            "name": "BULENGEDI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 73039,
+                "name": "ISULWABUTUNDWE",
+                "postcode": "30131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72921,
+                    "name": "GEITA DISTRICT COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 166194,
+                    "name": "Busagala",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:47.000000Z",
+                    "updated_at": "2022-08-08T12:31:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73043,
+                        "area_id": 166194,
+                        "created_at": "2022-08-08T12:31:47.000000Z",
+                        "updated_at": "2022-08-08T12:31:47.000000Z"
+                    }
+                },
+                {
+                    "id": 166195,
+                    "name": "Bulengedi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:47.000000Z",
+                    "updated_at": "2022-08-08T12:31:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73043,
+                        "area_id": 166195,
+                        "created_at": "2022-08-08T12:31:47.000000Z",
+                        "updated_at": "2022-08-08T12:31:47.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 73041,
+            "name": "IBISABAGENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 73039,
+                "name": "ISULWABUTUNDWE",
+                "postcode": "30131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72921,
+                    "name": "GEITA DISTRICT COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 166199,
+                    "name": "Kaburwabunyasi (Kabulabunyasi)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:48.000000Z",
+                    "updated_at": "2022-08-08T12:31:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73041,
+                        "area_id": 166199,
+                        "created_at": "2022-08-08T12:31:48.000000Z",
+                        "updated_at": "2022-08-08T12:31:48.000000Z"
+                    }
+                },
+                {
+                    "id": 166200,
+                    "name": "Nyenye",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:48.000000Z",
+                    "updated_at": "2022-08-08T12:31:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73041,
+                        "area_id": 166200,
+                        "created_at": "2022-08-08T12:31:48.000000Z",
+                        "updated_at": "2022-08-08T12:31:48.000000Z"
+                    }
+                },
+                {
+                    "id": 166201,
+                    "name": "Beda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:48.000000Z",
+                    "updated_at": "2022-08-08T12:31:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73041,
+                        "area_id": 166201,
+                        "created_at": "2022-08-08T12:31:48.000000Z",
+                        "updated_at": "2022-08-08T12:31:48.000000Z"
+                    }
+                },
+                {
+                    "id": 166202,
+                    "name": "Bukumbi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:49.000000Z",
+                    "updated_at": "2022-08-08T12:31:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73041,
+                        "area_id": 166202,
+                        "created_at": "2022-08-08T12:31:49.000000Z",
+                        "updated_at": "2022-08-08T12:31:49.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 73044,
+            "name": "IGAKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 73039,
+                "name": "ISULWABUTUNDWE",
+                "postcode": "30131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72921,
+                    "name": "GEITA DISTRICT COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 166196,
+                    "name": "Nyakatundu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:47.000000Z",
+                    "updated_at": "2022-08-08T12:31:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73044,
+                        "area_id": 166196,
+                        "created_at": "2022-08-08T12:31:47.000000Z",
+                        "updated_at": "2022-08-08T12:31:47.000000Z"
+                    }
+                },
+                {
+                    "id": 166197,
+                    "name": "Iginya",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:48.000000Z",
+                    "updated_at": "2022-08-08T12:31:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73044,
+                        "area_id": 166197,
+                        "created_at": "2022-08-08T12:31:48.000000Z",
+                        "updated_at": "2022-08-08T12:31:48.000000Z"
+                    }
+                },
+                {
+                    "id": 166198,
+                    "name": "Mwamatumba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:48.000000Z",
+                    "updated_at": "2022-08-08T12:31:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73044,
+                        "area_id": 166198,
+                        "created_at": "2022-08-08T12:31:48.000000Z",
+                        "updated_at": "2022-08-08T12:31:48.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 73040,
+            "name": "ISULWABUTUNDWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 73039,
+                "name": "ISULWABUTUNDWE",
+                "postcode": "30131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72921,
+                    "name": "GEITA DISTRICT COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 166187,
+                    "name": "Igokelo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:46.000000Z",
+                    "updated_at": "2022-08-08T12:31:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73040,
+                        "area_id": 166187,
+                        "created_at": "2022-08-08T12:31:46.000000Z",
+                        "updated_at": "2022-08-08T12:31:46.000000Z"
+                    }
+                },
+                {
+                    "id": 166188,
+                    "name": "Isadukilo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:46.000000Z",
+                    "updated_at": "2022-08-08T12:31:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73040,
+                        "area_id": 166188,
+                        "created_at": "2022-08-08T12:31:46.000000Z",
+                        "updated_at": "2022-08-08T12:31:46.000000Z"
+                    }
+                },
+                {
+                    "id": 166189,
+                    "name": "Ibilibishi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:46.000000Z",
+                    "updated_at": "2022-08-08T12:31:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73040,
+                        "area_id": 166189,
+                        "created_at": "2022-08-08T12:31:46.000000Z",
+                        "updated_at": "2022-08-08T12:31:46.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 73042,
+            "name": "NYAKADUHA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 73039,
+                "name": "ISULWABUTUNDWE",
+                "postcode": "30131",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72921,
+                    "name": "GEITA DISTRICT COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 166190,
+                    "name": "Kabamba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:46.000000Z",
+                    "updated_at": "2022-08-08T12:31:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73042,
+                        "area_id": 166190,
+                        "created_at": "2022-08-08T12:31:46.000000Z",
+                        "updated_at": "2022-08-08T12:31:46.000000Z"
+                    }
+                },
+                {
+                    "id": 166191,
+                    "name": "Ibalani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:47.000000Z",
+                    "updated_at": "2022-08-08T12:31:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73042,
+                        "area_id": 166191,
+                        "created_at": "2022-08-08T12:31:47.000000Z",
+                        "updated_at": "2022-08-08T12:31:47.000000Z"
+                    }
+                },
+                {
+                    "id": 166192,
+                    "name": "Nyakahama",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:47.000000Z",
+                    "updated_at": "2022-08-08T12:31:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73042,
+                        "area_id": 166192,
+                        "created_at": "2022-08-08T12:31:47.000000Z",
+                        "updated_at": "2022-08-08T12:31:47.000000Z"
+                    }
+                },
+                {
+                    "id": 166193,
+                    "name": "Kijiweni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T12:31:47.000000Z",
+                    "updated_at": "2022-08-08T12:31:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 73042,
+                        "area_id": 166193,
+                        "created_at": "2022-08-08T12:31:47.000000Z",
+                        "updated_at": "2022-08-08T12:31:47.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
