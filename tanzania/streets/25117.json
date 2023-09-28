@@ -1,0 +1,884 @@
+{
+    "data": [
+        {
+            "id": 97555,
+            "name": "ARABICA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75410,
+                "name": "MIEMBENI",
+                "postcode": "25117",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75393,
+                    "name": "MOSHI MUNICIPAL COUNCIL",
+                    "postcode": "251",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121131,
+                    "name": "Arabica-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:43.000000Z",
+                    "updated_at": "2022-07-27T10:14:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121131,
+                        "created_at": "2022-08-13T15:03:13.000000Z",
+                        "updated_at": "2022-08-13T15:03:13.000000Z"
+                    }
+                },
+                {
+                    "id": 121132,
+                    "name": "Arabica-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:43.000000Z",
+                    "updated_at": "2022-07-27T10:14:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121132,
+                        "created_at": "2022-08-13T15:03:13.000000Z",
+                        "updated_at": "2022-08-13T15:03:13.000000Z"
+                    }
+                },
+                {
+                    "id": 121133,
+                    "name": "Arabica-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:43.000000Z",
+                    "updated_at": "2022-07-27T10:14:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121133,
+                        "created_at": "2022-08-13T15:03:13.000000Z",
+                        "updated_at": "2022-08-13T15:03:13.000000Z"
+                    }
+                },
+                {
+                    "id": 121134,
+                    "name": "Arabica-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:43.000000Z",
+                    "updated_at": "2022-07-27T10:14:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121134,
+                        "created_at": "2022-08-13T15:03:13.000000Z",
+                        "updated_at": "2022-08-13T15:03:13.000000Z"
+                    }
+                },
+                {
+                    "id": 121135,
+                    "name": "Arabica-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:44.000000Z",
+                    "updated_at": "2022-07-27T10:14:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121135,
+                        "created_at": "2022-08-13T15:03:13.000000Z",
+                        "updated_at": "2022-08-13T15:03:13.000000Z"
+                    }
+                },
+                {
+                    "id": 121136,
+                    "name": "Arabica-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:44.000000Z",
+                    "updated_at": "2022-07-27T10:14:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121136,
+                        "created_at": "2022-08-13T15:03:14.000000Z",
+                        "updated_at": "2022-08-13T15:03:14.000000Z"
+                    }
+                },
+                {
+                    "id": 121137,
+                    "name": "Arabica-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:44.000000Z",
+                    "updated_at": "2022-07-27T10:14:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121137,
+                        "created_at": "2022-08-13T15:03:14.000000Z",
+                        "updated_at": "2022-08-13T15:03:14.000000Z"
+                    }
+                },
+                {
+                    "id": 121138,
+                    "name": "Arabica-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:44.000000Z",
+                    "updated_at": "2022-07-27T10:14:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97555,
+                        "area_id": 121138,
+                        "created_at": "2022-08-13T15:03:14.000000Z",
+                        "updated_at": "2022-08-13T15:03:14.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97556,
+            "name": "MIEMBENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75410,
+                "name": "MIEMBENI",
+                "postcode": "25117",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75393,
+                    "name": "MOSHI MUNICIPAL COUNCIL",
+                    "postcode": "251",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121139,
+                    "name": "Miembeni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:44.000000Z",
+                    "updated_at": "2022-07-27T10:14:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121139,
+                        "created_at": "2022-08-13T15:03:14.000000Z",
+                        "updated_at": "2022-08-13T15:03:14.000000Z"
+                    }
+                },
+                {
+                    "id": 121140,
+                    "name": "Miembeni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:45.000000Z",
+                    "updated_at": "2022-07-27T10:14:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121140,
+                        "created_at": "2022-08-13T15:03:15.000000Z",
+                        "updated_at": "2022-08-13T15:03:15.000000Z"
+                    }
+                },
+                {
+                    "id": 121141,
+                    "name": "Miembeni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:45.000000Z",
+                    "updated_at": "2022-07-27T10:14:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121141,
+                        "created_at": "2022-08-13T15:03:15.000000Z",
+                        "updated_at": "2022-08-13T15:03:15.000000Z"
+                    }
+                },
+                {
+                    "id": 121142,
+                    "name": "Miembeni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:45.000000Z",
+                    "updated_at": "2022-07-27T10:14:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121142,
+                        "created_at": "2022-08-13T15:03:15.000000Z",
+                        "updated_at": "2022-08-13T15:03:15.000000Z"
+                    }
+                },
+                {
+                    "id": 121143,
+                    "name": "Miembeni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:45.000000Z",
+                    "updated_at": "2022-07-27T10:14:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121143,
+                        "created_at": "2022-08-13T15:03:15.000000Z",
+                        "updated_at": "2022-08-13T15:03:15.000000Z"
+                    }
+                },
+                {
+                    "id": 121144,
+                    "name": "Miembeni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:46.000000Z",
+                    "updated_at": "2022-07-27T10:14:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121144,
+                        "created_at": "2022-08-13T15:03:16.000000Z",
+                        "updated_at": "2022-08-13T15:03:16.000000Z"
+                    }
+                },
+                {
+                    "id": 121145,
+                    "name": "Miembeni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:46.000000Z",
+                    "updated_at": "2022-07-27T10:14:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121145,
+                        "created_at": "2022-08-13T15:03:16.000000Z",
+                        "updated_at": "2022-08-13T15:03:16.000000Z"
+                    }
+                },
+                {
+                    "id": 121146,
+                    "name": "Miembeni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:46.000000Z",
+                    "updated_at": "2022-07-27T10:14:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121146,
+                        "created_at": "2022-08-13T15:03:16.000000Z",
+                        "updated_at": "2022-08-13T15:03:16.000000Z"
+                    }
+                },
+                {
+                    "id": 121147,
+                    "name": "Miembeni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:47.000000Z",
+                    "updated_at": "2022-07-27T10:14:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121147,
+                        "created_at": "2022-08-13T15:03:16.000000Z",
+                        "updated_at": "2022-08-13T15:03:16.000000Z"
+                    }
+                },
+                {
+                    "id": 121148,
+                    "name": "Miembeni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:47.000000Z",
+                    "updated_at": "2022-07-27T10:14:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121148,
+                        "created_at": "2022-08-13T15:03:17.000000Z",
+                        "updated_at": "2022-08-13T15:03:17.000000Z"
+                    }
+                },
+                {
+                    "id": 121149,
+                    "name": "Miembeni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:47.000000Z",
+                    "updated_at": "2022-07-27T10:14:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97556,
+                        "area_id": 121149,
+                        "created_at": "2022-08-13T15:03:17.000000Z",
+                        "updated_at": "2022-08-13T15:03:17.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97554,
+            "name": "MJI MWEMA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75410,
+                "name": "MIEMBENI",
+                "postcode": "25117",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75393,
+                    "name": "MOSHI MUNICIPAL COUNCIL",
+                    "postcode": "251",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121150,
+                    "name": "Mji Mwema-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:47.000000Z",
+                    "updated_at": "2022-07-27T10:14:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121150,
+                        "created_at": "2022-08-13T15:03:17.000000Z",
+                        "updated_at": "2022-08-13T15:03:17.000000Z"
+                    }
+                },
+                {
+                    "id": 121151,
+                    "name": "Mji Mwema-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:48.000000Z",
+                    "updated_at": "2022-07-27T10:14:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121151,
+                        "created_at": "2022-08-13T15:03:17.000000Z",
+                        "updated_at": "2022-08-13T15:03:17.000000Z"
+                    }
+                },
+                {
+                    "id": 121152,
+                    "name": "Mji Mwema-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:48.000000Z",
+                    "updated_at": "2022-07-27T10:14:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121152,
+                        "created_at": "2022-08-13T15:03:18.000000Z",
+                        "updated_at": "2022-08-13T15:03:18.000000Z"
+                    }
+                },
+                {
+                    "id": 121153,
+                    "name": "Mji Mwema-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:48.000000Z",
+                    "updated_at": "2022-07-27T10:14:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121153,
+                        "created_at": "2022-08-13T15:03:18.000000Z",
+                        "updated_at": "2022-08-13T15:03:18.000000Z"
+                    }
+                },
+                {
+                    "id": 121154,
+                    "name": "Mji Mwema-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:48.000000Z",
+                    "updated_at": "2022-07-27T10:14:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121154,
+                        "created_at": "2022-08-13T15:03:18.000000Z",
+                        "updated_at": "2022-08-13T15:03:18.000000Z"
+                    }
+                },
+                {
+                    "id": 121155,
+                    "name": "Mji Mwema-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:49.000000Z",
+                    "updated_at": "2022-07-27T10:14:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121155,
+                        "created_at": "2022-08-13T15:03:18.000000Z",
+                        "updated_at": "2022-08-13T15:03:18.000000Z"
+                    }
+                },
+                {
+                    "id": 121156,
+                    "name": "Mji Mwema-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:49.000000Z",
+                    "updated_at": "2022-07-27T10:14:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121156,
+                        "created_at": "2022-08-13T15:03:19.000000Z",
+                        "updated_at": "2022-08-13T15:03:19.000000Z"
+                    }
+                },
+                {
+                    "id": 121157,
+                    "name": "Mji Mwema-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:49.000000Z",
+                    "updated_at": "2022-07-27T10:14:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121157,
+                        "created_at": "2022-08-13T15:03:19.000000Z",
+                        "updated_at": "2022-08-13T15:03:19.000000Z"
+                    }
+                },
+                {
+                    "id": 121158,
+                    "name": "Mji Mwema-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:50.000000Z",
+                    "updated_at": "2022-07-27T10:14:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121158,
+                        "created_at": "2022-08-13T15:03:19.000000Z",
+                        "updated_at": "2022-08-13T15:03:19.000000Z"
+                    }
+                },
+                {
+                    "id": 121159,
+                    "name": "Mji Mwema-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:14:50.000000Z",
+                    "updated_at": "2022-07-27T10:14:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97554,
+                        "area_id": 121159,
+                        "created_at": "2022-08-13T15:03:20.000000Z",
+                        "updated_at": "2022-08-13T15:03:20.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
