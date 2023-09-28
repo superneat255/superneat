@@ -1,0 +1,992 @@
+{
+    "data": [
+        {
+            "id": 72165,
+            "name": "KITUMBINI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72164,
+                "name": "MCHAFUKOGE",
+                "postcode": "11105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130062,
+                    "name": "Kitumbini-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:57.000000Z",
+                    "updated_at": "2022-07-27T17:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130062,
+                        "created_at": "2022-08-13T11:07:06.000000Z",
+                        "updated_at": "2022-08-13T11:07:06.000000Z"
+                    }
+                },
+                {
+                    "id": 130063,
+                    "name": "Kitumbini-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:57.000000Z",
+                    "updated_at": "2022-07-27T17:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130063,
+                        "created_at": "2022-08-13T11:07:06.000000Z",
+                        "updated_at": "2022-08-13T11:07:06.000000Z"
+                    }
+                },
+                {
+                    "id": 130064,
+                    "name": "Kitumbini-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:57.000000Z",
+                    "updated_at": "2022-07-27T17:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130064,
+                        "created_at": "2022-08-13T11:07:06.000000Z",
+                        "updated_at": "2022-08-13T11:07:06.000000Z"
+                    }
+                },
+                {
+                    "id": 130065,
+                    "name": "Kitumbini-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:57.000000Z",
+                    "updated_at": "2022-07-27T17:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130065,
+                        "created_at": "2022-08-13T11:07:07.000000Z",
+                        "updated_at": "2022-08-13T11:07:07.000000Z"
+                    }
+                },
+                {
+                    "id": 130066,
+                    "name": "Kitumbini-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:58.000000Z",
+                    "updated_at": "2022-07-27T17:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130066,
+                        "created_at": "2022-08-13T11:07:07.000000Z",
+                        "updated_at": "2022-08-13T11:07:07.000000Z"
+                    }
+                },
+                {
+                    "id": 130067,
+                    "name": "Kitumbini-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:58.000000Z",
+                    "updated_at": "2022-07-27T17:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130067,
+                        "created_at": "2022-08-13T11:07:07.000000Z",
+                        "updated_at": "2022-08-13T11:07:07.000000Z"
+                    }
+                },
+                {
+                    "id": 130068,
+                    "name": "Kitumbini-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:58.000000Z",
+                    "updated_at": "2022-07-27T17:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130068,
+                        "created_at": "2022-08-13T11:07:07.000000Z",
+                        "updated_at": "2022-08-13T11:07:07.000000Z"
+                    }
+                },
+                {
+                    "id": 130069,
+                    "name": "Kitumbini-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:58.000000Z",
+                    "updated_at": "2022-07-27T17:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130069,
+                        "created_at": "2022-08-13T11:07:08.000000Z",
+                        "updated_at": "2022-08-13T11:07:08.000000Z"
+                    }
+                },
+                {
+                    "id": 130070,
+                    "name": "Kitumbini-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:58.000000Z",
+                    "updated_at": "2022-07-27T17:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130070,
+                        "created_at": "2022-08-13T11:07:08.000000Z",
+                        "updated_at": "2022-08-13T11:07:08.000000Z"
+                    }
+                },
+                {
+                    "id": 130071,
+                    "name": "Kitumbini-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:58.000000Z",
+                    "updated_at": "2022-07-27T17:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130071,
+                        "created_at": "2022-08-13T11:07:08.000000Z",
+                        "updated_at": "2022-08-13T11:07:08.000000Z"
+                    }
+                },
+                {
+                    "id": 130072,
+                    "name": "Kitumbini-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:58.000000Z",
+                    "updated_at": "2022-07-27T17:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130072,
+                        "created_at": "2022-08-13T11:07:08.000000Z",
+                        "updated_at": "2022-08-13T11:07:08.000000Z"
+                    }
+                },
+                {
+                    "id": 130073,
+                    "name": "Kitumbini-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:59.000000Z",
+                    "updated_at": "2022-07-27T17:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130073,
+                        "created_at": "2022-08-13T11:07:09.000000Z",
+                        "updated_at": "2022-08-13T11:07:09.000000Z"
+                    }
+                },
+                {
+                    "id": 130074,
+                    "name": "Kitumbini-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:59.000000Z",
+                    "updated_at": "2022-07-27T17:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130074,
+                        "created_at": "2022-08-13T11:07:09.000000Z",
+                        "updated_at": "2022-08-13T11:07:09.000000Z"
+                    }
+                },
+                {
+                    "id": 130075,
+                    "name": "Kitumbini-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:59.000000Z",
+                    "updated_at": "2022-07-27T17:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130075,
+                        "created_at": "2022-08-13T11:07:09.000000Z",
+                        "updated_at": "2022-08-13T11:07:09.000000Z"
+                    }
+                },
+                {
+                    "id": 130076,
+                    "name": "Kitumbini-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:59.000000Z",
+                    "updated_at": "2022-07-27T17:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130076,
+                        "created_at": "2022-08-13T11:07:09.000000Z",
+                        "updated_at": "2022-08-13T11:07:09.000000Z"
+                    }
+                },
+                {
+                    "id": 130077,
+                    "name": "Kitumbini-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:59.000000Z",
+                    "updated_at": "2022-07-27T17:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130077,
+                        "created_at": "2022-08-13T11:07:10.000000Z",
+                        "updated_at": "2022-08-13T11:07:10.000000Z"
+                    }
+                },
+                {
+                    "id": 130078,
+                    "name": "Kitumbini-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:59.000000Z",
+                    "updated_at": "2022-07-27T17:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72165,
+                        "area_id": 130078,
+                        "created_at": "2022-08-13T11:07:10.000000Z",
+                        "updated_at": "2022-08-13T11:07:10.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72166,
+            "name": "MCHAFUKOGE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72164,
+                "name": "MCHAFUKOGE",
+                "postcode": "11105",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130079,
+                    "name": "Mchafukoge-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:00.000000Z",
+                    "updated_at": "2022-07-27T17:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130079,
+                        "created_at": "2022-08-13T11:07:10.000000Z",
+                        "updated_at": "2022-08-13T11:07:10.000000Z"
+                    }
+                },
+                {
+                    "id": 130080,
+                    "name": "Mchafukoge-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:00.000000Z",
+                    "updated_at": "2022-07-27T17:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130080,
+                        "created_at": "2022-08-13T11:07:10.000000Z",
+                        "updated_at": "2022-08-13T11:07:10.000000Z"
+                    }
+                },
+                {
+                    "id": 130081,
+                    "name": "Mchafukoge-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:00.000000Z",
+                    "updated_at": "2022-07-27T17:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130081,
+                        "created_at": "2022-08-13T11:07:11.000000Z",
+                        "updated_at": "2022-08-13T11:07:11.000000Z"
+                    }
+                },
+                {
+                    "id": 130082,
+                    "name": "Mchafukoge-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:00.000000Z",
+                    "updated_at": "2022-07-27T17:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130082,
+                        "created_at": "2022-08-13T11:07:11.000000Z",
+                        "updated_at": "2022-08-13T11:07:11.000000Z"
+                    }
+                },
+                {
+                    "id": 130083,
+                    "name": "Mchafukoge-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:00.000000Z",
+                    "updated_at": "2022-07-27T17:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130083,
+                        "created_at": "2022-08-13T11:07:11.000000Z",
+                        "updated_at": "2022-08-13T11:07:11.000000Z"
+                    }
+                },
+                {
+                    "id": 130084,
+                    "name": "Mchafukoge-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:00.000000Z",
+                    "updated_at": "2022-07-27T17:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130084,
+                        "created_at": "2022-08-13T11:07:11.000000Z",
+                        "updated_at": "2022-08-13T11:07:11.000000Z"
+                    }
+                },
+                {
+                    "id": 130085,
+                    "name": "Mchafukoge-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:01.000000Z",
+                    "updated_at": "2022-07-27T17:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130085,
+                        "created_at": "2022-08-13T11:07:12.000000Z",
+                        "updated_at": "2022-08-13T11:07:12.000000Z"
+                    }
+                },
+                {
+                    "id": 130086,
+                    "name": "Mchafukoge-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:01.000000Z",
+                    "updated_at": "2022-07-27T17:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130086,
+                        "created_at": "2022-08-13T11:07:12.000000Z",
+                        "updated_at": "2022-08-13T11:07:12.000000Z"
+                    }
+                },
+                {
+                    "id": 130087,
+                    "name": "Mchafukoge-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:01.000000Z",
+                    "updated_at": "2022-07-27T17:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130087,
+                        "created_at": "2022-08-13T11:07:12.000000Z",
+                        "updated_at": "2022-08-13T11:07:12.000000Z"
+                    }
+                },
+                {
+                    "id": 130088,
+                    "name": "Mchafukoge-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:01.000000Z",
+                    "updated_at": "2022-07-27T17:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130088,
+                        "created_at": "2022-08-13T11:07:12.000000Z",
+                        "updated_at": "2022-08-13T11:07:12.000000Z"
+                    }
+                },
+                {
+                    "id": 130089,
+                    "name": "Mchafukoge-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:01.000000Z",
+                    "updated_at": "2022-07-27T17:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130089,
+                        "created_at": "2022-08-13T11:07:13.000000Z",
+                        "updated_at": "2022-08-13T11:07:13.000000Z"
+                    }
+                },
+                {
+                    "id": 130090,
+                    "name": "Mchafukoge-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:01.000000Z",
+                    "updated_at": "2022-07-27T17:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130090,
+                        "created_at": "2022-08-13T11:07:13.000000Z",
+                        "updated_at": "2022-08-13T11:07:13.000000Z"
+                    }
+                },
+                {
+                    "id": 130091,
+                    "name": "Mchafukoge-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:02.000000Z",
+                    "updated_at": "2022-07-27T17:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130091,
+                        "created_at": "2022-08-13T11:07:13.000000Z",
+                        "updated_at": "2022-08-13T11:07:13.000000Z"
+                    }
+                },
+                {
+                    "id": 130092,
+                    "name": "Mchafukoge-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:02.000000Z",
+                    "updated_at": "2022-07-27T17:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130092,
+                        "created_at": "2022-08-13T11:07:13.000000Z",
+                        "updated_at": "2022-08-13T11:07:13.000000Z"
+                    }
+                },
+                {
+                    "id": 130093,
+                    "name": "Mchafukoge-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:02.000000Z",
+                    "updated_at": "2022-07-27T17:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130093,
+                        "created_at": "2022-08-13T11:07:13.000000Z",
+                        "updated_at": "2022-08-13T11:07:13.000000Z"
+                    }
+                },
+                {
+                    "id": 130094,
+                    "name": "Mchafukoge-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:02.000000Z",
+                    "updated_at": "2022-07-27T17:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130094,
+                        "created_at": "2022-08-13T11:07:14.000000Z",
+                        "updated_at": "2022-08-13T11:07:14.000000Z"
+                    }
+                },
+                {
+                    "id": 130095,
+                    "name": "Mchafukoge-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:02.000000Z",
+                    "updated_at": "2022-07-27T17:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130095,
+                        "created_at": "2022-08-13T11:07:14.000000Z",
+                        "updated_at": "2022-08-13T11:07:14.000000Z"
+                    }
+                },
+                {
+                    "id": 130096,
+                    "name": "Mchafukoge-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:02.000000Z",
+                    "updated_at": "2022-07-27T17:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130096,
+                        "created_at": "2022-08-13T11:07:14.000000Z",
+                        "updated_at": "2022-08-13T11:07:14.000000Z"
+                    }
+                },
+                {
+                    "id": 130097,
+                    "name": "Mchafukoge-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:02.000000Z",
+                    "updated_at": "2022-07-27T17:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130097,
+                        "created_at": "2022-08-13T11:07:14.000000Z",
+                        "updated_at": "2022-08-13T11:07:14.000000Z"
+                    }
+                },
+                {
+                    "id": 130098,
+                    "name": "Mchafukoge-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:03.000000Z",
+                    "updated_at": "2022-07-27T17:39:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130098,
+                        "created_at": "2022-08-13T11:07:15.000000Z",
+                        "updated_at": "2022-08-13T11:07:15.000000Z"
+                    }
+                },
+                {
+                    "id": 130099,
+                    "name": "Mchafukoge-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:39:03.000000Z",
+                    "updated_at": "2022-07-27T17:39:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72166,
+                        "area_id": 130099,
+                        "created_at": "2022-08-13T11:07:15.000000Z",
+                        "updated_at": "2022-08-13T11:07:15.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
