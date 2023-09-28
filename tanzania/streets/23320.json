@@ -1,0 +1,724 @@
+{
+    "data": [
+        {
+            "id": 71575,
+            "name": "KOLILA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71574,
+                "name": "MALULA",
+                "postcode": "23320",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71486,
+                    "name": "MERU DISTRICT COUNCIL",
+                    "postcode": "233",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71485,
+                        "name": "ARUMERU",
+                        "postcode": "233",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 105879,
+                    "name": "Kolila",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71575,
+                        "area_id": 105879,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                },
+                {
+                    "id": 105880,
+                    "name": "Mifumuni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71575,
+                        "area_id": 105880,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 71578,
+            "name": "MALULA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71574,
+                "name": "MALULA",
+                "postcode": "23320",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71486,
+                    "name": "MERU DISTRICT COUNCIL",
+                    "postcode": "233",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71485,
+                        "name": "ARUMERU",
+                        "postcode": "233",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 105884,
+                    "name": "Mikuuni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71578,
+                        "area_id": 105884,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                },
+                {
+                    "id": 105885,
+                    "name": "Krismass",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71578,
+                        "area_id": 105885,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                },
+                {
+                    "id": 105886,
+                    "name": "Malula Mjini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:40.000000Z",
+                    "updated_at": "2022-07-26T11:52:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71578,
+                        "area_id": 105886,
+                        "created_at": "2022-08-13T10:19:46.000000Z",
+                        "updated_at": "2022-08-13T10:19:46.000000Z"
+                    }
+                },
+                {
+                    "id": 105887,
+                    "name": "Relini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:40.000000Z",
+                    "updated_at": "2022-07-26T11:52:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71578,
+                        "area_id": 105887,
+                        "created_at": "2022-08-13T10:19:46.000000Z",
+                        "updated_at": "2022-08-13T10:19:46.000000Z"
+                    }
+                },
+                {
+                    "id": 105888,
+                    "name": "Maretoni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:40.000000Z",
+                    "updated_at": "2022-07-26T11:52:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71578,
+                        "area_id": 105888,
+                        "created_at": "2022-08-13T10:19:46.000000Z",
+                        "updated_at": "2022-08-13T10:19:46.000000Z"
+                    }
+                },
+                {
+                    "id": 105889,
+                    "name": "Mlimani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:40.000000Z",
+                    "updated_at": "2022-07-26T11:52:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71578,
+                        "area_id": 105889,
+                        "created_at": "2022-08-13T10:19:46.000000Z",
+                        "updated_at": "2022-08-13T10:19:46.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 71576,
+            "name": "NGEJUSOSIA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71574,
+                "name": "MALULA",
+                "postcode": "23320",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71486,
+                    "name": "MERU DISTRICT COUNCIL",
+                    "postcode": "233",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71485,
+                        "name": "ARUMERU",
+                        "postcode": "233",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 105874,
+                    "name": "RC",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:38.000000Z",
+                    "updated_at": "2022-07-26T11:52:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71576,
+                        "area_id": 105874,
+                        "created_at": "2022-08-13T10:19:44.000000Z",
+                        "updated_at": "2022-08-13T10:19:44.000000Z"
+                    }
+                },
+                {
+                    "id": 105875,
+                    "name": "Ngejisosia Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:38.000000Z",
+                    "updated_at": "2022-07-26T11:52:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71576,
+                        "area_id": 105875,
+                        "created_at": "2022-08-13T10:19:44.000000Z",
+                        "updated_at": "2022-08-13T10:19:44.000000Z"
+                    }
+                },
+                {
+                    "id": 105876,
+                    "name": "Makao Mapya",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71576,
+                        "area_id": 105876,
+                        "created_at": "2022-08-13T10:19:44.000000Z",
+                        "updated_at": "2022-08-13T10:19:44.000000Z"
+                    }
+                },
+                {
+                    "id": 105877,
+                    "name": "Maangashiny",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71576,
+                        "area_id": 105877,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                },
+                {
+                    "id": 105878,
+                    "name": "RC Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71576,
+                        "area_id": 105878,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 71577,
+            "name": "NRUMANGENY",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 71574,
+                "name": "MALULA",
+                "postcode": "23320",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 71486,
+                    "name": "MERU DISTRICT COUNCIL",
+                    "postcode": "233",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 71485,
+                        "name": "ARUMERU",
+                        "postcode": "233",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70894,
+                            "name": "ARUSHA",
+                            "postcode": "23",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 105881,
+                    "name": "Chemchem",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71577,
+                        "area_id": 105881,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                },
+                {
+                    "id": 105882,
+                    "name": "Amani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71577,
+                        "area_id": 105882,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                },
+                {
+                    "id": 105883,
+                    "name": "Nrumangeny",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T11:52:39.000000Z",
+                    "updated_at": "2022-07-26T11:52:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 71577,
+                        "area_id": 105883,
+                        "created_at": "2022-08-13T10:19:45.000000Z",
+                        "updated_at": "2022-08-13T10:19:45.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
