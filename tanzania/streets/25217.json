@@ -1,0 +1,964 @@
+{
+    "data": [
+        {
+            "id": 100133,
+            "name": "KIMANGARO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75433,
+                "name": "MWIKA KUSINI",
+                "postcode": "25217",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75416,
+                    "name": "MOSHI DISTRICT COUNCIL",
+                    "postcode": "252",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121750,
+                    "name": "Saghai(sawai)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:50.000000Z",
+                    "updated_at": "2022-07-27T10:16:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100133,
+                        "area_id": 121750,
+                        "created_at": "2022-08-13T14:58:42.000000Z",
+                        "updated_at": "2022-08-13T14:58:42.000000Z"
+                    }
+                },
+                {
+                    "id": 121751,
+                    "name": "Koongo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:50.000000Z",
+                    "updated_at": "2022-07-27T10:16:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100133,
+                        "area_id": 121751,
+                        "created_at": "2022-08-13T14:58:42.000000Z",
+                        "updated_at": "2022-08-13T14:58:42.000000Z"
+                    }
+                },
+                {
+                    "id": 121752,
+                    "name": "Komori",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:50.000000Z",
+                    "updated_at": "2022-07-27T10:16:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100133,
+                        "area_id": 121752,
+                        "created_at": "2022-08-13T14:58:42.000000Z",
+                        "updated_at": "2022-08-13T14:58:42.000000Z"
+                    }
+                },
+                {
+                    "id": 121753,
+                    "name": "Shokonyi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:50.000000Z",
+                    "updated_at": "2022-07-27T10:16:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100133,
+                        "area_id": 121753,
+                        "created_at": "2022-08-13T14:58:42.000000Z",
+                        "updated_at": "2022-08-13T14:58:42.000000Z"
+                    }
+                },
+                {
+                    "id": 121754,
+                    "name": "Kimangaro Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:50.000000Z",
+                    "updated_at": "2022-07-27T10:16:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100133,
+                        "area_id": 121754,
+                        "created_at": "2022-08-13T14:58:42.000000Z",
+                        "updated_at": "2022-08-13T14:58:42.000000Z"
+                    }
+                },
+                {
+                    "id": 121755,
+                    "name": "More",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:50.000000Z",
+                    "updated_at": "2022-07-27T10:16:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100133,
+                        "area_id": 121755,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100134,
+            "name": "KIRUWENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75433,
+                "name": "MWIKA KUSINI",
+                "postcode": "25217",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75416,
+                    "name": "MOSHI DISTRICT COUNCIL",
+                    "postcode": "252",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121756,
+                    "name": "Kiruweni Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:51.000000Z",
+                    "updated_at": "2022-07-27T10:16:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100134,
+                        "area_id": 121756,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                },
+                {
+                    "id": 121757,
+                    "name": "Meera",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:51.000000Z",
+                    "updated_at": "2022-07-27T10:16:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100134,
+                        "area_id": 121757,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                },
+                {
+                    "id": 121758,
+                    "name": "Mawanda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:51.000000Z",
+                    "updated_at": "2022-07-27T10:16:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100134,
+                        "area_id": 121758,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100135,
+            "name": "KONDENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75433,
+                "name": "MWIKA KUSINI",
+                "postcode": "25217",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75416,
+                    "name": "MOSHI DISTRICT COUNCIL",
+                    "postcode": "252",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121747,
+                    "name": "Mengeni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:49.000000Z",
+                    "updated_at": "2022-07-27T10:16:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100135,
+                        "area_id": 121747,
+                        "created_at": "2022-08-13T14:58:41.000000Z",
+                        "updated_at": "2022-08-13T14:58:41.000000Z"
+                    }
+                },
+                {
+                    "id": 121748,
+                    "name": "Kisharini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:49.000000Z",
+                    "updated_at": "2022-07-27T10:16:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100135,
+                        "area_id": 121748,
+                        "created_at": "2022-08-13T14:58:42.000000Z",
+                        "updated_at": "2022-08-13T14:58:42.000000Z"
+                    }
+                },
+                {
+                    "id": 121749,
+                    "name": "Onyonya",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:50.000000Z",
+                    "updated_at": "2022-07-27T10:16:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100135,
+                        "area_id": 121749,
+                        "created_at": "2022-08-13T14:58:42.000000Z",
+                        "updated_at": "2022-08-13T14:58:42.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100136,
+            "name": "MATALA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75433,
+                "name": "MWIKA KUSINI",
+                "postcode": "25217",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75416,
+                    "name": "MOSHI DISTRICT COUNCIL",
+                    "postcode": "252",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121766,
+                    "name": "Kyaronga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:52.000000Z",
+                    "updated_at": "2022-07-27T10:16:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100136,
+                        "area_id": 121766,
+                        "created_at": "2022-08-13T14:58:44.000000Z",
+                        "updated_at": "2022-08-13T14:58:44.000000Z"
+                    }
+                },
+                {
+                    "id": 121767,
+                    "name": "Kiruwa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:52.000000Z",
+                    "updated_at": "2022-07-27T10:16:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100136,
+                        "area_id": 121767,
+                        "created_at": "2022-08-13T14:58:44.000000Z",
+                        "updated_at": "2022-08-13T14:58:44.000000Z"
+                    }
+                },
+                {
+                    "id": 121768,
+                    "name": "Msufini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:52.000000Z",
+                    "updated_at": "2022-07-27T10:16:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100136,
+                        "area_id": 121768,
+                        "created_at": "2022-08-13T14:58:44.000000Z",
+                        "updated_at": "2022-08-13T14:58:44.000000Z"
+                    }
+                },
+                {
+                    "id": 121769,
+                    "name": "Mriti",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:52.000000Z",
+                    "updated_at": "2022-07-27T10:16:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100136,
+                        "area_id": 121769,
+                        "created_at": "2022-08-13T14:58:44.000000Z",
+                        "updated_at": "2022-08-13T14:58:44.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100137,
+            "name": "MAWANJENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75433,
+                "name": "MWIKA KUSINI",
+                "postcode": "25217",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75416,
+                    "name": "MOSHI DISTRICT COUNCIL",
+                    "postcode": "252",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75415,
+                        "name": "MOSHI",
+                        "postcode": "252",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75391,
+                            "name": "KILIMANJARO",
+                            "postcode": "25",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 121759,
+                    "name": "Karoro",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:51.000000Z",
+                    "updated_at": "2022-07-27T10:16:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100137,
+                        "area_id": 121759,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                },
+                {
+                    "id": 121760,
+                    "name": "Barango A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:51.000000Z",
+                    "updated_at": "2022-07-27T10:16:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100137,
+                        "area_id": 121760,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                },
+                {
+                    "id": 121761,
+                    "name": "Barango B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:51.000000Z",
+                    "updated_at": "2022-07-27T10:16:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100137,
+                        "area_id": 121761,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                },
+                {
+                    "id": 121762,
+                    "name": "Kilaanga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:51.000000Z",
+                    "updated_at": "2022-07-27T10:16:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100137,
+                        "area_id": 121762,
+                        "created_at": "2022-08-13T14:58:43.000000Z",
+                        "updated_at": "2022-08-13T14:58:43.000000Z"
+                    }
+                },
+                {
+                    "id": 121763,
+                    "name": "Mawanjeni Kati",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:52.000000Z",
+                    "updated_at": "2022-07-27T10:16:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100137,
+                        "area_id": 121763,
+                        "created_at": "2022-08-13T14:58:44.000000Z",
+                        "updated_at": "2022-08-13T14:58:44.000000Z"
+                    }
+                },
+                {
+                    "id": 121764,
+                    "name": "Riata",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:52.000000Z",
+                    "updated_at": "2022-07-27T10:16:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100137,
+                        "area_id": 121764,
+                        "created_at": "2022-08-13T14:58:44.000000Z",
+                        "updated_at": "2022-08-13T14:58:44.000000Z"
+                    }
+                },
+                {
+                    "id": 121765,
+                    "name": "Barabarani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:16:52.000000Z",
+                    "updated_at": "2022-07-27T10:16:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100137,
+                        "area_id": 121765,
+                        "created_at": "2022-08-13T14:58:44.000000Z",
+                        "updated_at": "2022-08-13T14:58:44.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
