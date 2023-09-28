@@ -1,0 +1,964 @@
+{
+    "data": [
+        {
+            "id": 94518,
+            "name": "MCHOCHORO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75589,
+                "name": "MTANDA",
+                "postcode": "65112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75577,
+                    "name": "LINDI MUNICIPAL COUNCIL",
+                    "postcode": "651",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75620,
+                        "name": "LINDI",
+                        "postcode": "652",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97766,
+                    "name": "Mchochoro-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:09.000000Z",
+                    "updated_at": "2022-07-13T09:14:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 109,
+                    "geocode": "0802231111204001",
+                    "pivot": {
+                        "location_id": 94518,
+                        "area_id": 97766,
+                        "created_at": "2022-08-08T09:40:13.000000Z",
+                        "updated_at": "2022-08-08T09:40:13.000000Z"
+                    }
+                },
+                {
+                    "id": 97765,
+                    "name": "Mchochoro-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:08.000000Z",
+                    "updated_at": "2022-07-13T09:14:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 90,
+                    "geocode": "0802231111204002",
+                    "pivot": {
+                        "location_id": 94518,
+                        "area_id": 97765,
+                        "created_at": "2022-08-08T09:40:13.000000Z",
+                        "updated_at": "2022-08-08T09:40:13.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 94519,
+            "name": "MMUKULE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75589,
+                "name": "MTANDA",
+                "postcode": "65112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75577,
+                    "name": "LINDI MUNICIPAL COUNCIL",
+                    "postcode": "651",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75620,
+                        "name": "LINDI",
+                        "postcode": "652",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97764,
+                    "name": "Mmukule-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:08.000000Z",
+                    "updated_at": "2022-07-13T09:14:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 67,
+                    "geocode": "0802231111205001",
+                    "pivot": {
+                        "location_id": 94519,
+                        "area_id": 97764,
+                        "created_at": "2022-08-08T09:40:13.000000Z",
+                        "updated_at": "2022-08-08T09:40:13.000000Z"
+                    }
+                },
+                {
+                    "id": 97763,
+                    "name": "Mmukule-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:07.000000Z",
+                    "updated_at": "2022-07-13T09:14:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 120,
+                    "geocode": "0802231111205002",
+                    "pivot": {
+                        "location_id": 94519,
+                        "area_id": 97763,
+                        "created_at": "2022-08-08T09:40:13.000000Z",
+                        "updated_at": "2022-08-08T09:40:13.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 94516,
+            "name": "MTANDA JUU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75589,
+                "name": "MTANDA",
+                "postcode": "65112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75577,
+                    "name": "LINDI MUNICIPAL COUNCIL",
+                    "postcode": "651",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75620,
+                        "name": "LINDI",
+                        "postcode": "652",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97754,
+                    "name": "Mtanda Juu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:04.000000Z",
+                    "updated_at": "2022-07-13T09:14:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 147,
+                    "geocode": "0802231111202001",
+                    "pivot": {
+                        "location_id": 94516,
+                        "area_id": 97754,
+                        "created_at": "2022-08-08T09:40:12.000000Z",
+                        "updated_at": "2022-08-08T09:40:12.000000Z"
+                    }
+                },
+                {
+                    "id": 97755,
+                    "name": "Mtanda Juu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:04.000000Z",
+                    "updated_at": "2022-07-13T09:14:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 149,
+                    "geocode": "0802231111202002",
+                    "pivot": {
+                        "location_id": 94516,
+                        "area_id": 97755,
+                        "created_at": "2022-08-08T09:40:13.000000Z",
+                        "updated_at": "2022-08-08T09:40:13.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 94515,
+            "name": "MTANDA KARIAKOO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75589,
+                "name": "MTANDA",
+                "postcode": "65112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75577,
+                    "name": "LINDI MUNICIPAL COUNCIL",
+                    "postcode": "651",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75620,
+                        "name": "LINDI",
+                        "postcode": "652",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97756,
+                    "name": "Mtanda Kariakoo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:05.000000Z",
+                    "updated_at": "2022-07-13T09:14:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 145,
+                    "geocode": "0802231111201001",
+                    "pivot": {
+                        "location_id": 94515,
+                        "area_id": 97756,
+                        "created_at": "2022-08-08T09:40:12.000000Z",
+                        "updated_at": "2022-08-08T09:40:12.000000Z"
+                    }
+                },
+                {
+                    "id": 97757,
+                    "name": "Mtanda Kariakoo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:05.000000Z",
+                    "updated_at": "2022-07-13T09:14:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 59,
+                    "geocode": "0802231111201002",
+                    "pivot": {
+                        "location_id": 94515,
+                        "area_id": 97757,
+                        "created_at": "2022-08-08T09:40:12.000000Z",
+                        "updated_at": "2022-08-08T09:40:12.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 94517,
+            "name": "MTANDA KATI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75589,
+                "name": "MTANDA",
+                "postcode": "65112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75577,
+                    "name": "LINDI MUNICIPAL COUNCIL",
+                    "postcode": "651",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75620,
+                        "name": "LINDI",
+                        "postcode": "652",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97761,
+                    "name": "Mtanda Kati-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:07.000000Z",
+                    "updated_at": "2022-07-13T09:14:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 110,
+                    "geocode": "0802231111206001",
+                    "pivot": {
+                        "location_id": 94517,
+                        "area_id": 97761,
+                        "created_at": "2022-08-08T09:40:14.000000Z",
+                        "updated_at": "2022-08-08T09:40:14.000000Z"
+                    }
+                },
+                {
+                    "id": 97762,
+                    "name": "Mtanda Kati-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:07.000000Z",
+                    "updated_at": "2022-07-13T09:14:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 90,
+                    "geocode": "0802231111206002",
+                    "pivot": {
+                        "location_id": 94517,
+                        "area_id": 97762,
+                        "created_at": "2022-08-08T09:40:14.000000Z",
+                        "updated_at": "2022-08-08T09:40:14.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 94521,
+            "name": "MTUTU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75589,
+                "name": "MTANDA",
+                "postcode": "65112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75577,
+                    "name": "LINDI MUNICIPAL COUNCIL",
+                    "postcode": "651",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75620,
+                        "name": "LINDI",
+                        "postcode": "652",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97759,
+                    "name": "Mtutu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:06.000000Z",
+                    "updated_at": "2022-07-13T09:14:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 130,
+                    "geocode": "0802231111207001",
+                    "pivot": {
+                        "location_id": 94521,
+                        "area_id": 97759,
+                        "created_at": "2022-08-08T09:40:14.000000Z",
+                        "updated_at": "2022-08-08T09:40:14.000000Z"
+                    }
+                },
+                {
+                    "id": 97758,
+                    "name": "Mtutu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:05.000000Z",
+                    "updated_at": "2022-07-13T09:14:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 130,
+                    "geocode": "0802231111207002",
+                    "pivot": {
+                        "location_id": 94521,
+                        "area_id": 97758,
+                        "created_at": "2022-08-08T09:40:15.000000Z",
+                        "updated_at": "2022-08-08T09:40:15.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 94520,
+            "name": "NANEMBO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75589,
+                "name": "MTANDA",
+                "postcode": "65112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75577,
+                    "name": "LINDI MUNICIPAL COUNCIL",
+                    "postcode": "651",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75620,
+                        "name": "LINDI",
+                        "postcode": "652",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75575,
+                            "name": "LINDI",
+                            "postcode": "65",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97760,
+                    "name": "Nanembo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:14:06.000000Z",
+                    "updated_at": "2022-07-13T09:14:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 149,
+                    "geocode": "0802231111203001",
+                    "pivot": {
+                        "location_id": 94520,
+                        "area_id": 97760,
+                        "created_at": "2022-08-08T09:40:13.000000Z",
+                        "updated_at": "2022-08-08T09:40:13.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
