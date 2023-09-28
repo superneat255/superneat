@@ -1,0 +1,764 @@
+{
+    "data": [
+        {
+            "id": 95675,
+            "name": "KAKESE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75170,
+                "name": "KAKESE",
+                "postcode": "50109",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75161,
+                    "name": "MPANDA MUNICIPAL COUNCIL",
+                    "postcode": "501",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75160,
+                        "name": "MPANDA CBD",
+                        "postcode": "501",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 111751,
+                    "name": "Kalufesi \"B\" (Kalufesi)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:21.000000Z",
+                    "updated_at": "2022-07-27T07:06:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95675,
+                        "area_id": 111751,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111752,
+                    "name": "Kalufesi  \"A\" (Kakese)",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:21.000000Z",
+                    "updated_at": "2022-07-27T07:06:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95675,
+                        "area_id": 111752,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111753,
+                    "name": "Mkwajuni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:21.000000Z",
+                    "updated_at": "2022-07-27T07:06:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95675,
+                        "area_id": 111753,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111754,
+                    "name": "Makanisani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95675,
+                        "area_id": 111754,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 95677,
+            "name": "KAMAKUKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75170,
+                "name": "KAKESE",
+                "postcode": "50109",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75161,
+                    "name": "MPANDA MUNICIPAL COUNCIL",
+                    "postcode": "501",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75160,
+                        "name": "MPANDA CBD",
+                        "postcode": "501",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 111747,
+                    "name": "Isengule",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:21.000000Z",
+                    "updated_at": "2022-07-27T07:06:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95677,
+                        "area_id": 111747,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111748,
+                    "name": "Kamakuka \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:21.000000Z",
+                    "updated_at": "2022-07-27T07:06:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95677,
+                        "area_id": 111748,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111749,
+                    "name": "Kamakuka \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:21.000000Z",
+                    "updated_at": "2022-07-27T07:06:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95677,
+                        "area_id": 111749,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111750,
+                    "name": "Ipwaga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:21.000000Z",
+                    "updated_at": "2022-07-27T07:06:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95677,
+                        "area_id": 111750,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 95678,
+            "name": "KAWANZIGE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75170,
+                "name": "KAKESE",
+                "postcode": "50109",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75161,
+                    "name": "MPANDA MUNICIPAL COUNCIL",
+                    "postcode": "501",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75160,
+                        "name": "MPANDA CBD",
+                        "postcode": "501",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 111760,
+                    "name": "Jitegemee",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95678,
+                        "area_id": 111760,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                },
+                {
+                    "id": 111761,
+                    "name": "Mabanini Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95678,
+                        "area_id": 111761,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                },
+                {
+                    "id": 111762,
+                    "name": "Kawanzige \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95678,
+                        "area_id": 111762,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                },
+                {
+                    "id": 111763,
+                    "name": "Mwembeni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95678,
+                        "area_id": 111763,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                },
+                {
+                    "id": 111764,
+                    "name": "Bulima",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95678,
+                        "area_id": 111764,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 95676,
+            "name": "MBUGANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75170,
+                "name": "KAKESE",
+                "postcode": "50109",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75161,
+                    "name": "MPANDA MUNICIPAL COUNCIL",
+                    "postcode": "501",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75160,
+                        "name": "MPANDA CBD",
+                        "postcode": "501",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 111755,
+                    "name": "Maluja",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95676,
+                        "area_id": 111755,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111756,
+                    "name": "Mbugani \"B\" Magharibi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95676,
+                        "area_id": 111756,
+                        "created_at": "2022-08-12T14:40:15.000000Z",
+                        "updated_at": "2022-08-12T14:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 111757,
+                    "name": "Mbugani \"B\" Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95676,
+                        "area_id": 111757,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                },
+                {
+                    "id": 111758,
+                    "name": "Mbugani \"A\" Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95676,
+                        "area_id": 111758,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                },
+                {
+                    "id": 111759,
+                    "name": "Mwangoye",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T07:06:22.000000Z",
+                    "updated_at": "2022-07-27T07:06:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95676,
+                        "area_id": 111759,
+                        "created_at": "2022-08-12T14:40:16.000000Z",
+                        "updated_at": "2022-08-12T14:40:16.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
