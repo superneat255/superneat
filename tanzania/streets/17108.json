@@ -1,0 +1,4548 @@
+{
+    "data": [
+        {
+            "id": 72819,
+            "name": "KIBENE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72818,
+                "name": "VIJIBWENI",
+                "postcode": "17108",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127600,
+                    "name": "Kibene-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:11.000000Z",
+                    "updated_at": "2022-07-27T11:28:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127600,
+                        "created_at": "2022-07-27T15:23:25.000000Z",
+                        "updated_at": "2022-07-27T15:23:25.000000Z"
+                    }
+                },
+                {
+                    "id": 127601,
+                    "name": "Kibene-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:12.000000Z",
+                    "updated_at": "2022-07-27T11:28:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127601,
+                        "created_at": "2022-07-27T15:23:26.000000Z",
+                        "updated_at": "2022-07-27T15:23:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127602,
+                    "name": "Kibene-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:12.000000Z",
+                    "updated_at": "2022-07-27T11:28:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127602,
+                        "created_at": "2022-07-27T15:23:27.000000Z",
+                        "updated_at": "2022-07-27T15:23:27.000000Z"
+                    }
+                },
+                {
+                    "id": 127603,
+                    "name": "Kibene-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:13.000000Z",
+                    "updated_at": "2022-07-27T11:28:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127603,
+                        "created_at": "2022-07-27T15:23:28.000000Z",
+                        "updated_at": "2022-07-27T15:23:28.000000Z"
+                    }
+                },
+                {
+                    "id": 127604,
+                    "name": "Kibene-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:14.000000Z",
+                    "updated_at": "2022-07-27T11:28:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127604,
+                        "created_at": "2022-07-27T15:23:30.000000Z",
+                        "updated_at": "2022-07-27T15:23:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127605,
+                    "name": "Kibene-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:14.000000Z",
+                    "updated_at": "2022-07-27T11:28:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127605,
+                        "created_at": "2022-07-27T15:23:31.000000Z",
+                        "updated_at": "2022-07-27T15:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 127606,
+                    "name": "Kibene-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:15.000000Z",
+                    "updated_at": "2022-07-27T11:28:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127606,
+                        "created_at": "2022-07-27T15:23:32.000000Z",
+                        "updated_at": "2022-07-27T15:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 127607,
+                    "name": "Kibene-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:16.000000Z",
+                    "updated_at": "2022-07-27T11:28:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127607,
+                        "created_at": "2022-07-27T15:23:33.000000Z",
+                        "updated_at": "2022-07-27T15:23:33.000000Z"
+                    }
+                },
+                {
+                    "id": 127608,
+                    "name": "Kbene-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:17.000000Z",
+                    "updated_at": "2022-07-27T11:28:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127608,
+                        "created_at": "2022-07-27T15:23:35.000000Z",
+                        "updated_at": "2022-07-27T15:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 127609,
+                    "name": "Kibene-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:18.000000Z",
+                    "updated_at": "2022-07-27T11:28:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127609,
+                        "created_at": "2022-07-27T15:23:36.000000Z",
+                        "updated_at": "2022-07-27T15:23:36.000000Z"
+                    }
+                },
+                {
+                    "id": 127610,
+                    "name": "Kibene-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:19.000000Z",
+                    "updated_at": "2022-07-27T11:28:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127610,
+                        "created_at": "2022-07-27T15:23:37.000000Z",
+                        "updated_at": "2022-07-27T15:23:37.000000Z"
+                    }
+                },
+                {
+                    "id": 127611,
+                    "name": "Kibene-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:19.000000Z",
+                    "updated_at": "2022-07-27T11:28:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127611,
+                        "created_at": "2022-07-27T15:23:39.000000Z",
+                        "updated_at": "2022-07-27T15:23:39.000000Z"
+                    }
+                },
+                {
+                    "id": 127612,
+                    "name": "Kibene-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:20.000000Z",
+                    "updated_at": "2022-07-27T11:28:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127612,
+                        "created_at": "2022-07-27T15:23:40.000000Z",
+                        "updated_at": "2022-07-27T15:23:40.000000Z"
+                    }
+                },
+                {
+                    "id": 127613,
+                    "name": "Kibene-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:21.000000Z",
+                    "updated_at": "2022-07-27T11:28:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127613,
+                        "created_at": "2022-07-27T15:23:42.000000Z",
+                        "updated_at": "2022-07-27T15:23:42.000000Z"
+                    }
+                },
+                {
+                    "id": 127614,
+                    "name": "Kibene-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:22.000000Z",
+                    "updated_at": "2022-07-27T11:28:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127614,
+                        "created_at": "2022-07-27T15:23:43.000000Z",
+                        "updated_at": "2022-07-27T15:23:43.000000Z"
+                    }
+                },
+                {
+                    "id": 127615,
+                    "name": "Kibene-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:23.000000Z",
+                    "updated_at": "2022-07-27T11:28:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127615,
+                        "created_at": "2022-07-27T15:23:45.000000Z",
+                        "updated_at": "2022-07-27T15:23:45.000000Z"
+                    }
+                },
+                {
+                    "id": 127616,
+                    "name": "Kbene-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:24.000000Z",
+                    "updated_at": "2022-07-27T11:28:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127616,
+                        "created_at": "2022-07-27T15:23:46.000000Z",
+                        "updated_at": "2022-07-27T15:23:46.000000Z"
+                    }
+                },
+                {
+                    "id": 127617,
+                    "name": "Kibene-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:25.000000Z",
+                    "updated_at": "2022-07-27T11:28:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127617,
+                        "created_at": "2022-07-27T15:23:48.000000Z",
+                        "updated_at": "2022-07-27T15:23:48.000000Z"
+                    }
+                },
+                {
+                    "id": 127618,
+                    "name": "Kibene-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:26.000000Z",
+                    "updated_at": "2022-07-27T11:28:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127618,
+                        "created_at": "2022-07-27T15:23:49.000000Z",
+                        "updated_at": "2022-07-27T15:23:49.000000Z"
+                    }
+                },
+                {
+                    "id": 127619,
+                    "name": "Kibene-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:26.000000Z",
+                    "updated_at": "2022-07-27T11:28:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127619,
+                        "created_at": "2022-07-27T15:23:51.000000Z",
+                        "updated_at": "2022-07-27T15:23:51.000000Z"
+                    }
+                },
+                {
+                    "id": 127620,
+                    "name": "Kibene-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:27.000000Z",
+                    "updated_at": "2022-07-27T11:28:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127620,
+                        "created_at": "2022-07-27T15:23:53.000000Z",
+                        "updated_at": "2022-07-27T15:23:53.000000Z"
+                    }
+                },
+                {
+                    "id": 127621,
+                    "name": "Kibene-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:28.000000Z",
+                    "updated_at": "2022-07-27T11:28:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127621,
+                        "created_at": "2022-07-27T15:23:54.000000Z",
+                        "updated_at": "2022-07-27T15:23:54.000000Z"
+                    }
+                },
+                {
+                    "id": 127622,
+                    "name": "Kibene-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:29.000000Z",
+                    "updated_at": "2022-07-27T11:28:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127622,
+                        "created_at": "2022-07-27T15:23:56.000000Z",
+                        "updated_at": "2022-07-27T15:23:56.000000Z"
+                    }
+                },
+                {
+                    "id": 127623,
+                    "name": "Kibene-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:30.000000Z",
+                    "updated_at": "2022-07-27T11:28:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127623,
+                        "created_at": "2022-07-27T15:23:58.000000Z",
+                        "updated_at": "2022-07-27T15:23:58.000000Z"
+                    }
+                },
+                {
+                    "id": 127624,
+                    "name": "Kibene-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:31.000000Z",
+                    "updated_at": "2022-07-27T11:28:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127624,
+                        "created_at": "2022-07-27T15:23:59.000000Z",
+                        "updated_at": "2022-07-27T15:23:59.000000Z"
+                    }
+                },
+                {
+                    "id": 127625,
+                    "name": "Kibene-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:32.000000Z",
+                    "updated_at": "2022-07-27T11:28:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127625,
+                        "created_at": "2022-07-27T15:24:01.000000Z",
+                        "updated_at": "2022-07-27T15:24:01.000000Z"
+                    }
+                },
+                {
+                    "id": 127626,
+                    "name": "Kibene-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:34.000000Z",
+                    "updated_at": "2022-07-27T11:28:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127626,
+                        "created_at": "2022-07-27T15:24:03.000000Z",
+                        "updated_at": "2022-07-27T15:24:03.000000Z"
+                    }
+                },
+                {
+                    "id": 127627,
+                    "name": "Kibene-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:35.000000Z",
+                    "updated_at": "2022-07-27T11:28:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127627,
+                        "created_at": "2022-07-27T15:24:04.000000Z",
+                        "updated_at": "2022-07-27T15:24:04.000000Z"
+                    }
+                },
+                {
+                    "id": 127628,
+                    "name": "Kibene-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:36.000000Z",
+                    "updated_at": "2022-07-27T11:28:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127628,
+                        "created_at": "2022-07-27T15:24:06.000000Z",
+                        "updated_at": "2022-07-27T15:24:06.000000Z"
+                    }
+                },
+                {
+                    "id": 127629,
+                    "name": "Kibene-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:37.000000Z",
+                    "updated_at": "2022-07-27T11:28:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127629,
+                        "created_at": "2022-07-27T15:24:08.000000Z",
+                        "updated_at": "2022-07-27T15:24:08.000000Z"
+                    }
+                },
+                {
+                    "id": 127630,
+                    "name": "Kibene-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:38.000000Z",
+                    "updated_at": "2022-07-27T11:28:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127630,
+                        "created_at": "2022-07-27T15:24:10.000000Z",
+                        "updated_at": "2022-07-27T15:24:10.000000Z"
+                    }
+                },
+                {
+                    "id": 127631,
+                    "name": "Kibene-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:39.000000Z",
+                    "updated_at": "2022-07-27T11:28:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127631,
+                        "created_at": "2022-07-27T15:24:12.000000Z",
+                        "updated_at": "2022-07-27T15:24:12.000000Z"
+                    }
+                },
+                {
+                    "id": 127632,
+                    "name": "Kibene-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:40.000000Z",
+                    "updated_at": "2022-07-27T11:28:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127632,
+                        "created_at": "2022-07-27T15:24:14.000000Z",
+                        "updated_at": "2022-07-27T15:24:14.000000Z"
+                    }
+                },
+                {
+                    "id": 127633,
+                    "name": "Kibene-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:41.000000Z",
+                    "updated_at": "2022-07-27T11:28:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127633,
+                        "created_at": "2022-07-27T15:24:15.000000Z",
+                        "updated_at": "2022-07-27T15:24:15.000000Z"
+                    }
+                },
+                {
+                    "id": 127634,
+                    "name": "Kibene-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:42.000000Z",
+                    "updated_at": "2022-07-27T11:28:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127634,
+                        "created_at": "2022-07-27T15:24:17.000000Z",
+                        "updated_at": "2022-07-27T15:24:17.000000Z"
+                    }
+                },
+                {
+                    "id": 127635,
+                    "name": "Kibene-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:44.000000Z",
+                    "updated_at": "2022-07-27T11:28:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72819,
+                        "area_id": 127635,
+                        "created_at": "2022-07-27T15:24:19.000000Z",
+                        "updated_at": "2022-07-27T15:24:19.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72820,
+            "name": "KISIWANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72818,
+                "name": "VIJIBWENI",
+                "postcode": "17108",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127558,
+                    "name": "Kisiwani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:31.000000Z",
+                    "updated_at": "2022-07-27T11:27:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127558,
+                        "created_at": "2022-07-27T15:22:23.000000Z",
+                        "updated_at": "2022-07-27T15:22:23.000000Z"
+                    }
+                },
+                {
+                    "id": 127559,
+                    "name": "Kisiwani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:31.000000Z",
+                    "updated_at": "2022-07-27T11:27:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127559,
+                        "created_at": "2022-07-27T15:22:24.000000Z",
+                        "updated_at": "2022-07-27T15:22:24.000000Z"
+                    }
+                },
+                {
+                    "id": 127560,
+                    "name": "Kisiwani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:32.000000Z",
+                    "updated_at": "2022-07-27T11:27:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127560,
+                        "created_at": "2022-07-27T15:22:25.000000Z",
+                        "updated_at": "2022-07-27T15:22:25.000000Z"
+                    }
+                },
+                {
+                    "id": 127561,
+                    "name": "Kisiwani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:32.000000Z",
+                    "updated_at": "2022-07-27T11:27:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127561,
+                        "created_at": "2022-07-27T15:22:25.000000Z",
+                        "updated_at": "2022-07-27T15:22:25.000000Z"
+                    }
+                },
+                {
+                    "id": 127562,
+                    "name": "Kisiwani-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:33.000000Z",
+                    "updated_at": "2022-07-27T11:27:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127562,
+                        "created_at": "2022-07-27T15:22:26.000000Z",
+                        "updated_at": "2022-07-27T15:22:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127563,
+                    "name": "Kisiwani-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:33.000000Z",
+                    "updated_at": "2022-07-27T11:27:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127563,
+                        "created_at": "2022-07-27T15:22:27.000000Z",
+                        "updated_at": "2022-07-27T15:22:27.000000Z"
+                    }
+                },
+                {
+                    "id": 127564,
+                    "name": "Kisiwani-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:34.000000Z",
+                    "updated_at": "2022-07-27T11:27:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127564,
+                        "created_at": "2022-07-27T15:22:27.000000Z",
+                        "updated_at": "2022-07-27T15:22:27.000000Z"
+                    }
+                },
+                {
+                    "id": 127565,
+                    "name": "Kisiwani-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:34.000000Z",
+                    "updated_at": "2022-07-27T11:27:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127565,
+                        "created_at": "2022-07-27T15:22:28.000000Z",
+                        "updated_at": "2022-07-27T15:22:28.000000Z"
+                    }
+                },
+                {
+                    "id": 127566,
+                    "name": "Kisiwani-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:36.000000Z",
+                    "updated_at": "2022-07-27T11:27:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127566,
+                        "created_at": "2022-07-27T15:22:29.000000Z",
+                        "updated_at": "2022-07-27T15:22:29.000000Z"
+                    }
+                },
+                {
+                    "id": 127567,
+                    "name": "Kisiwani-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:36.000000Z",
+                    "updated_at": "2022-07-27T11:27:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127567,
+                        "created_at": "2022-07-27T15:22:30.000000Z",
+                        "updated_at": "2022-07-27T15:22:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127568,
+                    "name": "Kisiwani-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:37.000000Z",
+                    "updated_at": "2022-07-27T11:27:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127568,
+                        "created_at": "2022-07-27T15:22:30.000000Z",
+                        "updated_at": "2022-07-27T15:22:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127569,
+                    "name": "Kisiwani-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:37.000000Z",
+                    "updated_at": "2022-07-27T11:27:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127569,
+                        "created_at": "2022-07-27T15:22:31.000000Z",
+                        "updated_at": "2022-07-27T15:22:31.000000Z"
+                    }
+                },
+                {
+                    "id": 127570,
+                    "name": "Kisiwani-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:38.000000Z",
+                    "updated_at": "2022-07-27T11:27:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127570,
+                        "created_at": "2022-07-27T15:22:32.000000Z",
+                        "updated_at": "2022-07-27T15:22:32.000000Z"
+                    }
+                },
+                {
+                    "id": 127571,
+                    "name": "Kisiwani-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:38.000000Z",
+                    "updated_at": "2022-07-27T11:27:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127571,
+                        "created_at": "2022-07-27T15:22:32.000000Z",
+                        "updated_at": "2022-07-27T15:22:32.000000Z"
+                    }
+                },
+                {
+                    "id": 127572,
+                    "name": "Kisiwani-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:39.000000Z",
+                    "updated_at": "2022-07-27T11:27:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127572,
+                        "created_at": "2022-07-27T15:22:33.000000Z",
+                        "updated_at": "2022-07-27T15:22:33.000000Z"
+                    }
+                },
+                {
+                    "id": 127573,
+                    "name": "Kisiwani-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:40.000000Z",
+                    "updated_at": "2022-07-27T11:27:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127573,
+                        "created_at": "2022-07-27T15:22:34.000000Z",
+                        "updated_at": "2022-07-27T15:22:34.000000Z"
+                    }
+                },
+                {
+                    "id": 127574,
+                    "name": "Kisiwani-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:40.000000Z",
+                    "updated_at": "2022-07-27T11:27:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72820,
+                        "area_id": 127574,
+                        "created_at": "2022-07-27T15:22:35.000000Z",
+                        "updated_at": "2022-07-27T15:22:35.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72821,
+            "name": "MAJENGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72818,
+                "name": "VIJIBWENI",
+                "postcode": "17108",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127636,
+                    "name": "Majengo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:45.000000Z",
+                    "updated_at": "2022-07-27T11:28:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127636,
+                        "created_at": "2022-07-27T15:24:21.000000Z",
+                        "updated_at": "2022-07-27T15:24:21.000000Z"
+                    }
+                },
+                {
+                    "id": 127637,
+                    "name": "Majengo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:45.000000Z",
+                    "updated_at": "2022-07-27T11:28:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127637,
+                        "created_at": "2022-07-27T15:24:22.000000Z",
+                        "updated_at": "2022-07-27T15:24:22.000000Z"
+                    }
+                },
+                {
+                    "id": 127638,
+                    "name": "Majengo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:46.000000Z",
+                    "updated_at": "2022-07-27T11:28:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127638,
+                        "created_at": "2022-07-27T15:24:22.000000Z",
+                        "updated_at": "2022-07-27T15:24:22.000000Z"
+                    }
+                },
+                {
+                    "id": 127639,
+                    "name": "Majengo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:46.000000Z",
+                    "updated_at": "2022-07-27T11:28:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127639,
+                        "created_at": "2022-07-27T15:24:23.000000Z",
+                        "updated_at": "2022-07-27T15:24:23.000000Z"
+                    }
+                },
+                {
+                    "id": 127640,
+                    "name": "Majengo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:47.000000Z",
+                    "updated_at": "2022-07-27T11:28:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127640,
+                        "created_at": "2022-07-27T15:24:24.000000Z",
+                        "updated_at": "2022-07-27T15:24:24.000000Z"
+                    }
+                },
+                {
+                    "id": 127641,
+                    "name": "Majengo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:47.000000Z",
+                    "updated_at": "2022-07-27T11:28:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127641,
+                        "created_at": "2022-07-27T15:24:24.000000Z",
+                        "updated_at": "2022-07-27T15:24:24.000000Z"
+                    }
+                },
+                {
+                    "id": 127642,
+                    "name": "Majengo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:48.000000Z",
+                    "updated_at": "2022-07-27T11:28:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127642,
+                        "created_at": "2022-07-27T15:24:25.000000Z",
+                        "updated_at": "2022-07-27T15:24:25.000000Z"
+                    }
+                },
+                {
+                    "id": 127643,
+                    "name": "Majengo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:48.000000Z",
+                    "updated_at": "2022-07-27T11:28:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127643,
+                        "created_at": "2022-07-27T15:24:26.000000Z",
+                        "updated_at": "2022-07-27T15:24:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127644,
+                    "name": "Majengo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:49.000000Z",
+                    "updated_at": "2022-07-27T11:28:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127644,
+                        "created_at": "2022-07-27T15:24:26.000000Z",
+                        "updated_at": "2022-07-27T15:24:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127645,
+                    "name": "Majengo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:49.000000Z",
+                    "updated_at": "2022-07-27T11:28:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127645,
+                        "created_at": "2022-07-27T15:24:27.000000Z",
+                        "updated_at": "2022-07-27T15:24:27.000000Z"
+                    }
+                },
+                {
+                    "id": 127646,
+                    "name": "Majengo-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:50.000000Z",
+                    "updated_at": "2022-07-27T11:28:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127646,
+                        "created_at": "2022-07-27T15:24:28.000000Z",
+                        "updated_at": "2022-07-27T15:24:28.000000Z"
+                    }
+                },
+                {
+                    "id": 127647,
+                    "name": "Majengo-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:51.000000Z",
+                    "updated_at": "2022-07-27T11:28:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127647,
+                        "created_at": "2022-07-27T15:24:29.000000Z",
+                        "updated_at": "2022-07-27T15:24:29.000000Z"
+                    }
+                },
+                {
+                    "id": 127648,
+                    "name": "Majengo-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:51.000000Z",
+                    "updated_at": "2022-07-27T11:28:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127648,
+                        "created_at": "2022-07-27T15:24:29.000000Z",
+                        "updated_at": "2022-07-27T15:24:29.000000Z"
+                    }
+                },
+                {
+                    "id": 127649,
+                    "name": "Majengo-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:52.000000Z",
+                    "updated_at": "2022-07-27T11:28:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127649,
+                        "created_at": "2022-07-27T15:24:30.000000Z",
+                        "updated_at": "2022-07-27T15:24:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127650,
+                    "name": "Majengo-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:53.000000Z",
+                    "updated_at": "2022-07-27T11:28:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72821,
+                        "area_id": 127650,
+                        "created_at": "2022-07-27T15:24:31.000000Z",
+                        "updated_at": "2022-07-27T15:24:31.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72822,
+            "name": "MKWAJUNI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72818,
+                "name": "VIJIBWENI",
+                "postcode": "17108",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127575,
+                    "name": "Mkwajuni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:41.000000Z",
+                    "updated_at": "2022-07-27T11:27:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127575,
+                        "created_at": "2022-07-27T15:22:36.000000Z",
+                        "updated_at": "2022-07-27T15:22:36.000000Z"
+                    }
+                },
+                {
+                    "id": 127576,
+                    "name": "Mkwajuni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:42.000000Z",
+                    "updated_at": "2022-07-27T11:27:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127576,
+                        "created_at": "2022-07-27T15:22:37.000000Z",
+                        "updated_at": "2022-07-27T15:22:37.000000Z"
+                    }
+                },
+                {
+                    "id": 127577,
+                    "name": "Mkwajuni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:42.000000Z",
+                    "updated_at": "2022-07-27T11:27:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127577,
+                        "created_at": "2022-07-27T15:22:39.000000Z",
+                        "updated_at": "2022-07-27T15:22:39.000000Z"
+                    }
+                },
+                {
+                    "id": 127578,
+                    "name": "Mkwajuni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:43.000000Z",
+                    "updated_at": "2022-07-27T11:27:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127578,
+                        "created_at": "2022-07-27T15:22:41.000000Z",
+                        "updated_at": "2022-07-27T15:22:41.000000Z"
+                    }
+                },
+                {
+                    "id": 127579,
+                    "name": "Mkwajuni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:44.000000Z",
+                    "updated_at": "2022-07-27T11:27:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127579,
+                        "created_at": "2022-07-27T15:22:43.000000Z",
+                        "updated_at": "2022-07-27T15:22:43.000000Z"
+                    }
+                },
+                {
+                    "id": 127580,
+                    "name": "Mkwajuni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:45.000000Z",
+                    "updated_at": "2022-07-27T11:27:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127580,
+                        "created_at": "2022-07-27T15:22:45.000000Z",
+                        "updated_at": "2022-07-27T15:22:45.000000Z"
+                    }
+                },
+                {
+                    "id": 127581,
+                    "name": "Mkwajuni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:46.000000Z",
+                    "updated_at": "2022-07-27T11:27:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127581,
+                        "created_at": "2022-07-27T15:22:47.000000Z",
+                        "updated_at": "2022-07-27T15:22:47.000000Z"
+                    }
+                },
+                {
+                    "id": 127582,
+                    "name": "Mkwajuni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:47.000000Z",
+                    "updated_at": "2022-07-27T11:27:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127582,
+                        "created_at": "2022-07-27T15:22:49.000000Z",
+                        "updated_at": "2022-07-27T15:22:49.000000Z"
+                    }
+                },
+                {
+                    "id": 127583,
+                    "name": "Mkwajuni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:48.000000Z",
+                    "updated_at": "2022-07-27T11:27:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127583,
+                        "created_at": "2022-07-27T15:22:50.000000Z",
+                        "updated_at": "2022-07-27T15:22:50.000000Z"
+                    }
+                },
+                {
+                    "id": 127584,
+                    "name": "Mkwajuni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:49.000000Z",
+                    "updated_at": "2022-07-27T11:27:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127584,
+                        "created_at": "2022-07-27T15:22:52.000000Z",
+                        "updated_at": "2022-07-27T15:22:52.000000Z"
+                    }
+                },
+                {
+                    "id": 127585,
+                    "name": "Mkwajuni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:50.000000Z",
+                    "updated_at": "2022-07-27T11:27:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127585,
+                        "created_at": "2022-07-27T15:22:54.000000Z",
+                        "updated_at": "2022-07-27T15:22:54.000000Z"
+                    }
+                },
+                {
+                    "id": 127586,
+                    "name": "Mkwajuni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:51.000000Z",
+                    "updated_at": "2022-07-27T11:27:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127586,
+                        "created_at": "2022-07-27T15:22:56.000000Z",
+                        "updated_at": "2022-07-27T15:22:56.000000Z"
+                    }
+                },
+                {
+                    "id": 127587,
+                    "name": "Mkwajuni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:53.000000Z",
+                    "updated_at": "2022-07-27T11:27:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127587,
+                        "created_at": "2022-07-27T15:22:58.000000Z",
+                        "updated_at": "2022-07-27T15:22:58.000000Z"
+                    }
+                },
+                {
+                    "id": 127588,
+                    "name": "Mkwajuni-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:54.000000Z",
+                    "updated_at": "2022-07-27T11:27:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127588,
+                        "created_at": "2022-07-27T15:23:00.000000Z",
+                        "updated_at": "2022-07-27T15:23:00.000000Z"
+                    }
+                },
+                {
+                    "id": 127589,
+                    "name": "Mkwajuni-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:55.000000Z",
+                    "updated_at": "2022-07-27T11:27:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127589,
+                        "created_at": "2022-07-27T15:23:02.000000Z",
+                        "updated_at": "2022-07-27T15:23:02.000000Z"
+                    }
+                },
+                {
+                    "id": 127590,
+                    "name": "Mkwajuni-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:57.000000Z",
+                    "updated_at": "2022-07-27T11:27:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127590,
+                        "created_at": "2022-07-27T15:23:03.000000Z",
+                        "updated_at": "2022-07-27T15:23:03.000000Z"
+                    }
+                },
+                {
+                    "id": 127591,
+                    "name": "Mkwajuni-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:58.000000Z",
+                    "updated_at": "2022-07-27T11:27:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127591,
+                        "created_at": "2022-07-27T15:23:05.000000Z",
+                        "updated_at": "2022-07-27T15:23:05.000000Z"
+                    }
+                },
+                {
+                    "id": 127592,
+                    "name": "Mkwajuni-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:59.000000Z",
+                    "updated_at": "2022-07-27T11:27:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127592,
+                        "created_at": "2022-07-27T15:23:07.000000Z",
+                        "updated_at": "2022-07-27T15:23:07.000000Z"
+                    }
+                },
+                {
+                    "id": 127593,
+                    "name": "Mkwajuni-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:01.000000Z",
+                    "updated_at": "2022-07-27T11:28:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127593,
+                        "created_at": "2022-07-27T15:23:09.000000Z",
+                        "updated_at": "2022-07-27T15:23:09.000000Z"
+                    }
+                },
+                {
+                    "id": 127594,
+                    "name": "Mkwajuni-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:02.000000Z",
+                    "updated_at": "2022-07-27T11:28:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127594,
+                        "created_at": "2022-07-27T15:23:11.000000Z",
+                        "updated_at": "2022-07-27T15:23:11.000000Z"
+                    }
+                },
+                {
+                    "id": 127595,
+                    "name": "Mkwajuni-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:03.000000Z",
+                    "updated_at": "2022-07-27T11:28:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127595,
+                        "created_at": "2022-07-27T15:23:14.000000Z",
+                        "updated_at": "2022-07-27T15:23:14.000000Z"
+                    }
+                },
+                {
+                    "id": 127596,
+                    "name": "Mkwajuni-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:05.000000Z",
+                    "updated_at": "2022-07-27T11:28:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127596,
+                        "created_at": "2022-07-27T15:23:16.000000Z",
+                        "updated_at": "2022-07-27T15:23:16.000000Z"
+                    }
+                },
+                {
+                    "id": 127597,
+                    "name": "Mkwajuni-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:06.000000Z",
+                    "updated_at": "2022-07-27T11:28:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127597,
+                        "created_at": "2022-07-27T15:23:18.000000Z",
+                        "updated_at": "2022-07-27T15:23:18.000000Z"
+                    }
+                },
+                {
+                    "id": 127598,
+                    "name": "Mkwajuni-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:08.000000Z",
+                    "updated_at": "2022-07-27T11:28:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127598,
+                        "created_at": "2022-07-27T15:23:20.000000Z",
+                        "updated_at": "2022-07-27T15:23:20.000000Z"
+                    }
+                },
+                {
+                    "id": 127599,
+                    "name": "Mkwajuni-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:28:10.000000Z",
+                    "updated_at": "2022-07-27T11:28:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72822,
+                        "area_id": 127599,
+                        "created_at": "2022-07-27T15:23:22.000000Z",
+                        "updated_at": "2022-07-27T15:23:22.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72823,
+            "name": "UPENDO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72818,
+                "name": "VIJIBWENI",
+                "postcode": "17108",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127530,
+                    "name": "Upendo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:12.000000Z",
+                    "updated_at": "2022-07-27T11:27:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127530,
+                        "created_at": "2022-07-27T15:21:55.000000Z",
+                        "updated_at": "2022-07-27T15:21:55.000000Z"
+                    }
+                },
+                {
+                    "id": 127531,
+                    "name": "Upendo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:13.000000Z",
+                    "updated_at": "2022-07-27T11:27:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127531,
+                        "created_at": "2022-07-27T15:21:56.000000Z",
+                        "updated_at": "2022-07-27T15:21:56.000000Z"
+                    }
+                },
+                {
+                    "id": 127532,
+                    "name": "Upendo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:13.000000Z",
+                    "updated_at": "2022-07-27T11:27:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127532,
+                        "created_at": "2022-07-27T15:21:56.000000Z",
+                        "updated_at": "2022-07-27T15:21:56.000000Z"
+                    }
+                },
+                {
+                    "id": 127533,
+                    "name": "Upendo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:14.000000Z",
+                    "updated_at": "2022-07-27T11:27:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127533,
+                        "created_at": "2022-07-27T15:21:57.000000Z",
+                        "updated_at": "2022-07-27T15:21:57.000000Z"
+                    }
+                },
+                {
+                    "id": 127534,
+                    "name": "Upendo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:14.000000Z",
+                    "updated_at": "2022-07-27T11:27:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127534,
+                        "created_at": "2022-07-27T15:21:58.000000Z",
+                        "updated_at": "2022-07-27T15:21:58.000000Z"
+                    }
+                },
+                {
+                    "id": 127535,
+                    "name": "Upendo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:15.000000Z",
+                    "updated_at": "2022-07-27T11:27:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127535,
+                        "created_at": "2022-07-27T15:21:59.000000Z",
+                        "updated_at": "2022-07-27T15:21:59.000000Z"
+                    }
+                },
+                {
+                    "id": 127536,
+                    "name": "Upendo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:15.000000Z",
+                    "updated_at": "2022-07-27T11:27:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127536,
+                        "created_at": "2022-07-27T15:22:00.000000Z",
+                        "updated_at": "2022-07-27T15:22:00.000000Z"
+                    }
+                },
+                {
+                    "id": 127537,
+                    "name": "Upendo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:16.000000Z",
+                    "updated_at": "2022-07-27T11:27:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127537,
+                        "created_at": "2022-07-27T15:22:01.000000Z",
+                        "updated_at": "2022-07-27T15:22:01.000000Z"
+                    }
+                },
+                {
+                    "id": 127538,
+                    "name": "Upendo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:16.000000Z",
+                    "updated_at": "2022-07-27T11:27:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127538,
+                        "created_at": "2022-07-27T15:22:02.000000Z",
+                        "updated_at": "2022-07-27T15:22:02.000000Z"
+                    }
+                },
+                {
+                    "id": 127539,
+                    "name": "Upendo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:17.000000Z",
+                    "updated_at": "2022-07-27T11:27:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127539,
+                        "created_at": "2022-07-27T15:22:03.000000Z",
+                        "updated_at": "2022-07-27T15:22:03.000000Z"
+                    }
+                },
+                {
+                    "id": 127540,
+                    "name": "Upendo-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:17.000000Z",
+                    "updated_at": "2022-07-27T11:27:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127540,
+                        "created_at": "2022-07-27T15:22:04.000000Z",
+                        "updated_at": "2022-07-27T15:22:04.000000Z"
+                    }
+                },
+                {
+                    "id": 127541,
+                    "name": "Upendo-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:18.000000Z",
+                    "updated_at": "2022-07-27T11:27:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127541,
+                        "created_at": "2022-07-27T15:22:04.000000Z",
+                        "updated_at": "2022-07-27T15:22:04.000000Z"
+                    }
+                },
+                {
+                    "id": 127542,
+                    "name": "Upendo-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:19.000000Z",
+                    "updated_at": "2022-07-27T11:27:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127542,
+                        "created_at": "2022-07-27T15:22:05.000000Z",
+                        "updated_at": "2022-07-27T15:22:05.000000Z"
+                    }
+                },
+                {
+                    "id": 127543,
+                    "name": "Upendo-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:19.000000Z",
+                    "updated_at": "2022-07-27T11:27:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127543,
+                        "created_at": "2022-07-27T15:22:06.000000Z",
+                        "updated_at": "2022-07-27T15:22:06.000000Z"
+                    }
+                },
+                {
+                    "id": 127544,
+                    "name": "Upendo-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:20.000000Z",
+                    "updated_at": "2022-07-27T11:27:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127544,
+                        "created_at": "2022-07-27T15:22:08.000000Z",
+                        "updated_at": "2022-07-27T15:22:08.000000Z"
+                    }
+                },
+                {
+                    "id": 127545,
+                    "name": "Upendo-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:21.000000Z",
+                    "updated_at": "2022-07-27T11:27:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127545,
+                        "created_at": "2022-07-27T15:22:09.000000Z",
+                        "updated_at": "2022-07-27T15:22:09.000000Z"
+                    }
+                },
+                {
+                    "id": 127546,
+                    "name": "Upendo-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:21.000000Z",
+                    "updated_at": "2022-07-27T11:27:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127546,
+                        "created_at": "2022-07-27T15:22:10.000000Z",
+                        "updated_at": "2022-07-27T15:22:10.000000Z"
+                    }
+                },
+                {
+                    "id": 127547,
+                    "name": "Upendo-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:22.000000Z",
+                    "updated_at": "2022-07-27T11:27:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127547,
+                        "created_at": "2022-07-27T15:22:11.000000Z",
+                        "updated_at": "2022-07-27T15:22:11.000000Z"
+                    }
+                },
+                {
+                    "id": 127548,
+                    "name": "Upendo-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:23.000000Z",
+                    "updated_at": "2022-07-27T11:27:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127548,
+                        "created_at": "2022-07-27T15:22:12.000000Z",
+                        "updated_at": "2022-07-27T15:22:12.000000Z"
+                    }
+                },
+                {
+                    "id": 127549,
+                    "name": "Upendo-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:23.000000Z",
+                    "updated_at": "2022-07-27T11:27:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127549,
+                        "created_at": "2022-07-27T15:22:13.000000Z",
+                        "updated_at": "2022-07-27T15:22:13.000000Z"
+                    }
+                },
+                {
+                    "id": 127550,
+                    "name": "Upendo-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:24.000000Z",
+                    "updated_at": "2022-07-27T11:27:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127550,
+                        "created_at": "2022-07-27T15:22:14.000000Z",
+                        "updated_at": "2022-07-27T15:22:14.000000Z"
+                    }
+                },
+                {
+                    "id": 127551,
+                    "name": "Upendo-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:25.000000Z",
+                    "updated_at": "2022-07-27T11:27:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127551,
+                        "created_at": "2022-07-27T15:22:15.000000Z",
+                        "updated_at": "2022-07-27T15:22:15.000000Z"
+                    }
+                },
+                {
+                    "id": 127552,
+                    "name": "Upendo-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:26.000000Z",
+                    "updated_at": "2022-07-27T11:27:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127552,
+                        "created_at": "2022-07-27T15:22:16.000000Z",
+                        "updated_at": "2022-07-27T15:22:16.000000Z"
+                    }
+                },
+                {
+                    "id": 127553,
+                    "name": "Upendo-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:27.000000Z",
+                    "updated_at": "2022-07-27T11:27:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127553,
+                        "created_at": "2022-07-27T15:22:18.000000Z",
+                        "updated_at": "2022-07-27T15:22:18.000000Z"
+                    }
+                },
+                {
+                    "id": 127554,
+                    "name": "Upendo-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:28.000000Z",
+                    "updated_at": "2022-07-27T11:27:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127554,
+                        "created_at": "2022-07-27T15:22:19.000000Z",
+                        "updated_at": "2022-07-27T15:22:19.000000Z"
+                    }
+                },
+                {
+                    "id": 127555,
+                    "name": "Upendo-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:28.000000Z",
+                    "updated_at": "2022-07-27T11:27:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127555,
+                        "created_at": "2022-07-27T15:22:20.000000Z",
+                        "updated_at": "2022-07-27T15:22:20.000000Z"
+                    }
+                },
+                {
+                    "id": 127556,
+                    "name": "Upendo-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:29.000000Z",
+                    "updated_at": "2022-07-27T11:27:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127556,
+                        "created_at": "2022-07-27T15:22:21.000000Z",
+                        "updated_at": "2022-07-27T15:22:21.000000Z"
+                    }
+                },
+                {
+                    "id": 127557,
+                    "name": "Upendo-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:30.000000Z",
+                    "updated_at": "2022-07-27T11:27:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72823,
+                        "area_id": 127557,
+                        "created_at": "2022-07-27T15:22:22.000000Z",
+                        "updated_at": "2022-07-27T15:22:22.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72824,
+            "name": "VIJIBWENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72818,
+                "name": "VIJIBWENI",
+                "postcode": "17108",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127458,
+                    "name": "Vijibweni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:19.000000Z",
+                    "updated_at": "2022-07-27T11:25:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127458,
+                        "created_at": "2022-07-27T15:17:52.000000Z",
+                        "updated_at": "2022-07-27T15:17:52.000000Z"
+                    }
+                },
+                {
+                    "id": 127459,
+                    "name": "Vijibweni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:20.000000Z",
+                    "updated_at": "2022-07-27T11:25:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127459,
+                        "created_at": "2022-07-27T15:17:55.000000Z",
+                        "updated_at": "2022-07-27T15:17:55.000000Z"
+                    }
+                },
+                {
+                    "id": 127460,
+                    "name": "Vijibweni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:20.000000Z",
+                    "updated_at": "2022-07-27T11:25:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127460,
+                        "created_at": "2022-07-27T15:17:57.000000Z",
+                        "updated_at": "2022-07-27T15:17:57.000000Z"
+                    }
+                },
+                {
+                    "id": 127461,
+                    "name": "Vijibweni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:21.000000Z",
+                    "updated_at": "2022-07-27T11:25:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127461,
+                        "created_at": "2022-07-27T15:18:00.000000Z",
+                        "updated_at": "2022-07-27T15:18:00.000000Z"
+                    }
+                },
+                {
+                    "id": 127462,
+                    "name": "Vijibweni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:22.000000Z",
+                    "updated_at": "2022-07-27T11:25:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127462,
+                        "created_at": "2022-07-27T15:18:02.000000Z",
+                        "updated_at": "2022-07-27T15:18:02.000000Z"
+                    }
+                },
+                {
+                    "id": 127463,
+                    "name": "Vijibweni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:23.000000Z",
+                    "updated_at": "2022-07-27T11:25:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127463,
+                        "created_at": "2022-07-27T15:18:05.000000Z",
+                        "updated_at": "2022-07-27T15:18:05.000000Z"
+                    }
+                },
+                {
+                    "id": 127464,
+                    "name": "Vijibweni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:24.000000Z",
+                    "updated_at": "2022-07-27T11:25:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127464,
+                        "created_at": "2022-07-27T15:18:07.000000Z",
+                        "updated_at": "2022-07-27T15:18:07.000000Z"
+                    }
+                },
+                {
+                    "id": 127465,
+                    "name": "Vijibweni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:25.000000Z",
+                    "updated_at": "2022-07-27T11:25:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127465,
+                        "created_at": "2022-07-27T15:18:10.000000Z",
+                        "updated_at": "2022-07-27T15:18:10.000000Z"
+                    }
+                },
+                {
+                    "id": 127466,
+                    "name": "Vijibweni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:26.000000Z",
+                    "updated_at": "2022-07-27T11:25:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127466,
+                        "created_at": "2022-07-27T15:18:13.000000Z",
+                        "updated_at": "2022-07-27T15:18:13.000000Z"
+                    }
+                },
+                {
+                    "id": 127467,
+                    "name": "Vijibweni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:27.000000Z",
+                    "updated_at": "2022-07-27T11:25:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127467,
+                        "created_at": "2022-07-27T15:18:15.000000Z",
+                        "updated_at": "2022-07-27T15:18:15.000000Z"
+                    }
+                },
+                {
+                    "id": 127468,
+                    "name": "Vijibweni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:28.000000Z",
+                    "updated_at": "2022-07-27T11:25:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127468,
+                        "created_at": "2022-07-27T15:18:18.000000Z",
+                        "updated_at": "2022-07-27T15:18:18.000000Z"
+                    }
+                },
+                {
+                    "id": 127469,
+                    "name": "Vijibweni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:29.000000Z",
+                    "updated_at": "2022-07-27T11:25:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127469,
+                        "created_at": "2022-07-27T15:18:21.000000Z",
+                        "updated_at": "2022-07-27T15:18:21.000000Z"
+                    }
+                },
+                {
+                    "id": 127470,
+                    "name": "Vijibweni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:31.000000Z",
+                    "updated_at": "2022-07-27T11:25:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127470,
+                        "created_at": "2022-07-27T15:18:24.000000Z",
+                        "updated_at": "2022-07-27T15:18:24.000000Z"
+                    }
+                },
+                {
+                    "id": 127471,
+                    "name": "Vijibweni-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:32.000000Z",
+                    "updated_at": "2022-07-27T11:25:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127471,
+                        "created_at": "2022-07-27T15:18:26.000000Z",
+                        "updated_at": "2022-07-27T15:18:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127472,
+                    "name": "Vijibweni-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:33.000000Z",
+                    "updated_at": "2022-07-27T11:25:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127472,
+                        "created_at": "2022-07-27T15:18:29.000000Z",
+                        "updated_at": "2022-07-27T15:18:29.000000Z"
+                    }
+                },
+                {
+                    "id": 127473,
+                    "name": "Vijibweni-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:34.000000Z",
+                    "updated_at": "2022-07-27T11:25:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127473,
+                        "created_at": "2022-07-27T15:18:32.000000Z",
+                        "updated_at": "2022-07-27T15:18:32.000000Z"
+                    }
+                },
+                {
+                    "id": 127474,
+                    "name": "Vijibweni-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:36.000000Z",
+                    "updated_at": "2022-07-27T11:25:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127474,
+                        "created_at": "2022-07-27T15:18:35.000000Z",
+                        "updated_at": "2022-07-27T15:18:35.000000Z"
+                    }
+                },
+                {
+                    "id": 127475,
+                    "name": "Vijibweni-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:37.000000Z",
+                    "updated_at": "2022-07-27T11:25:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127475,
+                        "created_at": "2022-07-27T15:18:37.000000Z",
+                        "updated_at": "2022-07-27T15:18:37.000000Z"
+                    }
+                },
+                {
+                    "id": 127476,
+                    "name": "Vijibweni-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:38.000000Z",
+                    "updated_at": "2022-07-27T11:25:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127476,
+                        "created_at": "2022-07-27T15:18:40.000000Z",
+                        "updated_at": "2022-07-27T15:18:40.000000Z"
+                    }
+                },
+                {
+                    "id": 127477,
+                    "name": "Vijibweni-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:39.000000Z",
+                    "updated_at": "2022-07-27T11:25:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127477,
+                        "created_at": "2022-07-27T15:18:43.000000Z",
+                        "updated_at": "2022-07-27T15:18:43.000000Z"
+                    }
+                },
+                {
+                    "id": 127478,
+                    "name": "Vijibweni-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:40.000000Z",
+                    "updated_at": "2022-07-27T11:25:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127478,
+                        "created_at": "2022-07-27T15:18:46.000000Z",
+                        "updated_at": "2022-07-27T15:18:46.000000Z"
+                    }
+                },
+                {
+                    "id": 127479,
+                    "name": "Vijibweni-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:42.000000Z",
+                    "updated_at": "2022-07-27T11:25:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127479,
+                        "created_at": "2022-07-27T15:18:49.000000Z",
+                        "updated_at": "2022-07-27T15:18:49.000000Z"
+                    }
+                },
+                {
+                    "id": 127480,
+                    "name": "Vijibweni-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:43.000000Z",
+                    "updated_at": "2022-07-27T11:25:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127480,
+                        "created_at": "2022-07-27T15:18:52.000000Z",
+                        "updated_at": "2022-07-27T15:18:52.000000Z"
+                    }
+                },
+                {
+                    "id": 127481,
+                    "name": "Vijibweni-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:44.000000Z",
+                    "updated_at": "2022-07-27T11:25:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127481,
+                        "created_at": "2022-07-27T15:18:55.000000Z",
+                        "updated_at": "2022-07-27T15:18:55.000000Z"
+                    }
+                },
+                {
+                    "id": 127482,
+                    "name": "Vijibweni-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:46.000000Z",
+                    "updated_at": "2022-07-27T11:25:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127482,
+                        "created_at": "2022-07-27T15:18:58.000000Z",
+                        "updated_at": "2022-07-27T15:18:58.000000Z"
+                    }
+                },
+                {
+                    "id": 127483,
+                    "name": "Vijibweni-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:47.000000Z",
+                    "updated_at": "2022-07-27T11:25:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127483,
+                        "created_at": "2022-07-27T15:19:01.000000Z",
+                        "updated_at": "2022-07-27T15:19:01.000000Z"
+                    }
+                },
+                {
+                    "id": 127484,
+                    "name": "Vijibweni-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:48.000000Z",
+                    "updated_at": "2022-07-27T11:25:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127484,
+                        "created_at": "2022-07-27T15:19:04.000000Z",
+                        "updated_at": "2022-07-27T15:19:04.000000Z"
+                    }
+                },
+                {
+                    "id": 127485,
+                    "name": "Vijibweni-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:50.000000Z",
+                    "updated_at": "2022-07-27T11:25:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127485,
+                        "created_at": "2022-07-27T15:19:07.000000Z",
+                        "updated_at": "2022-07-27T15:19:07.000000Z"
+                    }
+                },
+                {
+                    "id": 127486,
+                    "name": "Vijibweni-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:51.000000Z",
+                    "updated_at": "2022-07-27T11:25:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127486,
+                        "created_at": "2022-07-27T15:19:10.000000Z",
+                        "updated_at": "2022-07-27T15:19:10.000000Z"
+                    }
+                },
+                {
+                    "id": 127487,
+                    "name": "Vijibweni-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:53.000000Z",
+                    "updated_at": "2022-07-27T11:25:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127487,
+                        "created_at": "2022-07-27T15:19:13.000000Z",
+                        "updated_at": "2022-07-27T15:19:13.000000Z"
+                    }
+                },
+                {
+                    "id": 127488,
+                    "name": "Vijibweni-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:54.000000Z",
+                    "updated_at": "2022-07-27T11:25:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127488,
+                        "created_at": "2022-07-27T15:19:16.000000Z",
+                        "updated_at": "2022-07-27T15:19:16.000000Z"
+                    }
+                },
+                {
+                    "id": 127489,
+                    "name": "Vijibweni-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:55.000000Z",
+                    "updated_at": "2022-07-27T11:25:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127489,
+                        "created_at": "2022-07-27T15:19:19.000000Z",
+                        "updated_at": "2022-07-27T15:19:19.000000Z"
+                    }
+                },
+                {
+                    "id": 127490,
+                    "name": "Vijibweni-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:57.000000Z",
+                    "updated_at": "2022-07-27T11:25:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127490,
+                        "created_at": "2022-07-27T15:19:23.000000Z",
+                        "updated_at": "2022-07-27T15:19:23.000000Z"
+                    }
+                },
+                {
+                    "id": 127491,
+                    "name": "Vijibweni-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:25:58.000000Z",
+                    "updated_at": "2022-07-27T11:25:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127491,
+                        "created_at": "2022-07-27T15:19:26.000000Z",
+                        "updated_at": "2022-07-27T15:19:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127492,
+                    "name": "Vijibweni-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:00.000000Z",
+                    "updated_at": "2022-07-27T11:26:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127492,
+                        "created_at": "2022-07-27T15:19:29.000000Z",
+                        "updated_at": "2022-07-27T15:19:29.000000Z"
+                    }
+                },
+                {
+                    "id": 127493,
+                    "name": "Vijibweni-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:01.000000Z",
+                    "updated_at": "2022-07-27T11:26:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127493,
+                        "created_at": "2022-07-27T15:19:33.000000Z",
+                        "updated_at": "2022-07-27T15:19:33.000000Z"
+                    }
+                },
+                {
+                    "id": 127494,
+                    "name": "Vijibweni-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:03.000000Z",
+                    "updated_at": "2022-07-27T11:26:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127494,
+                        "created_at": "2022-07-27T15:19:36.000000Z",
+                        "updated_at": "2022-07-27T15:19:36.000000Z"
+                    }
+                },
+                {
+                    "id": 127495,
+                    "name": "Vijibweni-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:04.000000Z",
+                    "updated_at": "2022-07-27T11:26:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127495,
+                        "created_at": "2022-07-27T15:19:40.000000Z",
+                        "updated_at": "2022-07-27T15:19:40.000000Z"
+                    }
+                },
+                {
+                    "id": 127496,
+                    "name": "Vijibweni-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:06.000000Z",
+                    "updated_at": "2022-07-27T11:26:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127496,
+                        "created_at": "2022-07-27T15:19:43.000000Z",
+                        "updated_at": "2022-07-27T15:19:43.000000Z"
+                    }
+                },
+                {
+                    "id": 127497,
+                    "name": "Vijibweni-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:08.000000Z",
+                    "updated_at": "2022-07-27T11:26:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127497,
+                        "created_at": "2022-07-27T15:19:47.000000Z",
+                        "updated_at": "2022-07-27T15:19:47.000000Z"
+                    }
+                },
+                {
+                    "id": 127498,
+                    "name": "Vijibweni-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:09.000000Z",
+                    "updated_at": "2022-07-27T11:26:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127498,
+                        "created_at": "2022-07-27T15:19:50.000000Z",
+                        "updated_at": "2022-07-27T15:19:50.000000Z"
+                    }
+                },
+                {
+                    "id": 127499,
+                    "name": "Vijibweni-42",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:11.000000Z",
+                    "updated_at": "2022-07-27T11:26:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "042",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127499,
+                        "created_at": "2022-07-27T15:19:54.000000Z",
+                        "updated_at": "2022-07-27T15:19:54.000000Z"
+                    }
+                },
+                {
+                    "id": 127500,
+                    "name": "Vijibweni-43",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:13.000000Z",
+                    "updated_at": "2022-07-27T11:26:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "043",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127500,
+                        "created_at": "2022-07-27T15:19:57.000000Z",
+                        "updated_at": "2022-07-27T15:19:57.000000Z"
+                    }
+                },
+                {
+                    "id": 127501,
+                    "name": "Vijibweni-44",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:14.000000Z",
+                    "updated_at": "2022-07-27T11:26:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "044",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127501,
+                        "created_at": "2022-07-27T15:20:01.000000Z",
+                        "updated_at": "2022-07-27T15:20:01.000000Z"
+                    }
+                },
+                {
+                    "id": 127502,
+                    "name": "Vijibweni-45",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:16.000000Z",
+                    "updated_at": "2022-07-27T11:26:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "045",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127502,
+                        "created_at": "2022-07-27T15:20:04.000000Z",
+                        "updated_at": "2022-07-27T15:20:04.000000Z"
+                    }
+                },
+                {
+                    "id": 127503,
+                    "name": "Vijibweni-46",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:18.000000Z",
+                    "updated_at": "2022-07-27T11:26:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "046",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127503,
+                        "created_at": "2022-07-27T15:20:08.000000Z",
+                        "updated_at": "2022-07-27T15:20:08.000000Z"
+                    }
+                },
+                {
+                    "id": 127504,
+                    "name": "Vijibweni-47",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:20.000000Z",
+                    "updated_at": "2022-07-27T11:26:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "047",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127504,
+                        "created_at": "2022-07-27T15:20:12.000000Z",
+                        "updated_at": "2022-07-27T15:20:12.000000Z"
+                    }
+                },
+                {
+                    "id": 127505,
+                    "name": "Vijibweni-48",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:22.000000Z",
+                    "updated_at": "2022-07-27T11:26:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "048",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127505,
+                        "created_at": "2022-07-27T15:20:15.000000Z",
+                        "updated_at": "2022-07-27T15:20:15.000000Z"
+                    }
+                },
+                {
+                    "id": 127506,
+                    "name": "Vijibweni-49",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:24.000000Z",
+                    "updated_at": "2022-07-27T11:26:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "049",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127506,
+                        "created_at": "2022-07-27T15:20:19.000000Z",
+                        "updated_at": "2022-07-27T15:20:19.000000Z"
+                    }
+                },
+                {
+                    "id": 127507,
+                    "name": "Vijibweni-50",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:26.000000Z",
+                    "updated_at": "2022-07-27T11:26:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "050",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127507,
+                        "created_at": "2022-07-27T15:20:23.000000Z",
+                        "updated_at": "2022-07-27T15:20:23.000000Z"
+                    }
+                },
+                {
+                    "id": 127508,
+                    "name": "Vijibweni-51",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:28.000000Z",
+                    "updated_at": "2022-07-27T11:26:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "051",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127508,
+                        "created_at": "2022-07-27T15:20:26.000000Z",
+                        "updated_at": "2022-07-27T15:20:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127509,
+                    "name": "Vijibweni-52",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:30.000000Z",
+                    "updated_at": "2022-07-27T11:26:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "052",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127509,
+                        "created_at": "2022-07-27T15:20:30.000000Z",
+                        "updated_at": "2022-07-27T15:20:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127510,
+                    "name": "Vijibweni-53",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:32.000000Z",
+                    "updated_at": "2022-07-27T11:26:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "053",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127510,
+                        "created_at": "2022-07-27T15:20:34.000000Z",
+                        "updated_at": "2022-07-27T15:20:34.000000Z"
+                    }
+                },
+                {
+                    "id": 127511,
+                    "name": "Vijibweni-54",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:33.000000Z",
+                    "updated_at": "2022-07-27T11:26:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "054",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127511,
+                        "created_at": "2022-07-27T15:20:38.000000Z",
+                        "updated_at": "2022-07-27T15:20:38.000000Z"
+                    }
+                },
+                {
+                    "id": 127512,
+                    "name": "Vijibweni-55",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:35.000000Z",
+                    "updated_at": "2022-07-27T11:26:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "055",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127512,
+                        "created_at": "2022-07-27T15:20:42.000000Z",
+                        "updated_at": "2022-07-27T15:20:42.000000Z"
+                    }
+                },
+                {
+                    "id": 127513,
+                    "name": "Vijibweni-56",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:37.000000Z",
+                    "updated_at": "2022-07-27T11:26:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "056",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127513,
+                        "created_at": "2022-07-27T15:20:45.000000Z",
+                        "updated_at": "2022-07-27T15:20:45.000000Z"
+                    }
+                },
+                {
+                    "id": 127514,
+                    "name": "Vijibweni-57",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:39.000000Z",
+                    "updated_at": "2022-07-27T11:26:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "057",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127514,
+                        "created_at": "2022-07-27T15:20:49.000000Z",
+                        "updated_at": "2022-07-27T15:20:49.000000Z"
+                    }
+                },
+                {
+                    "id": 127515,
+                    "name": "Vijibweni-58",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:41.000000Z",
+                    "updated_at": "2022-07-27T11:26:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "058",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127515,
+                        "created_at": "2022-07-27T15:20:53.000000Z",
+                        "updated_at": "2022-07-27T15:20:53.000000Z"
+                    }
+                },
+                {
+                    "id": 127516,
+                    "name": "Vijibweni-59",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:43.000000Z",
+                    "updated_at": "2022-07-27T11:26:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "059",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127516,
+                        "created_at": "2022-07-27T15:20:57.000000Z",
+                        "updated_at": "2022-07-27T15:20:57.000000Z"
+                    }
+                },
+                {
+                    "id": 127517,
+                    "name": "Vijibweni-60",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:45.000000Z",
+                    "updated_at": "2022-07-27T11:26:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "060",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127517,
+                        "created_at": "2022-07-27T15:21:01.000000Z",
+                        "updated_at": "2022-07-27T15:21:01.000000Z"
+                    }
+                },
+                {
+                    "id": 127518,
+                    "name": "Vijibweni-61",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:46.000000Z",
+                    "updated_at": "2022-07-27T11:26:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "061",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127518,
+                        "created_at": "2022-07-27T15:21:05.000000Z",
+                        "updated_at": "2022-07-27T15:21:05.000000Z"
+                    }
+                },
+                {
+                    "id": 127519,
+                    "name": "Vijibweni-62",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:48.000000Z",
+                    "updated_at": "2022-07-27T11:26:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "062",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127519,
+                        "created_at": "2022-07-27T15:21:09.000000Z",
+                        "updated_at": "2022-07-27T15:21:09.000000Z"
+                    }
+                },
+                {
+                    "id": 127520,
+                    "name": "Vijibweni-63",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:51.000000Z",
+                    "updated_at": "2022-07-27T11:26:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "063",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127520,
+                        "created_at": "2022-07-27T15:21:13.000000Z",
+                        "updated_at": "2022-07-27T15:21:13.000000Z"
+                    }
+                },
+                {
+                    "id": 127521,
+                    "name": "Vijibweni-64",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:53.000000Z",
+                    "updated_at": "2022-07-27T11:26:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "064",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127521,
+                        "created_at": "2022-07-27T15:21:17.000000Z",
+                        "updated_at": "2022-07-27T15:21:17.000000Z"
+                    }
+                },
+                {
+                    "id": 127522,
+                    "name": "Vijibweni-65",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:55.000000Z",
+                    "updated_at": "2022-07-27T11:26:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "065",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127522,
+                        "created_at": "2022-07-27T15:21:21.000000Z",
+                        "updated_at": "2022-07-27T15:21:21.000000Z"
+                    }
+                },
+                {
+                    "id": 127523,
+                    "name": "Vijibweni-66",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:57.000000Z",
+                    "updated_at": "2022-07-27T11:26:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "066",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127523,
+                        "created_at": "2022-07-27T15:21:26.000000Z",
+                        "updated_at": "2022-07-27T15:21:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127524,
+                    "name": "Vijibweni-67",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:26:59.000000Z",
+                    "updated_at": "2022-07-27T11:26:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "067",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127524,
+                        "created_at": "2022-07-27T15:21:30.000000Z",
+                        "updated_at": "2022-07-27T15:21:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127525,
+                    "name": "Vijibweni-68",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:01.000000Z",
+                    "updated_at": "2022-07-27T11:27:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "068",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127525,
+                        "created_at": "2022-07-27T15:21:34.000000Z",
+                        "updated_at": "2022-07-27T15:21:34.000000Z"
+                    }
+                },
+                {
+                    "id": 127526,
+                    "name": "Vijibweni-69",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:03.000000Z",
+                    "updated_at": "2022-07-27T11:27:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "069",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127526,
+                        "created_at": "2022-07-27T15:21:38.000000Z",
+                        "updated_at": "2022-07-27T15:21:38.000000Z"
+                    }
+                },
+                {
+                    "id": 127527,
+                    "name": "Vijibweni-70",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:05.000000Z",
+                    "updated_at": "2022-07-27T11:27:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "070",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127527,
+                        "created_at": "2022-07-27T15:21:42.000000Z",
+                        "updated_at": "2022-07-27T15:21:42.000000Z"
+                    }
+                },
+                {
+                    "id": 127528,
+                    "name": "Vijibweni-71",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:08.000000Z",
+                    "updated_at": "2022-07-27T11:27:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "071",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127528,
+                        "created_at": "2022-07-27T15:21:46.000000Z",
+                        "updated_at": "2022-07-27T15:21:46.000000Z"
+                    }
+                },
+                {
+                    "id": 127529,
+                    "name": "Vijibweni-72",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:27:10.000000Z",
+                    "updated_at": "2022-07-27T11:27:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "072",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72824,
+                        "area_id": 127529,
+                        "created_at": "2022-07-27T15:21:51.000000Z",
+                        "updated_at": "2022-07-27T15:21:51.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
