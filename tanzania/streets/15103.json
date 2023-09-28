@@ -1,0 +1,1380 @@
+{
+    "data": [
+        {
+            "id": 72500,
+            "name": "BORA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72499,
+                "name": "CHANG'OMBE",
+                "postcode": "15103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 125916,
+                    "name": "Bora-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:59.000000Z",
+                    "updated_at": "2022-07-27T10:58:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125916,
+                        "created_at": "2022-07-28T11:15:57.000000Z",
+                        "updated_at": "2022-07-28T11:15:57.000000Z"
+                    }
+                },
+                {
+                    "id": 125917,
+                    "name": "Bora-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:00.000000Z",
+                    "updated_at": "2022-07-27T10:59:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125917,
+                        "created_at": "2022-07-28T11:15:57.000000Z",
+                        "updated_at": "2022-07-28T11:15:57.000000Z"
+                    }
+                },
+                {
+                    "id": 125918,
+                    "name": "Bora-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:00.000000Z",
+                    "updated_at": "2022-07-27T10:59:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125918,
+                        "created_at": "2022-07-28T11:15:57.000000Z",
+                        "updated_at": "2022-07-28T11:15:57.000000Z"
+                    }
+                },
+                {
+                    "id": 125919,
+                    "name": "Bora-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:00.000000Z",
+                    "updated_at": "2022-07-27T10:59:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125919,
+                        "created_at": "2022-07-28T11:15:57.000000Z",
+                        "updated_at": "2022-07-28T11:15:57.000000Z"
+                    }
+                },
+                {
+                    "id": 125920,
+                    "name": "Bora-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:00.000000Z",
+                    "updated_at": "2022-07-27T10:59:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125920,
+                        "created_at": "2022-07-28T11:15:58.000000Z",
+                        "updated_at": "2022-07-28T11:15:58.000000Z"
+                    }
+                },
+                {
+                    "id": 125921,
+                    "name": "Bora-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:00.000000Z",
+                    "updated_at": "2022-07-27T10:59:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125921,
+                        "created_at": "2022-07-28T11:15:58.000000Z",
+                        "updated_at": "2022-07-28T11:15:58.000000Z"
+                    }
+                },
+                {
+                    "id": 125922,
+                    "name": "Bora-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:00.000000Z",
+                    "updated_at": "2022-07-27T10:59:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125922,
+                        "created_at": "2022-07-28T11:15:58.000000Z",
+                        "updated_at": "2022-07-28T11:15:58.000000Z"
+                    }
+                },
+                {
+                    "id": 125923,
+                    "name": "Bora-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:01.000000Z",
+                    "updated_at": "2022-07-27T10:59:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72500,
+                        "area_id": 125923,
+                        "created_at": "2022-07-28T11:15:58.000000Z",
+                        "updated_at": "2022-07-28T11:15:58.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97104,
+            "name": "CHANG'OMBE \"A\"",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72499,
+                "name": "CHANG'OMBE",
+                "postcode": "15103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 125889,
+                    "name": "Chang'ombe \"A\"-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:53.000000Z",
+                    "updated_at": "2022-07-27T10:58:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125889,
+                        "created_at": "2022-07-28T11:15:42.000000Z",
+                        "updated_at": "2022-07-28T11:15:42.000000Z"
+                    }
+                },
+                {
+                    "id": 125890,
+                    "name": "Chang'ombe \"A\"-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:53.000000Z",
+                    "updated_at": "2022-07-27T10:58:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125890,
+                        "created_at": "2022-07-28T11:15:42.000000Z",
+                        "updated_at": "2022-07-28T11:15:42.000000Z"
+                    }
+                },
+                {
+                    "id": 125891,
+                    "name": "Chang'ombe \"A\"-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:53.000000Z",
+                    "updated_at": "2022-07-27T10:58:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125891,
+                        "created_at": "2022-07-28T11:15:43.000000Z",
+                        "updated_at": "2022-07-28T11:15:43.000000Z"
+                    }
+                },
+                {
+                    "id": 125892,
+                    "name": "Chang'ombe \"A\"-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:53.000000Z",
+                    "updated_at": "2022-07-27T10:58:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125892,
+                        "created_at": "2022-07-28T11:15:43.000000Z",
+                        "updated_at": "2022-07-28T11:15:43.000000Z"
+                    }
+                },
+                {
+                    "id": 125893,
+                    "name": "Chang'ombe \"A\"-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:53.000000Z",
+                    "updated_at": "2022-07-27T10:58:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125893,
+                        "created_at": "2022-07-28T11:15:43.000000Z",
+                        "updated_at": "2022-07-28T11:15:43.000000Z"
+                    }
+                },
+                {
+                    "id": 125894,
+                    "name": "Chang'ombe \"A\"-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:53.000000Z",
+                    "updated_at": "2022-07-27T10:58:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125894,
+                        "created_at": "2022-07-28T11:15:43.000000Z",
+                        "updated_at": "2022-07-28T11:15:43.000000Z"
+                    }
+                },
+                {
+                    "id": 125895,
+                    "name": "Chang'ombe \"A\"-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:54.000000Z",
+                    "updated_at": "2022-07-27T10:58:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125895,
+                        "created_at": "2022-07-28T11:15:43.000000Z",
+                        "updated_at": "2022-07-28T11:15:43.000000Z"
+                    }
+                },
+                {
+                    "id": 125896,
+                    "name": "Chang'ombe \"A\"-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:54.000000Z",
+                    "updated_at": "2022-07-27T10:58:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97104,
+                        "area_id": 125896,
+                        "created_at": "2022-07-28T11:15:43.000000Z",
+                        "updated_at": "2022-07-28T11:15:43.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97106,
+            "name": "CHANG'OMBE \"B\"",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72499,
+                "name": "CHANG'OMBE",
+                "postcode": "15103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 125924,
+                    "name": "Chang'ombe \"B\"-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:01.000000Z",
+                    "updated_at": "2022-07-27T10:59:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125924,
+                        "created_at": "2022-07-28T11:15:59.000000Z",
+                        "updated_at": "2022-07-28T11:15:59.000000Z"
+                    }
+                },
+                {
+                    "id": 125925,
+                    "name": "Chang'ombe \"B\"-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:01.000000Z",
+                    "updated_at": "2022-07-27T10:59:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125925,
+                        "created_at": "2022-07-28T11:15:59.000000Z",
+                        "updated_at": "2022-07-28T11:15:59.000000Z"
+                    }
+                },
+                {
+                    "id": 125926,
+                    "name": "Chang'ombe \"B\"-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:01.000000Z",
+                    "updated_at": "2022-07-27T10:59:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125926,
+                        "created_at": "2022-07-28T11:15:59.000000Z",
+                        "updated_at": "2022-07-28T11:15:59.000000Z"
+                    }
+                },
+                {
+                    "id": 125927,
+                    "name": "Chang'ombe \"B\"-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:01.000000Z",
+                    "updated_at": "2022-07-27T10:59:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125927,
+                        "created_at": "2022-07-28T11:16:00.000000Z",
+                        "updated_at": "2022-07-28T11:16:00.000000Z"
+                    }
+                },
+                {
+                    "id": 125928,
+                    "name": "Chang'ombe \"B\"-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:02.000000Z",
+                    "updated_at": "2022-07-27T10:59:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125928,
+                        "created_at": "2022-07-28T11:16:00.000000Z",
+                        "updated_at": "2022-07-28T11:16:00.000000Z"
+                    }
+                },
+                {
+                    "id": 125929,
+                    "name": "Chang'ombe \"B\"-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:02.000000Z",
+                    "updated_at": "2022-07-27T10:59:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125929,
+                        "created_at": "2022-07-28T11:16:00.000000Z",
+                        "updated_at": "2022-07-28T11:16:00.000000Z"
+                    }
+                },
+                {
+                    "id": 125930,
+                    "name": "Chang'ombe \"B\"-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:02.000000Z",
+                    "updated_at": "2022-07-27T10:59:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125930,
+                        "created_at": "2022-07-28T11:16:01.000000Z",
+                        "updated_at": "2022-07-28T11:16:01.000000Z"
+                    }
+                },
+                {
+                    "id": 125931,
+                    "name": "Chang'ombe \"B\"-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:02.000000Z",
+                    "updated_at": "2022-07-27T10:59:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125931,
+                        "created_at": "2022-07-28T11:16:01.000000Z",
+                        "updated_at": "2022-07-28T11:16:01.000000Z"
+                    }
+                },
+                {
+                    "id": 125932,
+                    "name": "Chang'ombe \"B\"-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:03.000000Z",
+                    "updated_at": "2022-07-27T10:59:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125932,
+                        "created_at": "2022-07-28T11:16:02.000000Z",
+                        "updated_at": "2022-07-28T11:16:02.000000Z"
+                    }
+                },
+                {
+                    "id": 125933,
+                    "name": "Chang'ombe \"B\"-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:03.000000Z",
+                    "updated_at": "2022-07-27T10:59:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125933,
+                        "created_at": "2022-07-28T11:16:02.000000Z",
+                        "updated_at": "2022-07-28T11:16:02.000000Z"
+                    }
+                },
+                {
+                    "id": 125934,
+                    "name": "Chang'ombe \"B\"-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:59:03.000000Z",
+                    "updated_at": "2022-07-27T10:59:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 97106,
+                        "area_id": 125934,
+                        "created_at": "2022-07-28T11:16:02.000000Z",
+                        "updated_at": "2022-07-28T11:16:02.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72503,
+            "name": "TOROLI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72499,
+                "name": "CHANG'OMBE",
+                "postcode": "15103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 125897,
+                    "name": "Toroli-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:54.000000Z",
+                    "updated_at": "2022-07-27T10:58:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125897,
+                        "created_at": "2022-07-28T11:15:44.000000Z",
+                        "updated_at": "2022-07-28T11:15:44.000000Z"
+                    }
+                },
+                {
+                    "id": 125898,
+                    "name": "Toroli-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:54.000000Z",
+                    "updated_at": "2022-07-27T10:58:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125898,
+                        "created_at": "2022-07-28T11:15:44.000000Z",
+                        "updated_at": "2022-07-28T11:15:44.000000Z"
+                    }
+                },
+                {
+                    "id": 125899,
+                    "name": "Toroli-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:54.000000Z",
+                    "updated_at": "2022-07-27T10:58:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125899,
+                        "created_at": "2022-07-28T11:15:45.000000Z",
+                        "updated_at": "2022-07-28T11:15:45.000000Z"
+                    }
+                },
+                {
+                    "id": 125900,
+                    "name": "Toroli-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:55.000000Z",
+                    "updated_at": "2022-07-27T10:58:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125900,
+                        "created_at": "2022-07-28T11:15:45.000000Z",
+                        "updated_at": "2022-07-28T11:15:45.000000Z"
+                    }
+                },
+                {
+                    "id": 125901,
+                    "name": "Toroli-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:55.000000Z",
+                    "updated_at": "2022-07-27T10:58:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125901,
+                        "created_at": "2022-07-28T11:15:46.000000Z",
+                        "updated_at": "2022-07-28T11:15:46.000000Z"
+                    }
+                },
+                {
+                    "id": 125902,
+                    "name": "Toroli-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:55.000000Z",
+                    "updated_at": "2022-07-27T10:58:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125902,
+                        "created_at": "2022-07-28T11:15:47.000000Z",
+                        "updated_at": "2022-07-28T11:15:47.000000Z"
+                    }
+                },
+                {
+                    "id": 125903,
+                    "name": "Toroli-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:55.000000Z",
+                    "updated_at": "2022-07-27T10:58:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125903,
+                        "created_at": "2022-07-28T11:15:47.000000Z",
+                        "updated_at": "2022-07-28T11:15:47.000000Z"
+                    }
+                },
+                {
+                    "id": 125904,
+                    "name": "Toroli-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:56.000000Z",
+                    "updated_at": "2022-07-27T10:58:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125904,
+                        "created_at": "2022-07-28T11:15:48.000000Z",
+                        "updated_at": "2022-07-28T11:15:48.000000Z"
+                    }
+                },
+                {
+                    "id": 125905,
+                    "name": "Toroli-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:56.000000Z",
+                    "updated_at": "2022-07-27T10:58:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125905,
+                        "created_at": "2022-07-28T11:15:49.000000Z",
+                        "updated_at": "2022-07-28T11:15:49.000000Z"
+                    }
+                },
+                {
+                    "id": 125906,
+                    "name": "Toroli-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:56.000000Z",
+                    "updated_at": "2022-07-27T10:58:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125906,
+                        "created_at": "2022-07-28T11:15:49.000000Z",
+                        "updated_at": "2022-07-28T11:15:49.000000Z"
+                    }
+                },
+                {
+                    "id": 125907,
+                    "name": "Toroli-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:56.000000Z",
+                    "updated_at": "2022-07-27T10:58:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125907,
+                        "created_at": "2022-07-28T11:15:50.000000Z",
+                        "updated_at": "2022-07-28T11:15:50.000000Z"
+                    }
+                },
+                {
+                    "id": 125908,
+                    "name": "Toroli-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:57.000000Z",
+                    "updated_at": "2022-07-27T10:58:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125908,
+                        "created_at": "2022-07-28T11:15:51.000000Z",
+                        "updated_at": "2022-07-28T11:15:51.000000Z"
+                    }
+                },
+                {
+                    "id": 125909,
+                    "name": "Toroli-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:57.000000Z",
+                    "updated_at": "2022-07-27T10:58:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125909,
+                        "created_at": "2022-07-28T11:15:52.000000Z",
+                        "updated_at": "2022-07-28T11:15:52.000000Z"
+                    }
+                },
+                {
+                    "id": 125910,
+                    "name": "Toroli-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:57.000000Z",
+                    "updated_at": "2022-07-27T10:58:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125910,
+                        "created_at": "2022-07-28T11:15:52.000000Z",
+                        "updated_at": "2022-07-28T11:15:52.000000Z"
+                    }
+                },
+                {
+                    "id": 125911,
+                    "name": "Toroli-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:58.000000Z",
+                    "updated_at": "2022-07-27T10:58:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125911,
+                        "created_at": "2022-07-28T11:15:53.000000Z",
+                        "updated_at": "2022-07-28T11:15:53.000000Z"
+                    }
+                },
+                {
+                    "id": 125912,
+                    "name": "Toroli-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:58.000000Z",
+                    "updated_at": "2022-07-27T10:58:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125912,
+                        "created_at": "2022-07-28T11:15:54.000000Z",
+                        "updated_at": "2022-07-28T11:15:54.000000Z"
+                    }
+                },
+                {
+                    "id": 125913,
+                    "name": "Toroli-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:58.000000Z",
+                    "updated_at": "2022-07-27T10:58:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125913,
+                        "created_at": "2022-07-28T11:15:54.000000Z",
+                        "updated_at": "2022-07-28T11:15:54.000000Z"
+                    }
+                },
+                {
+                    "id": 125914,
+                    "name": "Toroli-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:59.000000Z",
+                    "updated_at": "2022-07-27T10:58:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125914,
+                        "created_at": "2022-07-28T11:15:55.000000Z",
+                        "updated_at": "2022-07-28T11:15:55.000000Z"
+                    }
+                },
+                {
+                    "id": 125915,
+                    "name": "Toroli-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T10:58:59.000000Z",
+                    "updated_at": "2022-07-27T10:58:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72503,
+                        "area_id": 125915,
+                        "created_at": "2022-07-28T11:15:56.000000Z",
+                        "updated_at": "2022-07-28T11:15:56.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
