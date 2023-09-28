@@ -1,0 +1,1964 @@
+{
+    "data": [
+        {
+            "id": 74288,
+            "name": "CHEMBA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 74287,
+                "name": "RWAMISHENYE",
+                "postcode": "35114",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 74211,
+                    "name": "BUKOBA MUNICIPAL COUNCIL",
+                    "postcode": "351",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 74292,
+                        "name": "BUKOBA",
+                        "postcode": "352",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70886,
+                            "name": "KAGERA",
+                            "postcode": "35",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98813,
+                    "name": "Kikanda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:39.000000Z",
+                    "updated_at": "2022-07-13T15:17:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 151,
+                    "geocode": "1802231114202002",
+                    "pivot": {
+                        "location_id": 74288,
+                        "area_id": 98813,
+                        "created_at": "2022-07-14T13:25:20.000000Z",
+                        "updated_at": "2022-07-14T13:25:20.000000Z"
+                    }
+                },
+                {
+                    "id": 98851,
+                    "name": "Rwonge",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:47.000000Z",
+                    "updated_at": "2022-07-13T15:17:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 97,
+                    "geocode": "1802231114202001",
+                    "pivot": {
+                        "location_id": 74288,
+                        "area_id": 98851,
+                        "created_at": "2022-07-14T13:25:37.000000Z",
+                        "updated_at": "2022-07-14T13:25:37.000000Z"
+                    }
+                },
+                {
+                    "id": 97469,
+                    "name": "Chemba-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:13.000000Z",
+                    "updated_at": "2022-07-13T09:00:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 97,
+                    "geocode": "1802231114202001",
+                    "pivot": {
+                        "location_id": 74288,
+                        "area_id": 97469,
+                        "created_at": "2022-08-08T08:03:01.000000Z",
+                        "updated_at": "2022-08-08T08:03:01.000000Z"
+                    }
+                },
+                {
+                    "id": 97431,
+                    "name": "Chemba-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:05.000000Z",
+                    "updated_at": "2022-07-13T09:00:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 151,
+                    "geocode": "1802231114202002",
+                    "pivot": {
+                        "location_id": 74288,
+                        "area_id": 97431,
+                        "created_at": "2022-08-08T08:03:01.000000Z",
+                        "updated_at": "2022-08-08T08:03:01.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 74289,
+            "name": "KAMIZILENTE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 74287,
+                "name": "RWAMISHENYE",
+                "postcode": "35114",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 74211,
+                    "name": "BUKOBA MUNICIPAL COUNCIL",
+                    "postcode": "351",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 74292,
+                        "name": "BUKOBA",
+                        "postcode": "352",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70886,
+                            "name": "KAGERA",
+                            "postcode": "35",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98833,
+                    "name": "NHC-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:42.000000Z",
+                    "updated_at": "2022-07-13T15:17:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 141,
+                    "geocode": "1802231114204007",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98833,
+                        "created_at": "2022-07-14T13:25:26.000000Z",
+                        "updated_at": "2022-07-14T13:25:26.000000Z"
+                    }
+                },
+                {
+                    "id": 98834,
+                    "name": "NHC-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:42.000000Z",
+                    "updated_at": "2022-07-13T15:17:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 145,
+                    "geocode": "1802231114204009",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98834,
+                        "created_at": "2022-07-14T13:25:27.000000Z",
+                        "updated_at": "2022-07-14T13:25:27.000000Z"
+                    }
+                },
+                {
+                    "id": 98835,
+                    "name": "Nkindo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:43.000000Z",
+                    "updated_at": "2022-07-13T15:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 135,
+                    "geocode": "1802231114204004",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98835,
+                        "created_at": "2022-07-14T13:25:27.000000Z",
+                        "updated_at": "2022-07-14T13:25:27.000000Z"
+                    }
+                },
+                {
+                    "id": 98836,
+                    "name": "Nshisha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:43.000000Z",
+                    "updated_at": "2022-07-13T15:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 149,
+                    "geocode": "1802231114204008",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98836,
+                        "created_at": "2022-07-14T13:25:28.000000Z",
+                        "updated_at": "2022-07-14T13:25:28.000000Z"
+                    }
+                },
+                {
+                    "id": 98837,
+                    "name": "Nyakashenye",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:43.000000Z",
+                    "updated_at": "2022-07-13T15:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 149,
+                    "geocode": "1802231114204014",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98837,
+                        "created_at": "2022-07-14T13:25:28.000000Z",
+                        "updated_at": "2022-07-14T13:25:28.000000Z"
+                    }
+                },
+                {
+                    "id": 98838,
+                    "name": "Nyakitunga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:43.000000Z",
+                    "updated_at": "2022-07-13T15:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 96,
+                    "geocode": "1802231114204003",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98838,
+                        "created_at": "2022-07-14T13:25:29.000000Z",
+                        "updated_at": "2022-07-14T13:25:29.000000Z"
+                    }
+                },
+                {
+                    "id": 98839,
+                    "name": "Rugeze",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:43.000000Z",
+                    "updated_at": "2022-07-13T15:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 131,
+                    "geocode": "1802231114204013",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98839,
+                        "created_at": "2022-07-14T13:25:29.000000Z",
+                        "updated_at": "2022-07-14T13:25:29.000000Z"
+                    }
+                },
+                {
+                    "id": 98840,
+                    "name": "Rugwi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:43.000000Z",
+                    "updated_at": "2022-07-13T15:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 159,
+                    "geocode": "1802231114204002",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98840,
+                        "created_at": "2022-07-14T13:25:30.000000Z",
+                        "updated_at": "2022-07-14T13:25:30.000000Z"
+                    }
+                },
+                {
+                    "id": 98841,
+                    "name": "Rwamishenye-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:43.000000Z",
+                    "updated_at": "2022-07-13T15:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 155,
+                    "geocode": "1802231114204017",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98841,
+                        "created_at": "2022-07-14T13:25:30.000000Z",
+                        "updated_at": "2022-07-14T13:25:30.000000Z"
+                    }
+                },
+                {
+                    "id": 98842,
+                    "name": "Rwamishenye-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:44.000000Z",
+                    "updated_at": "2022-07-13T15:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 167,
+                    "geocode": "1802231114204012",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98842,
+                        "created_at": "2022-07-14T13:25:31.000000Z",
+                        "updated_at": "2022-07-14T13:25:31.000000Z"
+                    }
+                },
+                {
+                    "id": 98843,
+                    "name": "Rwamishenye-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:44.000000Z",
+                    "updated_at": "2022-07-13T15:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 158,
+                    "geocode": "1802231114204015",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98843,
+                        "created_at": "2022-07-14T13:25:32.000000Z",
+                        "updated_at": "2022-07-14T13:25:32.000000Z"
+                    }
+                },
+                {
+                    "id": 98844,
+                    "name": "Rwamishenye-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:44.000000Z",
+                    "updated_at": "2022-07-13T15:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 137,
+                    "geocode": "1802231114204001",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98844,
+                        "created_at": "2022-07-14T13:25:32.000000Z",
+                        "updated_at": "2022-07-14T13:25:32.000000Z"
+                    }
+                },
+                {
+                    "id": 98845,
+                    "name": "Rwamishenye-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:45.000000Z",
+                    "updated_at": "2022-07-13T15:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 105,
+                    "geocode": "1802231114204018",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98845,
+                        "created_at": "2022-07-14T13:25:33.000000Z",
+                        "updated_at": "2022-07-14T13:25:33.000000Z"
+                    }
+                },
+                {
+                    "id": 98846,
+                    "name": "Rwamishenye-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:45.000000Z",
+                    "updated_at": "2022-07-13T15:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 145,
+                    "geocode": "1802231114204006",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98846,
+                        "created_at": "2022-07-14T13:25:34.000000Z",
+                        "updated_at": "2022-07-14T13:25:34.000000Z"
+                    }
+                },
+                {
+                    "id": 98847,
+                    "name": "Rwamishenye-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:45.000000Z",
+                    "updated_at": "2022-07-13T15:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 153,
+                    "geocode": "1802231114204011",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98847,
+                        "created_at": "2022-07-14T13:25:34.000000Z",
+                        "updated_at": "2022-07-14T13:25:34.000000Z"
+                    }
+                },
+                {
+                    "id": 98848,
+                    "name": "Rwamishenye-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:46.000000Z",
+                    "updated_at": "2022-07-13T15:17:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 98,
+                    "geocode": "1802231114204005",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98848,
+                        "created_at": "2022-07-14T13:25:35.000000Z",
+                        "updated_at": "2022-07-14T13:25:35.000000Z"
+                    }
+                },
+                {
+                    "id": 98849,
+                    "name": "Rwamishenye-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:46.000000Z",
+                    "updated_at": "2022-07-13T15:17:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 147,
+                    "geocode": "1802231114204010",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98849,
+                        "created_at": "2022-07-14T13:25:36.000000Z",
+                        "updated_at": "2022-07-14T13:25:36.000000Z"
+                    }
+                },
+                {
+                    "id": 98850,
+                    "name": "Rwamishenye-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:46.000000Z",
+                    "updated_at": "2022-07-13T15:17:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 161,
+                    "geocode": "1802231114204016",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 98850,
+                        "created_at": "2022-07-14T13:25:36.000000Z",
+                        "updated_at": "2022-07-14T13:25:36.000000Z"
+                    }
+                },
+                {
+                    "id": 97462,
+                    "name": "Kamizilente-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:11.000000Z",
+                    "updated_at": "2022-07-13T09:00:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 137,
+                    "geocode": "1802231114204001",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97462,
+                        "created_at": "2022-08-08T08:03:05.000000Z",
+                        "updated_at": "2022-08-08T08:03:05.000000Z"
+                    }
+                },
+                {
+                    "id": 97458,
+                    "name": "Kamizilente-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:10.000000Z",
+                    "updated_at": "2022-07-13T09:00:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 159,
+                    "geocode": "1802231114204002",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97458,
+                        "created_at": "2022-08-08T08:03:06.000000Z",
+                        "updated_at": "2022-08-08T08:03:06.000000Z"
+                    }
+                },
+                {
+                    "id": 97456,
+                    "name": "Kamizilente-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:09.000000Z",
+                    "updated_at": "2022-07-13T09:00:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 96,
+                    "geocode": "1802231114204003",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97456,
+                        "created_at": "2022-08-08T08:03:06.000000Z",
+                        "updated_at": "2022-08-08T08:03:06.000000Z"
+                    }
+                },
+                {
+                    "id": 97453,
+                    "name": "Kamizilente-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:09.000000Z",
+                    "updated_at": "2022-07-13T09:00:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 135,
+                    "geocode": "1802231114204004",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97453,
+                        "created_at": "2022-08-08T08:03:07.000000Z",
+                        "updated_at": "2022-08-08T08:03:07.000000Z"
+                    }
+                },
+                {
+                    "id": 97466,
+                    "name": "Kamizilente-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:12.000000Z",
+                    "updated_at": "2022-07-13T09:00:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 98,
+                    "geocode": "1802231114204005",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97466,
+                        "created_at": "2022-08-08T08:03:08.000000Z",
+                        "updated_at": "2022-08-08T08:03:08.000000Z"
+                    }
+                },
+                {
+                    "id": 97464,
+                    "name": "Kamizilente-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:12.000000Z",
+                    "updated_at": "2022-07-13T09:00:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 145,
+                    "geocode": "1802231114204006",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97464,
+                        "created_at": "2022-08-08T08:03:08.000000Z",
+                        "updated_at": "2022-08-08T08:03:08.000000Z"
+                    }
+                },
+                {
+                    "id": 97451,
+                    "name": "Kamizilente-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:08.000000Z",
+                    "updated_at": "2022-07-13T09:00:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 141,
+                    "geocode": "1802231114204007",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97451,
+                        "created_at": "2022-08-08T08:03:09.000000Z",
+                        "updated_at": "2022-08-08T08:03:09.000000Z"
+                    }
+                },
+                {
+                    "id": 97454,
+                    "name": "Kamizilente-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:09.000000Z",
+                    "updated_at": "2022-07-13T09:00:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 149,
+                    "geocode": "1802231114204008",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97454,
+                        "created_at": "2022-08-08T08:03:10.000000Z",
+                        "updated_at": "2022-08-08T08:03:10.000000Z"
+                    }
+                },
+                {
+                    "id": 97452,
+                    "name": "Kamizilente-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:09.000000Z",
+                    "updated_at": "2022-07-13T09:00:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 145,
+                    "geocode": "1802231114204009",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97452,
+                        "created_at": "2022-08-08T08:03:10.000000Z",
+                        "updated_at": "2022-08-08T08:03:10.000000Z"
+                    }
+                },
+                {
+                    "id": 97467,
+                    "name": "Kamizilente-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:12.000000Z",
+                    "updated_at": "2022-07-13T09:00:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 147,
+                    "geocode": "1802231114204010",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97467,
+                        "created_at": "2022-08-08T08:03:11.000000Z",
+                        "updated_at": "2022-08-08T08:03:11.000000Z"
+                    }
+                },
+                {
+                    "id": 97465,
+                    "name": "Kamizilente-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:12.000000Z",
+                    "updated_at": "2022-07-13T09:00:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 153,
+                    "geocode": "1802231114204011",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97465,
+                        "created_at": "2022-08-08T08:03:12.000000Z",
+                        "updated_at": "2022-08-08T08:03:12.000000Z"
+                    }
+                },
+                {
+                    "id": 97460,
+                    "name": "Kamizilente-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:10.000000Z",
+                    "updated_at": "2022-07-13T09:00:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 167,
+                    "geocode": "1802231114204012",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97460,
+                        "created_at": "2022-08-08T08:03:13.000000Z",
+                        "updated_at": "2022-08-08T08:03:13.000000Z"
+                    }
+                },
+                {
+                    "id": 97457,
+                    "name": "Kamizilente-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:10.000000Z",
+                    "updated_at": "2022-07-13T09:00:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 131,
+                    "geocode": "1802231114204013",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97457,
+                        "created_at": "2022-08-08T08:03:13.000000Z",
+                        "updated_at": "2022-08-08T08:03:13.000000Z"
+                    }
+                },
+                {
+                    "id": 97455,
+                    "name": "Kamizilente-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:09.000000Z",
+                    "updated_at": "2022-07-13T09:00:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 149,
+                    "geocode": "1802231114204014",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97455,
+                        "created_at": "2022-08-08T08:03:14.000000Z",
+                        "updated_at": "2022-08-08T08:03:14.000000Z"
+                    }
+                },
+                {
+                    "id": 97461,
+                    "name": "Kamizilente-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:11.000000Z",
+                    "updated_at": "2022-07-13T09:00:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 158,
+                    "geocode": "1802231114204015",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97461,
+                        "created_at": "2022-08-08T08:03:15.000000Z",
+                        "updated_at": "2022-08-08T08:03:15.000000Z"
+                    }
+                },
+                {
+                    "id": 97468,
+                    "name": "Kamizilente-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:13.000000Z",
+                    "updated_at": "2022-07-13T09:00:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 161,
+                    "geocode": "1802231114204016",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97468,
+                        "created_at": "2022-08-08T08:03:15.000000Z",
+                        "updated_at": "2022-08-08T08:03:15.000000Z"
+                    }
+                },
+                {
+                    "id": 97459,
+                    "name": "Kamizilente-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:10.000000Z",
+                    "updated_at": "2022-07-13T09:00:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 155,
+                    "geocode": "1802231114204017",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97459,
+                        "created_at": "2022-08-08T08:03:16.000000Z",
+                        "updated_at": "2022-08-08T08:03:16.000000Z"
+                    }
+                },
+                {
+                    "id": 97463,
+                    "name": "Kamizilente-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:11.000000Z",
+                    "updated_at": "2022-07-13T09:00:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 105,
+                    "geocode": "1802231114204018",
+                    "pivot": {
+                        "location_id": 74289,
+                        "area_id": 97463,
+                        "created_at": "2022-08-08T08:03:17.000000Z",
+                        "updated_at": "2022-08-08T08:03:17.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 74290,
+            "name": "NHC",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 74287,
+                "name": "RWAMISHENYE",
+                "postcode": "35114",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 74211,
+                    "name": "BUKOBA MUNICIPAL COUNCIL",
+                    "postcode": "351",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 74292,
+                        "name": "BUKOBA",
+                        "postcode": "352",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70886,
+                            "name": "KAGERA",
+                            "postcode": "35",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98814,
+                    "name": "Kikunyu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 104,
+                    "geocode": "1802231114201006",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98814,
+                        "created_at": "2022-07-14T13:25:20.000000Z",
+                        "updated_at": "2022-07-14T13:25:20.000000Z"
+                    }
+                },
+                {
+                    "id": 98815,
+                    "name": "Kilele",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 129,
+                    "geocode": "1802231114201007",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98815,
+                        "created_at": "2022-07-14T13:25:20.000000Z",
+                        "updated_at": "2022-07-14T13:25:20.000000Z"
+                    }
+                },
+                {
+                    "id": 98816,
+                    "name": "Kilembo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 121,
+                    "geocode": "1802231114201005",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98816,
+                        "created_at": "2022-07-14T13:25:21.000000Z",
+                        "updated_at": "2022-07-14T13:25:21.000000Z"
+                    }
+                },
+                {
+                    "id": 98817,
+                    "name": "Kiniga/Rwiga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 121,
+                    "geocode": "1802231114201002",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98817,
+                        "created_at": "2022-07-14T13:25:21.000000Z",
+                        "updated_at": "2022-07-14T13:25:21.000000Z"
+                    }
+                },
+                {
+                    "id": 98818,
+                    "name": "Kitwe\"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 107,
+                    "geocode": "1802231114201009",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98818,
+                        "created_at": "2022-07-14T13:25:21.000000Z",
+                        "updated_at": "2022-07-14T13:25:21.000000Z"
+                    }
+                },
+                {
+                    "id": 98819,
+                    "name": "Kitwe\"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 132,
+                    "geocode": "1802231114201003",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98819,
+                        "created_at": "2022-07-14T13:25:22.000000Z",
+                        "updated_at": "2022-07-14T13:25:22.000000Z"
+                    }
+                },
+                {
+                    "id": 98820,
+                    "name": "Kizigo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 114,
+                    "geocode": "1802231114201001",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98820,
+                        "created_at": "2022-07-14T13:25:22.000000Z",
+                        "updated_at": "2022-07-14T13:25:22.000000Z"
+                    }
+                },
+                {
+                    "id": 98821,
+                    "name": "Kiziru \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 117,
+                    "geocode": "1802231114201004",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98821,
+                        "created_at": "2022-07-14T13:25:22.000000Z",
+                        "updated_at": "2022-07-14T13:25:22.000000Z"
+                    }
+                },
+                {
+                    "id": 98822,
+                    "name": "Kiziru \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 56,
+                    "geocode": "1802231114201008",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 98822,
+                        "created_at": "2022-07-14T13:25:22.000000Z",
+                        "updated_at": "2022-07-14T13:25:22.000000Z"
+                    }
+                },
+                {
+                    "id": 97438,
+                    "name": "NHC-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:06.000000Z",
+                    "updated_at": "2022-07-13T09:00:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 114,
+                    "geocode": "1802231114201001",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97438,
+                        "created_at": "2022-08-08T08:02:58.000000Z",
+                        "updated_at": "2022-08-08T08:02:58.000000Z"
+                    }
+                },
+                {
+                    "id": 97435,
+                    "name": "NHC-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:06.000000Z",
+                    "updated_at": "2022-07-13T09:00:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 121,
+                    "geocode": "1802231114201002",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97435,
+                        "created_at": "2022-08-08T08:02:58.000000Z",
+                        "updated_at": "2022-08-08T08:02:58.000000Z"
+                    }
+                },
+                {
+                    "id": 97437,
+                    "name": "NHC-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:06.000000Z",
+                    "updated_at": "2022-07-13T09:00:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 132,
+                    "geocode": "1802231114201003",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97437,
+                        "created_at": "2022-08-08T08:02:59.000000Z",
+                        "updated_at": "2022-08-08T08:02:59.000000Z"
+                    }
+                },
+                {
+                    "id": 97439,
+                    "name": "NHC-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:06.000000Z",
+                    "updated_at": "2022-07-13T09:00:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 117,
+                    "geocode": "1802231114201004",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97439,
+                        "created_at": "2022-08-08T08:02:59.000000Z",
+                        "updated_at": "2022-08-08T08:02:59.000000Z"
+                    }
+                },
+                {
+                    "id": 97434,
+                    "name": "NHC-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:05.000000Z",
+                    "updated_at": "2022-07-13T09:00:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 121,
+                    "geocode": "1802231114201005",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97434,
+                        "created_at": "2022-08-08T08:02:59.000000Z",
+                        "updated_at": "2022-08-08T08:02:59.000000Z"
+                    }
+                },
+                {
+                    "id": 97432,
+                    "name": "NHC-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:05.000000Z",
+                    "updated_at": "2022-07-13T09:00:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 104,
+                    "geocode": "1802231114201006",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97432,
+                        "created_at": "2022-08-08T08:03:00.000000Z",
+                        "updated_at": "2022-08-08T08:03:00.000000Z"
+                    }
+                },
+                {
+                    "id": 97433,
+                    "name": "NHC-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:05.000000Z",
+                    "updated_at": "2022-07-13T09:00:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 129,
+                    "geocode": "1802231114201007",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97433,
+                        "created_at": "2022-08-08T08:03:00.000000Z",
+                        "updated_at": "2022-08-08T08:03:00.000000Z"
+                    }
+                },
+                {
+                    "id": 97440,
+                    "name": "NHC-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:07.000000Z",
+                    "updated_at": "2022-07-13T09:00:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 56,
+                    "geocode": "1802231114201008",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97440,
+                        "created_at": "2022-08-08T08:03:00.000000Z",
+                        "updated_at": "2022-08-08T08:03:00.000000Z"
+                    }
+                },
+                {
+                    "id": 97436,
+                    "name": "NHC-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:06.000000Z",
+                    "updated_at": "2022-07-13T09:00:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 107,
+                    "geocode": "1802231114201009",
+                    "pivot": {
+                        "location_id": 74290,
+                        "area_id": 97436,
+                        "created_at": "2022-08-08T08:03:01.000000Z",
+                        "updated_at": "2022-08-08T08:03:01.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 74291,
+            "name": "RWAMISHENYE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 74287,
+                "name": "RWAMISHENYE",
+                "postcode": "35114",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 74211,
+                    "name": "BUKOBA MUNICIPAL COUNCIL",
+                    "postcode": "351",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 74292,
+                        "name": "BUKOBA",
+                        "postcode": "352",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70886,
+                            "name": "KAGERA",
+                            "postcode": "35",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98823,
+                    "name": "Kyambeo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:40.000000Z",
+                    "updated_at": "2022-07-13T15:17:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 125,
+                    "geocode": "1802231114203002",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98823,
+                        "created_at": "2022-07-14T13:25:23.000000Z",
+                        "updated_at": "2022-07-14T13:25:23.000000Z"
+                    }
+                },
+                {
+                    "id": 98824,
+                    "name": "Kyegoromora",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:41.000000Z",
+                    "updated_at": "2022-07-13T15:17:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 149,
+                    "geocode": "1802231114203006",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98824,
+                        "created_at": "2022-07-14T13:25:23.000000Z",
+                        "updated_at": "2022-07-14T13:25:23.000000Z"
+                    }
+                },
+                {
+                    "id": 98825,
+                    "name": "Mauguru",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:41.000000Z",
+                    "updated_at": "2022-07-13T15:17:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 99,
+                    "geocode": "1802231114203003",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98825,
+                        "created_at": "2022-07-14T13:25:23.000000Z",
+                        "updated_at": "2022-07-14T13:25:23.000000Z"
+                    }
+                },
+                {
+                    "id": 98826,
+                    "name": "NHC-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:41.000000Z",
+                    "updated_at": "2022-07-13T15:17:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 161,
+                    "geocode": "1802231114203009",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98826,
+                        "created_at": "2022-07-14T13:25:24.000000Z",
+                        "updated_at": "2022-07-14T13:25:24.000000Z"
+                    }
+                },
+                {
+                    "id": 98827,
+                    "name": "NHC-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:41.000000Z",
+                    "updated_at": "2022-07-13T15:17:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 151,
+                    "geocode": "1802231114203001",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98827,
+                        "created_at": "2022-07-14T13:25:24.000000Z",
+                        "updated_at": "2022-07-14T13:25:24.000000Z"
+                    }
+                },
+                {
+                    "id": 98828,
+                    "name": "NHC-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:41.000000Z",
+                    "updated_at": "2022-07-13T15:17:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 102,
+                    "geocode": "1802231114203004",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98828,
+                        "created_at": "2022-07-14T13:25:24.000000Z",
+                        "updated_at": "2022-07-14T13:25:24.000000Z"
+                    }
+                },
+                {
+                    "id": 98829,
+                    "name": "NHC-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:41.000000Z",
+                    "updated_at": "2022-07-13T15:17:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 55,
+                    "geocode": "1802231114203010",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98829,
+                        "created_at": "2022-07-14T13:25:25.000000Z",
+                        "updated_at": "2022-07-14T13:25:25.000000Z"
+                    }
+                },
+                {
+                    "id": 98830,
+                    "name": "NHC-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:42.000000Z",
+                    "updated_at": "2022-07-13T15:17:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 122,
+                    "geocode": "1802231114203005",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98830,
+                        "created_at": "2022-07-14T13:25:25.000000Z",
+                        "updated_at": "2022-07-14T13:25:25.000000Z"
+                    }
+                },
+                {
+                    "id": 98831,
+                    "name": "NHC-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:42.000000Z",
+                    "updated_at": "2022-07-13T15:17:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 134,
+                    "geocode": "1802231114203007",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98831,
+                        "created_at": "2022-07-14T13:25:25.000000Z",
+                        "updated_at": "2022-07-14T13:25:25.000000Z"
+                    }
+                },
+                {
+                    "id": 98832,
+                    "name": "NHC-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T15:17:42.000000Z",
+                    "updated_at": "2022-07-13T15:17:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 115,
+                    "geocode": "1802231114203008",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 98832,
+                        "created_at": "2022-07-14T13:25:26.000000Z",
+                        "updated_at": "2022-07-14T13:25:26.000000Z"
+                    }
+                },
+                {
+                    "id": 97445,
+                    "name": "Rwamishenye-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:07.000000Z",
+                    "updated_at": "2022-07-13T09:00:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 151,
+                    "geocode": "1802231114203001",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97445,
+                        "created_at": "2022-08-08T08:03:02.000000Z",
+                        "updated_at": "2022-08-08T08:03:02.000000Z"
+                    }
+                },
+                {
+                    "id": 97441,
+                    "name": "Rwamishenye-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:07.000000Z",
+                    "updated_at": "2022-07-13T09:00:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 125,
+                    "geocode": "1802231114203002",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97441,
+                        "created_at": "2022-08-08T08:03:02.000000Z",
+                        "updated_at": "2022-08-08T08:03:02.000000Z"
+                    }
+                },
+                {
+                    "id": 97443,
+                    "name": "Rwamishenye-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:07.000000Z",
+                    "updated_at": "2022-07-13T09:00:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 99,
+                    "geocode": "1802231114203003",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97443,
+                        "created_at": "2022-08-08T08:03:02.000000Z",
+                        "updated_at": "2022-08-08T08:03:02.000000Z"
+                    }
+                },
+                {
+                    "id": 97446,
+                    "name": "Rwamishenye-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:07.000000Z",
+                    "updated_at": "2022-07-13T09:00:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 102,
+                    "geocode": "1802231114203004",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97446,
+                        "created_at": "2022-08-08T08:03:03.000000Z",
+                        "updated_at": "2022-08-08T08:03:03.000000Z"
+                    }
+                },
+                {
+                    "id": 97448,
+                    "name": "Rwamishenye-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:08.000000Z",
+                    "updated_at": "2022-07-13T09:00:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 122,
+                    "geocode": "1802231114203005",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97448,
+                        "created_at": "2022-08-08T08:03:03.000000Z",
+                        "updated_at": "2022-08-08T08:03:03.000000Z"
+                    }
+                },
+                {
+                    "id": 97442,
+                    "name": "Rwamishenye-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:07.000000Z",
+                    "updated_at": "2022-07-13T09:00:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 149,
+                    "geocode": "1802231114203006",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97442,
+                        "created_at": "2022-08-08T08:03:03.000000Z",
+                        "updated_at": "2022-08-08T08:03:03.000000Z"
+                    }
+                },
+                {
+                    "id": 97449,
+                    "name": "Rwamishenye-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:08.000000Z",
+                    "updated_at": "2022-07-13T09:00:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 134,
+                    "geocode": "1802231114203007",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97449,
+                        "created_at": "2022-08-08T08:03:04.000000Z",
+                        "updated_at": "2022-08-08T08:03:04.000000Z"
+                    }
+                },
+                {
+                    "id": 97450,
+                    "name": "Rwamishenye-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:08.000000Z",
+                    "updated_at": "2022-07-13T09:00:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 115,
+                    "geocode": "1802231114203008",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97450,
+                        "created_at": "2022-08-08T08:03:04.000000Z",
+                        "updated_at": "2022-08-08T08:03:04.000000Z"
+                    }
+                },
+                {
+                    "id": 97444,
+                    "name": "Rwamishenye-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:07.000000Z",
+                    "updated_at": "2022-07-13T09:00:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 161,
+                    "geocode": "1802231114203009",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97444,
+                        "created_at": "2022-08-08T08:03:04.000000Z",
+                        "updated_at": "2022-08-08T08:03:04.000000Z"
+                    }
+                },
+                {
+                    "id": 97447,
+                    "name": "Rwamishenye-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:00:08.000000Z",
+                    "updated_at": "2022-07-13T09:00:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 55,
+                    "geocode": "1802231114203010",
+                    "pivot": {
+                        "location_id": 74291,
+                        "area_id": 97447,
+                        "created_at": "2022-08-08T08:03:05.000000Z",
+                        "updated_at": "2022-08-08T08:03:05.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
