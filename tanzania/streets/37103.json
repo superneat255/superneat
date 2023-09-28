@@ -1,0 +1,1483 @@
+{
+    "data": [
+        {
+            "id": 81002,
+            "name": "KALONGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81001,
+                "name": "NGOKOLO",
+                "postcode": "37103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80988,
+                    "name": "SHINYANGA MUNICIPAL COUNCIL",
+                    "postcode": "371",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193732,
+                    "name": "Kalonga-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:36.000000Z",
+                    "updated_at": "2022-08-10T08:43:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81002,
+                        "area_id": 193732,
+                        "created_at": "2022-08-10T09:40:02.000000Z",
+                        "updated_at": "2022-08-10T09:40:02.000000Z"
+                    }
+                },
+                {
+                    "id": 193733,
+                    "name": "Kalonga-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:37.000000Z",
+                    "updated_at": "2022-08-10T08:43:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81002,
+                        "area_id": 193733,
+                        "created_at": "2022-08-10T09:40:03.000000Z",
+                        "updated_at": "2022-08-10T09:40:03.000000Z"
+                    }
+                },
+                {
+                    "id": 193734,
+                    "name": "Kalonga-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:37.000000Z",
+                    "updated_at": "2022-08-10T08:43:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81002,
+                        "area_id": 193734,
+                        "created_at": "2022-08-10T09:40:03.000000Z",
+                        "updated_at": "2022-08-10T09:40:03.000000Z"
+                    }
+                },
+                {
+                    "id": 193735,
+                    "name": "Kalonga-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:38.000000Z",
+                    "updated_at": "2022-08-10T08:43:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81002,
+                        "area_id": 193735,
+                        "created_at": "2022-08-10T09:40:04.000000Z",
+                        "updated_at": "2022-08-10T09:40:04.000000Z"
+                    }
+                },
+                {
+                    "id": 193736,
+                    "name": "Kalonga-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:39.000000Z",
+                    "updated_at": "2022-08-10T08:43:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81002,
+                        "area_id": 193736,
+                        "created_at": "2022-08-10T09:40:05.000000Z",
+                        "updated_at": "2022-08-10T09:40:05.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81003,
+            "name": "MAGADULA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81001,
+                "name": "NGOKOLO",
+                "postcode": "37103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80988,
+                    "name": "SHINYANGA MUNICIPAL COUNCIL",
+                    "postcode": "371",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193737,
+                    "name": "Magadula-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:44.000000Z",
+                    "updated_at": "2022-08-10T08:43:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81003,
+                        "area_id": 193737,
+                        "created_at": "2022-08-10T09:40:11.000000Z",
+                        "updated_at": "2022-08-10T09:40:11.000000Z"
+                    }
+                },
+                {
+                    "id": 193738,
+                    "name": "Magadula-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:45.000000Z",
+                    "updated_at": "2022-08-10T08:43:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81003,
+                        "area_id": 193738,
+                        "created_at": "2022-08-10T09:40:12.000000Z",
+                        "updated_at": "2022-08-10T09:40:12.000000Z"
+                    }
+                },
+                {
+                    "id": 193739,
+                    "name": "Magadula-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:45.000000Z",
+                    "updated_at": "2022-08-10T08:43:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81003,
+                        "area_id": 193739,
+                        "created_at": "2022-08-10T09:40:12.000000Z",
+                        "updated_at": "2022-08-10T09:40:12.000000Z"
+                    }
+                },
+                {
+                    "id": 193740,
+                    "name": "Magadula-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:46.000000Z",
+                    "updated_at": "2022-08-10T08:43:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81003,
+                        "area_id": 193740,
+                        "created_at": "2022-08-10T09:40:13.000000Z",
+                        "updated_at": "2022-08-10T09:40:13.000000Z"
+                    }
+                },
+                {
+                    "id": 193741,
+                    "name": "Magadula-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:46.000000Z",
+                    "updated_at": "2022-08-10T08:43:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81003,
+                        "area_id": 193741,
+                        "created_at": "2022-08-10T09:40:13.000000Z",
+                        "updated_at": "2022-08-10T09:40:13.000000Z"
+                    }
+                },
+                {
+                    "id": 193742,
+                    "name": "Magadula-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:47.000000Z",
+                    "updated_at": "2022-08-10T08:43:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81003,
+                        "area_id": 193742,
+                        "created_at": "2022-08-10T09:40:14.000000Z",
+                        "updated_at": "2022-08-10T09:40:14.000000Z"
+                    }
+                },
+                {
+                    "id": 193743,
+                    "name": "Magadula-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:47.000000Z",
+                    "updated_at": "2022-08-10T08:43:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81003,
+                        "area_id": 193743,
+                        "created_at": "2022-08-10T09:40:14.000000Z",
+                        "updated_at": "2022-08-10T09:40:14.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81004,
+            "name": "MAGEUZI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81001,
+                "name": "NGOKOLO",
+                "postcode": "37103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80988,
+                    "name": "SHINYANGA MUNICIPAL COUNCIL",
+                    "postcode": "371",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193720,
+                    "name": "Mageuzi-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:26.000000Z",
+                    "updated_at": "2022-08-10T08:43:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81004,
+                        "area_id": 193720,
+                        "created_at": "2022-08-10T09:39:52.000000Z",
+                        "updated_at": "2022-08-10T09:39:52.000000Z"
+                    }
+                },
+                {
+                    "id": 193721,
+                    "name": "Mageuzi-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:27.000000Z",
+                    "updated_at": "2022-08-10T08:43:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81004,
+                        "area_id": 193721,
+                        "created_at": "2022-08-10T09:39:52.000000Z",
+                        "updated_at": "2022-08-10T09:39:52.000000Z"
+                    }
+                },
+                {
+                    "id": 193722,
+                    "name": "Mageuzi-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:27.000000Z",
+                    "updated_at": "2022-08-10T08:43:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81004,
+                        "area_id": 193722,
+                        "created_at": "2022-08-10T09:39:53.000000Z",
+                        "updated_at": "2022-08-10T09:39:53.000000Z"
+                    }
+                },
+                {
+                    "id": 193723,
+                    "name": "Mageuzi-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:28.000000Z",
+                    "updated_at": "2022-08-10T08:43:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81004,
+                        "area_id": 193723,
+                        "created_at": "2022-08-10T09:39:53.000000Z",
+                        "updated_at": "2022-08-10T09:39:53.000000Z"
+                    }
+                },
+                {
+                    "id": 193724,
+                    "name": "Mageuzi-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:29.000000Z",
+                    "updated_at": "2022-08-10T08:43:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81004,
+                        "area_id": 193724,
+                        "created_at": "2022-08-10T09:39:54.000000Z",
+                        "updated_at": "2022-08-10T09:39:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81005,
+            "name": "MAJENGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81001,
+                "name": "NGOKOLO",
+                "postcode": "37103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80988,
+                    "name": "SHINYANGA MUNICIPAL COUNCIL",
+                    "postcode": "371",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        },
+        {
+            "id": 81006,
+            "name": "MWADUI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81001,
+                "name": "NGOKOLO",
+                "postcode": "37103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80988,
+                    "name": "SHINYANGA MUNICIPAL COUNCIL",
+                    "postcode": "371",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193725,
+                    "name": "Mwadui-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:29.000000Z",
+                    "updated_at": "2022-08-10T08:43:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81006,
+                        "area_id": 193725,
+                        "created_at": "2022-08-10T09:39:55.000000Z",
+                        "updated_at": "2022-08-10T09:39:55.000000Z"
+                    }
+                },
+                {
+                    "id": 193726,
+                    "name": "Mwadui-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:31.000000Z",
+                    "updated_at": "2022-08-10T08:43:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81006,
+                        "area_id": 193726,
+                        "created_at": "2022-08-10T09:39:56.000000Z",
+                        "updated_at": "2022-08-10T09:39:56.000000Z"
+                    }
+                },
+                {
+                    "id": 193727,
+                    "name": "Mwadui-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:32.000000Z",
+                    "updated_at": "2022-08-10T08:43:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81006,
+                        "area_id": 193727,
+                        "created_at": "2022-08-10T09:39:57.000000Z",
+                        "updated_at": "2022-08-10T09:39:57.000000Z"
+                    }
+                },
+                {
+                    "id": 193728,
+                    "name": "Mwadui-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:33.000000Z",
+                    "updated_at": "2022-08-10T08:43:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81006,
+                        "area_id": 193728,
+                        "created_at": "2022-08-10T09:39:58.000000Z",
+                        "updated_at": "2022-08-10T09:39:58.000000Z"
+                    }
+                },
+                {
+                    "id": 193729,
+                    "name": "Mwadui-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:33.000000Z",
+                    "updated_at": "2022-08-10T08:43:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81006,
+                        "area_id": 193729,
+                        "created_at": "2022-08-10T09:39:59.000000Z",
+                        "updated_at": "2022-08-10T09:39:59.000000Z"
+                    }
+                },
+                {
+                    "id": 193730,
+                    "name": "Mwadui-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:34.000000Z",
+                    "updated_at": "2022-08-10T08:43:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81006,
+                        "area_id": 193730,
+                        "created_at": "2022-08-10T09:40:00.000000Z",
+                        "updated_at": "2022-08-10T09:40:00.000000Z"
+                    }
+                },
+                {
+                    "id": 193731,
+                    "name": "Mwadui-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:35.000000Z",
+                    "updated_at": "2022-08-10T08:43:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81006,
+                        "area_id": 193731,
+                        "created_at": "2022-08-10T09:40:01.000000Z",
+                        "updated_at": "2022-08-10T09:40:01.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81007,
+            "name": "MWINAMILA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81001,
+                "name": "NGOKOLO",
+                "postcode": "37103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80988,
+                    "name": "SHINYANGA MUNICIPAL COUNCIL",
+                    "postcode": "371",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193744,
+                    "name": "Mwinamila-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:48.000000Z",
+                    "updated_at": "2022-08-10T08:43:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193744,
+                        "created_at": "2022-08-10T09:40:15.000000Z",
+                        "updated_at": "2022-08-10T09:40:15.000000Z"
+                    }
+                },
+                {
+                    "id": 193745,
+                    "name": "Mwinamila-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:48.000000Z",
+                    "updated_at": "2022-08-10T08:43:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193745,
+                        "created_at": "2022-08-10T09:40:16.000000Z",
+                        "updated_at": "2022-08-10T09:40:16.000000Z"
+                    }
+                },
+                {
+                    "id": 193746,
+                    "name": "Mwinamila-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:48.000000Z",
+                    "updated_at": "2022-08-10T08:43:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193746,
+                        "created_at": "2022-08-10T09:40:17.000000Z",
+                        "updated_at": "2022-08-10T09:40:17.000000Z"
+                    }
+                },
+                {
+                    "id": 193747,
+                    "name": "Mwinamila-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:49.000000Z",
+                    "updated_at": "2022-08-10T08:43:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193747,
+                        "created_at": "2022-08-10T09:40:17.000000Z",
+                        "updated_at": "2022-08-10T09:40:17.000000Z"
+                    }
+                },
+                {
+                    "id": 193748,
+                    "name": "Mwinamila-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:49.000000Z",
+                    "updated_at": "2022-08-10T08:43:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193748,
+                        "created_at": "2022-08-10T09:40:18.000000Z",
+                        "updated_at": "2022-08-10T09:40:18.000000Z"
+                    }
+                },
+                {
+                    "id": 193749,
+                    "name": "Mwinamila-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:50.000000Z",
+                    "updated_at": "2022-08-10T08:43:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193749,
+                        "created_at": "2022-08-10T09:40:18.000000Z",
+                        "updated_at": "2022-08-10T09:40:18.000000Z"
+                    }
+                },
+                {
+                    "id": 193750,
+                    "name": "Mwinamila-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:50.000000Z",
+                    "updated_at": "2022-08-10T08:43:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193750,
+                        "created_at": "2022-08-10T09:40:19.000000Z",
+                        "updated_at": "2022-08-10T09:40:19.000000Z"
+                    }
+                },
+                {
+                    "id": 193751,
+                    "name": "Mwinamila-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:51.000000Z",
+                    "updated_at": "2022-08-10T08:43:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193751,
+                        "created_at": "2022-08-10T09:40:19.000000Z",
+                        "updated_at": "2022-08-10T09:40:19.000000Z"
+                    }
+                },
+                {
+                    "id": 193752,
+                    "name": "Mwinamila-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:51.000000Z",
+                    "updated_at": "2022-08-10T08:43:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81007,
+                        "area_id": 193752,
+                        "created_at": "2022-08-10T09:40:20.000000Z",
+                        "updated_at": "2022-08-10T09:40:20.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81008,
+            "name": "NGOKOLO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81001,
+                "name": "NGOKOLO",
+                "postcode": "37103",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 80988,
+                    "name": "SHINYANGA MUNICIPAL COUNCIL",
+                    "postcode": "371",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81078,
+                        "name": "SHINYANGA",
+                        "postcode": "372",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 193753,
+                    "name": "Ngokolo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:52.000000Z",
+                    "updated_at": "2022-08-10T08:43:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81008,
+                        "area_id": 193753,
+                        "created_at": "2022-08-10T09:40:20.000000Z",
+                        "updated_at": "2022-08-10T09:40:20.000000Z"
+                    }
+                },
+                {
+                    "id": 193754,
+                    "name": "Ngokolo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:52.000000Z",
+                    "updated_at": "2022-08-10T08:43:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81008,
+                        "area_id": 193754,
+                        "created_at": "2022-08-10T09:40:21.000000Z",
+                        "updated_at": "2022-08-10T09:40:21.000000Z"
+                    }
+                },
+                {
+                    "id": 193755,
+                    "name": "Ngokolo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:53.000000Z",
+                    "updated_at": "2022-08-10T08:43:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81008,
+                        "area_id": 193755,
+                        "created_at": "2022-08-10T09:40:21.000000Z",
+                        "updated_at": "2022-08-10T09:40:21.000000Z"
+                    }
+                },
+                {
+                    "id": 193756,
+                    "name": "Ngokolo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:53.000000Z",
+                    "updated_at": "2022-08-10T08:43:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81008,
+                        "area_id": 193756,
+                        "created_at": "2022-08-10T09:40:22.000000Z",
+                        "updated_at": "2022-08-10T09:40:22.000000Z"
+                    }
+                },
+                {
+                    "id": 193757,
+                    "name": "Ngokolo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:54.000000Z",
+                    "updated_at": "2022-08-10T08:43:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81008,
+                        "area_id": 193757,
+                        "created_at": "2022-08-10T09:40:22.000000Z",
+                        "updated_at": "2022-08-10T09:40:22.000000Z"
+                    }
+                },
+                {
+                    "id": 193758,
+                    "name": "Ngokolo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:43:54.000000Z",
+                    "updated_at": "2022-08-10T08:43:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81008,
+                        "area_id": 193758,
+                        "created_at": "2022-08-10T09:40:23.000000Z",
+                        "updated_at": "2022-08-10T09:40:23.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
