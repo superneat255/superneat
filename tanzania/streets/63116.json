@@ -1,0 +1,2024 @@
+{
+    "data": [
+        {
+            "id": 77001,
+            "name": "BOMBA LA BURE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98117,
+                    "name": "Bomba la Bure-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:55.000000Z",
+                    "updated_at": "2022-07-13T09:34:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "0901331116207001",
+                    "pivot": {
+                        "location_id": 77001,
+                        "area_id": 98117,
+                        "created_at": "2022-08-13T06:54:06.000000Z",
+                        "updated_at": "2022-08-13T06:54:06.000000Z"
+                    }
+                },
+                {
+                    "id": 98097,
+                    "name": "Bomba la Bure-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:45.000000Z",
+                    "updated_at": "2022-07-13T09:34:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 160,
+                    "geocode": "0901331116207002",
+                    "pivot": {
+                        "location_id": 77001,
+                        "area_id": 98097,
+                        "created_at": "2022-08-13T06:54:07.000000Z",
+                        "updated_at": "2022-08-13T06:54:07.000000Z"
+                    }
+                },
+                {
+                    "id": 98103,
+                    "name": "Bomba la Bure-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:48.000000Z",
+                    "updated_at": "2022-07-13T09:34:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 160,
+                    "geocode": "0901331116207003",
+                    "pivot": {
+                        "location_id": 77001,
+                        "area_id": 98103,
+                        "created_at": "2022-08-13T06:54:07.000000Z",
+                        "updated_at": "2022-08-13T06:54:07.000000Z"
+                    }
+                },
+                {
+                    "id": 98100,
+                    "name": "Bomba la Bure-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:47.000000Z",
+                    "updated_at": "2022-07-13T09:34:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 170,
+                    "geocode": "0901331116207004",
+                    "pivot": {
+                        "location_id": 77001,
+                        "area_id": 98100,
+                        "created_at": "2022-08-13T06:54:08.000000Z",
+                        "updated_at": "2022-08-13T06:54:08.000000Z"
+                    }
+                },
+                {
+                    "id": 98084,
+                    "name": "Bomba la Bure-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:40.000000Z",
+                    "updated_at": "2022-07-13T09:34:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 150,
+                    "geocode": "0901331116207005",
+                    "pivot": {
+                        "location_id": 77001,
+                        "area_id": 98084,
+                        "created_at": "2022-08-13T06:54:09.000000Z",
+                        "updated_at": "2022-08-13T06:54:09.000000Z"
+                    }
+                },
+                {
+                    "id": 98111,
+                    "name": "Bomba la Bure-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:52.000000Z",
+                    "updated_at": "2022-07-13T09:34:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 150,
+                    "geocode": "0901331116207006",
+                    "pivot": {
+                        "location_id": 77001,
+                        "area_id": 98111,
+                        "created_at": "2022-08-13T06:54:10.000000Z",
+                        "updated_at": "2022-08-13T06:54:10.000000Z"
+                    }
+                },
+                {
+                    "id": 98089,
+                    "name": "Bomba la Bure-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:42.000000Z",
+                    "updated_at": "2022-07-13T09:34:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 160,
+                    "geocode": "0901331116207007",
+                    "pivot": {
+                        "location_id": 77001,
+                        "area_id": 98089,
+                        "created_at": "2022-08-13T06:54:10.000000Z",
+                        "updated_at": "2022-08-13T06:54:10.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77002,
+            "name": "CHIPUPUTA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98072,
+                    "name": "Chipuputa-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:34.000000Z",
+                    "updated_at": "2022-07-13T09:34:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "0901331116204001",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98072,
+                        "created_at": "2022-08-13T06:53:44.000000Z",
+                        "updated_at": "2022-08-13T06:53:44.000000Z"
+                    }
+                },
+                {
+                    "id": 98078,
+                    "name": "Chipuputa-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:37.000000Z",
+                    "updated_at": "2022-07-13T09:34:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 150,
+                    "geocode": "0901331116204002",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98078,
+                        "created_at": "2022-08-13T06:53:44.000000Z",
+                        "updated_at": "2022-08-13T06:53:44.000000Z"
+                    }
+                },
+                {
+                    "id": 98076,
+                    "name": "Chipuputa-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:36.000000Z",
+                    "updated_at": "2022-07-13T09:34:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 150,
+                    "geocode": "0901331116204003",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98076,
+                        "created_at": "2022-08-13T06:53:45.000000Z",
+                        "updated_at": "2022-08-13T06:53:45.000000Z"
+                    }
+                },
+                {
+                    "id": 98077,
+                    "name": "Chipuputa-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:36.000000Z",
+                    "updated_at": "2022-07-13T09:34:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 150,
+                    "geocode": "0901331116204004",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98077,
+                        "created_at": "2022-08-13T06:53:45.000000Z",
+                        "updated_at": "2022-08-13T06:53:45.000000Z"
+                    }
+                },
+                {
+                    "id": 98074,
+                    "name": "Chipuputa-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:35.000000Z",
+                    "updated_at": "2022-07-13T09:34:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 150,
+                    "geocode": "0901331116204005",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98074,
+                        "created_at": "2022-08-13T06:53:46.000000Z",
+                        "updated_at": "2022-08-13T06:53:46.000000Z"
+                    }
+                },
+                {
+                    "id": 98079,
+                    "name": "Chipuputa-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:37.000000Z",
+                    "updated_at": "2022-07-13T09:34:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 150,
+                    "geocode": "0901331116204006",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98079,
+                        "created_at": "2022-08-13T06:53:47.000000Z",
+                        "updated_at": "2022-08-13T06:53:47.000000Z"
+                    }
+                },
+                {
+                    "id": 98080,
+                    "name": "Chipuputa-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:38.000000Z",
+                    "updated_at": "2022-07-13T09:34:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 150,
+                    "geocode": "0901331116204007",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98080,
+                        "created_at": "2022-08-13T06:53:47.000000Z",
+                        "updated_at": "2022-08-13T06:53:47.000000Z"
+                    }
+                },
+                {
+                    "id": 98071,
+                    "name": "Chipuputa-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:34.000000Z",
+                    "updated_at": "2022-07-13T09:34:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 150,
+                    "geocode": "0901331116204008",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98071,
+                        "created_at": "2022-08-13T06:53:48.000000Z",
+                        "updated_at": "2022-08-13T06:53:48.000000Z"
+                    }
+                },
+                {
+                    "id": 98075,
+                    "name": "Chipuputa-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:35.000000Z",
+                    "updated_at": "2022-07-13T09:34:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 150,
+                    "geocode": "0901331116204009",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98075,
+                        "created_at": "2022-08-13T06:53:49.000000Z",
+                        "updated_at": "2022-08-13T06:53:49.000000Z"
+                    }
+                },
+                {
+                    "id": 98073,
+                    "name": "Chipuputa-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:34.000000Z",
+                    "updated_at": "2022-07-13T09:34:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 150,
+                    "geocode": "0901331116204010",
+                    "pivot": {
+                        "location_id": 77002,
+                        "area_id": 98073,
+                        "created_at": "2022-08-13T06:53:49.000000Z",
+                        "updated_at": "2022-08-13T06:53:49.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77000,
+            "name": "KAGERA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98065,
+                    "name": "Kagera-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:31.000000Z",
+                    "updated_at": "2022-07-13T09:34:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "0901331116205001",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98065,
+                        "created_at": "2022-08-13T06:53:50.000000Z",
+                        "updated_at": "2022-08-13T06:53:50.000000Z"
+                    }
+                },
+                {
+                    "id": 98068,
+                    "name": "Kagera-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:32.000000Z",
+                    "updated_at": "2022-07-13T09:34:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 150,
+                    "geocode": "0901331116205002",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98068,
+                        "created_at": "2022-08-13T06:53:51.000000Z",
+                        "updated_at": "2022-08-13T06:53:51.000000Z"
+                    }
+                },
+                {
+                    "id": 98070,
+                    "name": "Kagera-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:33.000000Z",
+                    "updated_at": "2022-07-13T09:34:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 150,
+                    "geocode": "0901331116205003",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98070,
+                        "created_at": "2022-08-13T06:53:52.000000Z",
+                        "updated_at": "2022-08-13T06:53:52.000000Z"
+                    }
+                },
+                {
+                    "id": 98060,
+                    "name": "Kagera-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:28.000000Z",
+                    "updated_at": "2022-07-13T09:34:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 150,
+                    "geocode": "0901331116205004",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98060,
+                        "created_at": "2022-08-13T06:53:52.000000Z",
+                        "updated_at": "2022-08-13T06:53:52.000000Z"
+                    }
+                },
+                {
+                    "id": 98063,
+                    "name": "Kagera-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:29.000000Z",
+                    "updated_at": "2022-07-13T09:34:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 150,
+                    "geocode": "0901331116205005",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98063,
+                        "created_at": "2022-08-13T06:53:53.000000Z",
+                        "updated_at": "2022-08-13T06:53:53.000000Z"
+                    }
+                },
+                {
+                    "id": 98064,
+                    "name": "Kagera-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:30.000000Z",
+                    "updated_at": "2022-07-13T09:34:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 150,
+                    "geocode": "0901331116205006",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98064,
+                        "created_at": "2022-08-13T06:53:54.000000Z",
+                        "updated_at": "2022-08-13T06:53:54.000000Z"
+                    }
+                },
+                {
+                    "id": 98069,
+                    "name": "Kagera-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:33.000000Z",
+                    "updated_at": "2022-07-13T09:34:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 150,
+                    "geocode": "0901331116205007",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98069,
+                        "created_at": "2022-08-13T06:53:54.000000Z",
+                        "updated_at": "2022-08-13T06:53:54.000000Z"
+                    }
+                },
+                {
+                    "id": 98067,
+                    "name": "Kagera-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:31.000000Z",
+                    "updated_at": "2022-07-13T09:34:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 150,
+                    "geocode": "0901331116205008",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98067,
+                        "created_at": "2022-08-13T06:53:55.000000Z",
+                        "updated_at": "2022-08-13T06:53:55.000000Z"
+                    }
+                },
+                {
+                    "id": 98058,
+                    "name": "Kagera-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:27.000000Z",
+                    "updated_at": "2022-07-13T09:34:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 155,
+                    "geocode": "0901331116205009",
+                    "pivot": {
+                        "location_id": 77000,
+                        "area_id": 98058,
+                        "created_at": "2022-08-13T06:53:56.000000Z",
+                        "updated_at": "2022-08-13T06:53:56.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 76996,
+            "name": "MAGOMENI A",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98081,
+                    "name": "Magomeni A-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:38.000000Z",
+                    "updated_at": "2022-07-13T09:34:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 160,
+                    "geocode": "0901331116201001",
+                    "pivot": {
+                        "location_id": 76996,
+                        "area_id": 98081,
+                        "created_at": "2022-08-13T06:53:38.000000Z",
+                        "updated_at": "2022-08-13T06:53:38.000000Z"
+                    }
+                },
+                {
+                    "id": 98114,
+                    "name": "Magomeni A-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:53.000000Z",
+                    "updated_at": "2022-07-13T09:34:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 165,
+                    "geocode": "0901331116201002",
+                    "pivot": {
+                        "location_id": 76996,
+                        "area_id": 98114,
+                        "created_at": "2022-08-13T06:53:39.000000Z",
+                        "updated_at": "2022-08-13T06:53:39.000000Z"
+                    }
+                },
+                {
+                    "id": 98096,
+                    "name": "Magomeni A-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:45.000000Z",
+                    "updated_at": "2022-07-13T09:34:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 150,
+                    "geocode": "0901331116201003",
+                    "pivot": {
+                        "location_id": 76996,
+                        "area_id": 98096,
+                        "created_at": "2022-08-13T06:53:39.000000Z",
+                        "updated_at": "2022-08-13T06:53:39.000000Z"
+                    }
+                },
+                {
+                    "id": 98092,
+                    "name": "Magomeni A-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:43.000000Z",
+                    "updated_at": "2022-07-13T09:34:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 155,
+                    "geocode": "0901331116201004",
+                    "pivot": {
+                        "location_id": 76996,
+                        "area_id": 98092,
+                        "created_at": "2022-08-13T06:53:39.000000Z",
+                        "updated_at": "2022-08-13T06:53:39.000000Z"
+                    }
+                },
+                {
+                    "id": 98086,
+                    "name": "Magomeni A-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:40.000000Z",
+                    "updated_at": "2022-07-13T09:34:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 170,
+                    "geocode": "0901331116201005",
+                    "pivot": {
+                        "location_id": 76996,
+                        "area_id": 98086,
+                        "created_at": "2022-08-13T06:53:40.000000Z",
+                        "updated_at": "2022-08-13T06:53:40.000000Z"
+                    }
+                },
+                {
+                    "id": 98098,
+                    "name": "Magomeni A-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:46.000000Z",
+                    "updated_at": "2022-07-13T09:34:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 165,
+                    "geocode": "0901331116201006",
+                    "pivot": {
+                        "location_id": 76996,
+                        "area_id": 98098,
+                        "created_at": "2022-08-13T06:53:40.000000Z",
+                        "updated_at": "2022-08-13T06:53:40.000000Z"
+                    }
+                },
+                {
+                    "id": 98082,
+                    "name": "Magomeni A-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:39.000000Z",
+                    "updated_at": "2022-07-13T09:34:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 170,
+                    "geocode": "0901331116201007",
+                    "pivot": {
+                        "location_id": 76996,
+                        "area_id": 98082,
+                        "created_at": "2022-08-13T06:53:41.000000Z",
+                        "updated_at": "2022-08-13T06:53:41.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 76997,
+            "name": "MAGOMENI B",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98932,
+                    "name": "Magomeni B-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-14T13:40:35.000000Z",
+                    "updated_at": "2022-07-14T13:40:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 150,
+                    "geocode": "0901331116202002",
+                    "pivot": {
+                        "location_id": 76997,
+                        "area_id": 98932,
+                        "created_at": "2022-07-14T13:40:35.000000Z",
+                        "updated_at": "2022-07-14T13:40:35.000000Z"
+                    }
+                },
+                {
+                    "id": 98066,
+                    "name": "Magomeni B-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:31.000000Z",
+                    "updated_at": "2022-07-13T09:34:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "0901331116202001",
+                    "pivot": {
+                        "location_id": 76997,
+                        "area_id": 98066,
+                        "created_at": "2022-08-13T06:53:41.000000Z",
+                        "updated_at": "2022-08-13T06:53:41.000000Z"
+                    }
+                },
+                {
+                    "id": 98061,
+                    "name": "Magomeni B-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:28.000000Z",
+                    "updated_at": "2022-07-13T09:34:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 150,
+                    "geocode": "0901331116202003",
+                    "pivot": {
+                        "location_id": 76997,
+                        "area_id": 98061,
+                        "created_at": "2022-08-13T06:53:42.000000Z",
+                        "updated_at": "2022-08-13T06:53:42.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 76998,
+            "name": "MAGOMENI SHULENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98090,
+                    "name": "Magomeni Shuleni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:42.000000Z",
+                    "updated_at": "2022-07-13T09:34:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "0901331116208001",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98090,
+                        "created_at": "2022-08-13T06:54:11.000000Z",
+                        "updated_at": "2022-08-13T06:54:11.000000Z"
+                    }
+                },
+                {
+                    "id": 98102,
+                    "name": "Magomeni Shuleni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:48.000000Z",
+                    "updated_at": "2022-07-13T09:34:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 150,
+                    "geocode": "0901331116208002",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98102,
+                        "created_at": "2022-08-13T06:54:12.000000Z",
+                        "updated_at": "2022-08-13T06:54:12.000000Z"
+                    }
+                },
+                {
+                    "id": 98101,
+                    "name": "Magomeni Shuleni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:47.000000Z",
+                    "updated_at": "2022-07-13T09:34:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 120,
+                    "geocode": "0901331116208003",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98101,
+                        "created_at": "2022-08-13T06:54:12.000000Z",
+                        "updated_at": "2022-08-13T06:54:12.000000Z"
+                    }
+                },
+                {
+                    "id": 98087,
+                    "name": "Magomeni Shuleni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:41.000000Z",
+                    "updated_at": "2022-07-13T09:34:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 150,
+                    "geocode": "0901331116208004",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98087,
+                        "created_at": "2022-08-13T06:54:13.000000Z",
+                        "updated_at": "2022-08-13T06:54:13.000000Z"
+                    }
+                },
+                {
+                    "id": 98104,
+                    "name": "Magomeni Shuleni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:49.000000Z",
+                    "updated_at": "2022-07-13T09:34:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 150,
+                    "geocode": "0901331116208005",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98104,
+                        "created_at": "2022-08-13T06:54:13.000000Z",
+                        "updated_at": "2022-08-13T06:54:13.000000Z"
+                    }
+                },
+                {
+                    "id": 98106,
+                    "name": "Magomeni Shuleni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:49.000000Z",
+                    "updated_at": "2022-07-13T09:34:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 150,
+                    "geocode": "0901331116208006",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98106,
+                        "created_at": "2022-08-13T06:54:14.000000Z",
+                        "updated_at": "2022-08-13T06:54:14.000000Z"
+                    }
+                },
+                {
+                    "id": 98093,
+                    "name": "Magomeni Shuleni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:44.000000Z",
+                    "updated_at": "2022-07-13T09:34:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 150,
+                    "geocode": "0901331116208007",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98093,
+                        "created_at": "2022-08-13T06:54:15.000000Z",
+                        "updated_at": "2022-08-13T06:54:15.000000Z"
+                    }
+                },
+                {
+                    "id": 98094,
+                    "name": "Magomeni Shuleni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:44.000000Z",
+                    "updated_at": "2022-07-13T09:34:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 150,
+                    "geocode": "0901331116208008",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98094,
+                        "created_at": "2022-08-13T06:54:15.000000Z",
+                        "updated_at": "2022-08-13T06:54:15.000000Z"
+                    }
+                },
+                {
+                    "id": 98116,
+                    "name": "Magomeni Shuleni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:54.000000Z",
+                    "updated_at": "2022-07-13T09:34:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 100,
+                    "geocode": "0901331116208009",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98116,
+                        "created_at": "2022-08-13T06:54:16.000000Z",
+                        "updated_at": "2022-08-13T06:54:16.000000Z"
+                    }
+                },
+                {
+                    "id": 98115,
+                    "name": "Magomeni Shuleni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:54.000000Z",
+                    "updated_at": "2022-07-13T09:34:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 100,
+                    "geocode": "0901331116208010",
+                    "pivot": {
+                        "location_id": 76998,
+                        "area_id": 98115,
+                        "created_at": "2022-08-13T06:54:17.000000Z",
+                        "updated_at": "2022-08-13T06:54:17.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 77003,
+            "name": "MATOPENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98095,
+                    "name": "Matopeni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:45.000000Z",
+                    "updated_at": "2022-07-13T09:34:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "0901331116206001",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98095,
+                        "created_at": "2022-08-13T06:53:57.000000Z",
+                        "updated_at": "2022-08-13T06:53:57.000000Z"
+                    }
+                },
+                {
+                    "id": 98107,
+                    "name": "Matopeni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:50.000000Z",
+                    "updated_at": "2022-07-13T09:34:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 150,
+                    "geocode": "0901331116206002",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98107,
+                        "created_at": "2022-08-13T06:53:58.000000Z",
+                        "updated_at": "2022-08-13T06:53:58.000000Z"
+                    }
+                },
+                {
+                    "id": 98083,
+                    "name": "Matopeni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:39.000000Z",
+                    "updated_at": "2022-07-13T09:34:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 150,
+                    "geocode": "0901331116206003",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98083,
+                        "created_at": "2022-08-13T06:53:58.000000Z",
+                        "updated_at": "2022-08-13T06:53:58.000000Z"
+                    }
+                },
+                {
+                    "id": 98088,
+                    "name": "Matopeni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:41.000000Z",
+                    "updated_at": "2022-07-13T09:34:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 150,
+                    "geocode": "0901331116206004",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98088,
+                        "created_at": "2022-08-13T06:53:59.000000Z",
+                        "updated_at": "2022-08-13T06:53:59.000000Z"
+                    }
+                },
+                {
+                    "id": 98109,
+                    "name": "Matopeni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:51.000000Z",
+                    "updated_at": "2022-07-13T09:34:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 150,
+                    "geocode": "0901331116206005",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98109,
+                        "created_at": "2022-08-13T06:54:00.000000Z",
+                        "updated_at": "2022-08-13T06:54:00.000000Z"
+                    }
+                },
+                {
+                    "id": 98085,
+                    "name": "Matopeni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:40.000000Z",
+                    "updated_at": "2022-07-13T09:34:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 150,
+                    "geocode": "0901331116206006",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98085,
+                        "created_at": "2022-08-13T06:54:00.000000Z",
+                        "updated_at": "2022-08-13T06:54:00.000000Z"
+                    }
+                },
+                {
+                    "id": 98112,
+                    "name": "Matopeni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:52.000000Z",
+                    "updated_at": "2022-07-13T09:34:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 130,
+                    "geocode": "0901331116206007",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98112,
+                        "created_at": "2022-08-13T06:54:01.000000Z",
+                        "updated_at": "2022-08-13T06:54:01.000000Z"
+                    }
+                },
+                {
+                    "id": 98113,
+                    "name": "Matopeni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:53.000000Z",
+                    "updated_at": "2022-07-13T09:34:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 150,
+                    "geocode": "0901331116206008",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98113,
+                        "created_at": "2022-08-13T06:54:02.000000Z",
+                        "updated_at": "2022-08-13T06:54:02.000000Z"
+                    }
+                },
+                {
+                    "id": 98099,
+                    "name": "Matopeni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:46.000000Z",
+                    "updated_at": "2022-07-13T09:34:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 130,
+                    "geocode": "0901331116206009",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98099,
+                        "created_at": "2022-08-13T06:54:02.000000Z",
+                        "updated_at": "2022-08-13T06:54:02.000000Z"
+                    }
+                },
+                {
+                    "id": 98108,
+                    "name": "Matopeni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:50.000000Z",
+                    "updated_at": "2022-07-13T09:34:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 150,
+                    "geocode": "0901331116206010",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98108,
+                        "created_at": "2022-08-13T06:54:03.000000Z",
+                        "updated_at": "2022-08-13T06:54:03.000000Z"
+                    }
+                },
+                {
+                    "id": 98110,
+                    "name": "Matopeni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:51.000000Z",
+                    "updated_at": "2022-07-13T09:34:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 130,
+                    "geocode": "0901331116206011",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98110,
+                        "created_at": "2022-08-13T06:54:04.000000Z",
+                        "updated_at": "2022-08-13T06:54:04.000000Z"
+                    }
+                },
+                {
+                    "id": 98105,
+                    "name": "Matopeni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:49.000000Z",
+                    "updated_at": "2022-07-13T09:34:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 130,
+                    "geocode": "0901331116206012",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98105,
+                        "created_at": "2022-08-13T06:54:05.000000Z",
+                        "updated_at": "2022-08-13T06:54:05.000000Z"
+                    }
+                },
+                {
+                    "id": 98091,
+                    "name": "Matopeni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:43.000000Z",
+                    "updated_at": "2022-07-13T09:34:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 140,
+                    "geocode": "0901331116206013",
+                    "pivot": {
+                        "location_id": 77003,
+                        "area_id": 98091,
+                        "created_at": "2022-08-13T06:54:06.000000Z",
+                        "updated_at": "2022-08-13T06:54:06.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 76999,
+            "name": "TULIVU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76995,
+                "name": "MAGOMENI",
+                "postcode": "63116",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76888,
+                    "name": "MTWARA MUNICIPAL COUNCIL",
+                    "postcode": "631",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77018,
+                        "name": "MTWARA",
+                        "postcode": "632",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 98062,
+                    "name": "Tulivu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:29.000000Z",
+                    "updated_at": "2022-07-13T09:34:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 150,
+                    "geocode": "0901331116203001",
+                    "pivot": {
+                        "location_id": 76999,
+                        "area_id": 98062,
+                        "created_at": "2022-08-13T06:53:43.000000Z",
+                        "updated_at": "2022-08-13T06:53:43.000000Z"
+                    }
+                },
+                {
+                    "id": 98059,
+                    "name": "Tulivu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:34:28.000000Z",
+                    "updated_at": "2022-07-13T09:34:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 150,
+                    "geocode": "0901331116203002",
+                    "pivot": {
+                        "location_id": 76999,
+                        "area_id": 98059,
+                        "created_at": "2022-08-13T06:53:43.000000Z",
+                        "updated_at": "2022-08-13T06:53:43.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
