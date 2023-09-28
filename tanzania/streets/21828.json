@@ -1,0 +1,944 @@
+{
+    "data": [
+        {
+            "id": 85677,
+            "name": "HEDI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85676,
+                "name": "KWAMAGOME",
+                "postcode": "21828",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85639,
+                    "name": "HANDENI TOWN COUNCIL",
+                    "postcode": "218",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85638,
+                        "name": "HANDENI",
+                        "postcode": "218",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173174,
+                    "name": "Hedi-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:32.000000Z",
+                    "updated_at": "2022-08-08T14:14:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85677,
+                        "area_id": 173174,
+                        "created_at": "2022-08-09T07:12:50.000000Z",
+                        "updated_at": "2022-08-09T07:12:50.000000Z"
+                    }
+                },
+                {
+                    "id": 173175,
+                    "name": "Hedi-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:33.000000Z",
+                    "updated_at": "2022-08-08T14:14:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85677,
+                        "area_id": 173175,
+                        "created_at": "2022-08-09T07:12:50.000000Z",
+                        "updated_at": "2022-08-09T07:12:50.000000Z"
+                    }
+                },
+                {
+                    "id": 173176,
+                    "name": "Hedi-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:33.000000Z",
+                    "updated_at": "2022-08-08T14:14:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85677,
+                        "area_id": 173176,
+                        "created_at": "2022-08-09T07:12:51.000000Z",
+                        "updated_at": "2022-08-09T07:12:51.000000Z"
+                    }
+                },
+                {
+                    "id": 173177,
+                    "name": "Hedi-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:34.000000Z",
+                    "updated_at": "2022-08-08T14:14:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85677,
+                        "area_id": 173177,
+                        "created_at": "2022-08-09T07:12:52.000000Z",
+                        "updated_at": "2022-08-09T07:12:52.000000Z"
+                    }
+                },
+                {
+                    "id": 173178,
+                    "name": "Hedi-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:34.000000Z",
+                    "updated_at": "2022-08-08T14:14:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85677,
+                        "area_id": 173178,
+                        "created_at": "2022-08-09T07:12:52.000000Z",
+                        "updated_at": "2022-08-09T07:12:52.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85680,
+            "name": "KWALUWALA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85676,
+                "name": "KWAMAGOME",
+                "postcode": "21828",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85639,
+                    "name": "HANDENI TOWN COUNCIL",
+                    "postcode": "218",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85638,
+                        "name": "HANDENI",
+                        "postcode": "218",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173169,
+                    "name": "Kwaluwala-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:29.000000Z",
+                    "updated_at": "2022-08-08T14:14:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85680,
+                        "area_id": 173169,
+                        "created_at": "2022-08-09T07:12:47.000000Z",
+                        "updated_at": "2022-08-09T07:12:47.000000Z"
+                    }
+                },
+                {
+                    "id": 173170,
+                    "name": "Kwaluwala-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:30.000000Z",
+                    "updated_at": "2022-08-08T14:14:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85680,
+                        "area_id": 173170,
+                        "created_at": "2022-08-09T07:12:48.000000Z",
+                        "updated_at": "2022-08-09T07:12:48.000000Z"
+                    }
+                },
+                {
+                    "id": 173171,
+                    "name": "Kwaluwala-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:30.000000Z",
+                    "updated_at": "2022-08-08T14:14:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85680,
+                        "area_id": 173171,
+                        "created_at": "2022-08-09T07:12:48.000000Z",
+                        "updated_at": "2022-08-09T07:12:48.000000Z"
+                    }
+                },
+                {
+                    "id": 173172,
+                    "name": "Kwaluwala-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:31.000000Z",
+                    "updated_at": "2022-08-08T14:14:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85680,
+                        "area_id": 173172,
+                        "created_at": "2022-08-09T07:12:49.000000Z",
+                        "updated_at": "2022-08-09T07:12:49.000000Z"
+                    }
+                },
+                {
+                    "id": 173173,
+                    "name": "Kwaluwala-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:31.000000Z",
+                    "updated_at": "2022-08-08T14:14:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85680,
+                        "area_id": 173173,
+                        "created_at": "2022-08-09T07:12:49.000000Z",
+                        "updated_at": "2022-08-09T07:12:49.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85681,
+            "name": "KWAMAGOME",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85676,
+                "name": "KWAMAGOME",
+                "postcode": "21828",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85639,
+                    "name": "HANDENI TOWN COUNCIL",
+                    "postcode": "218",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85638,
+                        "name": "HANDENI",
+                        "postcode": "218",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173179,
+                    "name": "Kwamagome-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:35.000000Z",
+                    "updated_at": "2022-08-08T14:14:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85681,
+                        "area_id": 173179,
+                        "created_at": "2022-08-09T07:12:53.000000Z",
+                        "updated_at": "2022-08-09T07:12:53.000000Z"
+                    }
+                },
+                {
+                    "id": 173180,
+                    "name": "Kwamagome-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:35.000000Z",
+                    "updated_at": "2022-08-08T14:14:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85681,
+                        "area_id": 173180,
+                        "created_at": "2022-08-09T07:12:53.000000Z",
+                        "updated_at": "2022-08-09T07:12:53.000000Z"
+                    }
+                },
+                {
+                    "id": 173181,
+                    "name": "Kwamagome-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:36.000000Z",
+                    "updated_at": "2022-08-08T14:14:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85681,
+                        "area_id": 173181,
+                        "created_at": "2022-08-09T07:12:54.000000Z",
+                        "updated_at": "2022-08-09T07:12:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85678,
+            "name": "MBAMBA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85676,
+                "name": "KWAMAGOME",
+                "postcode": "21828",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85639,
+                    "name": "HANDENI TOWN COUNCIL",
+                    "postcode": "218",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85638,
+                        "name": "HANDENI",
+                        "postcode": "218",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173182,
+                    "name": "Mbamba-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:36.000000Z",
+                    "updated_at": "2022-08-08T14:14:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85678,
+                        "area_id": 173182,
+                        "created_at": "2022-08-09T07:12:55.000000Z",
+                        "updated_at": "2022-08-09T07:12:55.000000Z"
+                    }
+                },
+                {
+                    "id": 173183,
+                    "name": "Mbamba-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:37.000000Z",
+                    "updated_at": "2022-08-08T14:14:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85678,
+                        "area_id": 173183,
+                        "created_at": "2022-08-09T07:12:55.000000Z",
+                        "updated_at": "2022-08-09T07:12:55.000000Z"
+                    }
+                },
+                {
+                    "id": 173184,
+                    "name": "Mbamba-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:37.000000Z",
+                    "updated_at": "2022-08-08T14:14:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85678,
+                        "area_id": 173184,
+                        "created_at": "2022-08-09T07:12:56.000000Z",
+                        "updated_at": "2022-08-09T07:12:56.000000Z"
+                    }
+                },
+                {
+                    "id": 173185,
+                    "name": "Mbamba-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:38.000000Z",
+                    "updated_at": "2022-08-08T14:14:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85678,
+                        "area_id": 173185,
+                        "created_at": "2022-08-09T07:12:56.000000Z",
+                        "updated_at": "2022-08-09T07:12:56.000000Z"
+                    }
+                },
+                {
+                    "id": 173186,
+                    "name": "Mbamba-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:38.000000Z",
+                    "updated_at": "2022-08-08T14:14:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85678,
+                        "area_id": 173186,
+                        "created_at": "2022-08-09T07:12:57.000000Z",
+                        "updated_at": "2022-08-09T07:12:57.000000Z"
+                    }
+                },
+                {
+                    "id": 173187,
+                    "name": "Mbamba-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:39.000000Z",
+                    "updated_at": "2022-08-08T14:14:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85678,
+                        "area_id": 173187,
+                        "created_at": "2022-08-09T07:12:58.000000Z",
+                        "updated_at": "2022-08-09T07:12:58.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85679,
+            "name": "MSAJE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85676,
+                "name": "KWAMAGOME",
+                "postcode": "21828",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85639,
+                    "name": "HANDENI TOWN COUNCIL",
+                    "postcode": "218",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85638,
+                        "name": "HANDENI",
+                        "postcode": "218",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 173188,
+                    "name": "Msaje-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:40.000000Z",
+                    "updated_at": "2022-08-08T14:14:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85679,
+                        "area_id": 173188,
+                        "created_at": "2022-08-09T07:12:58.000000Z",
+                        "updated_at": "2022-08-09T07:12:58.000000Z"
+                    }
+                },
+                {
+                    "id": 173189,
+                    "name": "Msaje-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:40.000000Z",
+                    "updated_at": "2022-08-08T14:14:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85679,
+                        "area_id": 173189,
+                        "created_at": "2022-08-09T07:12:59.000000Z",
+                        "updated_at": "2022-08-09T07:12:59.000000Z"
+                    }
+                },
+                {
+                    "id": 173190,
+                    "name": "Msaje-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T14:14:41.000000Z",
+                    "updated_at": "2022-08-08T14:14:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85679,
+                        "area_id": 173190,
+                        "created_at": "2022-08-09T07:13:00.000000Z",
+                        "updated_at": "2022-08-09T07:13:00.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
