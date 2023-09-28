@@ -1,0 +1,783 @@
+{
+    "data": [
+        {
+            "id": 92103,
+            "name": "MASONGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76519,
+                "name": "TAI",
+                "postcode": "31302",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76517,
+                    "name": "RORYA DISTRICT COUNCIL",
+                    "postcode": "313",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76516,
+                        "name": "RORYA",
+                        "postcode": "313",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70885,
+                            "name": "MARA",
+                            "postcode": "31",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 185040,
+                    "name": "Bugoge",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:01.000000Z",
+                    "updated_at": "2022-08-09T13:53:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92103,
+                        "area_id": 185040,
+                        "created_at": "2022-08-09T13:53:01.000000Z",
+                        "updated_at": "2022-08-09T13:53:01.000000Z"
+                    }
+                },
+                {
+                    "id": 185041,
+                    "name": "Masonga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:02.000000Z",
+                    "updated_at": "2022-08-09T13:53:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92103,
+                        "area_id": 185041,
+                        "created_at": "2022-08-09T13:53:02.000000Z",
+                        "updated_at": "2022-08-09T13:53:02.000000Z"
+                    }
+                },
+                {
+                    "id": 185042,
+                    "name": "Nyamongo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:02.000000Z",
+                    "updated_at": "2022-08-09T13:53:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92103,
+                        "area_id": 185042,
+                        "created_at": "2022-08-09T13:53:02.000000Z",
+                        "updated_at": "2022-08-09T13:53:02.000000Z"
+                    }
+                },
+                {
+                    "id": 185043,
+                    "name": "Buchore",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:03.000000Z",
+                    "updated_at": "2022-08-09T13:53:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92103,
+                        "area_id": 185043,
+                        "created_at": "2022-08-09T13:53:03.000000Z",
+                        "updated_at": "2022-08-09T13:53:03.000000Z"
+                    }
+                },
+                {
+                    "id": 185044,
+                    "name": "Tai",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:03.000000Z",
+                    "updated_at": "2022-08-09T13:53:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92103,
+                        "area_id": 185044,
+                        "created_at": "2022-08-09T13:53:03.000000Z",
+                        "updated_at": "2022-08-09T13:53:03.000000Z"
+                    }
+                },
+                {
+                    "id": 185045,
+                    "name": "Kyambogo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:04.000000Z",
+                    "updated_at": "2022-08-09T13:53:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92103,
+                        "area_id": 185045,
+                        "created_at": "2022-08-09T13:53:04.000000Z",
+                        "updated_at": "2022-08-09T13:53:04.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 92102,
+            "name": "NYAHERA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76519,
+                "name": "TAI",
+                "postcode": "31302",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76517,
+                    "name": "RORYA DISTRICT COUNCIL",
+                    "postcode": "313",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76516,
+                        "name": "RORYA",
+                        "postcode": "313",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70885,
+                            "name": "MARA",
+                            "postcode": "31",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 185046,
+                    "name": "Ithachiro",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:04.000000Z",
+                    "updated_at": "2022-08-09T13:53:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185046,
+                        "created_at": "2022-08-09T13:53:04.000000Z",
+                        "updated_at": "2022-08-09T13:53:04.000000Z"
+                    }
+                },
+                {
+                    "id": 185047,
+                    "name": "Makao",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:05.000000Z",
+                    "updated_at": "2022-08-09T13:53:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185047,
+                        "created_at": "2022-08-09T13:53:05.000000Z",
+                        "updated_at": "2022-08-09T13:53:05.000000Z"
+                    }
+                },
+                {
+                    "id": 185048,
+                    "name": "Senta",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:05.000000Z",
+                    "updated_at": "2022-08-09T13:53:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185048,
+                        "created_at": "2022-08-09T13:53:05.000000Z",
+                        "updated_at": "2022-08-09T13:53:05.000000Z"
+                    }
+                },
+                {
+                    "id": 185049,
+                    "name": "Rabour",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:06.000000Z",
+                    "updated_at": "2022-08-09T13:53:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185049,
+                        "created_at": "2022-08-09T13:53:06.000000Z",
+                        "updated_at": "2022-08-09T13:53:06.000000Z"
+                    }
+                },
+                {
+                    "id": 185050,
+                    "name": "Nyakibori 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:07.000000Z",
+                    "updated_at": "2022-08-09T13:53:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185050,
+                        "created_at": "2022-08-09T13:53:07.000000Z",
+                        "updated_at": "2022-08-09T13:53:07.000000Z"
+                    }
+                },
+                {
+                    "id": 185051,
+                    "name": "Nyakibori 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:07.000000Z",
+                    "updated_at": "2022-08-09T13:53:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185051,
+                        "created_at": "2022-08-09T13:53:07.000000Z",
+                        "updated_at": "2022-08-09T13:53:07.000000Z"
+                    }
+                },
+                {
+                    "id": 185052,
+                    "name": "Kigumi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:08.000000Z",
+                    "updated_at": "2022-08-09T13:53:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185052,
+                        "created_at": "2022-08-09T13:53:08.000000Z",
+                        "updated_at": "2022-08-09T13:53:08.000000Z"
+                    }
+                },
+                {
+                    "id": 185053,
+                    "name": "Nyahera",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:08.000000Z",
+                    "updated_at": "2022-08-09T13:53:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92102,
+                        "area_id": 185053,
+                        "created_at": "2022-08-09T13:53:08.000000Z",
+                        "updated_at": "2022-08-09T13:53:08.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 92105,
+            "name": "NYAMAGONGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76519,
+                "name": "TAI",
+                "postcode": "31302",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76517,
+                    "name": "RORYA DISTRICT COUNCIL",
+                    "postcode": "313",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76516,
+                        "name": "RORYA",
+                        "postcode": "313",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70885,
+                            "name": "MARA",
+                            "postcode": "31",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 185054,
+                    "name": "Nyamsarwa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:09.000000Z",
+                    "updated_at": "2022-08-09T13:53:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92105,
+                        "area_id": 185054,
+                        "created_at": "2022-08-09T13:53:09.000000Z",
+                        "updated_at": "2022-08-09T13:53:09.000000Z"
+                    }
+                },
+                {
+                    "id": 185055,
+                    "name": "Mbire",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:09.000000Z",
+                    "updated_at": "2022-08-09T13:53:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92105,
+                        "area_id": 185055,
+                        "created_at": "2022-08-09T13:53:09.000000Z",
+                        "updated_at": "2022-08-09T13:53:09.000000Z"
+                    }
+                },
+                {
+                    "id": 185056,
+                    "name": "Oboke",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:10.000000Z",
+                    "updated_at": "2022-08-09T13:53:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92105,
+                        "area_id": 185056,
+                        "created_at": "2022-08-09T13:53:10.000000Z",
+                        "updated_at": "2022-08-09T13:53:10.000000Z"
+                    }
+                },
+                {
+                    "id": 185057,
+                    "name": "Makao",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:10.000000Z",
+                    "updated_at": "2022-08-09T13:53:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92105,
+                        "area_id": 185057,
+                        "created_at": "2022-08-09T13:53:10.000000Z",
+                        "updated_at": "2022-08-09T13:53:10.000000Z"
+                    }
+                },
+                {
+                    "id": 185058,
+                    "name": "Arombe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T13:53:11.000000Z",
+                    "updated_at": "2022-08-09T13:53:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 92105,
+                        "area_id": 185058,
+                        "created_at": "2022-08-09T13:53:11.000000Z",
+                        "updated_at": "2022-08-09T13:53:11.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 92104,
+            "name": "SHIRATI SOTA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 76519,
+                "name": "TAI",
+                "postcode": "31302",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 76517,
+                    "name": "RORYA DISTRICT COUNCIL",
+                    "postcode": "313",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 76516,
+                        "name": "RORYA",
+                        "postcode": "313",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70885,
+                            "name": "MARA",
+                            "postcode": "31",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        }
+    ]
+}
