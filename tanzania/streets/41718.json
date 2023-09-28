@@ -1,0 +1,843 @@
+{
+    "data": [
+        {
+            "id": 95083,
+            "name": "HAUBI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72109,
+                "name": "HAUBI",
+                "postcode": "41718",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72097,
+                    "name": "KONDOA DISTRICT COUNCIL",
+                    "postcode": "417",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72087,
+                        "name": "KONDOA",
+                        "postcode": "417",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70889,
+                            "name": "DODOMA",
+                            "postcode": "41",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 195506,
+                    "name": "Soro",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:54.000000Z",
+                    "updated_at": "2022-08-13T09:27:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195506,
+                        "created_at": "2022-08-13T09:27:54.000000Z",
+                        "updated_at": "2022-08-13T09:27:54.000000Z"
+                    }
+                },
+                {
+                    "id": 195507,
+                    "name": "Kuuta",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:55.000000Z",
+                    "updated_at": "2022-08-13T09:27:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195507,
+                        "created_at": "2022-08-13T09:27:55.000000Z",
+                        "updated_at": "2022-08-13T09:27:55.000000Z"
+                    }
+                },
+                {
+                    "id": 195508,
+                    "name": "Talambo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:55.000000Z",
+                    "updated_at": "2022-08-13T09:27:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195508,
+                        "created_at": "2022-08-13T09:27:55.000000Z",
+                        "updated_at": "2022-08-13T09:27:55.000000Z"
+                    }
+                },
+                {
+                    "id": 195509,
+                    "name": "Hasu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:56.000000Z",
+                    "updated_at": "2022-08-13T09:27:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195509,
+                        "created_at": "2022-08-13T09:27:56.000000Z",
+                        "updated_at": "2022-08-13T09:27:56.000000Z"
+                    }
+                },
+                {
+                    "id": 195510,
+                    "name": "Msedi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:56.000000Z",
+                    "updated_at": "2022-08-13T09:27:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195510,
+                        "created_at": "2022-08-13T09:27:56.000000Z",
+                        "updated_at": "2022-08-13T09:27:56.000000Z"
+                    }
+                },
+                {
+                    "id": 195511,
+                    "name": "Gayu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:57.000000Z",
+                    "updated_at": "2022-08-13T09:27:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195511,
+                        "created_at": "2022-08-13T09:27:57.000000Z",
+                        "updated_at": "2022-08-13T09:27:57.000000Z"
+                    }
+                },
+                {
+                    "id": 195512,
+                    "name": "Haubi Maziwani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:57.000000Z",
+                    "updated_at": "2022-08-13T09:27:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195512,
+                        "created_at": "2022-08-13T09:27:57.000000Z",
+                        "updated_at": "2022-08-13T09:27:57.000000Z"
+                    }
+                },
+                {
+                    "id": 195513,
+                    "name": "Chikaluri",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:57.000000Z",
+                    "updated_at": "2022-08-13T09:27:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95083,
+                        "area_id": 195513,
+                        "created_at": "2022-08-13T09:27:57.000000Z",
+                        "updated_at": "2022-08-13T09:27:57.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 95084,
+            "name": "MAFAI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72109,
+                "name": "HAUBI",
+                "postcode": "41718",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72097,
+                    "name": "KONDOA DISTRICT COUNCIL",
+                    "postcode": "417",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72087,
+                        "name": "KONDOA",
+                        "postcode": "417",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70889,
+                            "name": "DODOMA",
+                            "postcode": "41",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 195518,
+                    "name": "Iseya",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:28:00.000000Z",
+                    "updated_at": "2022-08-13T09:28:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95084,
+                        "area_id": 195518,
+                        "created_at": "2022-08-13T09:28:00.000000Z",
+                        "updated_at": "2022-08-13T09:28:00.000000Z"
+                    }
+                },
+                {
+                    "id": 195519,
+                    "name": "Uyeji",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:28:01.000000Z",
+                    "updated_at": "2022-08-13T09:28:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95084,
+                        "area_id": 195519,
+                        "created_at": "2022-08-13T09:28:01.000000Z",
+                        "updated_at": "2022-08-13T09:28:01.000000Z"
+                    }
+                },
+                {
+                    "id": 195520,
+                    "name": "Kiriti",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:28:01.000000Z",
+                    "updated_at": "2022-08-13T09:28:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95084,
+                        "area_id": 195520,
+                        "created_at": "2022-08-13T09:28:01.000000Z",
+                        "updated_at": "2022-08-13T09:28:01.000000Z"
+                    }
+                },
+                {
+                    "id": 195521,
+                    "name": "Lusangi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:28:02.000000Z",
+                    "updated_at": "2022-08-13T09:28:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95084,
+                        "area_id": 195521,
+                        "created_at": "2022-08-13T09:28:02.000000Z",
+                        "updated_at": "2022-08-13T09:28:02.000000Z"
+                    }
+                },
+                {
+                    "id": 195522,
+                    "name": "Njewa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:28:02.000000Z",
+                    "updated_at": "2022-08-13T09:28:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95084,
+                        "area_id": 195522,
+                        "created_at": "2022-08-13T09:28:02.000000Z",
+                        "updated_at": "2022-08-13T09:28:02.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 95085,
+            "name": "MWISANGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72109,
+                "name": "HAUBI",
+                "postcode": "41718",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72097,
+                    "name": "KONDOA DISTRICT COUNCIL",
+                    "postcode": "417",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72087,
+                        "name": "KONDOA",
+                        "postcode": "417",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70889,
+                            "name": "DODOMA",
+                            "postcode": "41",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        },
+        {
+            "id": 95086,
+            "name": "NTOMOKO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72109,
+                "name": "HAUBI",
+                "postcode": "41718",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72097,
+                    "name": "KONDOA DISTRICT COUNCIL",
+                    "postcode": "417",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72087,
+                        "name": "KONDOA",
+                        "postcode": "417",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70889,
+                            "name": "DODOMA",
+                            "postcode": "41",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 108101,
+                    "name": "Msedi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T14:21:15.000000Z",
+                    "updated_at": "2022-07-26T14:21:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 108101,
+                        "created_at": "2022-07-26T14:21:15.000000Z",
+                        "updated_at": "2022-07-26T14:21:15.000000Z"
+                    }
+                },
+                {
+                    "id": 108102,
+                    "name": "Gayu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T14:21:15.000000Z",
+                    "updated_at": "2022-07-26T14:21:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 108102,
+                        "created_at": "2022-07-26T14:21:15.000000Z",
+                        "updated_at": "2022-07-26T14:21:15.000000Z"
+                    }
+                },
+                {
+                    "id": 108103,
+                    "name": "Haubi Maziwani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T14:21:16.000000Z",
+                    "updated_at": "2022-07-26T14:21:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 108103,
+                        "created_at": "2022-07-26T14:21:16.000000Z",
+                        "updated_at": "2022-07-26T14:21:16.000000Z"
+                    }
+                },
+                {
+                    "id": 108104,
+                    "name": "Chikaluri",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T14:21:16.000000Z",
+                    "updated_at": "2022-07-26T14:21:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 108104,
+                        "created_at": "2022-07-26T14:21:16.000000Z",
+                        "updated_at": "2022-07-26T14:21:16.000000Z"
+                    }
+                },
+                {
+                    "id": 108105,
+                    "name": "Fai",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-26T14:21:17.000000Z",
+                    "updated_at": "2022-07-26T14:21:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 108105,
+                        "created_at": "2022-08-13T09:27:58.000000Z",
+                        "updated_at": "2022-08-13T09:27:58.000000Z"
+                    }
+                },
+                {
+                    "id": 195514,
+                    "name": "Matemi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:58.000000Z",
+                    "updated_at": "2022-08-13T09:27:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 195514,
+                        "created_at": "2022-08-13T09:27:58.000000Z",
+                        "updated_at": "2022-08-13T09:27:58.000000Z"
+                    }
+                },
+                {
+                    "id": 195515,
+                    "name": "Hohori",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:59.000000Z",
+                    "updated_at": "2022-08-13T09:27:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 195515,
+                        "created_at": "2022-08-13T09:27:59.000000Z",
+                        "updated_at": "2022-08-13T09:27:59.000000Z"
+                    }
+                },
+                {
+                    "id": 195516,
+                    "name": "Kikuri",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:27:59.000000Z",
+                    "updated_at": "2022-08-13T09:27:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 195516,
+                        "created_at": "2022-08-13T09:27:59.000000Z",
+                        "updated_at": "2022-08-13T09:27:59.000000Z"
+                    }
+                },
+                {
+                    "id": 195517,
+                    "name": "Nkaija",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-13T09:28:00.000000Z",
+                    "updated_at": "2022-08-13T09:28:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 95086,
+                        "area_id": 195517,
+                        "created_at": "2022-08-13T09:28:00.000000Z",
+                        "updated_at": "2022-08-13T09:28:00.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
