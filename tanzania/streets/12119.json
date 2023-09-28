@@ -1,0 +1,2960 @@
+{
+    "data": [
+        {
+            "id": 72301,
+            "name": "AMANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72300,
+                "name": "LIWITI",
+                "postcode": "12119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131422,
+                    "name": "Amani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:41.000000Z",
+                    "updated_at": "2022-07-27T17:51:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131422,
+                        "created_at": "2022-08-13T11:24:01.000000Z",
+                        "updated_at": "2022-08-13T11:24:01.000000Z"
+                    }
+                },
+                {
+                    "id": 131423,
+                    "name": "Amani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:42.000000Z",
+                    "updated_at": "2022-07-27T17:51:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131423,
+                        "created_at": "2022-08-13T11:24:02.000000Z",
+                        "updated_at": "2022-08-13T11:24:02.000000Z"
+                    }
+                },
+                {
+                    "id": 131424,
+                    "name": "Amani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:42.000000Z",
+                    "updated_at": "2022-07-27T17:51:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131424,
+                        "created_at": "2022-08-13T11:24:02.000000Z",
+                        "updated_at": "2022-08-13T11:24:02.000000Z"
+                    }
+                },
+                {
+                    "id": 131425,
+                    "name": "Amani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:42.000000Z",
+                    "updated_at": "2022-07-27T17:51:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131425,
+                        "created_at": "2022-08-13T11:24:03.000000Z",
+                        "updated_at": "2022-08-13T11:24:03.000000Z"
+                    }
+                },
+                {
+                    "id": 131426,
+                    "name": "Amani-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:43.000000Z",
+                    "updated_at": "2022-07-27T17:51:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131426,
+                        "created_at": "2022-08-13T11:24:03.000000Z",
+                        "updated_at": "2022-08-13T11:24:03.000000Z"
+                    }
+                },
+                {
+                    "id": 131427,
+                    "name": "Amani-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:43.000000Z",
+                    "updated_at": "2022-07-27T17:51:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131427,
+                        "created_at": "2022-08-13T11:24:04.000000Z",
+                        "updated_at": "2022-08-13T11:24:04.000000Z"
+                    }
+                },
+                {
+                    "id": 131428,
+                    "name": "Amani-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:43.000000Z",
+                    "updated_at": "2022-07-27T17:51:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131428,
+                        "created_at": "2022-08-13T11:24:04.000000Z",
+                        "updated_at": "2022-08-13T11:24:04.000000Z"
+                    }
+                },
+                {
+                    "id": 131429,
+                    "name": "Amani-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:43.000000Z",
+                    "updated_at": "2022-07-27T17:51:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131429,
+                        "created_at": "2022-08-13T11:24:05.000000Z",
+                        "updated_at": "2022-08-13T11:24:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131430,
+                    "name": "Amani-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:44.000000Z",
+                    "updated_at": "2022-07-27T17:51:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131430,
+                        "created_at": "2022-08-13T11:24:05.000000Z",
+                        "updated_at": "2022-08-13T11:24:05.000000Z"
+                    }
+                },
+                {
+                    "id": 131431,
+                    "name": "Amani-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:44.000000Z",
+                    "updated_at": "2022-07-27T17:51:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131431,
+                        "created_at": "2022-08-13T11:24:06.000000Z",
+                        "updated_at": "2022-08-13T11:24:06.000000Z"
+                    }
+                },
+                {
+                    "id": 131432,
+                    "name": "Amani-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:44.000000Z",
+                    "updated_at": "2022-07-27T17:51:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131432,
+                        "created_at": "2022-08-13T11:24:06.000000Z",
+                        "updated_at": "2022-08-13T11:24:06.000000Z"
+                    }
+                },
+                {
+                    "id": 131433,
+                    "name": "Amani-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:44.000000Z",
+                    "updated_at": "2022-07-27T17:51:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131433,
+                        "created_at": "2022-08-13T11:24:07.000000Z",
+                        "updated_at": "2022-08-13T11:24:07.000000Z"
+                    }
+                },
+                {
+                    "id": 131434,
+                    "name": "Amani-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:45.000000Z",
+                    "updated_at": "2022-07-27T17:51:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131434,
+                        "created_at": "2022-08-13T11:24:08.000000Z",
+                        "updated_at": "2022-08-13T11:24:08.000000Z"
+                    }
+                },
+                {
+                    "id": 131435,
+                    "name": "Amani-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:45.000000Z",
+                    "updated_at": "2022-07-27T17:51:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131435,
+                        "created_at": "2022-08-13T11:24:08.000000Z",
+                        "updated_at": "2022-08-13T11:24:08.000000Z"
+                    }
+                },
+                {
+                    "id": 131436,
+                    "name": "Amani-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:45.000000Z",
+                    "updated_at": "2022-07-27T17:51:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131436,
+                        "created_at": "2022-08-13T11:24:09.000000Z",
+                        "updated_at": "2022-08-13T11:24:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131437,
+                    "name": "Amani-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:46.000000Z",
+                    "updated_at": "2022-07-27T17:51:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131437,
+                        "created_at": "2022-08-13T11:24:09.000000Z",
+                        "updated_at": "2022-08-13T11:24:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131438,
+                    "name": "Amani-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:46.000000Z",
+                    "updated_at": "2022-07-27T17:51:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131438,
+                        "created_at": "2022-08-13T11:24:10.000000Z",
+                        "updated_at": "2022-08-13T11:24:10.000000Z"
+                    }
+                },
+                {
+                    "id": 131439,
+                    "name": "Amani-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:46.000000Z",
+                    "updated_at": "2022-07-27T17:51:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131439,
+                        "created_at": "2022-08-13T11:24:11.000000Z",
+                        "updated_at": "2022-08-13T11:24:11.000000Z"
+                    }
+                },
+                {
+                    "id": 131440,
+                    "name": "Amani-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:47.000000Z",
+                    "updated_at": "2022-07-27T17:51:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131440,
+                        "created_at": "2022-08-13T11:24:11.000000Z",
+                        "updated_at": "2022-08-13T11:24:11.000000Z"
+                    }
+                },
+                {
+                    "id": 131441,
+                    "name": "Amani-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:47.000000Z",
+                    "updated_at": "2022-07-27T17:51:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131441,
+                        "created_at": "2022-08-13T11:24:12.000000Z",
+                        "updated_at": "2022-08-13T11:24:12.000000Z"
+                    }
+                },
+                {
+                    "id": 131442,
+                    "name": "Amani-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:47.000000Z",
+                    "updated_at": "2022-07-27T17:51:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131442,
+                        "created_at": "2022-08-13T11:24:13.000000Z",
+                        "updated_at": "2022-08-13T11:24:13.000000Z"
+                    }
+                },
+                {
+                    "id": 131443,
+                    "name": "Amani-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:48.000000Z",
+                    "updated_at": "2022-07-27T17:51:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72301,
+                        "area_id": 131443,
+                        "created_at": "2022-08-13T11:24:13.000000Z",
+                        "updated_at": "2022-08-13T11:24:13.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72302,
+            "name": "LIWITI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72300,
+                "name": "LIWITI",
+                "postcode": "12119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131444,
+                    "name": "Liwiti-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:48.000000Z",
+                    "updated_at": "2022-07-27T17:51:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131444,
+                        "created_at": "2022-08-13T11:24:14.000000Z",
+                        "updated_at": "2022-08-13T11:24:14.000000Z"
+                    }
+                },
+                {
+                    "id": 131445,
+                    "name": "Liwiti-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:48.000000Z",
+                    "updated_at": "2022-07-27T17:51:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131445,
+                        "created_at": "2022-08-13T11:24:15.000000Z",
+                        "updated_at": "2022-08-13T11:24:15.000000Z"
+                    }
+                },
+                {
+                    "id": 131446,
+                    "name": "Liwiti-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:49.000000Z",
+                    "updated_at": "2022-07-27T17:51:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131446,
+                        "created_at": "2022-08-13T11:24:15.000000Z",
+                        "updated_at": "2022-08-13T11:24:15.000000Z"
+                    }
+                },
+                {
+                    "id": 131447,
+                    "name": "Liwiti-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:49.000000Z",
+                    "updated_at": "2022-07-27T17:51:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131447,
+                        "created_at": "2022-08-13T11:24:16.000000Z",
+                        "updated_at": "2022-08-13T11:24:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131448,
+                    "name": "Liwiti-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:49.000000Z",
+                    "updated_at": "2022-07-27T17:51:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131448,
+                        "created_at": "2022-08-13T11:24:17.000000Z",
+                        "updated_at": "2022-08-13T11:24:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131449,
+                    "name": "Liwiti-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:49.000000Z",
+                    "updated_at": "2022-07-27T17:51:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131449,
+                        "created_at": "2022-08-13T11:24:17.000000Z",
+                        "updated_at": "2022-08-13T11:24:17.000000Z"
+                    }
+                },
+                {
+                    "id": 131450,
+                    "name": "Liwiti-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:50.000000Z",
+                    "updated_at": "2022-07-27T17:51:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131450,
+                        "created_at": "2022-08-13T11:24:18.000000Z",
+                        "updated_at": "2022-08-13T11:24:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131451,
+                    "name": "Liwiti-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:50.000000Z",
+                    "updated_at": "2022-07-27T17:51:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131451,
+                        "created_at": "2022-08-13T11:24:19.000000Z",
+                        "updated_at": "2022-08-13T11:24:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131452,
+                    "name": "Liwiti-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:50.000000Z",
+                    "updated_at": "2022-07-27T17:51:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131452,
+                        "created_at": "2022-08-13T11:24:19.000000Z",
+                        "updated_at": "2022-08-13T11:24:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131453,
+                    "name": "Liwiti-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:50.000000Z",
+                    "updated_at": "2022-07-27T17:51:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131453,
+                        "created_at": "2022-08-13T11:24:20.000000Z",
+                        "updated_at": "2022-08-13T11:24:20.000000Z"
+                    }
+                },
+                {
+                    "id": 131454,
+                    "name": "Liwiti-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:51.000000Z",
+                    "updated_at": "2022-07-27T17:51:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131454,
+                        "created_at": "2022-08-13T11:24:21.000000Z",
+                        "updated_at": "2022-08-13T11:24:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131455,
+                    "name": "Liwiti-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:51.000000Z",
+                    "updated_at": "2022-07-27T17:51:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131455,
+                        "created_at": "2022-08-13T11:24:22.000000Z",
+                        "updated_at": "2022-08-13T11:24:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131456,
+                    "name": "Liwiti-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:51.000000Z",
+                    "updated_at": "2022-07-27T17:51:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131456,
+                        "created_at": "2022-08-13T11:24:22.000000Z",
+                        "updated_at": "2022-08-13T11:24:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131457,
+                    "name": "Liwiti-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:52.000000Z",
+                    "updated_at": "2022-07-27T17:51:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131457,
+                        "created_at": "2022-08-13T11:24:23.000000Z",
+                        "updated_at": "2022-08-13T11:24:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131458,
+                    "name": "Liwiti-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:52.000000Z",
+                    "updated_at": "2022-07-27T17:51:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131458,
+                        "created_at": "2022-08-13T11:24:24.000000Z",
+                        "updated_at": "2022-08-13T11:24:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131459,
+                    "name": "Liwiti-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:53.000000Z",
+                    "updated_at": "2022-07-27T17:51:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131459,
+                        "created_at": "2022-08-13T11:24:25.000000Z",
+                        "updated_at": "2022-08-13T11:24:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131460,
+                    "name": "Liwiti-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:53.000000Z",
+                    "updated_at": "2022-07-27T17:51:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131460,
+                        "created_at": "2022-08-13T11:24:25.000000Z",
+                        "updated_at": "2022-08-13T11:24:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131461,
+                    "name": "Liwiti-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:53.000000Z",
+                    "updated_at": "2022-07-27T17:51:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131461,
+                        "created_at": "2022-08-13T11:24:26.000000Z",
+                        "updated_at": "2022-08-13T11:24:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131462,
+                    "name": "Liwiti-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:54.000000Z",
+                    "updated_at": "2022-07-27T17:51:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131462,
+                        "created_at": "2022-08-13T11:24:27.000000Z",
+                        "updated_at": "2022-08-13T11:24:27.000000Z"
+                    }
+                },
+                {
+                    "id": 131463,
+                    "name": "Liwiti-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:54.000000Z",
+                    "updated_at": "2022-07-27T17:51:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131463,
+                        "created_at": "2022-08-13T11:24:28.000000Z",
+                        "updated_at": "2022-08-13T11:24:28.000000Z"
+                    }
+                },
+                {
+                    "id": 131464,
+                    "name": "Liwiti-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:55.000000Z",
+                    "updated_at": "2022-07-27T17:51:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131464,
+                        "created_at": "2022-08-13T11:24:29.000000Z",
+                        "updated_at": "2022-08-13T11:24:29.000000Z"
+                    }
+                },
+                {
+                    "id": 131465,
+                    "name": "Liwiti-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:55.000000Z",
+                    "updated_at": "2022-07-27T17:51:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131465,
+                        "created_at": "2022-08-13T11:24:30.000000Z",
+                        "updated_at": "2022-08-13T11:24:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131466,
+                    "name": "Liwiti-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:56.000000Z",
+                    "updated_at": "2022-07-27T17:51:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131466,
+                        "created_at": "2022-08-13T11:24:31.000000Z",
+                        "updated_at": "2022-08-13T11:24:31.000000Z"
+                    }
+                },
+                {
+                    "id": 131467,
+                    "name": "Liwiti-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:56.000000Z",
+                    "updated_at": "2022-07-27T17:51:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131467,
+                        "created_at": "2022-08-13T11:24:32.000000Z",
+                        "updated_at": "2022-08-13T11:24:32.000000Z"
+                    }
+                },
+                {
+                    "id": 131468,
+                    "name": "Liwiti-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:57.000000Z",
+                    "updated_at": "2022-07-27T17:51:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131468,
+                        "created_at": "2022-08-13T11:24:32.000000Z",
+                        "updated_at": "2022-08-13T11:24:32.000000Z"
+                    }
+                },
+                {
+                    "id": 131469,
+                    "name": "Liwiti-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:57.000000Z",
+                    "updated_at": "2022-07-27T17:51:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131469,
+                        "created_at": "2022-08-13T11:24:33.000000Z",
+                        "updated_at": "2022-08-13T11:24:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131470,
+                    "name": "Liwiti-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:57.000000Z",
+                    "updated_at": "2022-07-27T17:51:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131470,
+                        "created_at": "2022-08-13T11:24:34.000000Z",
+                        "updated_at": "2022-08-13T11:24:34.000000Z"
+                    }
+                },
+                {
+                    "id": 131471,
+                    "name": "Liwiti-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:58.000000Z",
+                    "updated_at": "2022-07-27T17:51:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131471,
+                        "created_at": "2022-08-13T11:24:35.000000Z",
+                        "updated_at": "2022-08-13T11:24:35.000000Z"
+                    }
+                },
+                {
+                    "id": 131472,
+                    "name": "Liwiti-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:58.000000Z",
+                    "updated_at": "2022-07-27T17:51:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131472,
+                        "created_at": "2022-08-13T11:24:36.000000Z",
+                        "updated_at": "2022-08-13T11:24:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131473,
+                    "name": "Liwiti-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:59.000000Z",
+                    "updated_at": "2022-07-27T17:51:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131473,
+                        "created_at": "2022-08-13T11:24:37.000000Z",
+                        "updated_at": "2022-08-13T11:24:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131474,
+                    "name": "Liwiti-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:51:59.000000Z",
+                    "updated_at": "2022-07-27T17:51:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131474,
+                        "created_at": "2022-08-13T11:24:38.000000Z",
+                        "updated_at": "2022-08-13T11:24:38.000000Z"
+                    }
+                },
+                {
+                    "id": 131475,
+                    "name": "Liwiti-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:00.000000Z",
+                    "updated_at": "2022-07-27T17:52:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131475,
+                        "created_at": "2022-08-13T11:24:39.000000Z",
+                        "updated_at": "2022-08-13T11:24:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131476,
+                    "name": "Liwiti-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:00.000000Z",
+                    "updated_at": "2022-07-27T17:52:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131476,
+                        "created_at": "2022-08-13T11:24:40.000000Z",
+                        "updated_at": "2022-08-13T11:24:40.000000Z"
+                    }
+                },
+                {
+                    "id": 131477,
+                    "name": "Liwiti-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:01.000000Z",
+                    "updated_at": "2022-07-27T17:52:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131477,
+                        "created_at": "2022-08-13T11:24:41.000000Z",
+                        "updated_at": "2022-08-13T11:24:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131478,
+                    "name": "Liwiti-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:01.000000Z",
+                    "updated_at": "2022-07-27T17:52:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72302,
+                        "area_id": 131478,
+                        "created_at": "2022-08-13T11:24:42.000000Z",
+                        "updated_at": "2022-08-13T11:24:42.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 98368,
+            "name": "MFAUME",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72300,
+                "name": "LIWITI",
+                "postcode": "12119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131251,
+                    "name": "Machimbo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:21.000000Z",
+                    "updated_at": "2022-07-27T17:50:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131251,
+                        "created_at": "2022-07-27T17:50:21.000000Z",
+                        "updated_at": "2022-07-27T17:50:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131252,
+                    "name": "Machimbo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:21.000000Z",
+                    "updated_at": "2022-07-27T17:50:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131252,
+                        "created_at": "2022-07-27T17:50:21.000000Z",
+                        "updated_at": "2022-07-27T17:50:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131253,
+                    "name": "Machimbo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:21.000000Z",
+                    "updated_at": "2022-07-27T17:50:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131253,
+                        "created_at": "2022-07-27T17:50:21.000000Z",
+                        "updated_at": "2022-07-27T17:50:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131254,
+                    "name": "Machimbo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:21.000000Z",
+                    "updated_at": "2022-07-27T17:50:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131254,
+                        "created_at": "2022-07-27T17:50:21.000000Z",
+                        "updated_at": "2022-07-27T17:50:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131255,
+                    "name": "Machimbo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:21.000000Z",
+                    "updated_at": "2022-07-27T17:50:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131255,
+                        "created_at": "2022-07-27T17:50:21.000000Z",
+                        "updated_at": "2022-07-27T17:50:21.000000Z"
+                    }
+                },
+                {
+                    "id": 131256,
+                    "name": "Machimbo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:22.000000Z",
+                    "updated_at": "2022-07-27T17:50:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131256,
+                        "created_at": "2022-07-27T17:50:22.000000Z",
+                        "updated_at": "2022-07-27T17:50:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131257,
+                    "name": "Machimbo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:22.000000Z",
+                    "updated_at": "2022-07-27T17:50:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131257,
+                        "created_at": "2022-07-27T17:50:22.000000Z",
+                        "updated_at": "2022-07-27T17:50:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131258,
+                    "name": "Machimbo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:22.000000Z",
+                    "updated_at": "2022-07-27T17:50:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131258,
+                        "created_at": "2022-07-27T17:50:22.000000Z",
+                        "updated_at": "2022-07-27T17:50:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131259,
+                    "name": "Machimbo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:22.000000Z",
+                    "updated_at": "2022-07-27T17:50:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131259,
+                        "created_at": "2022-07-27T17:50:22.000000Z",
+                        "updated_at": "2022-07-27T17:50:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131260,
+                    "name": "Machimbo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:23.000000Z",
+                    "updated_at": "2022-07-27T17:50:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131260,
+                        "created_at": "2022-07-27T17:50:23.000000Z",
+                        "updated_at": "2022-07-27T17:50:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131261,
+                    "name": "Machimbo-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:23.000000Z",
+                    "updated_at": "2022-07-27T17:50:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131261,
+                        "created_at": "2022-07-27T17:50:23.000000Z",
+                        "updated_at": "2022-07-27T17:50:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131262,
+                    "name": "Machimbo-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:23.000000Z",
+                    "updated_at": "2022-07-27T17:50:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131262,
+                        "created_at": "2022-07-27T17:50:23.000000Z",
+                        "updated_at": "2022-07-27T17:50:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131263,
+                    "name": "Machimbo-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:24.000000Z",
+                    "updated_at": "2022-07-27T17:50:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131263,
+                        "created_at": "2022-07-27T17:50:24.000000Z",
+                        "updated_at": "2022-07-27T17:50:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131264,
+                    "name": "Machimbo-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:24.000000Z",
+                    "updated_at": "2022-07-27T17:50:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131264,
+                        "created_at": "2022-07-27T17:50:24.000000Z",
+                        "updated_at": "2022-07-27T17:50:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131265,
+                    "name": "Machimbo-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:24.000000Z",
+                    "updated_at": "2022-07-27T17:50:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131265,
+                        "created_at": "2022-07-27T17:50:24.000000Z",
+                        "updated_at": "2022-07-27T17:50:24.000000Z"
+                    }
+                },
+                {
+                    "id": 131266,
+                    "name": "Machimbo-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:25.000000Z",
+                    "updated_at": "2022-07-27T17:50:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131266,
+                        "created_at": "2022-07-27T17:50:25.000000Z",
+                        "updated_at": "2022-07-27T17:50:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131267,
+                    "name": "Machimbo-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:25.000000Z",
+                    "updated_at": "2022-07-27T17:50:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131267,
+                        "created_at": "2022-07-27T17:50:25.000000Z",
+                        "updated_at": "2022-07-27T17:50:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131268,
+                    "name": "Machimbo-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:25.000000Z",
+                    "updated_at": "2022-07-27T17:50:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131268,
+                        "created_at": "2022-07-27T17:50:25.000000Z",
+                        "updated_at": "2022-07-27T17:50:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131269,
+                    "name": "Machimbo-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:26.000000Z",
+                    "updated_at": "2022-07-27T17:50:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131269,
+                        "created_at": "2022-07-27T17:50:26.000000Z",
+                        "updated_at": "2022-07-27T17:50:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131270,
+                    "name": "Machimbo-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:26.000000Z",
+                    "updated_at": "2022-07-27T17:50:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131270,
+                        "created_at": "2022-07-27T17:50:26.000000Z",
+                        "updated_at": "2022-07-27T17:50:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131271,
+                    "name": "Machimbo-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:26.000000Z",
+                    "updated_at": "2022-07-27T17:50:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131271,
+                        "created_at": "2022-07-27T17:50:26.000000Z",
+                        "updated_at": "2022-07-27T17:50:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131272,
+                    "name": "Machimbo-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:50:27.000000Z",
+                    "updated_at": "2022-07-27T17:50:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 98368,
+                        "area_id": 131272,
+                        "created_at": "2022-07-27T17:50:27.000000Z",
+                        "updated_at": "2022-07-27T17:50:27.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72304,
+            "name": "MISEWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72300,
+                "name": "LIWITI",
+                "postcode": "12119",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 131479,
+                    "name": "Misewe-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:02.000000Z",
+                    "updated_at": "2022-07-27T17:52:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131479,
+                        "created_at": "2022-08-13T11:24:43.000000Z",
+                        "updated_at": "2022-08-13T11:24:43.000000Z"
+                    }
+                },
+                {
+                    "id": 131480,
+                    "name": "Misewe-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:02.000000Z",
+                    "updated_at": "2022-07-27T17:52:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131480,
+                        "created_at": "2022-08-13T11:24:44.000000Z",
+                        "updated_at": "2022-08-13T11:24:44.000000Z"
+                    }
+                },
+                {
+                    "id": 131481,
+                    "name": "Misewe-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:03.000000Z",
+                    "updated_at": "2022-07-27T17:52:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131481,
+                        "created_at": "2022-08-13T11:24:45.000000Z",
+                        "updated_at": "2022-08-13T11:24:45.000000Z"
+                    }
+                },
+                {
+                    "id": 131482,
+                    "name": "Misewe-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:03.000000Z",
+                    "updated_at": "2022-07-27T17:52:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131482,
+                        "created_at": "2022-08-13T11:24:46.000000Z",
+                        "updated_at": "2022-08-13T11:24:46.000000Z"
+                    }
+                },
+                {
+                    "id": 131483,
+                    "name": "Misewe-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:03.000000Z",
+                    "updated_at": "2022-07-27T17:52:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131483,
+                        "created_at": "2022-08-13T11:24:47.000000Z",
+                        "updated_at": "2022-08-13T11:24:47.000000Z"
+                    }
+                },
+                {
+                    "id": 131484,
+                    "name": "Misewe-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:04.000000Z",
+                    "updated_at": "2022-07-27T17:52:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131484,
+                        "created_at": "2022-08-13T11:24:48.000000Z",
+                        "updated_at": "2022-08-13T11:24:48.000000Z"
+                    }
+                },
+                {
+                    "id": 131485,
+                    "name": "Misewe-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:04.000000Z",
+                    "updated_at": "2022-07-27T17:52:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131485,
+                        "created_at": "2022-08-13T11:24:49.000000Z",
+                        "updated_at": "2022-08-13T11:24:49.000000Z"
+                    }
+                },
+                {
+                    "id": 131486,
+                    "name": "Misewe-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:05.000000Z",
+                    "updated_at": "2022-07-27T17:52:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131486,
+                        "created_at": "2022-08-13T11:24:50.000000Z",
+                        "updated_at": "2022-08-13T11:24:50.000000Z"
+                    }
+                },
+                {
+                    "id": 131487,
+                    "name": "Misewe-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:05.000000Z",
+                    "updated_at": "2022-07-27T17:52:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131487,
+                        "created_at": "2022-08-13T11:24:52.000000Z",
+                        "updated_at": "2022-08-13T11:24:52.000000Z"
+                    }
+                },
+                {
+                    "id": 131488,
+                    "name": "Misewe-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:06.000000Z",
+                    "updated_at": "2022-07-27T17:52:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131488,
+                        "created_at": "2022-08-13T11:24:53.000000Z",
+                        "updated_at": "2022-08-13T11:24:53.000000Z"
+                    }
+                },
+                {
+                    "id": 131489,
+                    "name": "Misewe-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:06.000000Z",
+                    "updated_at": "2022-07-27T17:52:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131489,
+                        "created_at": "2022-08-13T11:24:54.000000Z",
+                        "updated_at": "2022-08-13T11:24:54.000000Z"
+                    }
+                },
+                {
+                    "id": 131490,
+                    "name": "Misewe-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:07.000000Z",
+                    "updated_at": "2022-07-27T17:52:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131490,
+                        "created_at": "2022-08-13T11:24:55.000000Z",
+                        "updated_at": "2022-08-13T11:24:55.000000Z"
+                    }
+                },
+                {
+                    "id": 131491,
+                    "name": "Misewe-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:07.000000Z",
+                    "updated_at": "2022-07-27T17:52:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131491,
+                        "created_at": "2022-08-13T11:24:56.000000Z",
+                        "updated_at": "2022-08-13T11:24:56.000000Z"
+                    }
+                },
+                {
+                    "id": 131492,
+                    "name": "Misewe-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:08.000000Z",
+                    "updated_at": "2022-07-27T17:52:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131492,
+                        "created_at": "2022-08-13T11:24:58.000000Z",
+                        "updated_at": "2022-08-13T11:24:58.000000Z"
+                    }
+                },
+                {
+                    "id": 131493,
+                    "name": "Misewe-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:08.000000Z",
+                    "updated_at": "2022-07-27T17:52:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131493,
+                        "created_at": "2022-08-13T11:24:59.000000Z",
+                        "updated_at": "2022-08-13T11:24:59.000000Z"
+                    }
+                },
+                {
+                    "id": 131494,
+                    "name": "Misewe-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:09.000000Z",
+                    "updated_at": "2022-07-27T17:52:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131494,
+                        "created_at": "2022-08-13T11:25:00.000000Z",
+                        "updated_at": "2022-08-13T11:25:00.000000Z"
+                    }
+                },
+                {
+                    "id": 131495,
+                    "name": "Misewe-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:09.000000Z",
+                    "updated_at": "2022-07-27T17:52:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131495,
+                        "created_at": "2022-08-13T11:25:02.000000Z",
+                        "updated_at": "2022-08-13T11:25:02.000000Z"
+                    }
+                },
+                {
+                    "id": 131496,
+                    "name": "Misewe-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:10.000000Z",
+                    "updated_at": "2022-07-27T17:52:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131496,
+                        "created_at": "2022-08-13T11:25:03.000000Z",
+                        "updated_at": "2022-08-13T11:25:03.000000Z"
+                    }
+                },
+                {
+                    "id": 131497,
+                    "name": "Misewe-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:10.000000Z",
+                    "updated_at": "2022-07-27T17:52:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131497,
+                        "created_at": "2022-08-13T11:25:04.000000Z",
+                        "updated_at": "2022-08-13T11:25:04.000000Z"
+                    }
+                },
+                {
+                    "id": 131498,
+                    "name": "Misewe-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:11.000000Z",
+                    "updated_at": "2022-07-27T17:52:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131498,
+                        "created_at": "2022-08-13T11:25:06.000000Z",
+                        "updated_at": "2022-08-13T11:25:06.000000Z"
+                    }
+                },
+                {
+                    "id": 131499,
+                    "name": "Misewe-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:11.000000Z",
+                    "updated_at": "2022-07-27T17:52:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131499,
+                        "created_at": "2022-08-13T11:25:07.000000Z",
+                        "updated_at": "2022-08-13T11:25:07.000000Z"
+                    }
+                },
+                {
+                    "id": 131500,
+                    "name": "Misewe-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:12.000000Z",
+                    "updated_at": "2022-07-27T17:52:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131500,
+                        "created_at": "2022-08-13T11:25:09.000000Z",
+                        "updated_at": "2022-08-13T11:25:09.000000Z"
+                    }
+                },
+                {
+                    "id": 131501,
+                    "name": "Misewe-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:13.000000Z",
+                    "updated_at": "2022-07-27T17:52:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131501,
+                        "created_at": "2022-08-13T11:25:10.000000Z",
+                        "updated_at": "2022-08-13T11:25:10.000000Z"
+                    }
+                },
+                {
+                    "id": 131502,
+                    "name": "Misewe-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:13.000000Z",
+                    "updated_at": "2022-07-27T17:52:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131502,
+                        "created_at": "2022-08-13T11:25:12.000000Z",
+                        "updated_at": "2022-08-13T11:25:12.000000Z"
+                    }
+                },
+                {
+                    "id": 131503,
+                    "name": "Misewe-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:14.000000Z",
+                    "updated_at": "2022-07-27T17:52:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131503,
+                        "created_at": "2022-08-13T11:25:13.000000Z",
+                        "updated_at": "2022-08-13T11:25:13.000000Z"
+                    }
+                },
+                {
+                    "id": 131504,
+                    "name": "Misewe-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:15.000000Z",
+                    "updated_at": "2022-07-27T17:52:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131504,
+                        "created_at": "2022-08-13T11:25:15.000000Z",
+                        "updated_at": "2022-08-13T11:25:15.000000Z"
+                    }
+                },
+                {
+                    "id": 131505,
+                    "name": "Misewe-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:15.000000Z",
+                    "updated_at": "2022-07-27T17:52:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131505,
+                        "created_at": "2022-08-13T11:25:16.000000Z",
+                        "updated_at": "2022-08-13T11:25:16.000000Z"
+                    }
+                },
+                {
+                    "id": 131506,
+                    "name": "Misewe-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:16.000000Z",
+                    "updated_at": "2022-07-27T17:52:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131506,
+                        "created_at": "2022-08-13T11:25:18.000000Z",
+                        "updated_at": "2022-08-13T11:25:18.000000Z"
+                    }
+                },
+                {
+                    "id": 131507,
+                    "name": "Misewe-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:17.000000Z",
+                    "updated_at": "2022-07-27T17:52:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131507,
+                        "created_at": "2022-08-13T11:25:19.000000Z",
+                        "updated_at": "2022-08-13T11:25:19.000000Z"
+                    }
+                },
+                {
+                    "id": 131508,
+                    "name": "Misewe-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:17.000000Z",
+                    "updated_at": "2022-07-27T17:52:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131508,
+                        "created_at": "2022-08-13T11:25:20.000000Z",
+                        "updated_at": "2022-08-13T11:25:20.000000Z"
+                    }
+                },
+                {
+                    "id": 131509,
+                    "name": "Misewe-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:18.000000Z",
+                    "updated_at": "2022-07-27T17:52:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131509,
+                        "created_at": "2022-08-13T11:25:22.000000Z",
+                        "updated_at": "2022-08-13T11:25:22.000000Z"
+                    }
+                },
+                {
+                    "id": 131510,
+                    "name": "Misewe-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:19.000000Z",
+                    "updated_at": "2022-07-27T17:52:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131510,
+                        "created_at": "2022-08-13T11:25:23.000000Z",
+                        "updated_at": "2022-08-13T11:25:23.000000Z"
+                    }
+                },
+                {
+                    "id": 131511,
+                    "name": "Misewe-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:20.000000Z",
+                    "updated_at": "2022-07-27T17:52:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131511,
+                        "created_at": "2022-08-13T11:25:25.000000Z",
+                        "updated_at": "2022-08-13T11:25:25.000000Z"
+                    }
+                },
+                {
+                    "id": 131512,
+                    "name": "Misewe-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:20.000000Z",
+                    "updated_at": "2022-07-27T17:52:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131512,
+                        "created_at": "2022-08-13T11:25:26.000000Z",
+                        "updated_at": "2022-08-13T11:25:26.000000Z"
+                    }
+                },
+                {
+                    "id": 131513,
+                    "name": "Misewe-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:21.000000Z",
+                    "updated_at": "2022-07-27T17:52:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131513,
+                        "created_at": "2022-08-13T11:25:28.000000Z",
+                        "updated_at": "2022-08-13T11:25:28.000000Z"
+                    }
+                },
+                {
+                    "id": 131514,
+                    "name": "Misewe-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:22.000000Z",
+                    "updated_at": "2022-07-27T17:52:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131514,
+                        "created_at": "2022-08-13T11:25:30.000000Z",
+                        "updated_at": "2022-08-13T11:25:30.000000Z"
+                    }
+                },
+                {
+                    "id": 131515,
+                    "name": "Misewe-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:23.000000Z",
+                    "updated_at": "2022-07-27T17:52:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131515,
+                        "created_at": "2022-08-13T11:25:31.000000Z",
+                        "updated_at": "2022-08-13T11:25:31.000000Z"
+                    }
+                },
+                {
+                    "id": 131516,
+                    "name": "Misewe-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:24.000000Z",
+                    "updated_at": "2022-07-27T17:52:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131516,
+                        "created_at": "2022-08-13T11:25:33.000000Z",
+                        "updated_at": "2022-08-13T11:25:33.000000Z"
+                    }
+                },
+                {
+                    "id": 131517,
+                    "name": "Misewe-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:24.000000Z",
+                    "updated_at": "2022-07-27T17:52:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131517,
+                        "created_at": "2022-08-13T11:25:34.000000Z",
+                        "updated_at": "2022-08-13T11:25:34.000000Z"
+                    }
+                },
+                {
+                    "id": 131518,
+                    "name": "Misewe-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:25.000000Z",
+                    "updated_at": "2022-07-27T17:52:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131518,
+                        "created_at": "2022-08-13T11:25:36.000000Z",
+                        "updated_at": "2022-08-13T11:25:36.000000Z"
+                    }
+                },
+                {
+                    "id": 131519,
+                    "name": "Misewe-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:26.000000Z",
+                    "updated_at": "2022-07-27T17:52:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131519,
+                        "created_at": "2022-08-13T11:25:37.000000Z",
+                        "updated_at": "2022-08-13T11:25:37.000000Z"
+                    }
+                },
+                {
+                    "id": 131520,
+                    "name": "Misewe-42",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:27.000000Z",
+                    "updated_at": "2022-07-27T17:52:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "042",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131520,
+                        "created_at": "2022-08-13T11:25:39.000000Z",
+                        "updated_at": "2022-08-13T11:25:39.000000Z"
+                    }
+                },
+                {
+                    "id": 131521,
+                    "name": "Misewe-43",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:28.000000Z",
+                    "updated_at": "2022-07-27T17:52:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "043",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131521,
+                        "created_at": "2022-08-13T11:25:41.000000Z",
+                        "updated_at": "2022-08-13T11:25:41.000000Z"
+                    }
+                },
+                {
+                    "id": 131522,
+                    "name": "Misewe-44",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:28.000000Z",
+                    "updated_at": "2022-07-27T17:52:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "044",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131522,
+                        "created_at": "2022-08-13T11:25:43.000000Z",
+                        "updated_at": "2022-08-13T11:25:43.000000Z"
+                    }
+                },
+                {
+                    "id": 131523,
+                    "name": "Misewe-45",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:29.000000Z",
+                    "updated_at": "2022-07-27T17:52:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "045",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131523,
+                        "created_at": "2022-08-13T11:25:44.000000Z",
+                        "updated_at": "2022-08-13T11:25:44.000000Z"
+                    }
+                },
+                {
+                    "id": 131524,
+                    "name": "Misewe-46",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:52:30.000000Z",
+                    "updated_at": "2022-07-27T17:52:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "046",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72304,
+                        "area_id": 131524,
+                        "created_at": "2022-08-13T11:25:46.000000Z",
+                        "updated_at": "2022-08-13T11:25:46.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
