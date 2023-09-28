@@ -1,0 +1,1880 @@
+{
+    "data": [
+        {
+            "id": 72359,
+            "name": "IDRISA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72358,
+                "name": "MZIMUNI",
+                "postcode": "14102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72351,
+                    "name": "KINONDONI MUNICIPAL COUNCIL",
+                    "postcode": "141",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72350,
+                        "name": "KINONDONI",
+                        "postcode": "141",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72349,
+                            "name": "KINONDONI",
+                            "postcode": "14",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101472,
+                    "name": "Idrisa-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:41.000000Z",
+                    "updated_at": "2022-07-18T20:12:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 86,
+                    "geocode": "0701131102202001",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101472,
+                        "created_at": "2022-07-29T10:23:22.000000Z",
+                        "updated_at": "2022-07-29T10:23:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101469,
+                    "name": "Idrisa-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 118,
+                    "geocode": "0701131102202002",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101469,
+                        "created_at": "2022-07-29T10:23:23.000000Z",
+                        "updated_at": "2022-07-29T10:23:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101467,
+                    "name": "Idrisa-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 82,
+                    "geocode": "0701131102202003",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101467,
+                        "created_at": "2022-07-29T10:23:23.000000Z",
+                        "updated_at": "2022-07-29T10:23:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101475,
+                    "name": "Idrisa-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:41.000000Z",
+                    "updated_at": "2022-07-18T20:12:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 120,
+                    "geocode": "0701131102202004",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101475,
+                        "created_at": "2022-07-29T10:23:23.000000Z",
+                        "updated_at": "2022-07-29T10:23:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101461,
+                    "name": "Idrisa-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 83,
+                    "geocode": "0701131102202005",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101461,
+                        "created_at": "2022-07-29T10:23:23.000000Z",
+                        "updated_at": "2022-07-29T10:23:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101464,
+                    "name": "Idrisa-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 79,
+                    "geocode": "0701131102202006",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101464,
+                        "created_at": "2022-07-29T10:23:23.000000Z",
+                        "updated_at": "2022-07-29T10:23:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101463,
+                    "name": "Idrisa-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 94,
+                    "geocode": "0701131102202007",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101463,
+                        "created_at": "2022-07-29T10:23:24.000000Z",
+                        "updated_at": "2022-07-29T10:23:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101465,
+                    "name": "Idrisa-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 102,
+                    "geocode": "0701131102202008",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101465,
+                        "created_at": "2022-07-29T10:23:24.000000Z",
+                        "updated_at": "2022-07-29T10:23:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101466,
+                    "name": "Idrisa-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 75,
+                    "geocode": "0701131102202009",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101466,
+                        "created_at": "2022-07-29T10:23:24.000000Z",
+                        "updated_at": "2022-07-29T10:23:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101473,
+                    "name": "Idrisa-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:41.000000Z",
+                    "updated_at": "2022-07-18T20:12:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 77,
+                    "geocode": "0701131102202010",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101473,
+                        "created_at": "2022-07-29T10:23:24.000000Z",
+                        "updated_at": "2022-07-29T10:23:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101468,
+                    "name": "Idrisa-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 80,
+                    "geocode": "0701131102202011",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101468,
+                        "created_at": "2022-07-29T10:23:25.000000Z",
+                        "updated_at": "2022-07-29T10:23:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101462,
+                    "name": "Idrisa-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 85,
+                    "geocode": "0701131102202012",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101462,
+                        "created_at": "2022-07-29T10:23:25.000000Z",
+                        "updated_at": "2022-07-29T10:23:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101470,
+                    "name": "Idrisa-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:40.000000Z",
+                    "updated_at": "2022-07-18T20:12:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 95,
+                    "geocode": "0701131102202013",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101470,
+                        "created_at": "2022-07-29T10:23:25.000000Z",
+                        "updated_at": "2022-07-29T10:23:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101471,
+                    "name": "Idrisa-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:41.000000Z",
+                    "updated_at": "2022-07-18T20:12:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 82,
+                    "geocode": "0701131102202014",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101471,
+                        "created_at": "2022-07-29T10:23:25.000000Z",
+                        "updated_at": "2022-07-29T10:23:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101474,
+                    "name": "Idrisa-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:41.000000Z",
+                    "updated_at": "2022-07-18T20:12:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 115,
+                    "geocode": "0701131102202015",
+                    "pivot": {
+                        "location_id": 72359,
+                        "area_id": 101474,
+                        "created_at": "2022-07-29T10:23:26.000000Z",
+                        "updated_at": "2022-07-29T10:23:26.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72360,
+            "name": "MAKUMBUSHO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72358,
+                "name": "MZIMUNI",
+                "postcode": "14102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72351,
+                    "name": "KINONDONI MUNICIPAL COUNCIL",
+                    "postcode": "141",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72350,
+                        "name": "KINONDONI",
+                        "postcode": "141",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72349,
+                            "name": "KINONDONI",
+                            "postcode": "14",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101484,
+                    "name": "Makumbusho-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:42.000000Z",
+                    "updated_at": "2022-07-18T20:12:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0701131102201001",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101484,
+                        "created_at": "2022-07-29T10:23:20.000000Z",
+                        "updated_at": "2022-07-29T10:23:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101478,
+                    "name": "Makumbusho-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:42.000000Z",
+                    "updated_at": "2022-07-18T20:12:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 118,
+                    "geocode": "0701131102201002",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101478,
+                        "created_at": "2022-07-29T10:23:20.000000Z",
+                        "updated_at": "2022-07-29T10:23:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101480,
+                    "name": "Makumbusho-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:42.000000Z",
+                    "updated_at": "2022-07-18T20:12:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 98,
+                    "geocode": "0701131102201003",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101480,
+                        "created_at": "2022-07-29T10:23:20.000000Z",
+                        "updated_at": "2022-07-29T10:23:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101483,
+                    "name": "Makumbusho-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:42.000000Z",
+                    "updated_at": "2022-07-18T20:12:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 105,
+                    "geocode": "0701131102201004",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101483,
+                        "created_at": "2022-07-29T10:23:21.000000Z",
+                        "updated_at": "2022-07-29T10:23:21.000000Z"
+                    }
+                },
+                {
+                    "id": 101482,
+                    "name": "Makumbusho-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:42.000000Z",
+                    "updated_at": "2022-07-18T20:12:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 80,
+                    "geocode": "0701131102201005",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101482,
+                        "created_at": "2022-07-29T10:23:21.000000Z",
+                        "updated_at": "2022-07-29T10:23:21.000000Z"
+                    }
+                },
+                {
+                    "id": 101479,
+                    "name": "Makumbusho-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:42.000000Z",
+                    "updated_at": "2022-07-18T20:12:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 110,
+                    "geocode": "0701131102201006",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101479,
+                        "created_at": "2022-07-29T10:23:21.000000Z",
+                        "updated_at": "2022-07-29T10:23:21.000000Z"
+                    }
+                },
+                {
+                    "id": 101476,
+                    "name": "Makumbusho-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:41.000000Z",
+                    "updated_at": "2022-07-18T20:12:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 115,
+                    "geocode": "0701131102201007",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101476,
+                        "created_at": "2022-07-29T10:23:21.000000Z",
+                        "updated_at": "2022-07-29T10:23:21.000000Z"
+                    }
+                },
+                {
+                    "id": 101481,
+                    "name": "Makumbusho-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:42.000000Z",
+                    "updated_at": "2022-07-18T20:12:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 100,
+                    "geocode": "0701131102201008",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101481,
+                        "created_at": "2022-07-29T10:23:22.000000Z",
+                        "updated_at": "2022-07-29T10:23:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101477,
+                    "name": "Makumbusho-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:41.000000Z",
+                    "updated_at": "2022-07-18T20:12:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 126,
+                    "geocode": "0701131102201009",
+                    "pivot": {
+                        "location_id": 72360,
+                        "area_id": 101477,
+                        "created_at": "2022-07-29T10:23:22.000000Z",
+                        "updated_at": "2022-07-29T10:23:22.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72361,
+            "name": "MTAMBANI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72358,
+                "name": "MZIMUNI",
+                "postcode": "14102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72351,
+                    "name": "KINONDONI MUNICIPAL COUNCIL",
+                    "postcode": "141",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72350,
+                        "name": "KINONDONI",
+                        "postcode": "141",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72349,
+                            "name": "KINONDONI",
+                            "postcode": "14",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101435,
+                    "name": "Mtambani-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:36.000000Z",
+                    "updated_at": "2022-07-18T20:12:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0701131102204001",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101435,
+                        "created_at": "2022-07-29T10:23:31.000000Z",
+                        "updated_at": "2022-07-29T10:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101432,
+                    "name": "Mtambani-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:36.000000Z",
+                    "updated_at": "2022-07-18T20:12:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 118,
+                    "geocode": "0701131102204002",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101432,
+                        "created_at": "2022-07-29T10:23:31.000000Z",
+                        "updated_at": "2022-07-29T10:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101434,
+                    "name": "Mtambani-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:36.000000Z",
+                    "updated_at": "2022-07-18T20:12:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 109,
+                    "geocode": "0701131102204003",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101434,
+                        "created_at": "2022-07-29T10:23:31.000000Z",
+                        "updated_at": "2022-07-29T10:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101433,
+                    "name": "Mtambani-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:36.000000Z",
+                    "updated_at": "2022-07-18T20:12:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 119,
+                    "geocode": "0701131102204004",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101433,
+                        "created_at": "2022-07-29T10:23:31.000000Z",
+                        "updated_at": "2022-07-29T10:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101448,
+                    "name": "Mtambani-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 117,
+                    "geocode": "0701131102204005",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101448,
+                        "created_at": "2022-07-29T10:23:31.000000Z",
+                        "updated_at": "2022-07-29T10:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101453,
+                    "name": "Mtambani-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 112,
+                    "geocode": "0701131102204006",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101453,
+                        "created_at": "2022-07-29T10:23:31.000000Z",
+                        "updated_at": "2022-07-29T10:23:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101454,
+                    "name": "Mtambani-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 111,
+                    "geocode": "0701131102204007",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101454,
+                        "created_at": "2022-07-29T10:23:32.000000Z",
+                        "updated_at": "2022-07-29T10:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101457,
+                    "name": "Mtambani-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 100,
+                    "geocode": "0701131102204008",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101457,
+                        "created_at": "2022-07-29T10:23:32.000000Z",
+                        "updated_at": "2022-07-29T10:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101451,
+                    "name": "Mtambani-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 80,
+                    "geocode": "0701131102204009",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101451,
+                        "created_at": "2022-07-29T10:23:32.000000Z",
+                        "updated_at": "2022-07-29T10:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101447,
+                    "name": "Mtambani-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 112,
+                    "geocode": "0701131102204010",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101447,
+                        "created_at": "2022-07-29T10:23:32.000000Z",
+                        "updated_at": "2022-07-29T10:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101450,
+                    "name": "Mtambani-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 116,
+                    "geocode": "0701131102204011",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101450,
+                        "created_at": "2022-07-29T10:23:32.000000Z",
+                        "updated_at": "2022-07-29T10:23:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101460,
+                    "name": "Mtambani-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 115,
+                    "geocode": "0701131102204012",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101460,
+                        "created_at": "2022-07-29T10:23:33.000000Z",
+                        "updated_at": "2022-07-29T10:23:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101444,
+                    "name": "Mtambani-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 119,
+                    "geocode": "0701131102204013",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101444,
+                        "created_at": "2022-07-29T10:23:33.000000Z",
+                        "updated_at": "2022-07-29T10:23:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101456,
+                    "name": "Mtambani-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 73,
+                    "geocode": "0701131102204014",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101456,
+                        "created_at": "2022-07-29T10:23:33.000000Z",
+                        "updated_at": "2022-07-29T10:23:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101440,
+                    "name": "Mtambani-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 113,
+                    "geocode": "0701131102204015",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101440,
+                        "created_at": "2022-07-29T10:23:33.000000Z",
+                        "updated_at": "2022-07-29T10:23:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101445,
+                    "name": "Mtambani-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 109,
+                    "geocode": "0701131102204016",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101445,
+                        "created_at": "2022-07-29T10:23:34.000000Z",
+                        "updated_at": "2022-07-29T10:23:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101458,
+                    "name": "Mtambani-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 81,
+                    "geocode": "0701131102204017",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101458,
+                        "created_at": "2022-07-29T10:23:34.000000Z",
+                        "updated_at": "2022-07-29T10:23:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101437,
+                    "name": "Mtambani-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 122,
+                    "geocode": "0701131102204018",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101437,
+                        "created_at": "2022-07-29T10:23:34.000000Z",
+                        "updated_at": "2022-07-29T10:23:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101455,
+                    "name": "Mtambani-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 97,
+                    "geocode": "0701131102204019",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101455,
+                        "created_at": "2022-07-29T10:23:34.000000Z",
+                        "updated_at": "2022-07-29T10:23:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101441,
+                    "name": "Mtambani-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 70,
+                    "geocode": "0701131102204020",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101441,
+                        "created_at": "2022-07-29T10:23:34.000000Z",
+                        "updated_at": "2022-07-29T10:23:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101442,
+                    "name": "Mtambani-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 112,
+                    "geocode": "0701131102204021",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101442,
+                        "created_at": "2022-07-29T10:23:35.000000Z",
+                        "updated_at": "2022-07-29T10:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101449,
+                    "name": "Mtambani-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 71,
+                    "geocode": "0701131102204022",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101449,
+                        "created_at": "2022-07-29T10:23:35.000000Z",
+                        "updated_at": "2022-07-29T10:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101443,
+                    "name": "Mtambani-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 116,
+                    "geocode": "0701131102204023",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101443,
+                        "created_at": "2022-07-29T10:23:35.000000Z",
+                        "updated_at": "2022-07-29T10:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101446,
+                    "name": "Mtambani-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 83,
+                    "geocode": "0701131102204024",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101446,
+                        "created_at": "2022-07-29T10:23:35.000000Z",
+                        "updated_at": "2022-07-29T10:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101436,
+                    "name": "Mtambani-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 126,
+                    "geocode": "0701131102204025",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101436,
+                        "created_at": "2022-07-29T10:23:35.000000Z",
+                        "updated_at": "2022-07-29T10:23:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101439,
+                    "name": "Mtambani-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 110,
+                    "geocode": "0701131102204026",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101439,
+                        "created_at": "2022-07-29T10:23:36.000000Z",
+                        "updated_at": "2022-07-29T10:23:36.000000Z"
+                    }
+                },
+                {
+                    "id": 101459,
+                    "name": "Mtambani-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:39.000000Z",
+                    "updated_at": "2022-07-18T20:12:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 117,
+                    "geocode": "0701131102204027",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101459,
+                        "created_at": "2022-07-29T10:23:36.000000Z",
+                        "updated_at": "2022-07-29T10:23:36.000000Z"
+                    }
+                },
+                {
+                    "id": 101438,
+                    "name": "Mtambani-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:37.000000Z",
+                    "updated_at": "2022-07-18T20:12:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 122,
+                    "geocode": "0701131102204028",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101438,
+                        "created_at": "2022-07-29T10:23:36.000000Z",
+                        "updated_at": "2022-07-29T10:23:36.000000Z"
+                    }
+                },
+                {
+                    "id": 101452,
+                    "name": "Mtambani-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:38.000000Z",
+                    "updated_at": "2022-07-18T20:12:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 101,
+                    "geocode": "0701131102204029",
+                    "pivot": {
+                        "location_id": 72361,
+                        "area_id": 101452,
+                        "created_at": "2022-07-29T10:23:36.000000Z",
+                        "updated_at": "2022-07-29T10:23:36.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72362,
+            "name": "MWINYIMKUU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72358,
+                "name": "MZIMUNI",
+                "postcode": "14102",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72351,
+                    "name": "KINONDONI MUNICIPAL COUNCIL",
+                    "postcode": "141",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72350,
+                        "name": "KINONDONI",
+                        "postcode": "141",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72349,
+                            "name": "KINONDONI",
+                            "postcode": "14",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101487,
+                    "name": "Mwinyimkuu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:43.000000Z",
+                    "updated_at": "2022-07-18T20:12:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 100,
+                    "geocode": "0701131102203001",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101487,
+                        "created_at": "2022-07-29T10:23:26.000000Z",
+                        "updated_at": "2022-07-29T10:23:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101495,
+                    "name": "Mwinyimkuu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:44.000000Z",
+                    "updated_at": "2022-07-18T20:12:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 120,
+                    "geocode": "0701131102203002",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101495,
+                        "created_at": "2022-07-29T10:23:26.000000Z",
+                        "updated_at": "2022-07-29T10:23:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101494,
+                    "name": "Mwinyimkuu-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:44.000000Z",
+                    "updated_at": "2022-07-18T20:12:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 118,
+                    "geocode": "0701131102203003",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101494,
+                        "created_at": "2022-07-29T10:23:27.000000Z",
+                        "updated_at": "2022-07-29T10:23:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101491,
+                    "name": "Mwinyimkuu-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:44.000000Z",
+                    "updated_at": "2022-07-18T20:12:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 114,
+                    "geocode": "0701131102203004",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101491,
+                        "created_at": "2022-07-29T10:23:27.000000Z",
+                        "updated_at": "2022-07-29T10:23:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101497,
+                    "name": "Mwinyimkuu-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:44.000000Z",
+                    "updated_at": "2022-07-18T20:12:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 112,
+                    "geocode": "0701131102203005",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101497,
+                        "created_at": "2022-07-29T10:23:27.000000Z",
+                        "updated_at": "2022-07-29T10:23:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101496,
+                    "name": "Mwinyimkuu-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:44.000000Z",
+                    "updated_at": "2022-07-18T20:12:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 85,
+                    "geocode": "0701131102203006",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101496,
+                        "created_at": "2022-07-29T10:23:27.000000Z",
+                        "updated_at": "2022-07-29T10:23:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101490,
+                    "name": "Mwinyimkuu-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:43.000000Z",
+                    "updated_at": "2022-07-18T20:12:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 100,
+                    "geocode": "0701131102203007",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101490,
+                        "created_at": "2022-07-29T10:23:28.000000Z",
+                        "updated_at": "2022-07-29T10:23:28.000000Z"
+                    }
+                },
+                {
+                    "id": 101493,
+                    "name": "Mwinyimkuu-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:44.000000Z",
+                    "updated_at": "2022-07-18T20:12:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 119,
+                    "geocode": "0701131102203008",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101493,
+                        "created_at": "2022-07-29T10:23:28.000000Z",
+                        "updated_at": "2022-07-29T10:23:28.000000Z"
+                    }
+                },
+                {
+                    "id": 101489,
+                    "name": "Mwinyimkuu-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:43.000000Z",
+                    "updated_at": "2022-07-18T20:12:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 115,
+                    "geocode": "0701131102203009",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101489,
+                        "created_at": "2022-07-29T10:23:28.000000Z",
+                        "updated_at": "2022-07-29T10:23:28.000000Z"
+                    }
+                },
+                {
+                    "id": 101499,
+                    "name": "Mwinyimkuu-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:45.000000Z",
+                    "updated_at": "2022-07-18T20:12:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 102,
+                    "geocode": "0701131102203010",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101499,
+                        "created_at": "2022-07-29T10:23:28.000000Z",
+                        "updated_at": "2022-07-29T10:23:28.000000Z"
+                    }
+                },
+                {
+                    "id": 101500,
+                    "name": "Mwinyimkuu-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:45.000000Z",
+                    "updated_at": "2022-07-18T20:12:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 98,
+                    "geocode": "0701131102203011",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101500,
+                        "created_at": "2022-07-29T10:23:28.000000Z",
+                        "updated_at": "2022-07-29T10:23:28.000000Z"
+                    }
+                },
+                {
+                    "id": 101498,
+                    "name": "Mwinyimkuu-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:45.000000Z",
+                    "updated_at": "2022-07-18T20:12:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 100,
+                    "geocode": "0701131102203012",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101498,
+                        "created_at": "2022-07-29T10:23:29.000000Z",
+                        "updated_at": "2022-07-29T10:23:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101501,
+                    "name": "Mwinyimkuu-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:45.000000Z",
+                    "updated_at": "2022-07-18T20:12:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 110,
+                    "geocode": "0701131102203013",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101501,
+                        "created_at": "2022-07-29T10:23:29.000000Z",
+                        "updated_at": "2022-07-29T10:23:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101502,
+                    "name": "Mwinyimkuu-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:45.000000Z",
+                    "updated_at": "2022-07-18T20:12:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 90,
+                    "geocode": "0701131102203014",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101502,
+                        "created_at": "2022-07-29T10:23:29.000000Z",
+                        "updated_at": "2022-07-29T10:23:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101485,
+                    "name": "Mwinyimkuu-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:43.000000Z",
+                    "updated_at": "2022-07-18T20:12:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 90,
+                    "geocode": "0701131102203015",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101485,
+                        "created_at": "2022-07-29T10:23:29.000000Z",
+                        "updated_at": "2022-07-29T10:23:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101486,
+                    "name": "Mwinyimkuu-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:43.000000Z",
+                    "updated_at": "2022-07-18T20:12:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 115,
+                    "geocode": "0701131102203016",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101486,
+                        "created_at": "2022-07-29T10:23:30.000000Z",
+                        "updated_at": "2022-07-29T10:23:30.000000Z"
+                    }
+                },
+                {
+                    "id": 101492,
+                    "name": "Mwinyimkuu-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:44.000000Z",
+                    "updated_at": "2022-07-18T20:12:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 117,
+                    "geocode": "0701131102203017",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101492,
+                        "created_at": "2022-07-29T10:23:30.000000Z",
+                        "updated_at": "2022-07-29T10:23:30.000000Z"
+                    }
+                },
+                {
+                    "id": 101488,
+                    "name": "Mwinyimkuu-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:43.000000Z",
+                    "updated_at": "2022-07-18T20:12:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 116,
+                    "geocode": "0701131102203018",
+                    "pivot": {
+                        "location_id": 72362,
+                        "area_id": 101488,
+                        "created_at": "2022-07-29T10:23:30.000000Z",
+                        "updated_at": "2022-07-29T10:23:30.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
