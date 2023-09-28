@@ -1,0 +1,743 @@
+{
+    "data": [
+        {
+            "id": 78016,
+            "name": "LUKULA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78014,
+                "name": "MASUGURU",
+                "postcode": "63610",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77951,
+                    "name": "NANYUMBU DISTRICT COUNCIL",
+                    "postcode": "636",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77950,
+                        "name": "NANYUMBU",
+                        "postcode": "636",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 143943,
+                    "name": "Msikitini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:55.000000Z",
+                    "updated_at": "2022-07-30T09:51:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78016,
+                        "area_id": 143943,
+                        "created_at": "2022-08-13T06:50:00.000000Z",
+                        "updated_at": "2022-08-13T06:50:00.000000Z"
+                    }
+                },
+                {
+                    "id": 143944,
+                    "name": "Mbuyuni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:56.000000Z",
+                    "updated_at": "2022-07-30T09:51:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78016,
+                        "area_id": 143944,
+                        "created_at": "2022-08-13T06:50:00.000000Z",
+                        "updated_at": "2022-08-13T06:50:00.000000Z"
+                    }
+                },
+                {
+                    "id": 143945,
+                    "name": "Tankini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:56.000000Z",
+                    "updated_at": "2022-07-30T09:51:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78016,
+                        "area_id": 143945,
+                        "created_at": "2022-08-13T06:50:00.000000Z",
+                        "updated_at": "2022-08-13T06:50:00.000000Z"
+                    }
+                },
+                {
+                    "id": 143946,
+                    "name": "Ruvuma",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:57.000000Z",
+                    "updated_at": "2022-07-30T09:51:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78016,
+                        "area_id": 143946,
+                        "created_at": "2022-08-13T06:50:01.000000Z",
+                        "updated_at": "2022-08-13T06:50:01.000000Z"
+                    }
+                },
+                {
+                    "id": 143947,
+                    "name": "Mtambaswala",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:57.000000Z",
+                    "updated_at": "2022-07-30T09:51:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78016,
+                        "area_id": 143947,
+                        "created_at": "2022-08-13T06:50:01.000000Z",
+                        "updated_at": "2022-08-13T06:50:01.000000Z"
+                    }
+                },
+                {
+                    "id": 143948,
+                    "name": "Bondeni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:58.000000Z",
+                    "updated_at": "2022-07-30T09:51:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78016,
+                        "area_id": 143948,
+                        "created_at": "2022-08-13T06:50:02.000000Z",
+                        "updated_at": "2022-08-13T06:50:02.000000Z"
+                    }
+                },
+                {
+                    "id": 143949,
+                    "name": "Elimu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:58.000000Z",
+                    "updated_at": "2022-07-30T09:51:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78016,
+                        "area_id": 143949,
+                        "created_at": "2022-08-13T06:50:02.000000Z",
+                        "updated_at": "2022-08-13T06:50:02.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 78017,
+            "name": "LUKWIKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78014,
+                "name": "MASUGURU",
+                "postcode": "63610",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77951,
+                    "name": "NANYUMBU DISTRICT COUNCIL",
+                    "postcode": "636",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77950,
+                        "name": "NANYUMBU",
+                        "postcode": "636",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 143950,
+                    "name": "Msikitini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:59.000000Z",
+                    "updated_at": "2022-07-30T09:51:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78017,
+                        "area_id": 143950,
+                        "created_at": "2022-08-13T06:50:03.000000Z",
+                        "updated_at": "2022-08-13T06:50:03.000000Z"
+                    }
+                },
+                {
+                    "id": 143951,
+                    "name": "Elimu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:59.000000Z",
+                    "updated_at": "2022-07-30T09:51:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78017,
+                        "area_id": 143951,
+                        "created_at": "2022-08-13T06:50:03.000000Z",
+                        "updated_at": "2022-08-13T06:50:03.000000Z"
+                    }
+                },
+                {
+                    "id": 143952,
+                    "name": "Bondeni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:52:00.000000Z",
+                    "updated_at": "2022-07-30T09:52:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78017,
+                        "area_id": 143952,
+                        "created_at": "2022-08-13T06:50:04.000000Z",
+                        "updated_at": "2022-08-13T06:50:04.000000Z"
+                    }
+                },
+                {
+                    "id": 143953,
+                    "name": "Kanisani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:52:00.000000Z",
+                    "updated_at": "2022-07-30T09:52:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78017,
+                        "area_id": 143953,
+                        "created_at": "2022-08-13T06:50:04.000000Z",
+                        "updated_at": "2022-08-13T06:50:04.000000Z"
+                    }
+                },
+                {
+                    "id": 143954,
+                    "name": "Kilimanihewa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:52:00.000000Z",
+                    "updated_at": "2022-07-30T09:52:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78017,
+                        "area_id": 143954,
+                        "created_at": "2022-08-13T06:50:05.000000Z",
+                        "updated_at": "2022-08-13T06:50:05.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 97728,
+            "name": "MASUGULU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78014,
+                "name": "MASUGURU",
+                "postcode": "63610",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77951,
+                    "name": "NANYUMBU DISTRICT COUNCIL",
+                    "postcode": "636",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77950,
+                        "name": "NANYUMBU",
+                        "postcode": "636",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        },
+        {
+            "id": 78015,
+            "name": "MASUGURU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 78014,
+                "name": "MASUGURU",
+                "postcode": "63610",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 77951,
+                    "name": "NANYUMBU DISTRICT COUNCIL",
+                    "postcode": "636",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 77950,
+                        "name": "NANYUMBU",
+                        "postcode": "636",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70893,
+                            "name": "MTWARA",
+                            "postcode": "63",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70882,
+                                "name": "COASTAL ZONE",
+                                "postcode": "6",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 143938,
+                    "name": "Mtakuja",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:53.000000Z",
+                    "updated_at": "2022-07-30T09:51:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78015,
+                        "area_id": 143938,
+                        "created_at": "2022-08-13T06:49:58.000000Z",
+                        "updated_at": "2022-08-13T06:49:58.000000Z"
+                    }
+                },
+                {
+                    "id": 143939,
+                    "name": "Elimu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:54.000000Z",
+                    "updated_at": "2022-07-30T09:51:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78015,
+                        "area_id": 143939,
+                        "created_at": "2022-08-13T06:49:58.000000Z",
+                        "updated_at": "2022-08-13T06:49:58.000000Z"
+                    }
+                },
+                {
+                    "id": 143940,
+                    "name": "Msikitini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:54.000000Z",
+                    "updated_at": "2022-07-30T09:51:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78015,
+                        "area_id": 143940,
+                        "created_at": "2022-08-13T06:49:58.000000Z",
+                        "updated_at": "2022-08-13T06:49:58.000000Z"
+                    }
+                },
+                {
+                    "id": 143941,
+                    "name": "Muhimbili",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:54.000000Z",
+                    "updated_at": "2022-07-30T09:51:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78015,
+                        "area_id": 143941,
+                        "created_at": "2022-08-13T06:49:59.000000Z",
+                        "updated_at": "2022-08-13T06:49:59.000000Z"
+                    }
+                },
+                {
+                    "id": 143942,
+                    "name": "Chang'ombe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-30T09:51:55.000000Z",
+                    "updated_at": "2022-07-30T09:51:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 78015,
+                        "area_id": 143942,
+                        "created_at": "2022-08-13T06:49:59.000000Z",
+                        "updated_at": "2022-08-13T06:49:59.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
