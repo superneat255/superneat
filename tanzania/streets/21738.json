@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "id": 85627,
+            "name": "BAGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85625,
+                "name": "BAGA",
+                "postcode": "21738",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85536,
+                    "name": "BUMBULI DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85375,
+                        "name": "LUSHOTO",
+                        "postcode": "217",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 179894,
+                    "name": "Kweshamba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:07.000000Z",
+                    "updated_at": "2022-08-09T07:22:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179894,
+                        "created_at": "2022-08-09T07:22:07.000000Z",
+                        "updated_at": "2022-08-09T07:22:07.000000Z"
+                    }
+                },
+                {
+                    "id": 179895,
+                    "name": "Muao",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:08.000000Z",
+                    "updated_at": "2022-08-09T07:22:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179895,
+                        "created_at": "2022-08-09T07:22:08.000000Z",
+                        "updated_at": "2022-08-09T07:22:08.000000Z"
+                    }
+                },
+                {
+                    "id": 179896,
+                    "name": "Mashine",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:08.000000Z",
+                    "updated_at": "2022-08-09T07:22:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179896,
+                        "created_at": "2022-08-09T07:22:08.000000Z",
+                        "updated_at": "2022-08-09T07:22:08.000000Z"
+                    }
+                },
+                {
+                    "id": 179897,
+                    "name": "Dukani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:09.000000Z",
+                    "updated_at": "2022-08-09T07:22:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179897,
+                        "created_at": "2022-08-09T07:22:09.000000Z",
+                        "updated_at": "2022-08-09T07:22:09.000000Z"
+                    }
+                },
+                {
+                    "id": 179898,
+                    "name": "Zanzibari",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:09.000000Z",
+                    "updated_at": "2022-08-09T07:22:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179898,
+                        "created_at": "2022-08-09T07:22:09.000000Z",
+                        "updated_at": "2022-08-09T07:22:09.000000Z"
+                    }
+                },
+                {
+                    "id": 179899,
+                    "name": "Mwangoi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:10.000000Z",
+                    "updated_at": "2022-08-09T07:22:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179899,
+                        "created_at": "2022-08-09T07:22:10.000000Z",
+                        "updated_at": "2022-08-09T07:22:10.000000Z"
+                    }
+                },
+                {
+                    "id": 179900,
+                    "name": "Ndekai",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:10.000000Z",
+                    "updated_at": "2022-08-09T07:22:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179900,
+                        "created_at": "2022-08-09T07:22:10.000000Z",
+                        "updated_at": "2022-08-09T07:22:10.000000Z"
+                    }
+                },
+                {
+                    "id": 179901,
+                    "name": "Mangika",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:10.000000Z",
+                    "updated_at": "2022-08-09T07:22:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179901,
+                        "created_at": "2022-08-09T07:22:10.000000Z",
+                        "updated_at": "2022-08-09T07:22:10.000000Z"
+                    }
+                },
+                {
+                    "id": 179902,
+                    "name": "Nkaloi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:11.000000Z",
+                    "updated_at": "2022-08-09T07:22:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179902,
+                        "created_at": "2022-08-09T07:22:11.000000Z",
+                        "updated_at": "2022-08-09T07:22:11.000000Z"
+                    }
+                },
+                {
+                    "id": 179903,
+                    "name": "Mwangai",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:11.000000Z",
+                    "updated_at": "2022-08-09T07:22:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85627,
+                        "area_id": 179903,
+                        "created_at": "2022-08-09T07:22:11.000000Z",
+                        "updated_at": "2022-08-09T07:22:11.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85626,
+            "name": "KWESINE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85625,
+                "name": "BAGA",
+                "postcode": "21738",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85536,
+                    "name": "BUMBULI DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85375,
+                        "name": "LUSHOTO",
+                        "postcode": "217",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 179904,
+                    "name": "Masange",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:12.000000Z",
+                    "updated_at": "2022-08-09T07:22:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179904,
+                        "created_at": "2022-08-09T07:22:12.000000Z",
+                        "updated_at": "2022-08-09T07:22:12.000000Z"
+                    }
+                },
+                {
+                    "id": 179905,
+                    "name": "Kwekuyu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:12.000000Z",
+                    "updated_at": "2022-08-09T07:22:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179905,
+                        "created_at": "2022-08-09T07:22:12.000000Z",
+                        "updated_at": "2022-08-09T07:22:12.000000Z"
+                    }
+                },
+                {
+                    "id": 179906,
+                    "name": "Mgambo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:13.000000Z",
+                    "updated_at": "2022-08-09T07:22:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179906,
+                        "created_at": "2022-08-09T07:22:13.000000Z",
+                        "updated_at": "2022-08-09T07:22:13.000000Z"
+                    }
+                },
+                {
+                    "id": 179907,
+                    "name": "Kishewa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:13.000000Z",
+                    "updated_at": "2022-08-09T07:22:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179907,
+                        "created_at": "2022-08-09T07:22:13.000000Z",
+                        "updated_at": "2022-08-09T07:22:13.000000Z"
+                    }
+                },
+                {
+                    "id": 179908,
+                    "name": "Kivumo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:13.000000Z",
+                    "updated_at": "2022-08-09T07:22:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179908,
+                        "created_at": "2022-08-09T07:22:13.000000Z",
+                        "updated_at": "2022-08-09T07:22:13.000000Z"
+                    }
+                },
+                {
+                    "id": 179909,
+                    "name": "Kwesine",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:14.000000Z",
+                    "updated_at": "2022-08-09T07:22:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179909,
+                        "created_at": "2022-08-09T07:22:14.000000Z",
+                        "updated_at": "2022-08-09T07:22:14.000000Z"
+                    }
+                },
+                {
+                    "id": 179910,
+                    "name": "Kwemainde",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:14.000000Z",
+                    "updated_at": "2022-08-09T07:22:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179910,
+                        "created_at": "2022-08-09T07:22:14.000000Z",
+                        "updated_at": "2022-08-09T07:22:14.000000Z"
+                    }
+                },
+                {
+                    "id": 179911,
+                    "name": "Kwemzui",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:15.000000Z",
+                    "updated_at": "2022-08-09T07:22:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179911,
+                        "created_at": "2022-08-09T07:22:15.000000Z",
+                        "updated_at": "2022-08-09T07:22:15.000000Z"
+                    }
+                },
+                {
+                    "id": 179912,
+                    "name": "Kitivo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:15.000000Z",
+                    "updated_at": "2022-08-09T07:22:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85626,
+                        "area_id": 179912,
+                        "created_at": "2022-08-09T07:22:15.000000Z",
+                        "updated_at": "2022-08-09T07:22:15.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85628,
+            "name": "MZIASAA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85625,
+                "name": "BAGA",
+                "postcode": "21738",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85536,
+                    "name": "BUMBULI DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85375,
+                        "name": "LUSHOTO",
+                        "postcode": "217",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 179913,
+                    "name": "Kigulunde",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:15.000000Z",
+                    "updated_at": "2022-08-09T07:22:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85628,
+                        "area_id": 179913,
+                        "created_at": "2022-08-09T07:22:15.000000Z",
+                        "updated_at": "2022-08-09T07:22:15.000000Z"
+                    }
+                },
+                {
+                    "id": 179914,
+                    "name": "Mziasaa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:16.000000Z",
+                    "updated_at": "2022-08-09T07:22:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85628,
+                        "area_id": 179914,
+                        "created_at": "2022-08-09T07:22:16.000000Z",
+                        "updated_at": "2022-08-09T07:22:16.000000Z"
+                    }
+                },
+                {
+                    "id": 179915,
+                    "name": "Mtae",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:16.000000Z",
+                    "updated_at": "2022-08-09T07:22:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85628,
+                        "area_id": 179915,
+                        "created_at": "2022-08-09T07:22:16.000000Z",
+                        "updated_at": "2022-08-09T07:22:16.000000Z"
+                    }
+                },
+                {
+                    "id": 179916,
+                    "name": "Kilanga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:17.000000Z",
+                    "updated_at": "2022-08-09T07:22:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85628,
+                        "area_id": 179916,
+                        "created_at": "2022-08-09T07:22:17.000000Z",
+                        "updated_at": "2022-08-09T07:22:17.000000Z"
+                    }
+                },
+                {
+                    "id": 179917,
+                    "name": "Fivii",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:17.000000Z",
+                    "updated_at": "2022-08-09T07:22:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85628,
+                        "area_id": 179917,
+                        "created_at": "2022-08-09T07:22:17.000000Z",
+                        "updated_at": "2022-08-09T07:22:17.000000Z"
+                    }
+                },
+                {
+                    "id": 179918,
+                    "name": "Malumbi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:22:18.000000Z",
+                    "updated_at": "2022-08-09T07:22:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85628,
+                        "area_id": 179918,
+                        "created_at": "2022-08-09T07:22:18.000000Z",
+                        "updated_at": "2022-08-09T07:22:18.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
