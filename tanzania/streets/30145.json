@@ -1,0 +1,3322 @@
+{
+    "data": [
+        {
+            "id": 72896,
+            "name": "BUCHUNDWANKENDE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97245,
+                    "name": "Buchundwankende-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:41.000000Z",
+                    "updated_at": "2022-07-13T08:38:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 116,
+                    "geocode": "2501221101207001",
+                    "pivot": {
+                        "location_id": 72896,
+                        "area_id": 97245,
+                        "created_at": "2022-08-08T08:29:34.000000Z",
+                        "updated_at": "2022-08-08T08:29:34.000000Z"
+                    }
+                },
+                {
+                    "id": 97243,
+                    "name": "Buchundwankende-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:41.000000Z",
+                    "updated_at": "2022-07-13T08:38:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 135,
+                    "geocode": "2501221101207002",
+                    "pivot": {
+                        "location_id": 72896,
+                        "area_id": 97243,
+                        "created_at": "2022-08-08T08:29:35.000000Z",
+                        "updated_at": "2022-08-08T08:29:35.000000Z"
+                    }
+                },
+                {
+                    "id": 97244,
+                    "name": "Buchundwankende-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:41.000000Z",
+                    "updated_at": "2022-07-13T08:38:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 124,
+                    "geocode": "2501221101207003",
+                    "pivot": {
+                        "location_id": 72896,
+                        "area_id": 97244,
+                        "created_at": "2022-08-08T08:29:35.000000Z",
+                        "updated_at": "2022-08-08T08:29:35.000000Z"
+                    }
+                },
+                {
+                    "id": 97246,
+                    "name": "Buchundwankende-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:42.000000Z",
+                    "updated_at": "2022-07-13T08:38:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 130,
+                    "geocode": "2501221101207004",
+                    "pivot": {
+                        "location_id": 72896,
+                        "area_id": 97246,
+                        "created_at": "2022-08-08T08:29:36.000000Z",
+                        "updated_at": "2022-08-08T08:29:36.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72900,
+            "name": "ELIMU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97323,
+                    "name": "Elimu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:11.000000Z",
+                    "updated_at": "2022-07-13T08:39:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 149,
+                    "geocode": "2501221101211001",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97323,
+                        "created_at": "2022-08-08T08:29:47.000000Z",
+                        "updated_at": "2022-08-08T08:29:47.000000Z"
+                    }
+                },
+                {
+                    "id": 97314,
+                    "name": "Elimu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:06.000000Z",
+                    "updated_at": "2022-07-13T08:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 144,
+                    "geocode": "2501221101211002",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97314,
+                        "created_at": "2022-08-08T08:29:48.000000Z",
+                        "updated_at": "2022-08-08T08:29:48.000000Z"
+                    }
+                },
+                {
+                    "id": 97297,
+                    "name": "Elimu-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:59.000000Z",
+                    "updated_at": "2022-07-13T08:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 145,
+                    "geocode": "2501221101211003",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97297,
+                        "created_at": "2022-08-08T08:29:48.000000Z",
+                        "updated_at": "2022-08-08T08:29:48.000000Z"
+                    }
+                },
+                {
+                    "id": 97292,
+                    "name": "Elimu-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:57.000000Z",
+                    "updated_at": "2022-07-13T08:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 149,
+                    "geocode": "2501221101211004",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97292,
+                        "created_at": "2022-08-08T08:29:49.000000Z",
+                        "updated_at": "2022-08-08T08:29:49.000000Z"
+                    }
+                },
+                {
+                    "id": 97295,
+                    "name": "Elimu-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:58.000000Z",
+                    "updated_at": "2022-07-13T08:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 147,
+                    "geocode": "2501221101211005",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97295,
+                        "created_at": "2022-08-08T08:29:50.000000Z",
+                        "updated_at": "2022-08-08T08:29:50.000000Z"
+                    }
+                },
+                {
+                    "id": 97322,
+                    "name": "Elimu-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:11.000000Z",
+                    "updated_at": "2022-07-13T08:39:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 149,
+                    "geocode": "2501221101211006",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97322,
+                        "created_at": "2022-08-08T08:29:50.000000Z",
+                        "updated_at": "2022-08-08T08:29:50.000000Z"
+                    }
+                },
+                {
+                    "id": 97296,
+                    "name": "Elimu-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:59.000000Z",
+                    "updated_at": "2022-07-13T08:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 148,
+                    "geocode": "2501221101211007",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97296,
+                        "created_at": "2022-08-08T08:29:51.000000Z",
+                        "updated_at": "2022-08-08T08:29:51.000000Z"
+                    }
+                },
+                {
+                    "id": 97307,
+                    "name": "Elimu-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:03.000000Z",
+                    "updated_at": "2022-07-13T08:39:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 130,
+                    "geocode": "2501221101211008",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97307,
+                        "created_at": "2022-08-08T08:29:51.000000Z",
+                        "updated_at": "2022-08-08T08:29:51.000000Z"
+                    }
+                },
+                {
+                    "id": 97290,
+                    "name": "Elimu-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:57.000000Z",
+                    "updated_at": "2022-07-13T08:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 147,
+                    "geocode": "2501221101211009",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97290,
+                        "created_at": "2022-08-08T08:29:52.000000Z",
+                        "updated_at": "2022-08-08T08:29:52.000000Z"
+                    }
+                },
+                {
+                    "id": 97288,
+                    "name": "Elimu-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:56.000000Z",
+                    "updated_at": "2022-07-13T08:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 148,
+                    "geocode": "2501221101211010",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97288,
+                        "created_at": "2022-08-08T08:29:53.000000Z",
+                        "updated_at": "2022-08-08T08:29:53.000000Z"
+                    }
+                },
+                {
+                    "id": 97306,
+                    "name": "Elimu-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:03.000000Z",
+                    "updated_at": "2022-07-13T08:39:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 146,
+                    "geocode": "2501221101211011",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97306,
+                        "created_at": "2022-08-08T08:29:53.000000Z",
+                        "updated_at": "2022-08-08T08:29:53.000000Z"
+                    }
+                },
+                {
+                    "id": 97303,
+                    "name": "Elimu-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:02.000000Z",
+                    "updated_at": "2022-07-13T08:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 136,
+                    "geocode": "2501221101211012",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97303,
+                        "created_at": "2022-08-08T08:29:54.000000Z",
+                        "updated_at": "2022-08-08T08:29:54.000000Z"
+                    }
+                },
+                {
+                    "id": 97312,
+                    "name": "Elimu-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:05.000000Z",
+                    "updated_at": "2022-07-13T08:39:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 147,
+                    "geocode": "2501221101211013",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97312,
+                        "created_at": "2022-08-08T08:29:55.000000Z",
+                        "updated_at": "2022-08-08T08:29:55.000000Z"
+                    }
+                },
+                {
+                    "id": 97308,
+                    "name": "Elimu-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:04.000000Z",
+                    "updated_at": "2022-07-13T08:39:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 147,
+                    "geocode": "2501221101211014",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97308,
+                        "created_at": "2022-08-08T08:29:55.000000Z",
+                        "updated_at": "2022-08-08T08:29:55.000000Z"
+                    }
+                },
+                {
+                    "id": 97293,
+                    "name": "Elimu-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:57.000000Z",
+                    "updated_at": "2022-07-13T08:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 149,
+                    "geocode": "2501221101211015",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97293,
+                        "created_at": "2022-08-08T08:29:56.000000Z",
+                        "updated_at": "2022-08-08T08:29:56.000000Z"
+                    }
+                },
+                {
+                    "id": 97316,
+                    "name": "Elimu-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:07.000000Z",
+                    "updated_at": "2022-07-13T08:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 98,
+                    "geocode": "2501221101211016",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97316,
+                        "created_at": "2022-08-08T08:29:57.000000Z",
+                        "updated_at": "2022-08-08T08:29:57.000000Z"
+                    }
+                },
+                {
+                    "id": 97309,
+                    "name": "Elimu17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:04.000000Z",
+                    "updated_at": "2022-07-13T08:39:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 135,
+                    "geocode": "2501221101211017",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97309,
+                        "created_at": "2022-08-08T08:29:58.000000Z",
+                        "updated_at": "2022-08-08T08:29:58.000000Z"
+                    }
+                },
+                {
+                    "id": 97311,
+                    "name": "Elimu-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:05.000000Z",
+                    "updated_at": "2022-07-13T08:39:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 120,
+                    "geocode": "2501221101211018",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97311,
+                        "created_at": "2022-08-08T08:29:59.000000Z",
+                        "updated_at": "2022-08-08T08:29:59.000000Z"
+                    }
+                },
+                {
+                    "id": 97287,
+                    "name": "Elimu-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:56.000000Z",
+                    "updated_at": "2022-07-13T08:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 88,
+                    "geocode": "2501221101211019",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97287,
+                        "created_at": "2022-08-08T08:29:59.000000Z",
+                        "updated_at": "2022-08-08T08:29:59.000000Z"
+                    }
+                },
+                {
+                    "id": 97299,
+                    "name": "Elimu-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:00.000000Z",
+                    "updated_at": "2022-07-13T08:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 84,
+                    "geocode": "2501221101211020",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97299,
+                        "created_at": "2022-08-08T08:30:00.000000Z",
+                        "updated_at": "2022-08-08T08:30:00.000000Z"
+                    }
+                },
+                {
+                    "id": 97313,
+                    "name": "Elimu-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:06.000000Z",
+                    "updated_at": "2022-07-13T08:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 138,
+                    "geocode": "2501221101211021",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97313,
+                        "created_at": "2022-08-08T08:30:01.000000Z",
+                        "updated_at": "2022-08-08T08:30:01.000000Z"
+                    }
+                },
+                {
+                    "id": 97353,
+                    "name": "Elimu-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:24.000000Z",
+                    "updated_at": "2022-07-13T08:39:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 148,
+                    "geocode": "2501221101211022",
+                    "pivot": {
+                        "location_id": 72900,
+                        "area_id": 97353,
+                        "created_at": "2022-08-08T08:30:02.000000Z",
+                        "updated_at": "2022-08-08T08:30:02.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72898,
+            "name": "IBOLELO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97327,
+                    "name": "Ibolelo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:14.000000Z",
+                    "updated_at": "2022-07-13T08:39:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 73,
+                    "geocode": "2501221101202001",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97327,
+                        "created_at": "2022-08-08T08:29:06.000000Z",
+                        "updated_at": "2022-08-08T08:29:06.000000Z"
+                    }
+                },
+                {
+                    "id": 97339,
+                    "name": "Ibolelo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:17.000000Z",
+                    "updated_at": "2022-07-13T08:39:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 103,
+                    "geocode": "2501221101202002",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97339,
+                        "created_at": "2022-08-08T08:29:07.000000Z",
+                        "updated_at": "2022-08-08T08:29:07.000000Z"
+                    }
+                },
+                {
+                    "id": 97351,
+                    "name": "Ibolelo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:23.000000Z",
+                    "updated_at": "2022-07-13T08:39:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 85,
+                    "geocode": "2501221101202003",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97351,
+                        "created_at": "2022-08-08T08:29:08.000000Z",
+                        "updated_at": "2022-08-08T08:29:08.000000Z"
+                    }
+                },
+                {
+                    "id": 97352,
+                    "name": "Ibolelo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:23.000000Z",
+                    "updated_at": "2022-07-13T08:39:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 104,
+                    "geocode": "2501221101202004",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97352,
+                        "created_at": "2022-08-08T08:29:09.000000Z",
+                        "updated_at": "2022-08-08T08:29:09.000000Z"
+                    }
+                },
+                {
+                    "id": 97331,
+                    "name": "Ibolelo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:15.000000Z",
+                    "updated_at": "2022-07-13T08:39:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 97,
+                    "geocode": "2501221101202005",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97331,
+                        "created_at": "2022-08-08T08:29:09.000000Z",
+                        "updated_at": "2022-08-08T08:29:09.000000Z"
+                    }
+                },
+                {
+                    "id": 97332,
+                    "name": "Ibolelo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:15.000000Z",
+                    "updated_at": "2022-07-13T08:39:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 104,
+                    "geocode": "2501221101202006",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97332,
+                        "created_at": "2022-08-08T08:29:10.000000Z",
+                        "updated_at": "2022-08-08T08:29:10.000000Z"
+                    }
+                },
+                {
+                    "id": 97336,
+                    "name": "Ibolelo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:16.000000Z",
+                    "updated_at": "2022-07-13T08:39:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 82,
+                    "geocode": "2501221101202007",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97336,
+                        "created_at": "2022-08-08T08:29:11.000000Z",
+                        "updated_at": "2022-08-08T08:29:11.000000Z"
+                    }
+                },
+                {
+                    "id": 97333,
+                    "name": "Ibolelo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:15.000000Z",
+                    "updated_at": "2022-07-13T08:39:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 121,
+                    "geocode": "2501221101202008",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97333,
+                        "created_at": "2022-08-08T08:29:12.000000Z",
+                        "updated_at": "2022-08-08T08:29:12.000000Z"
+                    }
+                },
+                {
+                    "id": 97341,
+                    "name": "Ibolelo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:18.000000Z",
+                    "updated_at": "2022-07-13T08:39:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 99,
+                    "geocode": "2501221101202009",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97341,
+                        "created_at": "2022-08-08T08:29:13.000000Z",
+                        "updated_at": "2022-08-08T08:29:13.000000Z"
+                    }
+                },
+                {
+                    "id": 97330,
+                    "name": "Ibolelo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:14.000000Z",
+                    "updated_at": "2022-07-13T08:39:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 82,
+                    "geocode": "2501221101202010",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97330,
+                        "created_at": "2022-08-08T08:29:13.000000Z",
+                        "updated_at": "2022-08-08T08:29:13.000000Z"
+                    }
+                },
+                {
+                    "id": 97338,
+                    "name": "Ibolelo-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:17.000000Z",
+                    "updated_at": "2022-07-13T08:39:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 83,
+                    "geocode": "2501221101202011",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97338,
+                        "created_at": "2022-08-08T08:29:14.000000Z",
+                        "updated_at": "2022-08-08T08:29:14.000000Z"
+                    }
+                },
+                {
+                    "id": 97340,
+                    "name": "Ibolelo-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:18.000000Z",
+                    "updated_at": "2022-07-13T08:39:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 85,
+                    "geocode": "2501221101202012",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97340,
+                        "created_at": "2022-08-08T08:29:15.000000Z",
+                        "updated_at": "2022-08-08T08:29:15.000000Z"
+                    }
+                },
+                {
+                    "id": 97334,
+                    "name": "Ibolelo-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:16.000000Z",
+                    "updated_at": "2022-07-13T08:39:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 83,
+                    "geocode": "2501221101202013",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97334,
+                        "created_at": "2022-08-08T08:29:16.000000Z",
+                        "updated_at": "2022-08-08T08:29:16.000000Z"
+                    }
+                },
+                {
+                    "id": 97342,
+                    "name": "Ibolelo-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:19.000000Z",
+                    "updated_at": "2022-07-13T08:39:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 95,
+                    "geocode": "2501221101202014",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97342,
+                        "created_at": "2022-08-08T08:29:17.000000Z",
+                        "updated_at": "2022-08-08T08:29:17.000000Z"
+                    }
+                },
+                {
+                    "id": 97335,
+                    "name": "Ibolelo-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:16.000000Z",
+                    "updated_at": "2022-07-13T08:39:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 85,
+                    "geocode": "2501221101202015",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97335,
+                        "created_at": "2022-08-08T08:29:18.000000Z",
+                        "updated_at": "2022-08-08T08:29:18.000000Z"
+                    }
+                },
+                {
+                    "id": 97343,
+                    "name": "Ibolelo-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:19.000000Z",
+                    "updated_at": "2022-07-13T08:39:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 107,
+                    "geocode": "2501221101202016",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97343,
+                        "created_at": "2022-08-08T08:29:19.000000Z",
+                        "updated_at": "2022-08-08T08:29:19.000000Z"
+                    }
+                },
+                {
+                    "id": 97347,
+                    "name": "Ibolelo-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:21.000000Z",
+                    "updated_at": "2022-07-13T08:39:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 112,
+                    "geocode": "2501221101202017",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97347,
+                        "created_at": "2022-08-08T08:29:20.000000Z",
+                        "updated_at": "2022-08-08T08:29:20.000000Z"
+                    }
+                },
+                {
+                    "id": 97350,
+                    "name": "Ibolelo-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:22.000000Z",
+                    "updated_at": "2022-07-13T08:39:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 119,
+                    "geocode": "2501221101202018",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97350,
+                        "created_at": "2022-08-08T08:29:21.000000Z",
+                        "updated_at": "2022-08-08T08:29:21.000000Z"
+                    }
+                },
+                {
+                    "id": 97345,
+                    "name": "Ibolelo-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:20.000000Z",
+                    "updated_at": "2022-07-13T08:39:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 73,
+                    "geocode": "2501221101202019",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97345,
+                        "created_at": "2022-08-08T08:29:22.000000Z",
+                        "updated_at": "2022-08-08T08:29:22.000000Z"
+                    }
+                },
+                {
+                    "id": 97344,
+                    "name": "Ibolelo-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:19.000000Z",
+                    "updated_at": "2022-07-13T08:39:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 73,
+                    "geocode": "2501221101202020",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97344,
+                        "created_at": "2022-08-08T08:29:23.000000Z",
+                        "updated_at": "2022-08-08T08:29:23.000000Z"
+                    }
+                },
+                {
+                    "id": 97348,
+                    "name": "Ibolelo-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:21.000000Z",
+                    "updated_at": "2022-07-13T08:39:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 83,
+                    "geocode": "2501221101202021",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97348,
+                        "created_at": "2022-08-08T08:29:24.000000Z",
+                        "updated_at": "2022-08-08T08:29:24.000000Z"
+                    }
+                },
+                {
+                    "id": 97349,
+                    "name": "Ibolelo-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:22.000000Z",
+                    "updated_at": "2022-07-13T08:39:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 107,
+                    "geocode": "2501221101202022",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97349,
+                        "created_at": "2022-08-08T08:29:25.000000Z",
+                        "updated_at": "2022-08-08T08:29:25.000000Z"
+                    }
+                },
+                {
+                    "id": 97337,
+                    "name": "Ibolelo-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:17.000000Z",
+                    "updated_at": "2022-07-13T08:39:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 128,
+                    "geocode": "2501221101202023",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97337,
+                        "created_at": "2022-08-08T08:29:26.000000Z",
+                        "updated_at": "2022-08-08T08:29:26.000000Z"
+                    }
+                },
+                {
+                    "id": 97328,
+                    "name": "Ibolelo-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:14.000000Z",
+                    "updated_at": "2022-07-13T08:39:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 124,
+                    "geocode": "2501221101202024",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97328,
+                        "created_at": "2022-08-08T08:29:27.000000Z",
+                        "updated_at": "2022-08-08T08:29:27.000000Z"
+                    }
+                },
+                {
+                    "id": 97346,
+                    "name": "Ibolelo-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:20.000000Z",
+                    "updated_at": "2022-07-13T08:39:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 84,
+                    "geocode": "2501221101202025",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97346,
+                        "created_at": "2022-08-08T08:29:28.000000Z",
+                        "updated_at": "2022-08-08T08:29:28.000000Z"
+                    }
+                },
+                {
+                    "id": 97329,
+                    "name": "Ibolelo-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:14.000000Z",
+                    "updated_at": "2022-07-13T08:39:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 99,
+                    "geocode": "2501221101202026",
+                    "pivot": {
+                        "location_id": 72898,
+                        "area_id": 97329,
+                        "created_at": "2022-08-08T08:29:29.000000Z",
+                        "updated_at": "2022-08-08T08:29:29.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72904,
+            "name": "ILUNGWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97247,
+                    "name": "Ilungwe-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:42.000000Z",
+                    "updated_at": "2022-07-13T08:38:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 58,
+                    "geocode": "2501221101205001",
+                    "pivot": {
+                        "location_id": 72904,
+                        "area_id": 97247,
+                        "created_at": "2022-08-08T08:29:33.000000Z",
+                        "updated_at": "2022-08-08T08:29:33.000000Z"
+                    }
+                },
+                {
+                    "id": 97252,
+                    "name": "Ilungwe-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:44.000000Z",
+                    "updated_at": "2022-07-13T08:38:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 51,
+                    "geocode": "2501221101205002",
+                    "pivot": {
+                        "location_id": 72904,
+                        "area_id": 97252,
+                        "created_at": "2022-08-08T08:29:33.000000Z",
+                        "updated_at": "2022-08-08T08:29:33.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72894,
+            "name": "MWEMBENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97273,
+                    "name": "Mwembeni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:52.000000Z",
+                    "updated_at": "2022-07-13T08:38:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 130,
+                    "geocode": "2501221101208001",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97273,
+                        "created_at": "2022-08-08T08:29:36.000000Z",
+                        "updated_at": "2022-08-08T08:29:36.000000Z"
+                    }
+                },
+                {
+                    "id": 97272,
+                    "name": "Mwembeni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:51.000000Z",
+                    "updated_at": "2022-07-13T08:38:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 65,
+                    "geocode": "2501221101208002",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97272,
+                        "created_at": "2022-08-08T08:29:36.000000Z",
+                        "updated_at": "2022-08-08T08:29:36.000000Z"
+                    }
+                },
+                {
+                    "id": 97271,
+                    "name": "Mwembeni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:51.000000Z",
+                    "updated_at": "2022-07-13T08:38:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 139,
+                    "geocode": "2501221101208003",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97271,
+                        "created_at": "2022-08-08T08:29:37.000000Z",
+                        "updated_at": "2022-08-08T08:29:37.000000Z"
+                    }
+                },
+                {
+                    "id": 97274,
+                    "name": "Mwembeni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:52.000000Z",
+                    "updated_at": "2022-07-13T08:38:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 107,
+                    "geocode": "2501221101208004",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97274,
+                        "created_at": "2022-08-08T08:29:37.000000Z",
+                        "updated_at": "2022-08-08T08:29:37.000000Z"
+                    }
+                },
+                {
+                    "id": 97275,
+                    "name": "Mwembeni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:52.000000Z",
+                    "updated_at": "2022-07-13T08:38:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 125,
+                    "geocode": "2501221101208005",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97275,
+                        "created_at": "2022-08-08T08:29:38.000000Z",
+                        "updated_at": "2022-08-08T08:29:38.000000Z"
+                    }
+                },
+                {
+                    "id": 97283,
+                    "name": "Mwembeni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:54.000000Z",
+                    "updated_at": "2022-07-13T08:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 72,
+                    "geocode": "2501221101208006",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97283,
+                        "created_at": "2022-08-08T08:29:38.000000Z",
+                        "updated_at": "2022-08-08T08:29:38.000000Z"
+                    }
+                },
+                {
+                    "id": 97277,
+                    "name": "Mwembeni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:53.000000Z",
+                    "updated_at": "2022-07-13T08:38:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 108,
+                    "geocode": "2501221101208007",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97277,
+                        "created_at": "2022-08-08T08:29:39.000000Z",
+                        "updated_at": "2022-08-08T08:29:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97280,
+                    "name": "Mwembeni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:53.000000Z",
+                    "updated_at": "2022-07-13T08:38:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 131,
+                    "geocode": "2501221101208008",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97280,
+                        "created_at": "2022-08-08T08:29:39.000000Z",
+                        "updated_at": "2022-08-08T08:29:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97285,
+                    "name": "Mwembeni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:55.000000Z",
+                    "updated_at": "2022-07-13T08:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 92,
+                    "geocode": "2501221101208009",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97285,
+                        "created_at": "2022-08-08T08:29:40.000000Z",
+                        "updated_at": "2022-08-08T08:29:40.000000Z"
+                    }
+                },
+                {
+                    "id": 97278,
+                    "name": "Mwembeni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:53.000000Z",
+                    "updated_at": "2022-07-13T08:38:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 110,
+                    "geocode": "2501221101208010",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97278,
+                        "created_at": "2022-08-08T08:29:40.000000Z",
+                        "updated_at": "2022-08-08T08:29:40.000000Z"
+                    }
+                },
+                {
+                    "id": 97276,
+                    "name": "Mwembeni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:52.000000Z",
+                    "updated_at": "2022-07-13T08:38:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 143,
+                    "geocode": "2501221101208011",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97276,
+                        "created_at": "2022-08-08T08:29:41.000000Z",
+                        "updated_at": "2022-08-08T08:29:41.000000Z"
+                    }
+                },
+                {
+                    "id": 97281,
+                    "name": "Mwembeni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:54.000000Z",
+                    "updated_at": "2022-07-13T08:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 142,
+                    "geocode": "2501221101208012",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97281,
+                        "created_at": "2022-08-08T08:29:41.000000Z",
+                        "updated_at": "2022-08-08T08:29:41.000000Z"
+                    }
+                },
+                {
+                    "id": 97282,
+                    "name": "Mwembeni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:54.000000Z",
+                    "updated_at": "2022-07-13T08:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 105,
+                    "geocode": "2501221101208013",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97282,
+                        "created_at": "2022-08-08T08:29:42.000000Z",
+                        "updated_at": "2022-08-08T08:29:42.000000Z"
+                    }
+                },
+                {
+                    "id": 97284,
+                    "name": "Mwembeni-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:54.000000Z",
+                    "updated_at": "2022-07-13T08:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 76,
+                    "geocode": "2501221101208014",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97284,
+                        "created_at": "2022-08-08T08:29:42.000000Z",
+                        "updated_at": "2022-08-08T08:29:42.000000Z"
+                    }
+                },
+                {
+                    "id": 97279,
+                    "name": "Mwembeni-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:53.000000Z",
+                    "updated_at": "2022-07-13T08:38:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 136,
+                    "geocode": "2501221101208015",
+                    "pivot": {
+                        "location_id": 72894,
+                        "area_id": 97279,
+                        "created_at": "2022-08-08T08:29:43.000000Z",
+                        "updated_at": "2022-08-08T08:29:43.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72903,
+            "name": "NSHINDE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97256,
+                    "name": "Nshinde-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:45.000000Z",
+                    "updated_at": "2022-07-13T08:38:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 111,
+                    "geocode": "2501221101204001",
+                    "pivot": {
+                        "location_id": 72903,
+                        "area_id": 97256,
+                        "created_at": "2022-08-08T08:29:31.000000Z",
+                        "updated_at": "2022-08-08T08:29:31.000000Z"
+                    }
+                },
+                {
+                    "id": 97259,
+                    "name": "Nshinde-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:45.000000Z",
+                    "updated_at": "2022-07-13T08:38:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 112,
+                    "geocode": "2501221101204002",
+                    "pivot": {
+                        "location_id": 72903,
+                        "area_id": 97259,
+                        "created_at": "2022-08-08T08:29:32.000000Z",
+                        "updated_at": "2022-08-08T08:29:32.000000Z"
+                    }
+                },
+                {
+                    "id": 97257,
+                    "name": "Nshinde-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:45.000000Z",
+                    "updated_at": "2022-07-13T08:38:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 97,
+                    "geocode": "2501221101204003",
+                    "pivot": {
+                        "location_id": 72903,
+                        "area_id": 97257,
+                        "created_at": "2022-08-08T08:29:32.000000Z",
+                        "updated_at": "2022-08-08T08:29:32.000000Z"
+                    }
+                },
+                {
+                    "id": 97258,
+                    "name": "Nshinde-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:45.000000Z",
+                    "updated_at": "2022-07-13T08:38:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 102,
+                    "geocode": "2501221101204004",
+                    "pivot": {
+                        "location_id": 72903,
+                        "area_id": 97258,
+                        "created_at": "2022-08-08T08:29:32.000000Z",
+                        "updated_at": "2022-08-08T08:29:32.000000Z"
+                    }
+                },
+                {
+                    "id": 97260,
+                    "name": "Nshinde-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:46.000000Z",
+                    "updated_at": "2022-07-13T08:38:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 95,
+                    "geocode": "2501221101204005",
+                    "pivot": {
+                        "location_id": 72903,
+                        "area_id": 97260,
+                        "created_at": "2022-08-08T08:29:33.000000Z",
+                        "updated_at": "2022-08-08T08:29:33.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72902,
+            "name": "NYAKAGWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97251,
+                    "name": "Nyakagwe-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:43.000000Z",
+                    "updated_at": "2022-07-13T08:38:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 70,
+                    "geocode": "2501221101206001",
+                    "pivot": {
+                        "location_id": 72902,
+                        "area_id": 97251,
+                        "created_at": "2022-08-08T08:29:33.000000Z",
+                        "updated_at": "2022-08-08T08:29:33.000000Z"
+                    }
+                },
+                {
+                    "id": 97253,
+                    "name": "Nyakagwe-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:44.000000Z",
+                    "updated_at": "2022-07-13T08:38:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 61,
+                    "geocode": "2501221101206002",
+                    "pivot": {
+                        "location_id": 72902,
+                        "area_id": 97253,
+                        "created_at": "2022-08-08T08:29:34.000000Z",
+                        "updated_at": "2022-08-08T08:29:34.000000Z"
+                    }
+                },
+                {
+                    "id": 97250,
+                    "name": "Nyakagwe-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:43.000000Z",
+                    "updated_at": "2022-07-13T08:38:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 51,
+                    "geocode": "2501221101206003",
+                    "pivot": {
+                        "location_id": 72902,
+                        "area_id": 97250,
+                        "created_at": "2022-08-08T08:29:34.000000Z",
+                        "updated_at": "2022-08-08T08:29:34.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72897,
+            "name": "NYAMAKALE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97255,
+                    "name": "Nyamakale-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:44.000000Z",
+                    "updated_at": "2022-07-13T08:38:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 95,
+                    "geocode": "2501221101203001",
+                    "pivot": {
+                        "location_id": 72897,
+                        "area_id": 97255,
+                        "created_at": "2022-08-08T08:29:30.000000Z",
+                        "updated_at": "2022-08-08T08:29:30.000000Z"
+                    }
+                },
+                {
+                    "id": 97248,
+                    "name": "Nyamakale-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:42.000000Z",
+                    "updated_at": "2022-07-13T08:38:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 89,
+                    "geocode": "2501221101203002",
+                    "pivot": {
+                        "location_id": 72897,
+                        "area_id": 97248,
+                        "created_at": "2022-08-08T08:29:30.000000Z",
+                        "updated_at": "2022-08-08T08:29:30.000000Z"
+                    }
+                },
+                {
+                    "id": 97254,
+                    "name": "Nyamakale-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:44.000000Z",
+                    "updated_at": "2022-07-13T08:38:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 101,
+                    "geocode": "2501221101203003",
+                    "pivot": {
+                        "location_id": 72897,
+                        "area_id": 97254,
+                        "created_at": "2022-08-08T08:29:30.000000Z",
+                        "updated_at": "2022-08-08T08:29:30.000000Z"
+                    }
+                },
+                {
+                    "id": 97249,
+                    "name": "Nyamakale-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:43.000000Z",
+                    "updated_at": "2022-07-13T08:38:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 110,
+                    "geocode": "2501221101203004",
+                    "pivot": {
+                        "location_id": 72897,
+                        "area_id": 97249,
+                        "created_at": "2022-08-08T08:29:31.000000Z",
+                        "updated_at": "2022-08-08T08:29:31.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72895,
+            "name": "NYANTOROTORO A",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        },
+        {
+            "id": 72901,
+            "name": "NYANTOROTORO B",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": []
+        },
+        {
+            "id": 72899,
+            "name": "UWANJA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72893,
+                "name": "NYANKUMBU",
+                "postcode": "30145",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72834,
+                    "name": "GEITA TOWN COUNCIL",
+                    "postcode": "301",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72833,
+                        "name": "GEITA",
+                        "postcode": "301",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72832,
+                            "name": "GEITA",
+                            "postcode": "30",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97324,
+                    "name": "Uwanja-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:12.000000Z",
+                    "updated_at": "2022-07-13T08:39:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 144,
+                    "geocode": "2501221101201001",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97324,
+                        "created_at": "2022-08-08T08:28:26.000000Z",
+                        "updated_at": "2022-08-08T08:28:26.000000Z"
+                    }
+                },
+                {
+                    "id": 97318,
+                    "name": "Uwanja-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:08.000000Z",
+                    "updated_at": "2022-07-13T08:39:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 96,
+                    "geocode": "2501221101201002",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97318,
+                        "created_at": "2022-08-08T08:28:28.000000Z",
+                        "updated_at": "2022-08-08T08:28:28.000000Z"
+                    }
+                },
+                {
+                    "id": 97317,
+                    "name": "Uwanja-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:07.000000Z",
+                    "updated_at": "2022-07-13T08:39:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 147,
+                    "geocode": "2501221101201003",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97317,
+                        "created_at": "2022-08-08T08:28:29.000000Z",
+                        "updated_at": "2022-08-08T08:28:29.000000Z"
+                    }
+                },
+                {
+                    "id": 97301,
+                    "name": "Uwanja-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:01.000000Z",
+                    "updated_at": "2022-07-13T08:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 89,
+                    "geocode": "2501221101201004",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97301,
+                        "created_at": "2022-08-08T08:28:30.000000Z",
+                        "updated_at": "2022-08-08T08:28:30.000000Z"
+                    }
+                },
+                {
+                    "id": 97298,
+                    "name": "Uwanja-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:59.000000Z",
+                    "updated_at": "2022-07-13T08:38:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 128,
+                    "geocode": "2501221101201005",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97298,
+                        "created_at": "2022-08-08T08:28:32.000000Z",
+                        "updated_at": "2022-08-08T08:28:32.000000Z"
+                    }
+                },
+                {
+                    "id": 97304,
+                    "name": "Uwanja-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:02.000000Z",
+                    "updated_at": "2022-07-13T08:39:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 137,
+                    "geocode": "2501221101201006",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97304,
+                        "created_at": "2022-08-08T08:28:33.000000Z",
+                        "updated_at": "2022-08-08T08:28:33.000000Z"
+                    }
+                },
+                {
+                    "id": 97302,
+                    "name": "Uwanja-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:01.000000Z",
+                    "updated_at": "2022-07-13T08:39:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 120,
+                    "geocode": "2501221101201007",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97302,
+                        "created_at": "2022-08-08T08:28:34.000000Z",
+                        "updated_at": "2022-08-08T08:28:34.000000Z"
+                    }
+                },
+                {
+                    "id": 97291,
+                    "name": "Uwanja-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:57.000000Z",
+                    "updated_at": "2022-07-13T08:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 135,
+                    "geocode": "2501221101201008",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97291,
+                        "created_at": "2022-08-08T08:28:35.000000Z",
+                        "updated_at": "2022-08-08T08:28:35.000000Z"
+                    }
+                },
+                {
+                    "id": 97310,
+                    "name": "Uwanja-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:04.000000Z",
+                    "updated_at": "2022-07-13T08:39:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 143,
+                    "geocode": "2501221101201009",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97310,
+                        "created_at": "2022-08-08T08:28:36.000000Z",
+                        "updated_at": "2022-08-08T08:28:36.000000Z"
+                    }
+                },
+                {
+                    "id": 97305,
+                    "name": "Uwanja-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:03.000000Z",
+                    "updated_at": "2022-07-13T08:39:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 145,
+                    "geocode": "2501221101201010",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97305,
+                        "created_at": "2022-08-08T08:28:37.000000Z",
+                        "updated_at": "2022-08-08T08:28:37.000000Z"
+                    }
+                },
+                {
+                    "id": 97286,
+                    "name": "Uwanja-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:55.000000Z",
+                    "updated_at": "2022-07-13T08:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 148,
+                    "geocode": "2501221101201011",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97286,
+                        "created_at": "2022-08-08T08:28:38.000000Z",
+                        "updated_at": "2022-08-08T08:28:38.000000Z"
+                    }
+                },
+                {
+                    "id": 97315,
+                    "name": "Uwanja-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:06.000000Z",
+                    "updated_at": "2022-07-13T08:39:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 136,
+                    "geocode": "2501221101201012",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97315,
+                        "created_at": "2022-08-08T08:28:39.000000Z",
+                        "updated_at": "2022-08-08T08:28:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97321,
+                    "name": "Uwanja-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:10.000000Z",
+                    "updated_at": "2022-07-13T08:39:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 149,
+                    "geocode": "2501221101201013",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97321,
+                        "created_at": "2022-08-08T08:28:41.000000Z",
+                        "updated_at": "2022-08-08T08:28:41.000000Z"
+                    }
+                },
+                {
+                    "id": 97326,
+                    "name": "Uwanja-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:13.000000Z",
+                    "updated_at": "2022-07-13T08:39:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 124,
+                    "geocode": "2501221101201014",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97326,
+                        "created_at": "2022-08-08T08:28:42.000000Z",
+                        "updated_at": "2022-08-08T08:28:42.000000Z"
+                    }
+                },
+                {
+                    "id": 97300,
+                    "name": "Uwanja-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:00.000000Z",
+                    "updated_at": "2022-07-13T08:39:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 130,
+                    "geocode": "2501221101201015",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97300,
+                        "created_at": "2022-08-08T08:28:43.000000Z",
+                        "updated_at": "2022-08-08T08:28:43.000000Z"
+                    }
+                },
+                {
+                    "id": 97294,
+                    "name": "Uwanja-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:58.000000Z",
+                    "updated_at": "2022-07-13T08:38:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 126,
+                    "geocode": "2501221101201016",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97294,
+                        "created_at": "2022-08-08T08:28:45.000000Z",
+                        "updated_at": "2022-08-08T08:28:45.000000Z"
+                    }
+                },
+                {
+                    "id": 97269,
+                    "name": "Uwanja-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:49.000000Z",
+                    "updated_at": "2022-07-13T08:38:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 148,
+                    "geocode": "2501221101201017",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97269,
+                        "created_at": "2022-08-08T08:28:46.000000Z",
+                        "updated_at": "2022-08-08T08:28:46.000000Z"
+                    }
+                },
+                {
+                    "id": 97319,
+                    "name": "Uwanja-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:09.000000Z",
+                    "updated_at": "2022-07-13T08:39:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 127,
+                    "geocode": "2501221101201018",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97319,
+                        "created_at": "2022-08-08T08:28:47.000000Z",
+                        "updated_at": "2022-08-08T08:28:47.000000Z"
+                    }
+                },
+                {
+                    "id": 97320,
+                    "name": "Uwanja-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:09.000000Z",
+                    "updated_at": "2022-07-13T08:39:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 128,
+                    "geocode": "2501221101201019",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97320,
+                        "created_at": "2022-08-08T08:28:49.000000Z",
+                        "updated_at": "2022-08-08T08:28:49.000000Z"
+                    }
+                },
+                {
+                    "id": 97325,
+                    "name": "Uwanja-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:39:12.000000Z",
+                    "updated_at": "2022-07-13T08:39:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 148,
+                    "geocode": "2501221101201020",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97325,
+                        "created_at": "2022-08-08T08:28:50.000000Z",
+                        "updated_at": "2022-08-08T08:28:50.000000Z"
+                    }
+                },
+                {
+                    "id": 97289,
+                    "name": "Uwanja-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:56.000000Z",
+                    "updated_at": "2022-07-13T08:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 88,
+                    "geocode": "2501221101201021",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97289,
+                        "created_at": "2022-08-08T08:28:52.000000Z",
+                        "updated_at": "2022-08-08T08:28:52.000000Z"
+                    }
+                },
+                {
+                    "id": 97262,
+                    "name": "Uwanja-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:46.000000Z",
+                    "updated_at": "2022-07-13T08:38:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 136,
+                    "geocode": "2501221101201022",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97262,
+                        "created_at": "2022-08-08T08:28:53.000000Z",
+                        "updated_at": "2022-08-08T08:28:53.000000Z"
+                    }
+                },
+                {
+                    "id": 97265,
+                    "name": "Uwanja-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:48.000000Z",
+                    "updated_at": "2022-07-13T08:38:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 145,
+                    "geocode": "2501221101201023",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97265,
+                        "created_at": "2022-08-08T08:28:54.000000Z",
+                        "updated_at": "2022-08-08T08:28:54.000000Z"
+                    }
+                },
+                {
+                    "id": 97261,
+                    "name": "Uwanja-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:46.000000Z",
+                    "updated_at": "2022-07-13T08:38:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 146,
+                    "geocode": "2501221101201024",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97261,
+                        "created_at": "2022-08-08T08:28:56.000000Z",
+                        "updated_at": "2022-08-08T08:28:56.000000Z"
+                    }
+                },
+                {
+                    "id": 97270,
+                    "name": "Uwanja-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:50.000000Z",
+                    "updated_at": "2022-07-13T08:38:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 137,
+                    "geocode": "2501221101201025",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97270,
+                        "created_at": "2022-08-08T08:28:57.000000Z",
+                        "updated_at": "2022-08-08T08:28:57.000000Z"
+                    }
+                },
+                {
+                    "id": 97266,
+                    "name": "Uwanja-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:48.000000Z",
+                    "updated_at": "2022-07-13T08:38:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 98,
+                    "geocode": "2501221101201026",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97266,
+                        "created_at": "2022-08-08T08:28:59.000000Z",
+                        "updated_at": "2022-08-08T08:28:59.000000Z"
+                    }
+                },
+                {
+                    "id": 97268,
+                    "name": "Uwanja-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:49.000000Z",
+                    "updated_at": "2022-07-13T08:38:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 53,
+                    "geocode": "2501221101201027",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97268,
+                        "created_at": "2022-08-08T08:29:00.000000Z",
+                        "updated_at": "2022-08-08T08:29:00.000000Z"
+                    }
+                },
+                {
+                    "id": 97267,
+                    "name": "Uwanja-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:48.000000Z",
+                    "updated_at": "2022-07-13T08:38:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 110,
+                    "geocode": "2501221101201028",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97267,
+                        "created_at": "2022-08-08T08:29:02.000000Z",
+                        "updated_at": "2022-08-08T08:29:02.000000Z"
+                    }
+                },
+                {
+                    "id": 97264,
+                    "name": "Uwanja-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:47.000000Z",
+                    "updated_at": "2022-07-13T08:38:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 136,
+                    "geocode": "2501221101201029",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97264,
+                        "created_at": "2022-08-08T08:29:03.000000Z",
+                        "updated_at": "2022-08-08T08:29:03.000000Z"
+                    }
+                },
+                {
+                    "id": 97263,
+                    "name": "Uwanja-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T08:38:47.000000Z",
+                    "updated_at": "2022-07-13T08:38:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": 72,
+                    "geocode": "2501221101201030",
+                    "pivot": {
+                        "location_id": 72899,
+                        "area_id": 97263,
+                        "created_at": "2022-08-08T08:29:05.000000Z",
+                        "updated_at": "2022-08-08T08:29:05.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
