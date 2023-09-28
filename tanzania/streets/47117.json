@@ -1,0 +1,884 @@
+{
+    "data": [
+        {
+            "id": 110212,
+            "name": "BUREGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75256,
+                "name": "BUZEBAZEBA",
+                "postcode": "47117",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75239,
+                    "name": "KIGOMA UJIJI MUNICIPAL COUNCIL",
+                    "postcode": "471",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75238,
+                        "name": "KIGOMA CBD",
+                        "postcode": "471",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70884,
+                            "name": "KIGOMA",
+                            "postcode": "47",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97536,
+                    "name": "Burega-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:48.000000Z",
+                    "updated_at": "2022-07-13T09:07:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 148,
+                    "geocode": "1603232214203001",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97536,
+                        "created_at": "2022-08-09T06:36:47.000000Z",
+                        "updated_at": "2022-08-09T06:36:47.000000Z"
+                    }
+                },
+                {
+                    "id": 97535,
+                    "name": "Burega-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:48.000000Z",
+                    "updated_at": "2022-07-13T09:07:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 55,
+                    "geocode": "1603232214203002",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97535,
+                        "created_at": "2022-08-09T06:36:48.000000Z",
+                        "updated_at": "2022-08-09T06:36:48.000000Z"
+                    }
+                },
+                {
+                    "id": 97545,
+                    "name": "Burega-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:50.000000Z",
+                    "updated_at": "2022-07-13T09:07:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 149,
+                    "geocode": "1603232214203003",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97545,
+                        "created_at": "2022-08-09T06:36:49.000000Z",
+                        "updated_at": "2022-08-09T06:36:49.000000Z"
+                    }
+                },
+                {
+                    "id": 97522,
+                    "name": "Burega-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:46.000000Z",
+                    "updated_at": "2022-07-13T09:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 145,
+                    "geocode": "1603232214203004",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97522,
+                        "created_at": "2022-08-09T06:36:49.000000Z",
+                        "updated_at": "2022-08-09T06:36:49.000000Z"
+                    }
+                },
+                {
+                    "id": 97533,
+                    "name": "Burega-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:48.000000Z",
+                    "updated_at": "2022-07-13T09:07:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 138,
+                    "geocode": "1603232214203005",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97533,
+                        "created_at": "2022-08-09T06:36:50.000000Z",
+                        "updated_at": "2022-08-09T06:36:50.000000Z"
+                    }
+                },
+                {
+                    "id": 97546,
+                    "name": "Burega-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:50.000000Z",
+                    "updated_at": "2022-07-13T09:07:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 130,
+                    "geocode": "1603232214203006",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97546,
+                        "created_at": "2022-08-09T06:36:51.000000Z",
+                        "updated_at": "2022-08-09T06:36:51.000000Z"
+                    }
+                },
+                {
+                    "id": 97520,
+                    "name": "Burega-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:45.000000Z",
+                    "updated_at": "2022-07-13T09:07:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 145,
+                    "geocode": "1603232214203007",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97520,
+                        "created_at": "2022-08-09T06:36:51.000000Z",
+                        "updated_at": "2022-08-09T06:36:51.000000Z"
+                    }
+                },
+                {
+                    "id": 97531,
+                    "name": "Burega-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:47.000000Z",
+                    "updated_at": "2022-07-13T09:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 140,
+                    "geocode": "1603232214203008",
+                    "pivot": {
+                        "location_id": 110212,
+                        "area_id": 97531,
+                        "created_at": "2022-08-09T06:36:52.000000Z",
+                        "updated_at": "2022-08-09T06:36:52.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 110213,
+            "name": "LAKE TANGANYIKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75256,
+                "name": "BUZEBAZEBA",
+                "postcode": "47117",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75239,
+                    "name": "KIGOMA UJIJI MUNICIPAL COUNCIL",
+                    "postcode": "471",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75238,
+                        "name": "KIGOMA CBD",
+                        "postcode": "471",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70884,
+                            "name": "KIGOMA",
+                            "postcode": "47",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97530,
+                    "name": "Lake Tanganyika-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:47.000000Z",
+                    "updated_at": "2022-07-13T09:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 145,
+                    "geocode": "1603232214201001",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97530,
+                        "created_at": "2022-08-09T06:36:35.000000Z",
+                        "updated_at": "2022-08-09T06:36:35.000000Z"
+                    }
+                },
+                {
+                    "id": 97529,
+                    "name": "Lake Tanganyika-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:47.000000Z",
+                    "updated_at": "2022-07-13T09:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 142,
+                    "geocode": "1603232214201002",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97529,
+                        "created_at": "2022-08-09T06:36:35.000000Z",
+                        "updated_at": "2022-08-09T06:36:35.000000Z"
+                    }
+                },
+                {
+                    "id": 97548,
+                    "name": "Lake Tanganyika-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:51.000000Z",
+                    "updated_at": "2022-07-13T09:07:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 150,
+                    "geocode": "1603232214201003",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97548,
+                        "created_at": "2022-08-09T06:36:36.000000Z",
+                        "updated_at": "2022-08-09T06:36:36.000000Z"
+                    }
+                },
+                {
+                    "id": 97527,
+                    "name": "Laka Tanganyika-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:46.000000Z",
+                    "updated_at": "2022-07-13T09:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 135,
+                    "geocode": "1603232214201004",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97527,
+                        "created_at": "2022-08-09T06:36:37.000000Z",
+                        "updated_at": "2022-08-09T06:36:37.000000Z"
+                    }
+                },
+                {
+                    "id": 97537,
+                    "name": "Lake Tanganyika-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:49.000000Z",
+                    "updated_at": "2022-07-13T09:07:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 130,
+                    "geocode": "1603232214201005",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97537,
+                        "created_at": "2022-08-09T06:36:37.000000Z",
+                        "updated_at": "2022-08-09T06:36:37.000000Z"
+                    }
+                },
+                {
+                    "id": 97526,
+                    "name": "Lake Tanganyika-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:46.000000Z",
+                    "updated_at": "2022-07-13T09:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 146,
+                    "geocode": "1603232214201006",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97526,
+                        "created_at": "2022-08-09T06:36:38.000000Z",
+                        "updated_at": "2022-08-09T06:36:38.000000Z"
+                    }
+                },
+                {
+                    "id": 97525,
+                    "name": "Lake Tanganyika-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:46.000000Z",
+                    "updated_at": "2022-07-13T09:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 142,
+                    "geocode": "1603232214201007",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97525,
+                        "created_at": "2022-08-09T06:36:39.000000Z",
+                        "updated_at": "2022-08-09T06:36:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97532,
+                    "name": "Lake Tanganyika-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:47.000000Z",
+                    "updated_at": "2022-07-13T09:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 138,
+                    "geocode": "1603232214201008",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97532,
+                        "created_at": "2022-08-09T06:36:39.000000Z",
+                        "updated_at": "2022-08-09T06:36:39.000000Z"
+                    }
+                },
+                {
+                    "id": 97534,
+                    "name": "Lake Tanganyika-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:48.000000Z",
+                    "updated_at": "2022-07-13T09:07:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 123,
+                    "geocode": "1603232214201009",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97534,
+                        "created_at": "2022-08-09T06:36:40.000000Z",
+                        "updated_at": "2022-08-09T06:36:40.000000Z"
+                    }
+                },
+                {
+                    "id": 97524,
+                    "name": "Lake Tanganyika-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:46.000000Z",
+                    "updated_at": "2022-07-13T09:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 135,
+                    "geocode": "1603232214201010",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97524,
+                        "created_at": "2022-08-09T06:36:41.000000Z",
+                        "updated_at": "2022-08-09T06:36:41.000000Z"
+                    }
+                },
+                {
+                    "id": 97539,
+                    "name": "Lake Tanganyika-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:49.000000Z",
+                    "updated_at": "2022-07-13T09:07:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 140,
+                    "geocode": "1603232214201011",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97539,
+                        "created_at": "2022-08-09T06:36:41.000000Z",
+                        "updated_at": "2022-08-09T06:36:41.000000Z"
+                    }
+                },
+                {
+                    "id": 97521,
+                    "name": "Lake Tanganyika-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:45.000000Z",
+                    "updated_at": "2022-07-13T09:07:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 55,
+                    "geocode": "1603232214201012",
+                    "pivot": {
+                        "location_id": 110213,
+                        "area_id": 97521,
+                        "created_at": "2022-08-09T06:36:42.000000Z",
+                        "updated_at": "2022-08-09T06:36:42.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 110211,
+            "name": "SOKOINE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75256,
+                "name": "BUZEBAZEBA",
+                "postcode": "47117",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75239,
+                    "name": "KIGOMA UJIJI MUNICIPAL COUNCIL",
+                    "postcode": "471",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75238,
+                        "name": "KIGOMA CBD",
+                        "postcode": "471",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70884,
+                            "name": "KIGOMA",
+                            "postcode": "47",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 97544,
+                    "name": "Sokoine-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:50.000000Z",
+                    "updated_at": "2022-07-13T09:07:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 131,
+                    "geocode": "1603232214202001",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97544,
+                        "created_at": "2022-08-09T06:36:43.000000Z",
+                        "updated_at": "2022-08-09T06:36:43.000000Z"
+                    }
+                },
+                {
+                    "id": 97542,
+                    "name": "Sokoine-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:49.000000Z",
+                    "updated_at": "2022-07-13T09:07:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 149,
+                    "geocode": "1603232214202002",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97542,
+                        "created_at": "2022-08-09T06:36:43.000000Z",
+                        "updated_at": "2022-08-09T06:36:43.000000Z"
+                    }
+                },
+                {
+                    "id": 97541,
+                    "name": "Sokoine-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:49.000000Z",
+                    "updated_at": "2022-07-13T09:07:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 141,
+                    "geocode": "1603232214202003",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97541,
+                        "created_at": "2022-08-09T06:36:44.000000Z",
+                        "updated_at": "2022-08-09T06:36:44.000000Z"
+                    }
+                },
+                {
+                    "id": 97528,
+                    "name": "Sokoine-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:47.000000Z",
+                    "updated_at": "2022-07-13T09:07:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 128,
+                    "geocode": "1603232214202004",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97528,
+                        "created_at": "2022-08-09T06:36:44.000000Z",
+                        "updated_at": "2022-08-09T06:36:44.000000Z"
+                    }
+                },
+                {
+                    "id": 97543,
+                    "name": "Sokoine-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:50.000000Z",
+                    "updated_at": "2022-07-13T09:07:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 122,
+                    "geocode": "1603232214202005",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97543,
+                        "created_at": "2022-08-09T06:36:45.000000Z",
+                        "updated_at": "2022-08-09T06:36:45.000000Z"
+                    }
+                },
+                {
+                    "id": 97538,
+                    "name": "Sokoine-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:49.000000Z",
+                    "updated_at": "2022-07-13T09:07:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 141,
+                    "geocode": "1603232214202006",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97538,
+                        "created_at": "2022-08-09T06:36:45.000000Z",
+                        "updated_at": "2022-08-09T06:36:45.000000Z"
+                    }
+                },
+                {
+                    "id": 97540,
+                    "name": "Sokoine-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:49.000000Z",
+                    "updated_at": "2022-07-13T09:07:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 122,
+                    "geocode": "1603232214202007",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97540,
+                        "created_at": "2022-08-09T06:36:46.000000Z",
+                        "updated_at": "2022-08-09T06:36:46.000000Z"
+                    }
+                },
+                {
+                    "id": 97523,
+                    "name": "Sokoine-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:46.000000Z",
+                    "updated_at": "2022-07-13T09:07:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 134,
+                    "geocode": "1603232214202008",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97523,
+                        "created_at": "2022-08-09T06:36:46.000000Z",
+                        "updated_at": "2022-08-09T06:36:46.000000Z"
+                    }
+                },
+                {
+                    "id": 97547,
+                    "name": "Sokoine-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-13T09:07:51.000000Z",
+                    "updated_at": "2022-07-13T09:07:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 113,
+                    "geocode": "1603232214202009",
+                    "pivot": {
+                        "location_id": 110211,
+                        "area_id": 97547,
+                        "created_at": "2022-08-09T06:36:47.000000Z",
+                        "updated_at": "2022-08-09T06:36:47.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
