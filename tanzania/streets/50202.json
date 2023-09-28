@@ -1,0 +1,564 @@
+{
+    "data": [
+        {
+            "id": 100456,
+            "name": "ITUNYA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75205,
+                "name": "KAPALAMSENGA",
+                "postcode": "50202",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75203,
+                    "name": "TANGANYIKA DISTRICT COUNCIL",
+                    "postcode": "502",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75202,
+                        "name": "TANGANYIKA",
+                        "postcode": "502",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137184,
+                    "name": "Migungani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:09.000000Z",
+                    "updated_at": "2022-07-29T10:16:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100456,
+                        "area_id": 137184,
+                        "created_at": "2022-08-12T14:42:51.000000Z",
+                        "updated_at": "2022-08-12T14:42:51.000000Z"
+                    }
+                },
+                {
+                    "id": 137185,
+                    "name": "Nkuswe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:09.000000Z",
+                    "updated_at": "2022-07-29T10:16:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100456,
+                        "area_id": 137185,
+                        "created_at": "2022-08-12T14:42:51.000000Z",
+                        "updated_at": "2022-08-12T14:42:51.000000Z"
+                    }
+                },
+                {
+                    "id": 137186,
+                    "name": "Nsango",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:10.000000Z",
+                    "updated_at": "2022-07-29T10:16:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100456,
+                        "area_id": 137186,
+                        "created_at": "2022-08-12T14:42:51.000000Z",
+                        "updated_at": "2022-08-12T14:42:51.000000Z"
+                    }
+                },
+                {
+                    "id": 137187,
+                    "name": "Kamitobo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:10.000000Z",
+                    "updated_at": "2022-07-29T10:16:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100456,
+                        "area_id": 137187,
+                        "created_at": "2022-08-12T14:42:52.000000Z",
+                        "updated_at": "2022-08-12T14:42:52.000000Z"
+                    }
+                },
+                {
+                    "id": 137188,
+                    "name": "Munyundwe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:10.000000Z",
+                    "updated_at": "2022-07-29T10:16:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100456,
+                        "area_id": 137188,
+                        "created_at": "2022-08-12T14:42:52.000000Z",
+                        "updated_at": "2022-08-12T14:42:52.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100454,
+            "name": "KAPALAMSENGA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75205,
+                "name": "KAPALAMSENGA",
+                "postcode": "50202",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75203,
+                    "name": "TANGANYIKA DISTRICT COUNCIL",
+                    "postcode": "502",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75202,
+                        "name": "TANGANYIKA",
+                        "postcode": "502",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137193,
+                    "name": "Msasani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:11.000000Z",
+                    "updated_at": "2022-07-29T10:16:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100454,
+                        "area_id": 137193,
+                        "created_at": "2022-08-12T14:42:53.000000Z",
+                        "updated_at": "2022-08-12T14:42:53.000000Z"
+                    }
+                },
+                {
+                    "id": 137194,
+                    "name": "Mjimwema",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:11.000000Z",
+                    "updated_at": "2022-07-29T10:16:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100454,
+                        "area_id": 137194,
+                        "created_at": "2022-08-12T14:42:54.000000Z",
+                        "updated_at": "2022-08-12T14:42:54.000000Z"
+                    }
+                },
+                {
+                    "id": 137195,
+                    "name": "Majengo B",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:11.000000Z",
+                    "updated_at": "2022-07-29T10:16:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100454,
+                        "area_id": 137195,
+                        "created_at": "2022-08-12T14:42:54.000000Z",
+                        "updated_at": "2022-08-12T14:42:54.000000Z"
+                    }
+                },
+                {
+                    "id": 137196,
+                    "name": "Kamalamansa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:12.000000Z",
+                    "updated_at": "2022-07-29T10:16:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100454,
+                        "area_id": 137196,
+                        "created_at": "2022-08-12T14:42:54.000000Z",
+                        "updated_at": "2022-08-12T14:42:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 100455,
+            "name": "SONGAMBELE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75205,
+                "name": "KAPALAMSENGA",
+                "postcode": "50202",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75203,
+                    "name": "TANGANYIKA DISTRICT COUNCIL",
+                    "postcode": "502",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75202,
+                        "name": "TANGANYIKA",
+                        "postcode": "502",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 75159,
+                            "name": "KATAVI",
+                            "postcode": "50",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 137189,
+                    "name": "Mtakuja",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:10.000000Z",
+                    "updated_at": "2022-07-29T10:16:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100455,
+                        "area_id": 137189,
+                        "created_at": "2022-08-12T14:42:52.000000Z",
+                        "updated_at": "2022-08-12T14:42:52.000000Z"
+                    }
+                },
+                {
+                    "id": 137190,
+                    "name": "Songambele",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:10.000000Z",
+                    "updated_at": "2022-07-29T10:16:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100455,
+                        "area_id": 137190,
+                        "created_at": "2022-08-12T14:42:52.000000Z",
+                        "updated_at": "2022-08-12T14:42:52.000000Z"
+                    }
+                },
+                {
+                    "id": 137191,
+                    "name": "Majengo A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:11.000000Z",
+                    "updated_at": "2022-07-29T10:16:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100455,
+                        "area_id": 137191,
+                        "created_at": "2022-08-12T14:42:53.000000Z",
+                        "updated_at": "2022-08-12T14:42:53.000000Z"
+                    }
+                },
+                {
+                    "id": 137192,
+                    "name": "Milundumo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-29T10:16:11.000000Z",
+                    "updated_at": "2022-07-29T10:16:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 100455,
+                        "area_id": 137192,
+                        "created_at": "2022-08-12T14:42:53.000000Z",
+                        "updated_at": "2022-08-12T14:42:53.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
