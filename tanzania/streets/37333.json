@@ -1,0 +1,884 @@
+{
+    "data": [
+        {
+            "id": 81331,
+            "name": "ILUNGU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81326,
+                "name": "IYENZE",
+                "postcode": "37333",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191283,
+                    "name": "Ilungu 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:15:58.000000Z",
+                    "updated_at": "2022-08-10T08:15:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81331,
+                        "area_id": 191283,
+                        "created_at": "2022-08-10T08:15:58.000000Z",
+                        "updated_at": "2022-08-10T08:15:58.000000Z"
+                    }
+                },
+                {
+                    "id": 191284,
+                    "name": "Ilungu 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:15:58.000000Z",
+                    "updated_at": "2022-08-10T08:15:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81331,
+                        "area_id": 191284,
+                        "created_at": "2022-08-10T08:15:58.000000Z",
+                        "updated_at": "2022-08-10T08:15:58.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81330,
+            "name": "ISALENGE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81326,
+                "name": "IYENZE",
+                "postcode": "37333",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191298,
+                    "name": "Butawambogo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:04.000000Z",
+                    "updated_at": "2022-08-10T08:16:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81330,
+                        "area_id": 191298,
+                        "created_at": "2022-08-10T08:16:04.000000Z",
+                        "updated_at": "2022-08-10T08:16:04.000000Z"
+                    }
+                },
+                {
+                    "id": 191299,
+                    "name": "Isalenge 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:05.000000Z",
+                    "updated_at": "2022-08-10T08:16:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81330,
+                        "area_id": 191299,
+                        "created_at": "2022-08-10T08:16:05.000000Z",
+                        "updated_at": "2022-08-10T08:16:05.000000Z"
+                    }
+                },
+                {
+                    "id": 191300,
+                    "name": "Mapingili",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:05.000000Z",
+                    "updated_at": "2022-08-10T08:16:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81330,
+                        "area_id": 191300,
+                        "created_at": "2022-08-10T08:16:05.000000Z",
+                        "updated_at": "2022-08-10T08:16:05.000000Z"
+                    }
+                },
+                {
+                    "id": 191301,
+                    "name": "Isalenge 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:05.000000Z",
+                    "updated_at": "2022-08-10T08:16:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81330,
+                        "area_id": 191301,
+                        "created_at": "2022-08-10T08:16:05.000000Z",
+                        "updated_at": "2022-08-10T08:16:05.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81329,
+            "name": "ISHIKI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81326,
+                "name": "IYENZE",
+                "postcode": "37333",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191285,
+                    "name": "Holohondo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:15:59.000000Z",
+                    "updated_at": "2022-08-10T08:15:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81329,
+                        "area_id": 191285,
+                        "created_at": "2022-08-10T08:15:59.000000Z",
+                        "updated_at": "2022-08-10T08:15:59.000000Z"
+                    }
+                },
+                {
+                    "id": 191286,
+                    "name": "Ishiki 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:15:59.000000Z",
+                    "updated_at": "2022-08-10T08:15:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81329,
+                        "area_id": 191286,
+                        "created_at": "2022-08-10T08:15:59.000000Z",
+                        "updated_at": "2022-08-10T08:15:59.000000Z"
+                    }
+                },
+                {
+                    "id": 191287,
+                    "name": "Ishiki 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:15:59.000000Z",
+                    "updated_at": "2022-08-10T08:15:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81329,
+                        "area_id": 191287,
+                        "created_at": "2022-08-10T08:15:59.000000Z",
+                        "updated_at": "2022-08-10T08:15:59.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81327,
+            "name": "IYENZE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81326,
+                "name": "IYENZE",
+                "postcode": "37333",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191292,
+                    "name": "Isagehe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:01.000000Z",
+                    "updated_at": "2022-08-10T08:16:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81327,
+                        "area_id": 191292,
+                        "created_at": "2022-08-10T08:16:01.000000Z",
+                        "updated_at": "2022-08-10T08:16:01.000000Z"
+                    }
+                },
+                {
+                    "id": 191293,
+                    "name": "Iyenze Senta",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:02.000000Z",
+                    "updated_at": "2022-08-10T08:16:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81327,
+                        "area_id": 191293,
+                        "created_at": "2022-08-10T08:16:02.000000Z",
+                        "updated_at": "2022-08-10T08:16:02.000000Z"
+                    }
+                },
+                {
+                    "id": 191294,
+                    "name": "Itwilike",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:02.000000Z",
+                    "updated_at": "2022-08-10T08:16:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81327,
+                        "area_id": 191294,
+                        "created_at": "2022-08-10T08:16:02.000000Z",
+                        "updated_at": "2022-08-10T08:16:02.000000Z"
+                    }
+                },
+                {
+                    "id": 191295,
+                    "name": "Iyenze Kaskazini",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:03.000000Z",
+                    "updated_at": "2022-08-10T08:16:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81327,
+                        "area_id": 191295,
+                        "created_at": "2022-08-10T08:16:03.000000Z",
+                        "updated_at": "2022-08-10T08:16:03.000000Z"
+                    }
+                },
+                {
+                    "id": 191296,
+                    "name": "Iyenze Mashariki",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:03.000000Z",
+                    "updated_at": "2022-08-10T08:16:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81327,
+                        "area_id": 191296,
+                        "created_at": "2022-08-10T08:16:03.000000Z",
+                        "updated_at": "2022-08-10T08:16:03.000000Z"
+                    }
+                },
+                {
+                    "id": 191297,
+                    "name": "Buchama",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:03.000000Z",
+                    "updated_at": "2022-08-10T08:16:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81327,
+                        "area_id": 191297,
+                        "created_at": "2022-08-10T08:16:03.000000Z",
+                        "updated_at": "2022-08-10T08:16:03.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 81328,
+            "name": "KAWE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 81326,
+                "name": "IYENZE",
+                "postcode": "37333",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 81233,
+                    "name": "KAHAMA TOWN COUNCIL",
+                    "postcode": "373",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 81232,
+                        "name": "KAHAMA",
+                        "postcode": "373",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 80986,
+                            "name": "SHINYANGA",
+                            "postcode": "37",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 2,
+                                "name": "LAKE ZONE",
+                                "postcode": "3",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 191288,
+                    "name": "Kawe 'B'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:00.000000Z",
+                    "updated_at": "2022-08-10T08:16:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81328,
+                        "area_id": 191288,
+                        "created_at": "2022-08-10T08:16:00.000000Z",
+                        "updated_at": "2022-08-10T08:16:00.000000Z"
+                    }
+                },
+                {
+                    "id": 191289,
+                    "name": "Kawe 'A'",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:00.000000Z",
+                    "updated_at": "2022-08-10T08:16:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81328,
+                        "area_id": 191289,
+                        "created_at": "2022-08-10T08:16:00.000000Z",
+                        "updated_at": "2022-08-10T08:16:00.000000Z"
+                    }
+                },
+                {
+                    "id": 191290,
+                    "name": "Maseka",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:00.000000Z",
+                    "updated_at": "2022-08-10T08:16:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81328,
+                        "area_id": 191290,
+                        "created_at": "2022-08-10T08:16:00.000000Z",
+                        "updated_at": "2022-08-10T08:16:00.000000Z"
+                    }
+                },
+                {
+                    "id": 191291,
+                    "name": "Kamilasato",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-10T08:16:01.000000Z",
+                    "updated_at": "2022-08-10T08:16:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 81328,
+                        "area_id": 191291,
+                        "created_at": "2022-08-10T08:16:01.000000Z",
+                        "updated_at": "2022-08-10T08:16:01.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
