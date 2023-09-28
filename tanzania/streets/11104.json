@@ -1,0 +1,652 @@
+{
+    "data": [
+        {
+            "id": 72162,
+            "name": "KISUTU",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72161,
+                "name": "KISUTU",
+                "postcode": "11104",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130052,
+                    "name": "Kisutu-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130052,
+                        "created_at": "2022-08-13T11:07:04.000000Z",
+                        "updated_at": "2022-08-13T11:07:04.000000Z"
+                    }
+                },
+                {
+                    "id": 130053,
+                    "name": "Kisutu-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:56.000000Z",
+                    "updated_at": "2022-07-27T17:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130053,
+                        "created_at": "2022-08-13T11:07:04.000000Z",
+                        "updated_at": "2022-08-13T11:07:04.000000Z"
+                    }
+                },
+                {
+                    "id": 130054,
+                    "name": "Kisutu-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:56.000000Z",
+                    "updated_at": "2022-07-27T17:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130054,
+                        "created_at": "2022-08-13T11:07:04.000000Z",
+                        "updated_at": "2022-08-13T11:07:04.000000Z"
+                    }
+                },
+                {
+                    "id": 130055,
+                    "name": "Kisutu-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:56.000000Z",
+                    "updated_at": "2022-07-27T17:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130055,
+                        "created_at": "2022-08-13T11:07:04.000000Z",
+                        "updated_at": "2022-08-13T11:07:04.000000Z"
+                    }
+                },
+                {
+                    "id": 130056,
+                    "name": "Kisutu-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:56.000000Z",
+                    "updated_at": "2022-07-27T17:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130056,
+                        "created_at": "2022-08-13T11:07:05.000000Z",
+                        "updated_at": "2022-08-13T11:07:05.000000Z"
+                    }
+                },
+                {
+                    "id": 130057,
+                    "name": "Kisutu-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:56.000000Z",
+                    "updated_at": "2022-07-27T17:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130057,
+                        "created_at": "2022-08-13T11:07:05.000000Z",
+                        "updated_at": "2022-08-13T11:07:05.000000Z"
+                    }
+                },
+                {
+                    "id": 130058,
+                    "name": "Kisutu-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:56.000000Z",
+                    "updated_at": "2022-07-27T17:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130058,
+                        "created_at": "2022-08-13T11:07:05.000000Z",
+                        "updated_at": "2022-08-13T11:07:05.000000Z"
+                    }
+                },
+                {
+                    "id": 130059,
+                    "name": "Kisutu-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:56.000000Z",
+                    "updated_at": "2022-07-27T17:38:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130059,
+                        "created_at": "2022-08-13T11:07:05.000000Z",
+                        "updated_at": "2022-08-13T11:07:05.000000Z"
+                    }
+                },
+                {
+                    "id": 130060,
+                    "name": "Kisutu-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:57.000000Z",
+                    "updated_at": "2022-07-27T17:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130060,
+                        "created_at": "2022-08-13T11:07:06.000000Z",
+                        "updated_at": "2022-08-13T11:07:06.000000Z"
+                    }
+                },
+                {
+                    "id": 130061,
+                    "name": "Kisutu-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:57.000000Z",
+                    "updated_at": "2022-07-27T17:38:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72162,
+                        "area_id": 130061,
+                        "created_at": "2022-08-13T11:07:06.000000Z",
+                        "updated_at": "2022-08-13T11:07:06.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72163,
+            "name": "MTENDENI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72161,
+                "name": "KISUTU",
+                "postcode": "11104",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72185,
+                    "name": "DAR ES SALAAM CITY COUNCIL",
+                    "postcode": "121",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72184,
+                        "name": "ILALA",
+                        "postcode": "121",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72183,
+                            "name": "ILALA",
+                            "postcode": "12",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 130041,
+                    "name": "Mtendeni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:54.000000Z",
+                    "updated_at": "2022-07-27T17:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130041,
+                        "created_at": "2022-08-13T11:07:01.000000Z",
+                        "updated_at": "2022-08-13T11:07:01.000000Z"
+                    }
+                },
+                {
+                    "id": 130042,
+                    "name": "Mtendeni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:54.000000Z",
+                    "updated_at": "2022-07-27T17:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130042,
+                        "created_at": "2022-08-13T11:07:01.000000Z",
+                        "updated_at": "2022-08-13T11:07:01.000000Z"
+                    }
+                },
+                {
+                    "id": 130043,
+                    "name": "Mtendeni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:54.000000Z",
+                    "updated_at": "2022-07-27T17:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130043,
+                        "created_at": "2022-08-13T11:07:02.000000Z",
+                        "updated_at": "2022-08-13T11:07:02.000000Z"
+                    }
+                },
+                {
+                    "id": 130044,
+                    "name": "Mtendeni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:54.000000Z",
+                    "updated_at": "2022-07-27T17:38:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130044,
+                        "created_at": "2022-08-13T11:07:02.000000Z",
+                        "updated_at": "2022-08-13T11:07:02.000000Z"
+                    }
+                },
+                {
+                    "id": 130045,
+                    "name": "Mtendeni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130045,
+                        "created_at": "2022-08-13T11:07:02.000000Z",
+                        "updated_at": "2022-08-13T11:07:02.000000Z"
+                    }
+                },
+                {
+                    "id": 130046,
+                    "name": "Mtendeni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130046,
+                        "created_at": "2022-08-13T11:07:02.000000Z",
+                        "updated_at": "2022-08-13T11:07:02.000000Z"
+                    }
+                },
+                {
+                    "id": 130047,
+                    "name": "Mtendeni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130047,
+                        "created_at": "2022-08-13T11:07:02.000000Z",
+                        "updated_at": "2022-08-13T11:07:02.000000Z"
+                    }
+                },
+                {
+                    "id": 130048,
+                    "name": "Mtendeni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130048,
+                        "created_at": "2022-08-13T11:07:03.000000Z",
+                        "updated_at": "2022-08-13T11:07:03.000000Z"
+                    }
+                },
+                {
+                    "id": 130049,
+                    "name": "Mtendeni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130049,
+                        "created_at": "2022-08-13T11:07:03.000000Z",
+                        "updated_at": "2022-08-13T11:07:03.000000Z"
+                    }
+                },
+                {
+                    "id": 130050,
+                    "name": "Mtendeni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130050,
+                        "created_at": "2022-08-13T11:07:03.000000Z",
+                        "updated_at": "2022-08-13T11:07:03.000000Z"
+                    }
+                },
+                {
+                    "id": 130051,
+                    "name": "Mtendeni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T17:38:55.000000Z",
+                    "updated_at": "2022-07-27T17:38:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72163,
+                        "area_id": 130051,
+                        "created_at": "2022-08-13T11:07:04.000000Z",
+                        "updated_at": "2022-08-13T11:07:04.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
