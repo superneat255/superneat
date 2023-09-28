@@ -1,0 +1,604 @@
+{
+    "data": [
+        {
+            "id": 88640,
+            "name": "KIFURA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75323,
+                "name": "BUSAGARA",
+                "postcode": "47407",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75316,
+                    "name": "KIBONDO DISTRICT COUNCIL",
+                    "postcode": "474",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75315,
+                        "name": "KIBONDO",
+                        "postcode": "474",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70884,
+                            "name": "KIGOMA",
+                            "postcode": "47",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 177027,
+                    "name": "Songambele",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:44.000000Z",
+                    "updated_at": "2022-08-09T05:58:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177027,
+                        "created_at": "2022-08-09T07:37:11.000000Z",
+                        "updated_at": "2022-08-09T07:37:11.000000Z"
+                    }
+                },
+                {
+                    "id": 177028,
+                    "name": "Busagara \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:44.000000Z",
+                    "updated_at": "2022-08-09T05:58:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177028,
+                        "created_at": "2022-08-09T07:37:11.000000Z",
+                        "updated_at": "2022-08-09T07:37:11.000000Z"
+                    }
+                },
+                {
+                    "id": 177029,
+                    "name": "Kihera \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:45.000000Z",
+                    "updated_at": "2022-08-09T05:58:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177029,
+                        "created_at": "2022-08-09T07:37:12.000000Z",
+                        "updated_at": "2022-08-09T07:37:12.000000Z"
+                    }
+                },
+                {
+                    "id": 177030,
+                    "name": "Kihera \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:45.000000Z",
+                    "updated_at": "2022-08-09T05:58:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177030,
+                        "created_at": "2022-08-09T07:37:12.000000Z",
+                        "updated_at": "2022-08-09T07:37:12.000000Z"
+                    }
+                },
+                {
+                    "id": 177031,
+                    "name": "Kimanga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:46.000000Z",
+                    "updated_at": "2022-08-09T05:58:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177031,
+                        "created_at": "2022-08-09T07:37:13.000000Z",
+                        "updated_at": "2022-08-09T07:37:13.000000Z"
+                    }
+                },
+                {
+                    "id": 177032,
+                    "name": "Shuleni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:46.000000Z",
+                    "updated_at": "2022-08-09T05:58:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177032,
+                        "created_at": "2022-08-09T07:37:13.000000Z",
+                        "updated_at": "2022-08-09T07:37:13.000000Z"
+                    }
+                },
+                {
+                    "id": 177033,
+                    "name": "Kasanda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:46.000000Z",
+                    "updated_at": "2022-08-09T05:58:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "301",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177033,
+                        "created_at": "2022-08-09T07:37:14.000000Z",
+                        "updated_at": "2022-08-09T07:37:14.000000Z"
+                    }
+                },
+                {
+                    "id": 177034,
+                    "name": "Busagara \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:47.000000Z",
+                    "updated_at": "2022-08-09T05:58:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "302",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177034,
+                        "created_at": "2022-08-09T07:37:14.000000Z",
+                        "updated_at": "2022-08-09T07:37:14.000000Z"
+                    }
+                },
+                {
+                    "id": 177035,
+                    "name": "Nyentamba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:47.000000Z",
+                    "updated_at": "2022-08-09T05:58:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "303",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177035,
+                        "created_at": "2022-08-09T07:37:15.000000Z",
+                        "updated_at": "2022-08-09T07:37:15.000000Z"
+                    }
+                },
+                {
+                    "id": 177036,
+                    "name": "Kibambo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:47.000000Z",
+                    "updated_at": "2022-08-09T05:58:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "304",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88640,
+                        "area_id": 177036,
+                        "created_at": "2022-08-09T07:37:15.000000Z",
+                        "updated_at": "2022-08-09T07:37:15.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 88641,
+            "name": "KIGENDEKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 75323,
+                "name": "BUSAGARA",
+                "postcode": "47407",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 75316,
+                    "name": "KIBONDO DISTRICT COUNCIL",
+                    "postcode": "474",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 75315,
+                        "name": "KIBONDO",
+                        "postcode": "474",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 70884,
+                            "name": "KIGOMA",
+                            "postcode": "47",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70881,
+                                "name": "CENTRAL ZONE",
+                                "postcode": "4",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 177037,
+                    "name": "Ntakama \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:48.000000Z",
+                    "updated_at": "2022-08-09T05:58:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177037,
+                        "created_at": "2022-08-09T07:37:15.000000Z",
+                        "updated_at": "2022-08-09T07:37:15.000000Z"
+                    }
+                },
+                {
+                    "id": 177038,
+                    "name": "Ntakama \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:48.000000Z",
+                    "updated_at": "2022-08-09T05:58:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177038,
+                        "created_at": "2022-08-09T07:37:16.000000Z",
+                        "updated_at": "2022-08-09T07:37:16.000000Z"
+                    }
+                },
+                {
+                    "id": 177039,
+                    "name": "Kumshindwi \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:49.000000Z",
+                    "updated_at": "2022-08-09T05:58:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177039,
+                        "created_at": "2022-08-09T07:37:16.000000Z",
+                        "updated_at": "2022-08-09T07:37:16.000000Z"
+                    }
+                },
+                {
+                    "id": 177040,
+                    "name": "Kirundo \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:49.000000Z",
+                    "updated_at": "2022-08-09T05:58:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177040,
+                        "created_at": "2022-08-09T07:37:17.000000Z",
+                        "updated_at": "2022-08-09T07:37:17.000000Z"
+                    }
+                },
+                {
+                    "id": 177041,
+                    "name": "Kirundo \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:49.000000Z",
+                    "updated_at": "2022-08-09T05:58:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177041,
+                        "created_at": "2022-08-09T07:37:17.000000Z",
+                        "updated_at": "2022-08-09T07:37:17.000000Z"
+                    }
+                },
+                {
+                    "id": 177042,
+                    "name": "Magarama\"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:50.000000Z",
+                    "updated_at": "2022-08-09T05:58:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177042,
+                        "created_at": "2022-08-09T07:37:17.000000Z",
+                        "updated_at": "2022-08-09T07:37:17.000000Z"
+                    }
+                },
+                {
+                    "id": 177043,
+                    "name": "Magarama \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:50.000000Z",
+                    "updated_at": "2022-08-09T05:58:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177043,
+                        "created_at": "2022-08-09T07:37:18.000000Z",
+                        "updated_at": "2022-08-09T07:37:18.000000Z"
+                    }
+                },
+                {
+                    "id": 177044,
+                    "name": "Mumana\"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:51.000000Z",
+                    "updated_at": "2022-08-09T05:58:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177044,
+                        "created_at": "2022-08-09T07:37:18.000000Z",
+                        "updated_at": "2022-08-09T07:37:18.000000Z"
+                    }
+                },
+                {
+                    "id": 177045,
+                    "name": "Mumana\"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:51.000000Z",
+                    "updated_at": "2022-08-09T05:58:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177045,
+                        "created_at": "2022-08-09T07:37:19.000000Z",
+                        "updated_at": "2022-08-09T07:37:19.000000Z"
+                    }
+                },
+                {
+                    "id": 177046,
+                    "name": "Kumshindwi \"A",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T05:58:51.000000Z",
+                    "updated_at": "2022-08-09T05:58:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 88641,
+                        "area_id": 177046,
+                        "created_at": "2022-08-09T07:37:19.000000Z",
+                        "updated_at": "2022-08-09T07:37:19.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
