@@ -1,0 +1,4434 @@
+{
+    "data": [
+        {
+            "id": 72570,
+            "name": "MACHIMBO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72569,
+                "name": "YOMBO VITUKA",
+                "postcode": "15115",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101244,
+                    "name": "Machimbo-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:35.000000Z",
+                    "updated_at": "2022-07-18T20:10:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 102,
+                    "geocode": "0703131122202001",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101244,
+                        "created_at": "2022-07-27T13:06:56.000000Z",
+                        "updated_at": "2022-07-27T13:06:56.000000Z"
+                    }
+                },
+                {
+                    "id": 101243,
+                    "name": "Machimbo-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:35.000000Z",
+                    "updated_at": "2022-07-18T20:10:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 110,
+                    "geocode": "0703131122202002",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101243,
+                        "created_at": "2022-07-27T13:06:57.000000Z",
+                        "updated_at": "2022-07-27T13:06:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101252,
+                    "name": "Machimbo-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:38.000000Z",
+                    "updated_at": "2022-07-18T20:10:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 101,
+                    "geocode": "0703131122202003",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101252,
+                        "created_at": "2022-07-27T13:06:58.000000Z",
+                        "updated_at": "2022-07-27T13:06:58.000000Z"
+                    }
+                },
+                {
+                    "id": 101258,
+                    "name": "Machimbo-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:40.000000Z",
+                    "updated_at": "2022-07-18T20:10:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 115,
+                    "geocode": "0703131122202004",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101258,
+                        "created_at": "2022-07-27T13:06:59.000000Z",
+                        "updated_at": "2022-07-27T13:06:59.000000Z"
+                    }
+                },
+                {
+                    "id": 101250,
+                    "name": "Machimbo-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:37.000000Z",
+                    "updated_at": "2022-07-18T20:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 120,
+                    "geocode": "0703131122202005",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101250,
+                        "created_at": "2022-07-27T13:07:00.000000Z",
+                        "updated_at": "2022-07-27T13:07:00.000000Z"
+                    }
+                },
+                {
+                    "id": 101242,
+                    "name": "Machimbo-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:35.000000Z",
+                    "updated_at": "2022-07-18T20:10:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 117,
+                    "geocode": "0703131122202006",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101242,
+                        "created_at": "2022-07-27T13:07:01.000000Z",
+                        "updated_at": "2022-07-27T13:07:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101256,
+                    "name": "Machimbo-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:39.000000Z",
+                    "updated_at": "2022-07-18T20:10:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 108,
+                    "geocode": "0703131122202007",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101256,
+                        "created_at": "2022-07-27T13:07:02.000000Z",
+                        "updated_at": "2022-07-27T13:07:02.000000Z"
+                    }
+                },
+                {
+                    "id": 101247,
+                    "name": "Machimbo-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:36.000000Z",
+                    "updated_at": "2022-07-18T20:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 111,
+                    "geocode": "0703131122202008",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101247,
+                        "created_at": "2022-07-27T13:07:03.000000Z",
+                        "updated_at": "2022-07-27T13:07:03.000000Z"
+                    }
+                },
+                {
+                    "id": 101260,
+                    "name": "Machimbo-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:41.000000Z",
+                    "updated_at": "2022-07-18T20:10:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 113,
+                    "geocode": "0703131122202009",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101260,
+                        "created_at": "2022-07-27T13:07:04.000000Z",
+                        "updated_at": "2022-07-27T13:07:04.000000Z"
+                    }
+                },
+                {
+                    "id": 101240,
+                    "name": "Machimbo-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:34.000000Z",
+                    "updated_at": "2022-07-18T20:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 112,
+                    "geocode": "0703131122202010",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101240,
+                        "created_at": "2022-07-27T13:07:04.000000Z",
+                        "updated_at": "2022-07-27T13:07:04.000000Z"
+                    }
+                },
+                {
+                    "id": 101241,
+                    "name": "Machimbo-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:34.000000Z",
+                    "updated_at": "2022-07-18T20:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 119,
+                    "geocode": "0703131122202011",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101241,
+                        "created_at": "2022-07-27T13:07:05.000000Z",
+                        "updated_at": "2022-07-27T13:07:05.000000Z"
+                    }
+                },
+                {
+                    "id": 101248,
+                    "name": "Machimbo-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:36.000000Z",
+                    "updated_at": "2022-07-18T20:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 107,
+                    "geocode": "0703131122202012",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101248,
+                        "created_at": "2022-07-27T13:07:06.000000Z",
+                        "updated_at": "2022-07-27T13:07:06.000000Z"
+                    }
+                },
+                {
+                    "id": 101245,
+                    "name": "Machimbo-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:36.000000Z",
+                    "updated_at": "2022-07-18T20:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 120,
+                    "geocode": "0703131122202013",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101245,
+                        "created_at": "2022-07-27T13:07:07.000000Z",
+                        "updated_at": "2022-07-27T13:07:07.000000Z"
+                    }
+                },
+                {
+                    "id": 101251,
+                    "name": "Machimbo-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:37.000000Z",
+                    "updated_at": "2022-07-18T20:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 118,
+                    "geocode": "0703131122202014",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101251,
+                        "created_at": "2022-07-27T13:07:08.000000Z",
+                        "updated_at": "2022-07-27T13:07:08.000000Z"
+                    }
+                },
+                {
+                    "id": 101255,
+                    "name": "Machimbo-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:39.000000Z",
+                    "updated_at": "2022-07-18T20:10:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 105,
+                    "geocode": "0703131122202015",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101255,
+                        "created_at": "2022-07-27T13:07:09.000000Z",
+                        "updated_at": "2022-07-27T13:07:09.000000Z"
+                    }
+                },
+                {
+                    "id": 101254,
+                    "name": "Machimbo-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:38.000000Z",
+                    "updated_at": "2022-07-18T20:10:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 115,
+                    "geocode": "0703131122202016",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101254,
+                        "created_at": "2022-07-27T13:07:10.000000Z",
+                        "updated_at": "2022-07-27T13:07:10.000000Z"
+                    }
+                },
+                {
+                    "id": 101257,
+                    "name": "Machimbo-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:40.000000Z",
+                    "updated_at": "2022-07-18T20:10:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 99,
+                    "geocode": "0703131122202017",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101257,
+                        "created_at": "2022-07-27T13:07:11.000000Z",
+                        "updated_at": "2022-07-27T13:07:11.000000Z"
+                    }
+                },
+                {
+                    "id": 101253,
+                    "name": "Machimbo-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:38.000000Z",
+                    "updated_at": "2022-07-18T20:10:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 97,
+                    "geocode": "0703131122202018",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101253,
+                        "created_at": "2022-07-27T13:07:11.000000Z",
+                        "updated_at": "2022-07-27T13:07:11.000000Z"
+                    }
+                },
+                {
+                    "id": 101249,
+                    "name": "Machimbo-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:37.000000Z",
+                    "updated_at": "2022-07-18T20:10:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 132,
+                    "geocode": "0703131122202019",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101249,
+                        "created_at": "2022-07-27T13:07:12.000000Z",
+                        "updated_at": "2022-07-27T13:07:12.000000Z"
+                    }
+                },
+                {
+                    "id": 101246,
+                    "name": "Machimbo-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:36.000000Z",
+                    "updated_at": "2022-07-18T20:10:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 116,
+                    "geocode": "0703131122202020",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101246,
+                        "created_at": "2022-07-27T13:07:13.000000Z",
+                        "updated_at": "2022-07-27T13:07:13.000000Z"
+                    }
+                },
+                {
+                    "id": 101259,
+                    "name": "Machimbo-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:40.000000Z",
+                    "updated_at": "2022-07-18T20:10:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 106,
+                    "geocode": "0703131122202021",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101259,
+                        "created_at": "2022-07-27T13:07:15.000000Z",
+                        "updated_at": "2022-07-27T13:07:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101239,
+                    "name": "Machimbo-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:34.000000Z",
+                    "updated_at": "2022-07-18T20:10:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 114,
+                    "geocode": "0703131122202022",
+                    "pivot": {
+                        "location_id": 72570,
+                        "area_id": 101239,
+                        "created_at": "2022-07-27T13:07:16.000000Z",
+                        "updated_at": "2022-07-27T13:07:16.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72571,
+            "name": "MAGOGONI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72569,
+                "name": "YOMBO VITUKA",
+                "postcode": "15115",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101358,
+                    "name": "Magogoni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:40.000000Z",
+                    "updated_at": "2022-07-18T20:11:40.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 110,
+                    "geocode": "0703131122204001",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101358,
+                        "created_at": "2022-07-27T13:08:31.000000Z",
+                        "updated_at": "2022-07-27T13:08:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101375,
+                    "name": "Magogoni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:53.000000Z",
+                    "updated_at": "2022-07-18T20:11:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 118,
+                    "geocode": "0703131122204002",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101375,
+                        "created_at": "2022-07-27T13:08:33.000000Z",
+                        "updated_at": "2022-07-27T13:08:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101371,
+                    "name": "Magogoni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:50.000000Z",
+                    "updated_at": "2022-07-18T20:11:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 115,
+                    "geocode": "0703131122204003",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101371,
+                        "created_at": "2022-07-27T13:08:35.000000Z",
+                        "updated_at": "2022-07-27T13:08:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101369,
+                    "name": "Magogoni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:48.000000Z",
+                    "updated_at": "2022-07-18T20:11:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 115,
+                    "geocode": "0703131122204004",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101369,
+                        "created_at": "2022-07-27T13:08:36.000000Z",
+                        "updated_at": "2022-07-27T13:08:36.000000Z"
+                    }
+                },
+                {
+                    "id": 101367,
+                    "name": "Magogoni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:47.000000Z",
+                    "updated_at": "2022-07-18T20:11:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 119,
+                    "geocode": "0703131122204005",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101367,
+                        "created_at": "2022-07-27T13:08:38.000000Z",
+                        "updated_at": "2022-07-27T13:08:38.000000Z"
+                    }
+                },
+                {
+                    "id": 101357,
+                    "name": "Magogoni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:39.000000Z",
+                    "updated_at": "2022-07-18T20:11:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 104,
+                    "geocode": "0703131122204006",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101357,
+                        "created_at": "2022-07-27T13:08:40.000000Z",
+                        "updated_at": "2022-07-27T13:08:40.000000Z"
+                    }
+                },
+                {
+                    "id": 101365,
+                    "name": "Magogoni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:45.000000Z",
+                    "updated_at": "2022-07-18T20:11:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 110,
+                    "geocode": "0703131122204007",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101365,
+                        "created_at": "2022-07-27T13:08:42.000000Z",
+                        "updated_at": "2022-07-27T13:08:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101366,
+                    "name": "Magogoni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:46.000000Z",
+                    "updated_at": "2022-07-18T20:11:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 118,
+                    "geocode": "0703131122204008",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101366,
+                        "created_at": "2022-07-27T13:08:44.000000Z",
+                        "updated_at": "2022-07-27T13:08:44.000000Z"
+                    }
+                },
+                {
+                    "id": 101356,
+                    "name": "Magogoni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:39.000000Z",
+                    "updated_at": "2022-07-18T20:11:39.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 115,
+                    "geocode": "0703131122204009",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101356,
+                        "created_at": "2022-07-27T13:08:47.000000Z",
+                        "updated_at": "2022-07-27T13:08:47.000000Z"
+                    }
+                },
+                {
+                    "id": 101364,
+                    "name": "Magogoni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:44.000000Z",
+                    "updated_at": "2022-07-18T20:11:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 120,
+                    "geocode": "0703131122204010",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101364,
+                        "created_at": "2022-07-27T13:08:49.000000Z",
+                        "updated_at": "2022-07-27T13:08:49.000000Z"
+                    }
+                },
+                {
+                    "id": 101429,
+                    "name": "Magogoni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:33.000000Z",
+                    "updated_at": "2022-07-18T20:12:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 114,
+                    "geocode": "0703131122204011",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101429,
+                        "created_at": "2022-07-27T13:08:51.000000Z",
+                        "updated_at": "2022-07-27T13:08:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101354,
+                    "name": "Magogoni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:37.000000Z",
+                    "updated_at": "2022-07-18T20:11:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 120,
+                    "geocode": "0703131122204012",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101354,
+                        "created_at": "2022-07-27T13:08:53.000000Z",
+                        "updated_at": "2022-07-27T13:08:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101345,
+                    "name": "Magogoni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:32.000000Z",
+                    "updated_at": "2022-07-18T20:11:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 119,
+                    "geocode": "0703131122204013",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101345,
+                        "created_at": "2022-07-27T13:08:55.000000Z",
+                        "updated_at": "2022-07-27T13:08:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101344,
+                    "name": "Magogoni-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:32.000000Z",
+                    "updated_at": "2022-07-18T20:11:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 114,
+                    "geocode": "0703131122204014",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101344,
+                        "created_at": "2022-07-27T13:08:57.000000Z",
+                        "updated_at": "2022-07-27T13:08:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101349,
+                    "name": "Magogoni-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:34.000000Z",
+                    "updated_at": "2022-07-18T20:11:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 120,
+                    "geocode": "0703131122204015",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101349,
+                        "created_at": "2022-07-27T13:08:59.000000Z",
+                        "updated_at": "2022-07-27T13:08:59.000000Z"
+                    }
+                },
+                {
+                    "id": 101350,
+                    "name": "Magogoni-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:35.000000Z",
+                    "updated_at": "2022-07-18T20:11:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 112,
+                    "geocode": "0703131122204016",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101350,
+                        "created_at": "2022-07-27T13:09:01.000000Z",
+                        "updated_at": "2022-07-27T13:09:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101347,
+                    "name": "Magogoni-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:33.000000Z",
+                    "updated_at": "2022-07-18T20:11:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 118,
+                    "geocode": "0703131122204017",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101347,
+                        "created_at": "2022-07-27T13:09:03.000000Z",
+                        "updated_at": "2022-07-27T13:09:03.000000Z"
+                    }
+                },
+                {
+                    "id": 101310,
+                    "name": "Magogoni-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:13.000000Z",
+                    "updated_at": "2022-07-18T20:11:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 105,
+                    "geocode": "0703131122204018",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101310,
+                        "created_at": "2022-07-27T13:09:06.000000Z",
+                        "updated_at": "2022-07-27T13:09:06.000000Z"
+                    }
+                },
+                {
+                    "id": 101351,
+                    "name": "Magogoni-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:35.000000Z",
+                    "updated_at": "2022-07-18T20:11:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 118,
+                    "geocode": "0703131122204019",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101351,
+                        "created_at": "2022-07-27T13:09:08.000000Z",
+                        "updated_at": "2022-07-27T13:09:08.000000Z"
+                    }
+                },
+                {
+                    "id": 101330,
+                    "name": "Magogoni-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:25.000000Z",
+                    "updated_at": "2022-07-18T20:11:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 119,
+                    "geocode": "0703131122204020",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101330,
+                        "created_at": "2022-07-27T13:09:10.000000Z",
+                        "updated_at": "2022-07-27T13:09:10.000000Z"
+                    }
+                },
+                {
+                    "id": 101335,
+                    "name": "Magogoni-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:27.000000Z",
+                    "updated_at": "2022-07-18T20:11:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 103,
+                    "geocode": "0703131122204021",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101335,
+                        "created_at": "2022-07-27T13:09:12.000000Z",
+                        "updated_at": "2022-07-27T13:09:12.000000Z"
+                    }
+                },
+                {
+                    "id": 101343,
+                    "name": "Magogoni-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:31.000000Z",
+                    "updated_at": "2022-07-18T20:11:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 100,
+                    "geocode": "0703131122204022",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101343,
+                        "created_at": "2022-07-27T13:09:15.000000Z",
+                        "updated_at": "2022-07-27T13:09:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101346,
+                    "name": "Magogoni-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:33.000000Z",
+                    "updated_at": "2022-07-18T20:11:33.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 111,
+                    "geocode": "0703131122204023",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101346,
+                        "created_at": "2022-07-27T13:09:17.000000Z",
+                        "updated_at": "2022-07-27T13:09:17.000000Z"
+                    }
+                },
+                {
+                    "id": 101353,
+                    "name": "Magogoni-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:37.000000Z",
+                    "updated_at": "2022-07-18T20:11:37.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 116,
+                    "geocode": "0703131122204024",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101353,
+                        "created_at": "2022-07-27T13:09:19.000000Z",
+                        "updated_at": "2022-07-27T13:09:19.000000Z"
+                    }
+                },
+                {
+                    "id": 101352,
+                    "name": "Magogoni-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:36.000000Z",
+                    "updated_at": "2022-07-18T20:11:36.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 120,
+                    "geocode": "0703131122204025",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101352,
+                        "created_at": "2022-07-27T13:09:22.000000Z",
+                        "updated_at": "2022-07-27T13:09:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101348,
+                    "name": "Magogoni-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:34.000000Z",
+                    "updated_at": "2022-07-18T20:11:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 111,
+                    "geocode": "0703131122204026",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101348,
+                        "created_at": "2022-07-27T13:09:24.000000Z",
+                        "updated_at": "2022-07-27T13:09:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101336,
+                    "name": "Magogoni-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:27.000000Z",
+                    "updated_at": "2022-07-18T20:11:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 118,
+                    "geocode": "0703131122204027",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101336,
+                        "created_at": "2022-07-27T13:09:26.000000Z",
+                        "updated_at": "2022-07-27T13:09:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101331,
+                    "name": "Magogoni-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:26.000000Z",
+                    "updated_at": "2022-07-18T20:11:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 114,
+                    "geocode": "0703131122204028",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101331,
+                        "created_at": "2022-07-27T13:09:29.000000Z",
+                        "updated_at": "2022-07-27T13:09:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101333,
+                    "name": "Magogoni-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:26.000000Z",
+                    "updated_at": "2022-07-18T20:11:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 120,
+                    "geocode": "0703131122204029",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101333,
+                        "created_at": "2022-07-27T13:09:31.000000Z",
+                        "updated_at": "2022-07-27T13:09:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101332,
+                    "name": "Magogoni-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:26.000000Z",
+                    "updated_at": "2022-07-18T20:11:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": 119,
+                    "geocode": "0703131122204030",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101332,
+                        "created_at": "2022-07-27T13:09:33.000000Z",
+                        "updated_at": "2022-07-27T13:09:33.000000Z"
+                    }
+                },
+                {
+                    "id": 101334,
+                    "name": "Magogoni-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:27.000000Z",
+                    "updated_at": "2022-07-18T20:11:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": 117,
+                    "geocode": "0703131122204031",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101334,
+                        "created_at": "2022-07-27T13:09:36.000000Z",
+                        "updated_at": "2022-07-27T13:09:36.000000Z"
+                    }
+                },
+                {
+                    "id": 101338,
+                    "name": "Magogoni-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:28.000000Z",
+                    "updated_at": "2022-07-18T20:11:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": 119,
+                    "geocode": "0703131122204032",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101338,
+                        "created_at": "2022-07-27T13:09:38.000000Z",
+                        "updated_at": "2022-07-27T13:09:38.000000Z"
+                    }
+                },
+                {
+                    "id": 101339,
+                    "name": "Magogoni-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:29.000000Z",
+                    "updated_at": "2022-07-18T20:11:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": 116,
+                    "geocode": "0703131122204033",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101339,
+                        "created_at": "2022-07-27T13:09:41.000000Z",
+                        "updated_at": "2022-07-27T13:09:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101337,
+                    "name": "Magogoni-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:28.000000Z",
+                    "updated_at": "2022-07-18T20:11:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": 109,
+                    "geocode": "0703131122204034",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101337,
+                        "created_at": "2022-07-27T13:09:43.000000Z",
+                        "updated_at": "2022-07-27T13:09:43.000000Z"
+                    }
+                },
+                {
+                    "id": 101342,
+                    "name": "Magogoni-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:31.000000Z",
+                    "updated_at": "2022-07-18T20:11:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": 122,
+                    "geocode": "0703131122204035",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101342,
+                        "created_at": "2022-07-27T13:09:46.000000Z",
+                        "updated_at": "2022-07-27T13:09:46.000000Z"
+                    }
+                },
+                {
+                    "id": 101430,
+                    "name": "Magogoni-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:34.000000Z",
+                    "updated_at": "2022-07-18T20:12:34.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": 117,
+                    "geocode": "0703131122204036",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101430,
+                        "created_at": "2022-07-27T13:09:48.000000Z",
+                        "updated_at": "2022-07-27T13:09:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101360,
+                    "name": "Magogoni-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:42.000000Z",
+                    "updated_at": "2022-07-18T20:11:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": 120,
+                    "geocode": "0703131122204037",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101360,
+                        "created_at": "2022-07-27T13:09:51.000000Z",
+                        "updated_at": "2022-07-27T13:09:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101359,
+                    "name": "Magogoni-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:41.000000Z",
+                    "updated_at": "2022-07-18T20:11:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": 117,
+                    "geocode": "0703131122204038",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101359,
+                        "created_at": "2022-07-27T13:09:53.000000Z",
+                        "updated_at": "2022-07-27T13:09:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101370,
+                    "name": "Magogoni-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:49.000000Z",
+                    "updated_at": "2022-07-18T20:11:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": 120,
+                    "geocode": "0703131122204039",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101370,
+                        "created_at": "2022-07-27T13:09:56.000000Z",
+                        "updated_at": "2022-07-27T13:09:56.000000Z"
+                    }
+                },
+                {
+                    "id": 101363,
+                    "name": "Magogoni-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:44.000000Z",
+                    "updated_at": "2022-07-18T20:11:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": 105,
+                    "geocode": "0703131122204040",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101363,
+                        "created_at": "2022-07-27T13:09:58.000000Z",
+                        "updated_at": "2022-07-27T13:09:58.000000Z"
+                    }
+                },
+                {
+                    "id": 101372,
+                    "name": "Magogoni-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:51.000000Z",
+                    "updated_at": "2022-07-18T20:11:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": 118,
+                    "geocode": "0703131122204041",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101372,
+                        "created_at": "2022-07-27T13:10:01.000000Z",
+                        "updated_at": "2022-07-27T13:10:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101373,
+                    "name": "Magogoni-42",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:52.000000Z",
+                    "updated_at": "2022-07-18T20:11:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "042",
+                    "household": 119,
+                    "geocode": "0703131122204042",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101373,
+                        "created_at": "2022-07-27T13:10:04.000000Z",
+                        "updated_at": "2022-07-27T13:10:04.000000Z"
+                    }
+                },
+                {
+                    "id": 101361,
+                    "name": "Magogoni-43",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:42.000000Z",
+                    "updated_at": "2022-07-18T20:11:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "043",
+                    "household": 110,
+                    "geocode": "0703131122204043",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101361,
+                        "created_at": "2022-07-27T13:10:07.000000Z",
+                        "updated_at": "2022-07-27T13:10:07.000000Z"
+                    }
+                },
+                {
+                    "id": 101355,
+                    "name": "Magogoni-44",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:38.000000Z",
+                    "updated_at": "2022-07-18T20:11:38.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "044",
+                    "household": 116,
+                    "geocode": "0703131122204044",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101355,
+                        "created_at": "2022-07-27T13:10:10.000000Z",
+                        "updated_at": "2022-07-27T13:10:10.000000Z"
+                    }
+                },
+                {
+                    "id": 101368,
+                    "name": "Magogoni-45",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:48.000000Z",
+                    "updated_at": "2022-07-18T20:11:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "045",
+                    "household": 108,
+                    "geocode": "0703131122204045",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101368,
+                        "created_at": "2022-07-27T13:10:12.000000Z",
+                        "updated_at": "2022-07-27T13:10:12.000000Z"
+                    }
+                },
+                {
+                    "id": 101362,
+                    "name": "Magogoni-46",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:43.000000Z",
+                    "updated_at": "2022-07-18T20:11:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "046",
+                    "household": 116,
+                    "geocode": "0703131122204046",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101362,
+                        "created_at": "2022-07-27T13:10:15.000000Z",
+                        "updated_at": "2022-07-27T13:10:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101374,
+                    "name": "Magogoni-47",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:53.000000Z",
+                    "updated_at": "2022-07-18T20:11:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "047",
+                    "household": 95,
+                    "geocode": "0703131122204047",
+                    "pivot": {
+                        "location_id": 72571,
+                        "area_id": 101374,
+                        "created_at": "2022-07-27T13:10:18.000000Z",
+                        "updated_at": "2022-07-27T13:10:18.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72572,
+            "name": "MZAMBARAUNI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72569,
+                "name": "YOMBO VITUKA",
+                "postcode": "15115",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101283,
+                    "name": "Mzambarauni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:53.000000Z",
+                    "updated_at": "2022-07-18T20:10:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 118,
+                    "geocode": "0703131122205001",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101283,
+                        "created_at": "2022-07-27T13:10:21.000000Z",
+                        "updated_at": "2022-07-27T13:10:21.000000Z"
+                    }
+                },
+                {
+                    "id": 101281,
+                    "name": "Mzambarauni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:52.000000Z",
+                    "updated_at": "2022-07-18T20:10:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 117,
+                    "geocode": "0703131122205002",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101281,
+                        "created_at": "2022-07-27T13:10:23.000000Z",
+                        "updated_at": "2022-07-27T13:10:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101282,
+                    "name": "Mzambarauni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:52.000000Z",
+                    "updated_at": "2022-07-18T20:10:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 88,
+                    "geocode": "0703131122205003",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101282,
+                        "created_at": "2022-07-27T13:10:25.000000Z",
+                        "updated_at": "2022-07-27T13:10:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101284,
+                    "name": "Mzambarauni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:54.000000Z",
+                    "updated_at": "2022-07-18T20:10:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 101,
+                    "geocode": "0703131122205004",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101284,
+                        "created_at": "2022-07-27T13:10:27.000000Z",
+                        "updated_at": "2022-07-27T13:10:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101299,
+                    "name": "Mzambarauni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:07.000000Z",
+                    "updated_at": "2022-07-18T20:11:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 100,
+                    "geocode": "0703131122205005",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101299,
+                        "created_at": "2022-07-27T13:10:29.000000Z",
+                        "updated_at": "2022-07-27T13:10:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101287,
+                    "name": "Mzambarauni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:56.000000Z",
+                    "updated_at": "2022-07-18T20:10:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 88,
+                    "geocode": "0703131122205006",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101287,
+                        "created_at": "2022-07-27T13:10:30.000000Z",
+                        "updated_at": "2022-07-27T13:10:30.000000Z"
+                    }
+                },
+                {
+                    "id": 101285,
+                    "name": "Mzambarauni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:55.000000Z",
+                    "updated_at": "2022-07-18T20:10:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 119,
+                    "geocode": "0703131122205007",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101285,
+                        "created_at": "2022-07-27T13:10:32.000000Z",
+                        "updated_at": "2022-07-27T13:10:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101288,
+                    "name": "Mzambarauni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:57.000000Z",
+                    "updated_at": "2022-07-18T20:10:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 98,
+                    "geocode": "0703131122205008",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101288,
+                        "created_at": "2022-07-27T13:10:34.000000Z",
+                        "updated_at": "2022-07-27T13:10:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101298,
+                    "name": "Mzambarauni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:06.000000Z",
+                    "updated_at": "2022-07-18T20:11:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 103,
+                    "geocode": "0703131122205009",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101298,
+                        "created_at": "2022-07-27T13:10:37.000000Z",
+                        "updated_at": "2022-07-27T13:10:37.000000Z"
+                    }
+                },
+                {
+                    "id": 101296,
+                    "name": "Mzambarauni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:04.000000Z",
+                    "updated_at": "2022-07-18T20:11:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 105,
+                    "geocode": "0703131122205010",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101296,
+                        "created_at": "2022-07-27T13:10:39.000000Z",
+                        "updated_at": "2022-07-27T13:10:39.000000Z"
+                    }
+                },
+                {
+                    "id": 101294,
+                    "name": "Mzambarauni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:02.000000Z",
+                    "updated_at": "2022-07-18T20:11:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 96,
+                    "geocode": "0703131122205011",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101294,
+                        "created_at": "2022-07-27T13:10:41.000000Z",
+                        "updated_at": "2022-07-27T13:10:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101300,
+                    "name": "Mzambarauni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:08.000000Z",
+                    "updated_at": "2022-07-18T20:11:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 87,
+                    "geocode": "0703131122205012",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101300,
+                        "created_at": "2022-07-27T13:10:44.000000Z",
+                        "updated_at": "2022-07-27T13:10:44.000000Z"
+                    }
+                },
+                {
+                    "id": 101295,
+                    "name": "Mzambarauni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:03.000000Z",
+                    "updated_at": "2022-07-18T20:11:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 120,
+                    "geocode": "0703131122205013",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101295,
+                        "created_at": "2022-07-27T13:10:46.000000Z",
+                        "updated_at": "2022-07-27T13:10:46.000000Z"
+                    }
+                },
+                {
+                    "id": 101293,
+                    "name": "Mzambarauni-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:01.000000Z",
+                    "updated_at": "2022-07-18T20:11:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 114,
+                    "geocode": "0703131122205014",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101293,
+                        "created_at": "2022-07-27T13:10:48.000000Z",
+                        "updated_at": "2022-07-27T13:10:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101279,
+                    "name": "Mzambarauni-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:50.000000Z",
+                    "updated_at": "2022-07-18T20:10:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 118,
+                    "geocode": "0703131122205015",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101279,
+                        "created_at": "2022-07-27T13:10:50.000000Z",
+                        "updated_at": "2022-07-27T13:10:50.000000Z"
+                    }
+                },
+                {
+                    "id": 101275,
+                    "name": "Mzambarauni-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:48.000000Z",
+                    "updated_at": "2022-07-18T20:10:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 110,
+                    "geocode": "0703131122205016",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101275,
+                        "created_at": "2022-07-27T13:10:52.000000Z",
+                        "updated_at": "2022-07-27T13:10:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101280,
+                    "name": "Mzambarauni-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:51.000000Z",
+                    "updated_at": "2022-07-18T20:10:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 106,
+                    "geocode": "0703131122205017",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101280,
+                        "created_at": "2022-07-27T13:10:54.000000Z",
+                        "updated_at": "2022-07-27T13:10:54.000000Z"
+                    }
+                },
+                {
+                    "id": 101277,
+                    "name": "Mzambarauni-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:49.000000Z",
+                    "updated_at": "2022-07-18T20:10:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 118,
+                    "geocode": "0703131122205018",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101277,
+                        "created_at": "2022-07-27T13:10:57.000000Z",
+                        "updated_at": "2022-07-27T13:10:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101278,
+                    "name": "Mzambarauni-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:50.000000Z",
+                    "updated_at": "2022-07-18T20:10:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 109,
+                    "geocode": "0703131122205019",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101278,
+                        "created_at": "2022-07-27T13:10:59.000000Z",
+                        "updated_at": "2022-07-27T13:10:59.000000Z"
+                    }
+                },
+                {
+                    "id": 101290,
+                    "name": "Mzambarauni-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:59.000000Z",
+                    "updated_at": "2022-07-18T20:10:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 111,
+                    "geocode": "0703131122205020",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101290,
+                        "created_at": "2022-07-27T13:11:01.000000Z",
+                        "updated_at": "2022-07-27T13:11:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101276,
+                    "name": "Mzambarauni-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:48.000000Z",
+                    "updated_at": "2022-07-18T20:10:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 79,
+                    "geocode": "0703131122205021",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101276,
+                        "created_at": "2022-07-27T13:11:03.000000Z",
+                        "updated_at": "2022-07-27T13:11:03.000000Z"
+                    }
+                },
+                {
+                    "id": 101291,
+                    "name": "Mzambarauni-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:59.000000Z",
+                    "updated_at": "2022-07-18T20:10:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 107,
+                    "geocode": "0703131122205022",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101291,
+                        "created_at": "2022-07-27T13:11:06.000000Z",
+                        "updated_at": "2022-07-27T13:11:06.000000Z"
+                    }
+                },
+                {
+                    "id": 101266,
+                    "name": "Mzambarauni-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:43.000000Z",
+                    "updated_at": "2022-07-18T20:10:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 99,
+                    "geocode": "0703131122205023",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101266,
+                        "created_at": "2022-07-27T13:11:08.000000Z",
+                        "updated_at": "2022-07-27T13:11:08.000000Z"
+                    }
+                },
+                {
+                    "id": 101265,
+                    "name": "Mzambarauni-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:43.000000Z",
+                    "updated_at": "2022-07-18T20:10:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 85,
+                    "geocode": "0703131122205024",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101265,
+                        "created_at": "2022-07-27T13:11:10.000000Z",
+                        "updated_at": "2022-07-27T13:11:10.000000Z"
+                    }
+                },
+                {
+                    "id": 101274,
+                    "name": "Mzambarauni-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:47.000000Z",
+                    "updated_at": "2022-07-18T20:10:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 101,
+                    "geocode": "0703131122205025",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101274,
+                        "created_at": "2022-07-27T13:11:13.000000Z",
+                        "updated_at": "2022-07-27T13:11:13.000000Z"
+                    }
+                },
+                {
+                    "id": 101289,
+                    "name": "Mzambarauni-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:58.000000Z",
+                    "updated_at": "2022-07-18T20:10:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 80,
+                    "geocode": "0703131122205026",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101289,
+                        "created_at": "2022-07-27T13:11:15.000000Z",
+                        "updated_at": "2022-07-27T13:11:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101273,
+                    "name": "Mzambarauni-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:46.000000Z",
+                    "updated_at": "2022-07-18T20:10:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 82,
+                    "geocode": "0703131122205027",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101273,
+                        "created_at": "2022-07-27T13:11:17.000000Z",
+                        "updated_at": "2022-07-27T13:11:17.000000Z"
+                    }
+                },
+                {
+                    "id": 101269,
+                    "name": "Mzambarauni-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:44.000000Z",
+                    "updated_at": "2022-07-18T20:10:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 104,
+                    "geocode": "0703131122205028",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101269,
+                        "created_at": "2022-07-27T13:11:20.000000Z",
+                        "updated_at": "2022-07-27T13:11:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101272,
+                    "name": "Mzambarauni-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:46.000000Z",
+                    "updated_at": "2022-07-18T20:10:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 110,
+                    "geocode": "0703131122205029",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101272,
+                        "created_at": "2022-07-27T13:11:22.000000Z",
+                        "updated_at": "2022-07-27T13:11:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101268,
+                    "name": "Mzambarauni-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:44.000000Z",
+                    "updated_at": "2022-07-18T20:10:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": 105,
+                    "geocode": "0703131122205030",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101268,
+                        "created_at": "2022-07-27T13:11:24.000000Z",
+                        "updated_at": "2022-07-27T13:11:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101267,
+                    "name": "Mzambarauni-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:43.000000Z",
+                    "updated_at": "2022-07-18T20:10:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": 118,
+                    "geocode": "0703131122205031",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101267,
+                        "created_at": "2022-07-27T13:11:27.000000Z",
+                        "updated_at": "2022-07-27T13:11:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101270,
+                    "name": "Mzambarauni-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:45.000000Z",
+                    "updated_at": "2022-07-18T20:10:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": 115,
+                    "geocode": "0703131122205032",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101270,
+                        "created_at": "2022-07-27T13:11:29.000000Z",
+                        "updated_at": "2022-07-27T13:11:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101292,
+                    "name": "Mzambarauni-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:00.000000Z",
+                    "updated_at": "2022-07-18T20:11:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": 102,
+                    "geocode": "0703131122205033",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101292,
+                        "created_at": "2022-07-27T13:11:32.000000Z",
+                        "updated_at": "2022-07-27T13:11:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101271,
+                    "name": "Mzambarauni-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:45.000000Z",
+                    "updated_at": "2022-07-18T20:10:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": 113,
+                    "geocode": "0703131122205034",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101271,
+                        "created_at": "2022-07-27T13:11:34.000000Z",
+                        "updated_at": "2022-07-27T13:11:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101297,
+                    "name": "Mzambarauni-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:05.000000Z",
+                    "updated_at": "2022-07-18T20:11:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": 97,
+                    "geocode": "0703131122205035",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101297,
+                        "created_at": "2022-07-27T13:11:37.000000Z",
+                        "updated_at": "2022-07-27T13:11:37.000000Z"
+                    }
+                },
+                {
+                    "id": 101301,
+                    "name": "Mzambarauni-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:09.000000Z",
+                    "updated_at": "2022-07-18T20:11:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": 119,
+                    "geocode": "0703131122205036",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101301,
+                        "created_at": "2022-07-27T13:11:40.000000Z",
+                        "updated_at": "2022-07-27T13:11:40.000000Z"
+                    }
+                },
+                {
+                    "id": 101286,
+                    "name": "Mzambarauni-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:55.000000Z",
+                    "updated_at": "2022-07-18T20:10:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": 96,
+                    "geocode": "0703131122205037",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101286,
+                        "created_at": "2022-07-27T13:11:42.000000Z",
+                        "updated_at": "2022-07-27T13:11:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101261,
+                    "name": "Mzambarauni-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:41.000000Z",
+                    "updated_at": "2022-07-18T20:10:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": 110,
+                    "geocode": "0703131122205038",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101261,
+                        "created_at": "2022-07-27T13:11:45.000000Z",
+                        "updated_at": "2022-07-27T13:11:45.000000Z"
+                    }
+                },
+                {
+                    "id": 101264,
+                    "name": "Mzambarauni-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:42.000000Z",
+                    "updated_at": "2022-07-18T20:10:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": 79,
+                    "geocode": "0703131122205039",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101264,
+                        "created_at": "2022-07-27T13:11:48.000000Z",
+                        "updated_at": "2022-07-27T13:11:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101263,
+                    "name": "Mzambarauni-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:42.000000Z",
+                    "updated_at": "2022-07-18T20:10:42.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": 115,
+                    "geocode": "0703131122205040",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101263,
+                        "created_at": "2022-07-27T13:11:51.000000Z",
+                        "updated_at": "2022-07-27T13:11:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101262,
+                    "name": "Mzambarauni-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:10:41.000000Z",
+                    "updated_at": "2022-07-18T20:10:41.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": 116,
+                    "geocode": "0703131122205041",
+                    "pivot": {
+                        "location_id": 72572,
+                        "area_id": 101262,
+                        "created_at": "2022-07-27T13:11:54.000000Z",
+                        "updated_at": "2022-07-27T13:11:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72573,
+            "name": "SIGARA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72569,
+                "name": "YOMBO VITUKA",
+                "postcode": "15115",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101397,
+                    "name": "Sigara-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:05.000000Z",
+                    "updated_at": "2022-07-18T20:12:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 103,
+                    "geocode": "0703131122203001",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101397,
+                        "created_at": "2022-07-27T13:07:17.000000Z",
+                        "updated_at": "2022-07-27T13:07:17.000000Z"
+                    }
+                },
+                {
+                    "id": 101409,
+                    "name": "Sigara-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:15.000000Z",
+                    "updated_at": "2022-07-18T20:12:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 96,
+                    "geocode": "0703131122203002",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101409,
+                        "created_at": "2022-07-27T13:07:19.000000Z",
+                        "updated_at": "2022-07-27T13:07:19.000000Z"
+                    }
+                },
+                {
+                    "id": 101389,
+                    "name": "Sigara-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:00.000000Z",
+                    "updated_at": "2022-07-18T20:12:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 69,
+                    "geocode": "0703131122203003",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101389,
+                        "created_at": "2022-07-27T13:07:20.000000Z",
+                        "updated_at": "2022-07-27T13:07:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101388,
+                    "name": "Sigara-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:00.000000Z",
+                    "updated_at": "2022-07-18T20:12:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 86,
+                    "geocode": "0703131122203004",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101388,
+                        "created_at": "2022-07-27T13:07:22.000000Z",
+                        "updated_at": "2022-07-27T13:07:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101376,
+                    "name": "Sigara-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:54.000000Z",
+                    "updated_at": "2022-07-18T20:11:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 97,
+                    "geocode": "0703131122203005",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101376,
+                        "created_at": "2022-07-27T13:07:24.000000Z",
+                        "updated_at": "2022-07-27T13:07:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101399,
+                    "name": "Sigara-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:07.000000Z",
+                    "updated_at": "2022-07-18T20:12:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 83,
+                    "geocode": "0703131122203006",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101399,
+                        "created_at": "2022-07-27T13:07:25.000000Z",
+                        "updated_at": "2022-07-27T13:07:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101390,
+                    "name": "Sigara-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:01.000000Z",
+                    "updated_at": "2022-07-18T20:12:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 106,
+                    "geocode": "0703131122203007",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101390,
+                        "created_at": "2022-07-27T13:07:27.000000Z",
+                        "updated_at": "2022-07-27T13:07:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101412,
+                    "name": "Sigara-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:17.000000Z",
+                    "updated_at": "2022-07-18T20:12:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 91,
+                    "geocode": "0703131122203008",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101412,
+                        "created_at": "2022-07-27T13:07:29.000000Z",
+                        "updated_at": "2022-07-27T13:07:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101400,
+                    "name": "Sigara-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:07.000000Z",
+                    "updated_at": "2022-07-18T20:12:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 101,
+                    "geocode": "0703131122203009",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101400,
+                        "created_at": "2022-07-27T13:07:31.000000Z",
+                        "updated_at": "2022-07-27T13:07:31.000000Z"
+                    }
+                },
+                {
+                    "id": 101380,
+                    "name": "Sigara-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:56.000000Z",
+                    "updated_at": "2022-07-18T20:11:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 111,
+                    "geocode": "0703131122203010",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101380,
+                        "created_at": "2022-07-27T13:07:32.000000Z",
+                        "updated_at": "2022-07-27T13:07:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101402,
+                    "name": "Sigara-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:09.000000Z",
+                    "updated_at": "2022-07-18T20:12:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 103,
+                    "geocode": "0703131122203011",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101402,
+                        "created_at": "2022-07-27T13:07:34.000000Z",
+                        "updated_at": "2022-07-27T13:07:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101377,
+                    "name": "Sigara-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:55.000000Z",
+                    "updated_at": "2022-07-18T20:11:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 112,
+                    "geocode": "0703131122203012",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101377,
+                        "created_at": "2022-07-27T13:07:36.000000Z",
+                        "updated_at": "2022-07-27T13:07:36.000000Z"
+                    }
+                },
+                {
+                    "id": 101386,
+                    "name": "Sigara-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:59.000000Z",
+                    "updated_at": "2022-07-18T20:11:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 102,
+                    "geocode": "0703131122203013",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101386,
+                        "created_at": "2022-07-27T13:07:38.000000Z",
+                        "updated_at": "2022-07-27T13:07:38.000000Z"
+                    }
+                },
+                {
+                    "id": 101378,
+                    "name": "Sigara-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:55.000000Z",
+                    "updated_at": "2022-07-18T20:11:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 100,
+                    "geocode": "0703131122203014",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101378,
+                        "created_at": "2022-07-27T13:07:41.000000Z",
+                        "updated_at": "2022-07-27T13:07:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101410,
+                    "name": "Sigara-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:16.000000Z",
+                    "updated_at": "2022-07-18T20:12:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 114,
+                    "geocode": "0703131122203015",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101410,
+                        "created_at": "2022-07-27T13:07:43.000000Z",
+                        "updated_at": "2022-07-27T13:07:43.000000Z"
+                    }
+                },
+                {
+                    "id": 101382,
+                    "name": "Sigara-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:57.000000Z",
+                    "updated_at": "2022-07-18T20:11:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 118,
+                    "geocode": "0703131122203016",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101382,
+                        "created_at": "2022-07-27T13:07:45.000000Z",
+                        "updated_at": "2022-07-27T13:07:45.000000Z"
+                    }
+                },
+                {
+                    "id": 101394,
+                    "name": "Sigara-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:03.000000Z",
+                    "updated_at": "2022-07-18T20:12:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 87,
+                    "geocode": "0703131122203017",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101394,
+                        "created_at": "2022-07-27T13:07:47.000000Z",
+                        "updated_at": "2022-07-27T13:07:47.000000Z"
+                    }
+                },
+                {
+                    "id": 101385,
+                    "name": "Sigara-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:58.000000Z",
+                    "updated_at": "2022-07-18T20:11:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 97,
+                    "geocode": "0703131122203018",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101385,
+                        "created_at": "2022-07-27T13:07:49.000000Z",
+                        "updated_at": "2022-07-27T13:07:49.000000Z"
+                    }
+                },
+                {
+                    "id": 101392,
+                    "name": "Sigara-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:02.000000Z",
+                    "updated_at": "2022-07-18T20:12:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 104,
+                    "geocode": "0703131122203019",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101392,
+                        "created_at": "2022-07-27T13:07:51.000000Z",
+                        "updated_at": "2022-07-27T13:07:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101383,
+                    "name": "Sigara-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:57.000000Z",
+                    "updated_at": "2022-07-18T20:11:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 102,
+                    "geocode": "0703131122203020",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101383,
+                        "created_at": "2022-07-27T13:07:53.000000Z",
+                        "updated_at": "2022-07-27T13:07:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101396,
+                    "name": "Sigara-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:04.000000Z",
+                    "updated_at": "2022-07-18T20:12:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 117,
+                    "geocode": "0703131122203021",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101396,
+                        "created_at": "2022-07-27T13:07:55.000000Z",
+                        "updated_at": "2022-07-27T13:07:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101381,
+                    "name": "Sigara-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:56.000000Z",
+                    "updated_at": "2022-07-18T20:11:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 107,
+                    "geocode": "0703131122203022",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101381,
+                        "created_at": "2022-07-27T13:07:57.000000Z",
+                        "updated_at": "2022-07-27T13:07:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101411,
+                    "name": "Sigara-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:17.000000Z",
+                    "updated_at": "2022-07-18T20:12:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 101,
+                    "geocode": "0703131122203023",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101411,
+                        "created_at": "2022-07-27T13:07:59.000000Z",
+                        "updated_at": "2022-07-27T13:07:59.000000Z"
+                    }
+                },
+                {
+                    "id": 101395,
+                    "name": "Sigara-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:04.000000Z",
+                    "updated_at": "2022-07-18T20:12:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 92,
+                    "geocode": "0703131122203024",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101395,
+                        "created_at": "2022-07-27T13:08:01.000000Z",
+                        "updated_at": "2022-07-27T13:08:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101391,
+                    "name": "Sigara-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:01.000000Z",
+                    "updated_at": "2022-07-18T20:12:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 106,
+                    "geocode": "0703131122203025",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101391,
+                        "created_at": "2022-07-27T13:08:03.000000Z",
+                        "updated_at": "2022-07-27T13:08:03.000000Z"
+                    }
+                },
+                {
+                    "id": 101407,
+                    "name": "Sigara-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:13.000000Z",
+                    "updated_at": "2022-07-18T20:12:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 115,
+                    "geocode": "0703131122203026",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101407,
+                        "created_at": "2022-07-27T13:08:05.000000Z",
+                        "updated_at": "2022-07-27T13:08:05.000000Z"
+                    }
+                },
+                {
+                    "id": 101406,
+                    "name": "Sigara-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:12.000000Z",
+                    "updated_at": "2022-07-18T20:12:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 108,
+                    "geocode": "0703131122203027",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101406,
+                        "created_at": "2022-07-27T13:08:07.000000Z",
+                        "updated_at": "2022-07-27T13:08:07.000000Z"
+                    }
+                },
+                {
+                    "id": 101393,
+                    "name": "Sigara-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:02.000000Z",
+                    "updated_at": "2022-07-18T20:12:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 98,
+                    "geocode": "0703131122203028",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101393,
+                        "created_at": "2022-07-27T13:08:09.000000Z",
+                        "updated_at": "2022-07-27T13:08:09.000000Z"
+                    }
+                },
+                {
+                    "id": 101384,
+                    "name": "Sigara-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:58.000000Z",
+                    "updated_at": "2022-07-18T20:11:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 113,
+                    "geocode": "0703131122203029",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101384,
+                        "created_at": "2022-07-27T13:08:11.000000Z",
+                        "updated_at": "2022-07-27T13:08:11.000000Z"
+                    }
+                },
+                {
+                    "id": 101404,
+                    "name": "Sigara-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:10.000000Z",
+                    "updated_at": "2022-07-18T20:12:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": 118,
+                    "geocode": "0703131122203030",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101404,
+                        "created_at": "2022-07-27T13:08:13.000000Z",
+                        "updated_at": "2022-07-27T13:08:13.000000Z"
+                    }
+                },
+                {
+                    "id": 101408,
+                    "name": "Sigara-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:14.000000Z",
+                    "updated_at": "2022-07-18T20:12:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": 127,
+                    "geocode": "0703131122203031",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101408,
+                        "created_at": "2022-07-27T13:08:15.000000Z",
+                        "updated_at": "2022-07-27T13:08:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101405,
+                    "name": "Sigara-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:11.000000Z",
+                    "updated_at": "2022-07-18T20:12:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": 111,
+                    "geocode": "0703131122203032",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101405,
+                        "created_at": "2022-07-27T13:08:17.000000Z",
+                        "updated_at": "2022-07-27T13:08:17.000000Z"
+                    }
+                },
+                {
+                    "id": 101387,
+                    "name": "Sigara-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:59.000000Z",
+                    "updated_at": "2022-07-18T20:11:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": 82,
+                    "geocode": "0703131122203033",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101387,
+                        "created_at": "2022-07-27T13:08:20.000000Z",
+                        "updated_at": "2022-07-27T13:08:20.000000Z"
+                    }
+                },
+                {
+                    "id": 101379,
+                    "name": "Sigara-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:55.000000Z",
+                    "updated_at": "2022-07-18T20:11:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": 78,
+                    "geocode": "0703131122203034",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101379,
+                        "created_at": "2022-07-27T13:08:22.000000Z",
+                        "updated_at": "2022-07-27T13:08:22.000000Z"
+                    }
+                },
+                {
+                    "id": 101398,
+                    "name": "Sigara-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:06.000000Z",
+                    "updated_at": "2022-07-18T20:12:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": 103,
+                    "geocode": "0703131122203035",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101398,
+                        "created_at": "2022-07-27T13:08:24.000000Z",
+                        "updated_at": "2022-07-27T13:08:24.000000Z"
+                    }
+                },
+                {
+                    "id": 101403,
+                    "name": "Sigara-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:10.000000Z",
+                    "updated_at": "2022-07-18T20:12:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": 116,
+                    "geocode": "0703131122203036",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101403,
+                        "created_at": "2022-07-27T13:08:26.000000Z",
+                        "updated_at": "2022-07-27T13:08:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101401,
+                    "name": "Sigara-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:08.000000Z",
+                    "updated_at": "2022-07-18T20:12:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": 112,
+                    "geocode": "0703131122203037",
+                    "pivot": {
+                        "location_id": 72573,
+                        "area_id": 101401,
+                        "created_at": "2022-07-27T13:08:28.000000Z",
+                        "updated_at": "2022-07-27T13:08:28.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72574,
+            "name": "VITUKA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72569,
+                "name": "YOMBO VITUKA",
+                "postcode": "15115",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72480,
+                    "name": "TEMEKE MUNICIPAL COUNCIL",
+                    "postcode": "151",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72479,
+                        "name": "TEMEKE",
+                        "postcode": "151",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72478,
+                            "name": "TEMEKE",
+                            "postcode": "15",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101302,
+                    "name": "Vituka-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:10.000000Z",
+                    "updated_at": "2022-07-18T20:11:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0703131122201001",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101302,
+                        "created_at": "2022-07-27T13:05:05.000000Z",
+                        "updated_at": "2022-07-27T13:05:05.000000Z"
+                    }
+                },
+                {
+                    "id": 101303,
+                    "name": "Vituka-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:10.000000Z",
+                    "updated_at": "2022-07-18T20:11:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 119,
+                    "geocode": "0703131122201002",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101303,
+                        "created_at": "2022-07-27T13:05:07.000000Z",
+                        "updated_at": "2022-07-27T13:05:07.000000Z"
+                    }
+                },
+                {
+                    "id": 101304,
+                    "name": "Vituka-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:11.000000Z",
+                    "updated_at": "2022-07-18T20:11:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 115,
+                    "geocode": "0703131122201003",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101304,
+                        "created_at": "2022-07-27T13:05:09.000000Z",
+                        "updated_at": "2022-07-27T13:05:09.000000Z"
+                    }
+                },
+                {
+                    "id": 101305,
+                    "name": "Vituka-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:11.000000Z",
+                    "updated_at": "2022-07-18T20:11:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 118,
+                    "geocode": "0703131122201004",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101305,
+                        "created_at": "2022-07-27T13:05:11.000000Z",
+                        "updated_at": "2022-07-27T13:05:11.000000Z"
+                    }
+                },
+                {
+                    "id": 101306,
+                    "name": "Vituka-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:11.000000Z",
+                    "updated_at": "2022-07-18T20:11:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 110,
+                    "geocode": "0703131122201005",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101306,
+                        "created_at": "2022-07-27T13:05:13.000000Z",
+                        "updated_at": "2022-07-27T13:05:13.000000Z"
+                    }
+                },
+                {
+                    "id": 101312,
+                    "name": "Vituka-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:14.000000Z",
+                    "updated_at": "2022-07-18T20:11:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 115,
+                    "geocode": "0703131122201006",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101312,
+                        "created_at": "2022-07-27T13:05:15.000000Z",
+                        "updated_at": "2022-07-27T13:05:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101314,
+                    "name": "Vituka-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:15.000000Z",
+                    "updated_at": "2022-07-18T20:11:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 105,
+                    "geocode": "0703131122201007",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101314,
+                        "created_at": "2022-07-27T13:05:17.000000Z",
+                        "updated_at": "2022-07-27T13:05:17.000000Z"
+                    }
+                },
+                {
+                    "id": 101313,
+                    "name": "Vituka-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:14.000000Z",
+                    "updated_at": "2022-07-18T20:11:14.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 120,
+                    "geocode": "0703131122201008",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101313,
+                        "created_at": "2022-07-27T13:05:19.000000Z",
+                        "updated_at": "2022-07-27T13:05:19.000000Z"
+                    }
+                },
+                {
+                    "id": 101307,
+                    "name": "Vituka-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:12.000000Z",
+                    "updated_at": "2022-07-18T20:11:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 120,
+                    "geocode": "0703131122201009",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101307,
+                        "created_at": "2022-07-27T13:05:21.000000Z",
+                        "updated_at": "2022-07-27T13:05:21.000000Z"
+                    }
+                },
+                {
+                    "id": 101309,
+                    "name": "Vituka-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:13.000000Z",
+                    "updated_at": "2022-07-18T20:11:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 120,
+                    "geocode": "0703131122201010",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101309,
+                        "created_at": "2022-07-27T13:05:23.000000Z",
+                        "updated_at": "2022-07-27T13:05:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101308,
+                    "name": "Vituka-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:12.000000Z",
+                    "updated_at": "2022-07-18T20:11:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 108,
+                    "geocode": "0703131122201011",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101308,
+                        "created_at": "2022-07-27T13:05:25.000000Z",
+                        "updated_at": "2022-07-27T13:05:25.000000Z"
+                    }
+                },
+                {
+                    "id": 101311,
+                    "name": "Vituka-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:13.000000Z",
+                    "updated_at": "2022-07-18T20:11:13.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 118,
+                    "geocode": "0703131122201012",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101311,
+                        "created_at": "2022-07-27T13:05:27.000000Z",
+                        "updated_at": "2022-07-27T13:05:27.000000Z"
+                    }
+                },
+                {
+                    "id": 101316,
+                    "name": "Vituka-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:16.000000Z",
+                    "updated_at": "2022-07-18T20:11:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 110,
+                    "geocode": "0703131122201013",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101316,
+                        "created_at": "2022-07-27T13:05:29.000000Z",
+                        "updated_at": "2022-07-27T13:05:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101315,
+                    "name": "Vituka-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:15.000000Z",
+                    "updated_at": "2022-07-18T20:11:15.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 120,
+                    "geocode": "0703131122201014",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101315,
+                        "created_at": "2022-07-27T13:05:32.000000Z",
+                        "updated_at": "2022-07-27T13:05:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101317,
+                    "name": "Vituka-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:16.000000Z",
+                    "updated_at": "2022-07-18T20:11:16.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 112,
+                    "geocode": "0703131122201015",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101317,
+                        "created_at": "2022-07-27T13:05:35.000000Z",
+                        "updated_at": "2022-07-27T13:05:35.000000Z"
+                    }
+                },
+                {
+                    "id": 101318,
+                    "name": "Vituka-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:17.000000Z",
+                    "updated_at": "2022-07-18T20:11:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 100,
+                    "geocode": "0703131122201016",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101318,
+                        "created_at": "2022-07-27T13:05:37.000000Z",
+                        "updated_at": "2022-07-27T13:05:37.000000Z"
+                    }
+                },
+                {
+                    "id": 101319,
+                    "name": "Vituka-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:17.000000Z",
+                    "updated_at": "2022-07-18T20:11:17.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 122,
+                    "geocode": "0703131122201017",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101319,
+                        "created_at": "2022-07-27T13:05:39.000000Z",
+                        "updated_at": "2022-07-27T13:05:39.000000Z"
+                    }
+                },
+                {
+                    "id": 101322,
+                    "name": "Vituka-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:19.000000Z",
+                    "updated_at": "2022-07-18T20:11:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 107,
+                    "geocode": "0703131122201018",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101322,
+                        "created_at": "2022-07-27T13:05:41.000000Z",
+                        "updated_at": "2022-07-27T13:05:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101321,
+                    "name": "Vituka-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:19.000000Z",
+                    "updated_at": "2022-07-18T20:11:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 120,
+                    "geocode": "0703131122201019",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101321,
+                        "created_at": "2022-07-27T13:05:44.000000Z",
+                        "updated_at": "2022-07-27T13:05:44.000000Z"
+                    }
+                },
+                {
+                    "id": 101320,
+                    "name": "Vituka-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:18.000000Z",
+                    "updated_at": "2022-07-18T20:11:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 120,
+                    "geocode": "0703131122201020",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101320,
+                        "created_at": "2022-07-27T13:05:46.000000Z",
+                        "updated_at": "2022-07-27T13:05:46.000000Z"
+                    }
+                },
+                {
+                    "id": 101326,
+                    "name": "Vituka-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:22.000000Z",
+                    "updated_at": "2022-07-18T20:11:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 108,
+                    "geocode": "0703131122201021",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101326,
+                        "created_at": "2022-07-27T13:05:48.000000Z",
+                        "updated_at": "2022-07-27T13:05:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101325,
+                    "name": "Vituka-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:22.000000Z",
+                    "updated_at": "2022-07-18T20:11:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 114,
+                    "geocode": "0703131122201022",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101325,
+                        "created_at": "2022-07-27T13:05:51.000000Z",
+                        "updated_at": "2022-07-27T13:05:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101324,
+                    "name": "Vituka-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:21.000000Z",
+                    "updated_at": "2022-07-18T20:11:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 125,
+                    "geocode": "0703131122201023",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101324,
+                        "created_at": "2022-07-27T13:05:53.000000Z",
+                        "updated_at": "2022-07-27T13:05:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101323,
+                    "name": "Vituka-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:20.000000Z",
+                    "updated_at": "2022-07-18T20:11:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 119,
+                    "geocode": "0703131122201024",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101323,
+                        "created_at": "2022-07-27T13:05:55.000000Z",
+                        "updated_at": "2022-07-27T13:05:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101329,
+                    "name": "Vituka-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:25.000000Z",
+                    "updated_at": "2022-07-18T20:11:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 117,
+                    "geocode": "0703131122201025",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101329,
+                        "created_at": "2022-07-27T13:05:58.000000Z",
+                        "updated_at": "2022-07-27T13:05:58.000000Z"
+                    }
+                },
+                {
+                    "id": 101327,
+                    "name": "Vituka-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:23.000000Z",
+                    "updated_at": "2022-07-18T20:11:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 113,
+                    "geocode": "0703131122201026",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101327,
+                        "created_at": "2022-07-27T13:06:00.000000Z",
+                        "updated_at": "2022-07-27T13:06:00.000000Z"
+                    }
+                },
+                {
+                    "id": 101328,
+                    "name": "Vituka-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:24.000000Z",
+                    "updated_at": "2022-07-18T20:11:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 111,
+                    "geocode": "0703131122201027",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101328,
+                        "created_at": "2022-07-27T13:06:03.000000Z",
+                        "updated_at": "2022-07-27T13:06:03.000000Z"
+                    }
+                },
+                {
+                    "id": 101340,
+                    "name": "Vituka-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:29.000000Z",
+                    "updated_at": "2022-07-18T20:11:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 126,
+                    "geocode": "0703131122201028",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101340,
+                        "created_at": "2022-07-27T13:06:05.000000Z",
+                        "updated_at": "2022-07-27T13:06:05.000000Z"
+                    }
+                },
+                {
+                    "id": 101341,
+                    "name": "Vituka-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:11:30.000000Z",
+                    "updated_at": "2022-07-18T20:11:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 120,
+                    "geocode": "0703131122201029",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101341,
+                        "created_at": "2022-07-27T13:06:08.000000Z",
+                        "updated_at": "2022-07-27T13:06:08.000000Z"
+                    }
+                },
+                {
+                    "id": 101431,
+                    "name": "Vituka-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:35.000000Z",
+                    "updated_at": "2022-07-18T20:12:35.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": 125,
+                    "geocode": "0703131122201030",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101431,
+                        "created_at": "2022-07-27T13:06:10.000000Z",
+                        "updated_at": "2022-07-27T13:06:10.000000Z"
+                    }
+                },
+                {
+                    "id": 101417,
+                    "name": "Vituka-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:22.000000Z",
+                    "updated_at": "2022-07-18T20:12:22.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": 126,
+                    "geocode": "0703131122201031",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101417,
+                        "created_at": "2022-07-27T13:06:13.000000Z",
+                        "updated_at": "2022-07-27T13:06:13.000000Z"
+                    }
+                },
+                {
+                    "id": 101422,
+                    "name": "Vituka-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:26.000000Z",
+                    "updated_at": "2022-07-18T20:12:26.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": 121,
+                    "geocode": "0703131122201032",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101422,
+                        "created_at": "2022-07-27T13:06:15.000000Z",
+                        "updated_at": "2022-07-27T13:06:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101426,
+                    "name": "Vituka-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:30.000000Z",
+                    "updated_at": "2022-07-18T20:12:30.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": 123,
+                    "geocode": "0703131122201033",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101426,
+                        "created_at": "2022-07-27T13:06:18.000000Z",
+                        "updated_at": "2022-07-27T13:06:18.000000Z"
+                    }
+                },
+                {
+                    "id": 101428,
+                    "name": "Vituka-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:32.000000Z",
+                    "updated_at": "2022-07-18T20:12:32.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": 122,
+                    "geocode": "0703131122201034",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101428,
+                        "created_at": "2022-07-27T13:06:21.000000Z",
+                        "updated_at": "2022-07-27T13:06:21.000000Z"
+                    }
+                },
+                {
+                    "id": 101419,
+                    "name": "Vituka-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:24.000000Z",
+                    "updated_at": "2022-07-18T20:12:24.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": 117,
+                    "geocode": "0703131122201035",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101419,
+                        "created_at": "2022-07-27T13:06:23.000000Z",
+                        "updated_at": "2022-07-27T13:06:23.000000Z"
+                    }
+                },
+                {
+                    "id": 101423,
+                    "name": "Vituka-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:27.000000Z",
+                    "updated_at": "2022-07-18T20:12:27.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": 116,
+                    "geocode": "0703131122201036",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101423,
+                        "created_at": "2022-07-27T13:06:26.000000Z",
+                        "updated_at": "2022-07-27T13:06:26.000000Z"
+                    }
+                },
+                {
+                    "id": 101413,
+                    "name": "Vituka-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:18.000000Z",
+                    "updated_at": "2022-07-18T20:12:18.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": 118,
+                    "geocode": "0703131122201037",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101413,
+                        "created_at": "2022-07-27T13:06:29.000000Z",
+                        "updated_at": "2022-07-27T13:06:29.000000Z"
+                    }
+                },
+                {
+                    "id": 101424,
+                    "name": "Vituka-38",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:28.000000Z",
+                    "updated_at": "2022-07-18T20:12:28.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "038",
+                    "household": 119,
+                    "geocode": "0703131122201038",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101424,
+                        "created_at": "2022-07-27T13:06:32.000000Z",
+                        "updated_at": "2022-07-27T13:06:32.000000Z"
+                    }
+                },
+                {
+                    "id": 101421,
+                    "name": "Vituka-39",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:25.000000Z",
+                    "updated_at": "2022-07-18T20:12:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "039",
+                    "household": 121,
+                    "geocode": "0703131122201039",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101421,
+                        "created_at": "2022-07-27T13:06:34.000000Z",
+                        "updated_at": "2022-07-27T13:06:34.000000Z"
+                    }
+                },
+                {
+                    "id": 101414,
+                    "name": "Vituka-40",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:19.000000Z",
+                    "updated_at": "2022-07-18T20:12:19.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "040",
+                    "household": 126,
+                    "geocode": "0703131122201040",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101414,
+                        "created_at": "2022-07-27T13:06:37.000000Z",
+                        "updated_at": "2022-07-27T13:06:37.000000Z"
+                    }
+                },
+                {
+                    "id": 101427,
+                    "name": "Vituka-41",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:31.000000Z",
+                    "updated_at": "2022-07-18T20:12:31.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "041",
+                    "household": 125,
+                    "geocode": "0703131122201041",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101427,
+                        "created_at": "2022-07-27T13:06:40.000000Z",
+                        "updated_at": "2022-07-27T13:06:40.000000Z"
+                    }
+                },
+                {
+                    "id": 101416,
+                    "name": "Vituka-42",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:21.000000Z",
+                    "updated_at": "2022-07-18T20:12:21.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "042",
+                    "household": 126,
+                    "geocode": "0703131122201042",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101416,
+                        "created_at": "2022-07-27T13:06:42.000000Z",
+                        "updated_at": "2022-07-27T13:06:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101420,
+                    "name": "Vituka-43",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:25.000000Z",
+                    "updated_at": "2022-07-18T20:12:25.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "043",
+                    "household": 108,
+                    "geocode": "0703131122201043",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101420,
+                        "created_at": "2022-07-27T13:06:45.000000Z",
+                        "updated_at": "2022-07-27T13:06:45.000000Z"
+                    }
+                },
+                {
+                    "id": 101425,
+                    "name": "Vituka-44",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:29.000000Z",
+                    "updated_at": "2022-07-18T20:12:29.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "044",
+                    "household": 123,
+                    "geocode": "0703131122201044",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101425,
+                        "created_at": "2022-07-27T13:06:48.000000Z",
+                        "updated_at": "2022-07-27T13:06:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101415,
+                    "name": "Vituka-45",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:20.000000Z",
+                    "updated_at": "2022-07-18T20:12:20.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "045",
+                    "household": 125,
+                    "geocode": "0703131122201045",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101415,
+                        "created_at": "2022-07-27T13:06:50.000000Z",
+                        "updated_at": "2022-07-27T13:06:50.000000Z"
+                    }
+                },
+                {
+                    "id": 101418,
+                    "name": "Vituka-46",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:12:23.000000Z",
+                    "updated_at": "2022-07-18T20:12:23.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "046",
+                    "household": 124,
+                    "geocode": "0703131122201046",
+                    "pivot": {
+                        "location_id": 72574,
+                        "area_id": 101418,
+                        "created_at": "2022-07-27T13:06:54.000000Z",
+                        "updated_at": "2022-07-27T13:06:54.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
