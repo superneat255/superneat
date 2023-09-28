@@ -1,0 +1,2246 @@
+{
+    "data": [
+        {
+            "id": 72815,
+            "name": "FERRY",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72814,
+                "name": "KIGAMBONI",
+                "postcode": "17107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101845,
+                    "name": "Ferry-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:59.000000Z",
+                    "updated_at": "2022-07-18T20:17:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 120,
+                    "geocode": "0704131101201001",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101845,
+                        "created_at": "2022-07-27T15:04:48.000000Z",
+                        "updated_at": "2022-07-27T15:04:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101835,
+                    "name": "Ferry-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:56.000000Z",
+                    "updated_at": "2022-07-18T20:17:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 125,
+                    "geocode": "0704131101201002",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101835,
+                        "created_at": "2022-07-27T15:04:49.000000Z",
+                        "updated_at": "2022-07-27T15:04:49.000000Z"
+                    }
+                },
+                {
+                    "id": 101842,
+                    "name": "Ferry-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:58.000000Z",
+                    "updated_at": "2022-07-18T20:17:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 130,
+                    "geocode": "0704131101201003",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101842,
+                        "created_at": "2022-07-27T15:04:50.000000Z",
+                        "updated_at": "2022-07-27T15:04:50.000000Z"
+                    }
+                },
+                {
+                    "id": 101839,
+                    "name": "Ferry-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:57.000000Z",
+                    "updated_at": "2022-07-18T20:17:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 129,
+                    "geocode": "0704131101201004",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101839,
+                        "created_at": "2022-07-27T15:04:50.000000Z",
+                        "updated_at": "2022-07-27T15:04:50.000000Z"
+                    }
+                },
+                {
+                    "id": 101843,
+                    "name": "Ferry-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:59.000000Z",
+                    "updated_at": "2022-07-18T20:17:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 120,
+                    "geocode": "0704131101201005",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101843,
+                        "created_at": "2022-07-27T15:04:51.000000Z",
+                        "updated_at": "2022-07-27T15:04:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101833,
+                    "name": "Ferry-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:55.000000Z",
+                    "updated_at": "2022-07-18T20:17:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 130,
+                    "geocode": "0704131101201006",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101833,
+                        "created_at": "2022-07-27T15:04:52.000000Z",
+                        "updated_at": "2022-07-27T15:04:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101836,
+                    "name": "Ferry-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:56.000000Z",
+                    "updated_at": "2022-07-18T20:17:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 129,
+                    "geocode": "0704131101201007",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101836,
+                        "created_at": "2022-07-27T15:04:52.000000Z",
+                        "updated_at": "2022-07-27T15:04:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101834,
+                    "name": "Ferry-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:55.000000Z",
+                    "updated_at": "2022-07-18T20:17:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 125,
+                    "geocode": "0704131101201008",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101834,
+                        "created_at": "2022-07-27T15:04:53.000000Z",
+                        "updated_at": "2022-07-27T15:04:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101838,
+                    "name": "Ferry-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:57.000000Z",
+                    "updated_at": "2022-07-18T20:17:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 126,
+                    "geocode": "0704131101201009",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101838,
+                        "created_at": "2022-07-27T15:04:53.000000Z",
+                        "updated_at": "2022-07-27T15:04:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101846,
+                    "name": "Ferry-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:00.000000Z",
+                    "updated_at": "2022-07-18T20:18:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 120,
+                    "geocode": "0704131101201010",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101846,
+                        "created_at": "2022-07-27T15:04:54.000000Z",
+                        "updated_at": "2022-07-27T15:04:54.000000Z"
+                    }
+                },
+                {
+                    "id": 101828,
+                    "name": "Ferry-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:53.000000Z",
+                    "updated_at": "2022-07-18T20:17:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 117,
+                    "geocode": "0704131101201011",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101828,
+                        "created_at": "2022-07-27T15:04:55.000000Z",
+                        "updated_at": "2022-07-27T15:04:55.000000Z"
+                    }
+                },
+                {
+                    "id": 101811,
+                    "name": "Ferry-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:49.000000Z",
+                    "updated_at": "2022-07-18T20:17:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 120,
+                    "geocode": "0704131101201012",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101811,
+                        "created_at": "2022-07-27T15:04:56.000000Z",
+                        "updated_at": "2022-07-27T15:04:56.000000Z"
+                    }
+                },
+                {
+                    "id": 101824,
+                    "name": "Ferry-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:52.000000Z",
+                    "updated_at": "2022-07-18T20:17:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 120,
+                    "geocode": "0704131101201013",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101824,
+                        "created_at": "2022-07-27T15:04:57.000000Z",
+                        "updated_at": "2022-07-27T15:04:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101823,
+                    "name": "Ferry-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:52.000000Z",
+                    "updated_at": "2022-07-18T20:17:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 118,
+                    "geocode": "0704131101201014",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101823,
+                        "created_at": "2022-07-27T15:04:57.000000Z",
+                        "updated_at": "2022-07-27T15:04:57.000000Z"
+                    }
+                },
+                {
+                    "id": 101815,
+                    "name": "Ferry-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:50.000000Z",
+                    "updated_at": "2022-07-18T20:17:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 121,
+                    "geocode": "0704131101201015",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101815,
+                        "created_at": "2022-07-27T15:04:58.000000Z",
+                        "updated_at": "2022-07-27T15:04:58.000000Z"
+                    }
+                },
+                {
+                    "id": 101818,
+                    "name": "Ferry-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:50.000000Z",
+                    "updated_at": "2022-07-18T20:17:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 131,
+                    "geocode": "0704131101201016",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101818,
+                        "created_at": "2022-07-27T15:04:59.000000Z",
+                        "updated_at": "2022-07-27T15:04:59.000000Z"
+                    }
+                },
+                {
+                    "id": 101812,
+                    "name": "Ferry-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:49.000000Z",
+                    "updated_at": "2022-07-18T20:17:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 108,
+                    "geocode": "0704131101201017",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101812,
+                        "created_at": "2022-07-27T15:05:00.000000Z",
+                        "updated_at": "2022-07-27T15:05:00.000000Z"
+                    }
+                },
+                {
+                    "id": 101825,
+                    "name": "Ferry-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:52.000000Z",
+                    "updated_at": "2022-07-18T20:17:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 105,
+                    "geocode": "0704131101201018",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101825,
+                        "created_at": "2022-07-27T15:05:00.000000Z",
+                        "updated_at": "2022-07-27T15:05:00.000000Z"
+                    }
+                },
+                {
+                    "id": 101816,
+                    "name": "Ferry-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:50.000000Z",
+                    "updated_at": "2022-07-18T20:17:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 102,
+                    "geocode": "0704131101201019",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101816,
+                        "created_at": "2022-07-27T15:05:01.000000Z",
+                        "updated_at": "2022-07-27T15:05:01.000000Z"
+                    }
+                },
+                {
+                    "id": 101827,
+                    "name": "Ferry-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:53.000000Z",
+                    "updated_at": "2022-07-18T20:17:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 130,
+                    "geocode": "0704131101201020",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101827,
+                        "created_at": "2022-07-27T15:05:02.000000Z",
+                        "updated_at": "2022-07-27T15:05:02.000000Z"
+                    }
+                },
+                {
+                    "id": 101822,
+                    "name": "Ferry-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:52.000000Z",
+                    "updated_at": "2022-07-18T20:17:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 115,
+                    "geocode": "0704131101201021",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101822,
+                        "created_at": "2022-07-27T15:05:03.000000Z",
+                        "updated_at": "2022-07-27T15:05:03.000000Z"
+                    }
+                },
+                {
+                    "id": 101832,
+                    "name": "Ferry-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:55.000000Z",
+                    "updated_at": "2022-07-18T20:17:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 110,
+                    "geocode": "0704131101201022",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101832,
+                        "created_at": "2022-07-27T15:05:04.000000Z",
+                        "updated_at": "2022-07-27T15:05:04.000000Z"
+                    }
+                },
+                {
+                    "id": 101826,
+                    "name": "Ferry-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:53.000000Z",
+                    "updated_at": "2022-07-18T20:17:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 140,
+                    "geocode": "0704131101201023",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101826,
+                        "created_at": "2022-07-27T15:05:04.000000Z",
+                        "updated_at": "2022-07-27T15:05:04.000000Z"
+                    }
+                },
+                {
+                    "id": 101837,
+                    "name": "Ferry-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:56.000000Z",
+                    "updated_at": "2022-07-18T20:17:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 120,
+                    "geocode": "0704131101201024",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101837,
+                        "created_at": "2022-07-27T15:05:05.000000Z",
+                        "updated_at": "2022-07-27T15:05:05.000000Z"
+                    }
+                },
+                {
+                    "id": 101847,
+                    "name": "Ferry-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:18:00.000000Z",
+                    "updated_at": "2022-07-18T20:18:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 120,
+                    "geocode": "0704131101201025",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101847,
+                        "created_at": "2022-07-27T15:05:06.000000Z",
+                        "updated_at": "2022-07-27T15:05:06.000000Z"
+                    }
+                },
+                {
+                    "id": 101840,
+                    "name": "Ferry-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:58.000000Z",
+                    "updated_at": "2022-07-18T20:17:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": 128,
+                    "geocode": "0704131101201026",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101840,
+                        "created_at": "2022-07-27T15:05:07.000000Z",
+                        "updated_at": "2022-07-27T15:05:07.000000Z"
+                    }
+                },
+                {
+                    "id": 101844,
+                    "name": "Ferry-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:59.000000Z",
+                    "updated_at": "2022-07-18T20:17:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": 120,
+                    "geocode": "0704131101201027",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101844,
+                        "created_at": "2022-07-27T15:05:07.000000Z",
+                        "updated_at": "2022-07-27T15:05:07.000000Z"
+                    }
+                },
+                {
+                    "id": 101813,
+                    "name": "Ferry-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:49.000000Z",
+                    "updated_at": "2022-07-18T20:17:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": 122,
+                    "geocode": "0704131101201028",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101813,
+                        "created_at": "2022-07-27T15:05:08.000000Z",
+                        "updated_at": "2022-07-27T15:05:08.000000Z"
+                    }
+                },
+                {
+                    "id": 101821,
+                    "name": "Ferry-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:51.000000Z",
+                    "updated_at": "2022-07-18T20:17:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": 124,
+                    "geocode": "0704131101201029",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101821,
+                        "created_at": "2022-07-27T15:05:09.000000Z",
+                        "updated_at": "2022-07-27T15:05:09.000000Z"
+                    }
+                },
+                {
+                    "id": 101831,
+                    "name": "Ferry-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:54.000000Z",
+                    "updated_at": "2022-07-18T20:17:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": 120,
+                    "geocode": "0704131101201030",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101831,
+                        "created_at": "2022-07-27T15:05:10.000000Z",
+                        "updated_at": "2022-07-27T15:05:10.000000Z"
+                    }
+                },
+                {
+                    "id": 101814,
+                    "name": "Ferry-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:50.000000Z",
+                    "updated_at": "2022-07-18T20:17:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": 120,
+                    "geocode": "0704131101201031",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101814,
+                        "created_at": "2022-07-27T15:05:11.000000Z",
+                        "updated_at": "2022-07-27T15:05:11.000000Z"
+                    }
+                },
+                {
+                    "id": 101819,
+                    "name": "Ferry-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:51.000000Z",
+                    "updated_at": "2022-07-18T20:17:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": 100,
+                    "geocode": "0704131101201032",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101819,
+                        "created_at": "2022-07-27T15:05:11.000000Z",
+                        "updated_at": "2022-07-27T15:05:11.000000Z"
+                    }
+                },
+                {
+                    "id": 101817,
+                    "name": "Ferry-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:50.000000Z",
+                    "updated_at": "2022-07-18T20:17:50.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": 110,
+                    "geocode": "0704131101201033",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101817,
+                        "created_at": "2022-07-27T15:05:12.000000Z",
+                        "updated_at": "2022-07-27T15:05:12.000000Z"
+                    }
+                },
+                {
+                    "id": 101820,
+                    "name": "Ferry-34",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:51.000000Z",
+                    "updated_at": "2022-07-18T20:17:51.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "034",
+                    "household": 120,
+                    "geocode": "0704131101201034",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101820,
+                        "created_at": "2022-07-27T15:05:13.000000Z",
+                        "updated_at": "2022-07-27T15:05:13.000000Z"
+                    }
+                },
+                {
+                    "id": 101829,
+                    "name": "Ferry-35",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:54.000000Z",
+                    "updated_at": "2022-07-18T20:17:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "035",
+                    "household": 119,
+                    "geocode": "0704131101201035",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101829,
+                        "created_at": "2022-07-27T15:05:14.000000Z",
+                        "updated_at": "2022-07-27T15:05:14.000000Z"
+                    }
+                },
+                {
+                    "id": 101830,
+                    "name": "Ferry-36",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:54.000000Z",
+                    "updated_at": "2022-07-18T20:17:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "036",
+                    "household": 120,
+                    "geocode": "0704131101201036",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101830,
+                        "created_at": "2022-07-27T15:05:15.000000Z",
+                        "updated_at": "2022-07-27T15:05:15.000000Z"
+                    }
+                },
+                {
+                    "id": 101841,
+                    "name": "Ferry-37",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:58.000000Z",
+                    "updated_at": "2022-07-18T20:17:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "037",
+                    "household": 123,
+                    "geocode": "0704131101201037",
+                    "pivot": {
+                        "location_id": 72815,
+                        "area_id": 101841,
+                        "created_at": "2022-07-27T15:05:16.000000Z",
+                        "updated_at": "2022-07-27T15:05:16.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72816,
+            "name": "KIGAMBONI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72814,
+                "name": "KIGAMBONI",
+                "postcode": "17107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 101792,
+                    "name": "Kigamboni-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:44.000000Z",
+                    "updated_at": "2022-07-18T20:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": 112,
+                    "geocode": "0704131101203001",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101792,
+                        "created_at": "2022-07-27T15:05:40.000000Z",
+                        "updated_at": "2022-07-27T15:05:40.000000Z"
+                    }
+                },
+                {
+                    "id": 101791,
+                    "name": "Kigamboni-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:44.000000Z",
+                    "updated_at": "2022-07-18T20:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": 118,
+                    "geocode": "0704131101203002",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101791,
+                        "created_at": "2022-07-27T15:05:41.000000Z",
+                        "updated_at": "2022-07-27T15:05:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101790,
+                    "name": "Kigamboni-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:44.000000Z",
+                    "updated_at": "2022-07-18T20:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": 116,
+                    "geocode": "0704131101203003",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101790,
+                        "created_at": "2022-07-27T15:05:41.000000Z",
+                        "updated_at": "2022-07-27T15:05:41.000000Z"
+                    }
+                },
+                {
+                    "id": 101786,
+                    "name": "Kigamboni-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:43.000000Z",
+                    "updated_at": "2022-07-18T20:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": 138,
+                    "geocode": "0704131101203004",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101786,
+                        "created_at": "2022-07-27T15:05:42.000000Z",
+                        "updated_at": "2022-07-27T15:05:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101789,
+                    "name": "Kigamboni-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:44.000000Z",
+                    "updated_at": "2022-07-18T20:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": 124,
+                    "geocode": "0704131101203005",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101789,
+                        "created_at": "2022-07-27T15:05:42.000000Z",
+                        "updated_at": "2022-07-27T15:05:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101795,
+                    "name": "Kigamboni-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:45.000000Z",
+                    "updated_at": "2022-07-18T20:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": 100,
+                    "geocode": "0704131101203006",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101795,
+                        "created_at": "2022-07-27T15:05:42.000000Z",
+                        "updated_at": "2022-07-27T15:05:42.000000Z"
+                    }
+                },
+                {
+                    "id": 101788,
+                    "name": "Kigamboni-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:43.000000Z",
+                    "updated_at": "2022-07-18T20:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": 117,
+                    "geocode": "0704131101203007",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101788,
+                        "created_at": "2022-07-27T15:05:43.000000Z",
+                        "updated_at": "2022-07-27T15:05:43.000000Z"
+                    }
+                },
+                {
+                    "id": 101794,
+                    "name": "Kigamboni-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:45.000000Z",
+                    "updated_at": "2022-07-18T20:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": 123,
+                    "geocode": "0704131101203008",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101794,
+                        "created_at": "2022-07-27T15:05:43.000000Z",
+                        "updated_at": "2022-07-27T15:05:43.000000Z"
+                    }
+                },
+                {
+                    "id": 101803,
+                    "name": "Kigamboni-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:47.000000Z",
+                    "updated_at": "2022-07-18T20:17:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": 128,
+                    "geocode": "0704131101203009",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101803,
+                        "created_at": "2022-07-27T15:05:44.000000Z",
+                        "updated_at": "2022-07-27T15:05:44.000000Z"
+                    }
+                },
+                {
+                    "id": 101798,
+                    "name": "Kigamboni-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:45.000000Z",
+                    "updated_at": "2022-07-18T20:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": 127,
+                    "geocode": "0704131101203010",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101798,
+                        "created_at": "2022-07-27T15:05:45.000000Z",
+                        "updated_at": "2022-07-27T15:05:45.000000Z"
+                    }
+                },
+                {
+                    "id": 101804,
+                    "name": "Kigamboni-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:47.000000Z",
+                    "updated_at": "2022-07-18T20:17:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": 119,
+                    "geocode": "0704131101203011",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101804,
+                        "created_at": "2022-07-27T15:05:45.000000Z",
+                        "updated_at": "2022-07-27T15:05:45.000000Z"
+                    }
+                },
+                {
+                    "id": 101802,
+                    "name": "Kigamboni-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:46.000000Z",
+                    "updated_at": "2022-07-18T20:17:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": 110,
+                    "geocode": "0704131101203012",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101802,
+                        "created_at": "2022-07-27T15:05:46.000000Z",
+                        "updated_at": "2022-07-27T15:05:46.000000Z"
+                    }
+                },
+                {
+                    "id": 101806,
+                    "name": "Kigamboni-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:48.000000Z",
+                    "updated_at": "2022-07-18T20:17:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": 128,
+                    "geocode": "0704131101203013",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101806,
+                        "created_at": "2022-07-27T15:05:46.000000Z",
+                        "updated_at": "2022-07-27T15:05:46.000000Z"
+                    }
+                },
+                {
+                    "id": 101801,
+                    "name": "Kigamboni-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:46.000000Z",
+                    "updated_at": "2022-07-18T20:17:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": 109,
+                    "geocode": "0704131101203014",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101801,
+                        "created_at": "2022-07-27T15:05:47.000000Z",
+                        "updated_at": "2022-07-27T15:05:47.000000Z"
+                    }
+                },
+                {
+                    "id": 101805,
+                    "name": "Kigamboni-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:47.000000Z",
+                    "updated_at": "2022-07-18T20:17:47.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": 126,
+                    "geocode": "0704131101203015",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101805,
+                        "created_at": "2022-07-27T15:05:48.000000Z",
+                        "updated_at": "2022-07-27T15:05:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101810,
+                    "name": "Kigamboni-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:49.000000Z",
+                    "updated_at": "2022-07-18T20:17:49.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": 115,
+                    "geocode": "0704131101203016",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101810,
+                        "created_at": "2022-07-27T15:05:48.000000Z",
+                        "updated_at": "2022-07-27T15:05:48.000000Z"
+                    }
+                },
+                {
+                    "id": 101800,
+                    "name": "Kigamboni-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:46.000000Z",
+                    "updated_at": "2022-07-18T20:17:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": 125,
+                    "geocode": "0704131101203017",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101800,
+                        "created_at": "2022-07-27T15:05:49.000000Z",
+                        "updated_at": "2022-07-27T15:05:49.000000Z"
+                    }
+                },
+                {
+                    "id": 101797,
+                    "name": "Kigamboni-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:45.000000Z",
+                    "updated_at": "2022-07-18T20:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": 130,
+                    "geocode": "0704131101203018",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101797,
+                        "created_at": "2022-07-27T15:05:49.000000Z",
+                        "updated_at": "2022-07-27T15:05:49.000000Z"
+                    }
+                },
+                {
+                    "id": 101809,
+                    "name": "Kigamboni-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:48.000000Z",
+                    "updated_at": "2022-07-18T20:17:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": 113,
+                    "geocode": "0704131101203019",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101809,
+                        "created_at": "2022-07-27T15:05:50.000000Z",
+                        "updated_at": "2022-07-27T15:05:50.000000Z"
+                    }
+                },
+                {
+                    "id": 101808,
+                    "name": "Kigamboni-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:48.000000Z",
+                    "updated_at": "2022-07-18T20:17:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": 122,
+                    "geocode": "0704131101203020",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101808,
+                        "created_at": "2022-07-27T15:05:50.000000Z",
+                        "updated_at": "2022-07-27T15:05:50.000000Z"
+                    }
+                },
+                {
+                    "id": 101807,
+                    "name": "Kigamboni-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:48.000000Z",
+                    "updated_at": "2022-07-18T20:17:48.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": 120,
+                    "geocode": "0704131101203021",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101807,
+                        "created_at": "2022-07-27T15:05:51.000000Z",
+                        "updated_at": "2022-07-27T15:05:51.000000Z"
+                    }
+                },
+                {
+                    "id": 101787,
+                    "name": "Kigamboni-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:43.000000Z",
+                    "updated_at": "2022-07-18T20:17:43.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": 108,
+                    "geocode": "0704131101203022",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101787,
+                        "created_at": "2022-07-27T15:05:52.000000Z",
+                        "updated_at": "2022-07-27T15:05:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101799,
+                    "name": "Kigamboni-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:46.000000Z",
+                    "updated_at": "2022-07-18T20:17:46.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": 118,
+                    "geocode": "0704131101203023",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101799,
+                        "created_at": "2022-07-27T15:05:52.000000Z",
+                        "updated_at": "2022-07-27T15:05:52.000000Z"
+                    }
+                },
+                {
+                    "id": 101796,
+                    "name": "Kigamboni-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:45.000000Z",
+                    "updated_at": "2022-07-18T20:17:45.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": 101,
+                    "geocode": "0704131101203024",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101796,
+                        "created_at": "2022-07-27T15:05:53.000000Z",
+                        "updated_at": "2022-07-27T15:05:53.000000Z"
+                    }
+                },
+                {
+                    "id": 101793,
+                    "name": "Kigamboni-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-18T20:17:44.000000Z",
+                    "updated_at": "2022-07-18T20:17:44.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": 114,
+                    "geocode": "0704131101203025",
+                    "pivot": {
+                        "location_id": 72816,
+                        "area_id": 101793,
+                        "created_at": "2022-07-27T15:05:53.000000Z",
+                        "updated_at": "2022-07-27T15:05:53.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 72817,
+            "name": "TUAMOYO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 72814,
+                "name": "KIGAMBONI",
+                "postcode": "17107",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 72755,
+                    "name": "KIGAMBONI MUNICIPAL COUNCIL",
+                    "postcode": "171",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 72754,
+                        "name": "KIGAMBONI",
+                        "postcode": "171",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 72753,
+                            "name": "KIGAMBONI",
+                            "postcode": "17",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 88621,
+                                "name": "DAR ES SALAAM",
+                                "postcode": "11",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 3,
+                                    "name": "Region"
+                                },
+                                "parent": {
+                                    "id": 70879,
+                                    "name": "DAR ES SALAAM",
+                                    "postcode": "1",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 2,
+                                        "name": "Zone"
+                                    },
+                                    "parent": {
+                                        "id": 1,
+                                        "name": "TANZANIA",
+                                        "postcode": "0",
+                                        "isSpecialLocation": 0,
+                                        "users": 0,
+                                        "lower_users": 0,
+                                        "addresses": 0,
+                                        "level": {
+                                            "id": 1,
+                                            "name": "Country"
+                                        },
+                                        "parent": null,
+                                        "enumAreas": []
+                                    },
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 127091,
+                    "name": "Toamoyo (Tuamoyo)-01",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:17:58.000000Z",
+                    "updated_at": "2022-07-27T11:17:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127091,
+                        "created_at": "2022-07-27T15:05:16.000000Z",
+                        "updated_at": "2022-07-27T15:05:16.000000Z"
+                    }
+                },
+                {
+                    "id": 127092,
+                    "name": "Toamoyo (Tuamoyo)-02",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:17:58.000000Z",
+                    "updated_at": "2022-07-27T11:17:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127092,
+                        "created_at": "2022-07-27T15:05:17.000000Z",
+                        "updated_at": "2022-07-27T15:05:17.000000Z"
+                    }
+                },
+                {
+                    "id": 127093,
+                    "name": "Toamoyo (Tuamoyo)-03",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:17:58.000000Z",
+                    "updated_at": "2022-07-27T11:17:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127093,
+                        "created_at": "2022-07-27T15:05:17.000000Z",
+                        "updated_at": "2022-07-27T15:05:17.000000Z"
+                    }
+                },
+                {
+                    "id": 127094,
+                    "name": "Toamoyo (Tuamoyo)-04",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:17:59.000000Z",
+                    "updated_at": "2022-07-27T11:17:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127094,
+                        "created_at": "2022-07-27T15:05:18.000000Z",
+                        "updated_at": "2022-07-27T15:05:18.000000Z"
+                    }
+                },
+                {
+                    "id": 127095,
+                    "name": "Toamoyo (Tuamoyo)-05",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:17:59.000000Z",
+                    "updated_at": "2022-07-27T11:17:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127095,
+                        "created_at": "2022-07-27T15:05:19.000000Z",
+                        "updated_at": "2022-07-27T15:05:19.000000Z"
+                    }
+                },
+                {
+                    "id": 127096,
+                    "name": "Toamoyo (Tuamoyo)-06",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:17:59.000000Z",
+                    "updated_at": "2022-07-27T11:17:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "006",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127096,
+                        "created_at": "2022-07-27T15:05:19.000000Z",
+                        "updated_at": "2022-07-27T15:05:19.000000Z"
+                    }
+                },
+                {
+                    "id": 127097,
+                    "name": "Toamoyo (Tuamoyo)-07",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:00.000000Z",
+                    "updated_at": "2022-07-27T11:18:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "007",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127097,
+                        "created_at": "2022-07-27T15:05:20.000000Z",
+                        "updated_at": "2022-07-27T15:05:20.000000Z"
+                    }
+                },
+                {
+                    "id": 127098,
+                    "name": "Toamoyo (Tuamoyo)-08",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:00.000000Z",
+                    "updated_at": "2022-07-27T11:18:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "008",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127098,
+                        "created_at": "2022-07-27T15:05:21.000000Z",
+                        "updated_at": "2022-07-27T15:05:21.000000Z"
+                    }
+                },
+                {
+                    "id": 127099,
+                    "name": "Toamoyo (Tuamoyo)-09",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:00.000000Z",
+                    "updated_at": "2022-07-27T11:18:00.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "009",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127099,
+                        "created_at": "2022-07-27T15:05:21.000000Z",
+                        "updated_at": "2022-07-27T15:05:21.000000Z"
+                    }
+                },
+                {
+                    "id": 127100,
+                    "name": "Toamoyo (Tuamoyo)-10",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:01.000000Z",
+                    "updated_at": "2022-07-27T11:18:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "010",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127100,
+                        "created_at": "2022-07-27T15:05:22.000000Z",
+                        "updated_at": "2022-07-27T15:05:22.000000Z"
+                    }
+                },
+                {
+                    "id": 127101,
+                    "name": "Toamoyo (Tuamoyo)-11",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:01.000000Z",
+                    "updated_at": "2022-07-27T11:18:01.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "011",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127101,
+                        "created_at": "2022-07-27T15:05:22.000000Z",
+                        "updated_at": "2022-07-27T15:05:22.000000Z"
+                    }
+                },
+                {
+                    "id": 127102,
+                    "name": "Toamoyo (Tuamoyo)-12",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:02.000000Z",
+                    "updated_at": "2022-07-27T11:18:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "012",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127102,
+                        "created_at": "2022-07-27T15:05:23.000000Z",
+                        "updated_at": "2022-07-27T15:05:23.000000Z"
+                    }
+                },
+                {
+                    "id": 127103,
+                    "name": "Toamoyo (Tuamoyo)-13",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:02.000000Z",
+                    "updated_at": "2022-07-27T11:18:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "013",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127103,
+                        "created_at": "2022-07-27T15:05:24.000000Z",
+                        "updated_at": "2022-07-27T15:05:24.000000Z"
+                    }
+                },
+                {
+                    "id": 127104,
+                    "name": "Toamoyo (Tuamoyo)-14",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:02.000000Z",
+                    "updated_at": "2022-07-27T11:18:02.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "014",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127104,
+                        "created_at": "2022-07-27T15:05:24.000000Z",
+                        "updated_at": "2022-07-27T15:05:24.000000Z"
+                    }
+                },
+                {
+                    "id": 127105,
+                    "name": "Toamoyo (Tuamoyo)-15",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:03.000000Z",
+                    "updated_at": "2022-07-27T11:18:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "015",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127105,
+                        "created_at": "2022-07-27T15:05:25.000000Z",
+                        "updated_at": "2022-07-27T15:05:25.000000Z"
+                    }
+                },
+                {
+                    "id": 127106,
+                    "name": "Toamoyo (Tuamoyo)-16",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:03.000000Z",
+                    "updated_at": "2022-07-27T11:18:03.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "016",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127106,
+                        "created_at": "2022-07-27T15:05:26.000000Z",
+                        "updated_at": "2022-07-27T15:05:26.000000Z"
+                    }
+                },
+                {
+                    "id": 127107,
+                    "name": "Toamoyo (Tuamoyo)-17",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:04.000000Z",
+                    "updated_at": "2022-07-27T11:18:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "017",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127107,
+                        "created_at": "2022-07-27T15:05:27.000000Z",
+                        "updated_at": "2022-07-27T15:05:27.000000Z"
+                    }
+                },
+                {
+                    "id": 127108,
+                    "name": "Toamoyo (Tuamoyo)-18",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:04.000000Z",
+                    "updated_at": "2022-07-27T11:18:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "018",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127108,
+                        "created_at": "2022-07-27T15:05:27.000000Z",
+                        "updated_at": "2022-07-27T15:05:27.000000Z"
+                    }
+                },
+                {
+                    "id": 127109,
+                    "name": "Toamoyo (Tuamoyo)-19",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:04.000000Z",
+                    "updated_at": "2022-07-27T11:18:04.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "019",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127109,
+                        "created_at": "2022-07-27T15:05:28.000000Z",
+                        "updated_at": "2022-07-27T15:05:28.000000Z"
+                    }
+                },
+                {
+                    "id": 127110,
+                    "name": "Toamoyo (Tuamoyo)-20",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:05.000000Z",
+                    "updated_at": "2022-07-27T11:18:05.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "020",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127110,
+                        "created_at": "2022-07-27T15:05:29.000000Z",
+                        "updated_at": "2022-07-27T15:05:29.000000Z"
+                    }
+                },
+                {
+                    "id": 127111,
+                    "name": "Toamoyo (Tuamoyo)-21",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:06.000000Z",
+                    "updated_at": "2022-07-27T11:18:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "021",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127111,
+                        "created_at": "2022-07-27T15:05:30.000000Z",
+                        "updated_at": "2022-07-27T15:05:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127112,
+                    "name": "Toamoyo (Tuamoyo)-22",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:06.000000Z",
+                    "updated_at": "2022-07-27T11:18:06.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "022",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127112,
+                        "created_at": "2022-07-27T15:05:30.000000Z",
+                        "updated_at": "2022-07-27T15:05:30.000000Z"
+                    }
+                },
+                {
+                    "id": 127113,
+                    "name": "Toamoyo (Tuamoyo)-23",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:07.000000Z",
+                    "updated_at": "2022-07-27T11:18:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "023",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127113,
+                        "created_at": "2022-07-27T15:05:31.000000Z",
+                        "updated_at": "2022-07-27T15:05:31.000000Z"
+                    }
+                },
+                {
+                    "id": 127114,
+                    "name": "Toamoyo (Tuamoyo)-24",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:07.000000Z",
+                    "updated_at": "2022-07-27T11:18:07.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "024",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127114,
+                        "created_at": "2022-07-27T15:05:32.000000Z",
+                        "updated_at": "2022-07-27T15:05:32.000000Z"
+                    }
+                },
+                {
+                    "id": 127115,
+                    "name": "Toamoyo (Tuamoyo)-25",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:08.000000Z",
+                    "updated_at": "2022-07-27T11:18:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "025",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127115,
+                        "created_at": "2022-07-27T15:05:33.000000Z",
+                        "updated_at": "2022-07-27T15:05:33.000000Z"
+                    }
+                },
+                {
+                    "id": 127116,
+                    "name": "Toamoyo (Tuamoyo)-26",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:08.000000Z",
+                    "updated_at": "2022-07-27T11:18:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "026",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127116,
+                        "created_at": "2022-07-27T15:05:34.000000Z",
+                        "updated_at": "2022-07-27T15:05:34.000000Z"
+                    }
+                },
+                {
+                    "id": 127117,
+                    "name": "Toamoyo (Tuamoyo)-27",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:09.000000Z",
+                    "updated_at": "2022-07-27T11:18:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "027",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127117,
+                        "created_at": "2022-07-27T15:05:34.000000Z",
+                        "updated_at": "2022-07-27T15:05:34.000000Z"
+                    }
+                },
+                {
+                    "id": 127118,
+                    "name": "Toamoyo (Tuamoyo)-28",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:09.000000Z",
+                    "updated_at": "2022-07-27T11:18:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "028",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127118,
+                        "created_at": "2022-07-27T15:05:35.000000Z",
+                        "updated_at": "2022-07-27T15:05:35.000000Z"
+                    }
+                },
+                {
+                    "id": 127119,
+                    "name": "Toamoyo (Tuamoyo)-29",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:10.000000Z",
+                    "updated_at": "2022-07-27T11:18:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "029",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127119,
+                        "created_at": "2022-07-27T15:05:36.000000Z",
+                        "updated_at": "2022-07-27T15:05:36.000000Z"
+                    }
+                },
+                {
+                    "id": 127120,
+                    "name": "Toamoyo (Tuamoyo)-30",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:10.000000Z",
+                    "updated_at": "2022-07-27T11:18:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "030",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127120,
+                        "created_at": "2022-07-27T15:05:37.000000Z",
+                        "updated_at": "2022-07-27T15:05:37.000000Z"
+                    }
+                },
+                {
+                    "id": 127121,
+                    "name": "Toamoyo (Tuamoyo)-31",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:11.000000Z",
+                    "updated_at": "2022-07-27T11:18:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "031",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127121,
+                        "created_at": "2022-07-27T15:05:38.000000Z",
+                        "updated_at": "2022-07-27T15:05:38.000000Z"
+                    }
+                },
+                {
+                    "id": 127122,
+                    "name": "Toamoyo (Tuamoyo)-32",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:11.000000Z",
+                    "updated_at": "2022-07-27T11:18:11.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "032",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127122,
+                        "created_at": "2022-07-27T15:05:39.000000Z",
+                        "updated_at": "2022-07-27T15:05:39.000000Z"
+                    }
+                },
+                {
+                    "id": 127123,
+                    "name": "Toamoyo (Tuamoyo)-33",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-07-27T11:18:12.000000Z",
+                    "updated_at": "2022-07-27T11:18:12.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "033",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 72817,
+                        "area_id": 127123,
+                        "created_at": "2022-07-27T15:05:39.000000Z",
+                        "updated_at": "2022-07-27T15:05:39.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
