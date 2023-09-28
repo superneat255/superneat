@@ -1,0 +1,804 @@
+{
+    "data": [
+        {
+            "id": 85254,
+            "name": "LUTINDI",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85252,
+                "name": "LUTINDI",
+                "postcode": "21612",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85227,
+                    "name": "KOROGWE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85185,
+                        "name": "KOROGWE",
+                        "postcode": "216",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 181199,
+                    "name": "Kialilo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:56.000000Z",
+                    "updated_at": "2022-08-09T07:39:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85254,
+                        "area_id": 181199,
+                        "created_at": "2022-08-10T06:06:52.000000Z",
+                        "updated_at": "2022-08-10T06:06:52.000000Z"
+                    }
+                },
+                {
+                    "id": 181200,
+                    "name": "Bethania",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:56.000000Z",
+                    "updated_at": "2022-08-09T07:39:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85254,
+                        "area_id": 181200,
+                        "created_at": "2022-08-10T06:06:53.000000Z",
+                        "updated_at": "2022-08-10T06:06:53.000000Z"
+                    }
+                },
+                {
+                    "id": 181201,
+                    "name": "Kimbo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:56.000000Z",
+                    "updated_at": "2022-08-09T07:39:56.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85254,
+                        "area_id": 181201,
+                        "created_at": "2022-08-10T06:06:53.000000Z",
+                        "updated_at": "2022-08-10T06:06:53.000000Z"
+                    }
+                },
+                {
+                    "id": 181202,
+                    "name": "Kana",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:57.000000Z",
+                    "updated_at": "2022-08-09T07:39:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85254,
+                        "area_id": 181202,
+                        "created_at": "2022-08-10T06:06:53.000000Z",
+                        "updated_at": "2022-08-10T06:06:53.000000Z"
+                    }
+                },
+                {
+                    "id": 181203,
+                    "name": "Kunga Kaya",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:57.000000Z",
+                    "updated_at": "2022-08-09T07:39:57.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85254,
+                        "area_id": 181203,
+                        "created_at": "2022-08-10T06:06:54.000000Z",
+                        "updated_at": "2022-08-10T06:06:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85255,
+            "name": "MASANGE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85252,
+                "name": "LUTINDI",
+                "postcode": "21612",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85227,
+                    "name": "KOROGWE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85185,
+                        "name": "KOROGWE",
+                        "postcode": "216",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 181194,
+                    "name": "Buti",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:54.000000Z",
+                    "updated_at": "2022-08-09T07:39:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85255,
+                        "area_id": 181194,
+                        "created_at": "2022-08-10T06:06:50.000000Z",
+                        "updated_at": "2022-08-10T06:06:50.000000Z"
+                    }
+                },
+                {
+                    "id": 181195,
+                    "name": "Masange",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:54.000000Z",
+                    "updated_at": "2022-08-09T07:39:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85255,
+                        "area_id": 181195,
+                        "created_at": "2022-08-10T06:06:50.000000Z",
+                        "updated_at": "2022-08-10T06:06:50.000000Z"
+                    }
+                },
+                {
+                    "id": 181196,
+                    "name": "Kiwanjani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:54.000000Z",
+                    "updated_at": "2022-08-09T07:39:54.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85255,
+                        "area_id": 181196,
+                        "created_at": "2022-08-10T06:06:51.000000Z",
+                        "updated_at": "2022-08-10T06:06:51.000000Z"
+                    }
+                },
+                {
+                    "id": 181197,
+                    "name": "Kijewa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:55.000000Z",
+                    "updated_at": "2022-08-09T07:39:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85255,
+                        "area_id": 181197,
+                        "created_at": "2022-08-10T06:06:51.000000Z",
+                        "updated_at": "2022-08-10T06:06:51.000000Z"
+                    }
+                },
+                {
+                    "id": 181198,
+                    "name": "Bonde",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:55.000000Z",
+                    "updated_at": "2022-08-09T07:39:55.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85255,
+                        "area_id": 181198,
+                        "created_at": "2022-08-10T06:06:52.000000Z",
+                        "updated_at": "2022-08-10T06:06:52.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85256,
+            "name": "NG'WASA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85252,
+                "name": "LUTINDI",
+                "postcode": "21612",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85227,
+                    "name": "KOROGWE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85185,
+                        "name": "KOROGWE",
+                        "postcode": "216",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 181189,
+                    "name": "Mlangi",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:52.000000Z",
+                    "updated_at": "2022-08-09T07:39:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85256,
+                        "area_id": 181189,
+                        "created_at": "2022-08-10T06:06:48.000000Z",
+                        "updated_at": "2022-08-10T06:06:48.000000Z"
+                    }
+                },
+                {
+                    "id": 181190,
+                    "name": "Nazareth",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:52.000000Z",
+                    "updated_at": "2022-08-09T07:39:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85256,
+                        "area_id": 181190,
+                        "created_at": "2022-08-10T06:06:48.000000Z",
+                        "updated_at": "2022-08-10T06:06:48.000000Z"
+                    }
+                },
+                {
+                    "id": 181191,
+                    "name": "Kigamboni",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:52.000000Z",
+                    "updated_at": "2022-08-09T07:39:52.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85256,
+                        "area_id": 181191,
+                        "created_at": "2022-08-10T06:06:49.000000Z",
+                        "updated_at": "2022-08-10T06:06:49.000000Z"
+                    }
+                },
+                {
+                    "id": 181192,
+                    "name": "Kwemwale",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:53.000000Z",
+                    "updated_at": "2022-08-09T07:39:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85256,
+                        "area_id": 181192,
+                        "created_at": "2022-08-10T06:06:49.000000Z",
+                        "updated_at": "2022-08-10T06:06:49.000000Z"
+                    }
+                },
+                {
+                    "id": 181193,
+                    "name": "Ng'wasa",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:53.000000Z",
+                    "updated_at": "2022-08-09T07:39:53.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85256,
+                        "area_id": 181193,
+                        "created_at": "2022-08-10T06:06:49.000000Z",
+                        "updated_at": "2022-08-10T06:06:49.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 85253,
+            "name": "TAMOTA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 85252,
+                "name": "LUTINDI",
+                "postcode": "21612",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 85227,
+                    "name": "KOROGWE DISTRICT COUNCIL",
+                    "postcode": null,
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 85185,
+                        "name": "KOROGWE",
+                        "postcode": "216",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 84648,
+                            "name": "TANGA",
+                            "postcode": "21",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70880,
+                                "name": "NORTHERN ZONE",
+                                "postcode": "2",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 181204,
+                    "name": "Kwemdimu",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:58.000000Z",
+                    "updated_at": "2022-08-09T07:39:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85253,
+                        "area_id": 181204,
+                        "created_at": "2022-08-10T06:06:54.000000Z",
+                        "updated_at": "2022-08-10T06:06:54.000000Z"
+                    }
+                },
+                {
+                    "id": 181205,
+                    "name": "Yudea",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:58.000000Z",
+                    "updated_at": "2022-08-09T07:39:58.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85253,
+                        "area_id": 181205,
+                        "created_at": "2022-08-10T06:06:54.000000Z",
+                        "updated_at": "2022-08-10T06:06:54.000000Z"
+                    }
+                },
+                {
+                    "id": 181206,
+                    "name": "Gamo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:59.000000Z",
+                    "updated_at": "2022-08-09T07:39:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85253,
+                        "area_id": 181206,
+                        "created_at": "2022-08-10T06:06:55.000000Z",
+                        "updated_at": "2022-08-10T06:06:55.000000Z"
+                    }
+                },
+                {
+                    "id": 181207,
+                    "name": "Tamota",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:59.000000Z",
+                    "updated_at": "2022-08-09T07:39:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85253,
+                        "area_id": 181207,
+                        "created_at": "2022-08-10T06:06:55.000000Z",
+                        "updated_at": "2022-08-10T06:06:55.000000Z"
+                    }
+                },
+                {
+                    "id": 181208,
+                    "name": "Kiwanda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-09T07:39:59.000000Z",
+                    "updated_at": "2022-08-09T07:39:59.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 85253,
+                        "area_id": 181208,
+                        "created_at": "2022-08-10T06:06:56.000000Z",
+                        "updated_at": "2022-08-10T06:06:56.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
