@@ -1,0 +1,684 @@
+{
+    "data": [
+        {
+            "id": 83113,
+            "name": "KAMBARAGE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83111,
+                "name": "MAGAMBA",
+                "postcode": "54112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83075,
+                    "name": "SONGWE DISTRICT COUNCIL",
+                    "postcode": "541",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83074,
+                        "name": "SONGWE",
+                        "postcode": "541",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 158670,
+                    "name": "Ilembo",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:10.000000Z",
+                    "updated_at": "2022-08-08T09:03:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83113,
+                        "area_id": 158670,
+                        "created_at": "2022-08-08T11:42:54.000000Z",
+                        "updated_at": "2022-08-08T11:42:54.000000Z"
+                    }
+                },
+                {
+                    "id": 158671,
+                    "name": "Soga",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:10.000000Z",
+                    "updated_at": "2022-08-08T09:03:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83113,
+                        "area_id": 158671,
+                        "created_at": "2022-08-08T11:42:55.000000Z",
+                        "updated_at": "2022-08-08T11:42:55.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 83112,
+            "name": "MAGAMBA",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83111,
+                "name": "MAGAMBA",
+                "postcode": "54112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83075,
+                    "name": "SONGWE DISTRICT COUNCIL",
+                    "postcode": "541",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83074,
+                        "name": "SONGWE",
+                        "postcode": "541",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 158665,
+                    "name": "Nkomano",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83112,
+                        "area_id": 158665,
+                        "created_at": "2022-08-08T11:42:54.000000Z",
+                        "updated_at": "2022-08-08T11:42:54.000000Z"
+                    }
+                },
+                {
+                    "id": 158666,
+                    "name": "Magamba",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83112,
+                        "area_id": 158666,
+                        "created_at": "2022-08-08T11:42:54.000000Z",
+                        "updated_at": "2022-08-08T11:42:54.000000Z"
+                    }
+                },
+                {
+                    "id": 158667,
+                    "name": "Ngayangwanda",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:10.000000Z",
+                    "updated_at": "2022-08-08T09:03:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83112,
+                        "area_id": 158667,
+                        "created_at": "2022-08-08T11:42:54.000000Z",
+                        "updated_at": "2022-08-08T11:42:54.000000Z"
+                    }
+                },
+                {
+                    "id": 158668,
+                    "name": "Mtakuja",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:10.000000Z",
+                    "updated_at": "2022-08-08T09:03:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83112,
+                        "area_id": 158668,
+                        "created_at": "2022-08-08T11:42:54.000000Z",
+                        "updated_at": "2022-08-08T11:42:54.000000Z"
+                    }
+                },
+                {
+                    "id": 158669,
+                    "name": "Nambalwe",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:10.000000Z",
+                    "updated_at": "2022-08-08T09:03:10.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "005",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83112,
+                        "area_id": 158669,
+                        "created_at": "2022-08-08T11:42:54.000000Z",
+                        "updated_at": "2022-08-08T11:42:54.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 83114,
+            "name": "NAHALYONGO",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83111,
+                "name": "MAGAMBA",
+                "postcode": "54112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83075,
+                    "name": "SONGWE DISTRICT COUNCIL",
+                    "postcode": "541",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83074,
+                        "name": "SONGWE",
+                        "postcode": "541",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 158658,
+                    "name": "Namile",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:08.000000Z",
+                    "updated_at": "2022-08-08T09:03:08.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83114,
+                        "area_id": 158658,
+                        "created_at": "2022-08-08T11:42:53.000000Z",
+                        "updated_at": "2022-08-08T11:42:53.000000Z"
+                    }
+                },
+                {
+                    "id": 158659,
+                    "name": "Nahalyongo \"A\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83114,
+                        "area_id": 158659,
+                        "created_at": "2022-08-08T11:42:53.000000Z",
+                        "updated_at": "2022-08-08T11:42:53.000000Z"
+                    }
+                },
+                {
+                    "id": 158660,
+                    "name": "Mazinde",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83114,
+                        "area_id": 158660,
+                        "created_at": "2022-08-08T11:42:53.000000Z",
+                        "updated_at": "2022-08-08T11:42:53.000000Z"
+                    }
+                },
+                {
+                    "id": 158661,
+                    "name": "Nahalyongo \"B\"",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "004",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83114,
+                        "area_id": 158661,
+                        "created_at": "2022-08-08T11:42:53.000000Z",
+                        "updated_at": "2022-08-08T11:42:53.000000Z"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 83115,
+            "name": "SONGAMBELE",
+            "postcode": null,
+            "isSpecialLocation": 0,
+            "users": 0,
+            "lower_users": 0,
+            "addresses": 0,
+            "level": {
+                "id": 7,
+                "name": "Street"
+            },
+            "parent": {
+                "id": 83111,
+                "name": "MAGAMBA",
+                "postcode": "54112",
+                "isSpecialLocation": 0,
+                "users": 0,
+                "lower_users": 0,
+                "addresses": 0,
+                "level": {
+                    "id": 6,
+                    "name": "Ward"
+                },
+                "parent": {
+                    "id": 83075,
+                    "name": "SONGWE DISTRICT COUNCIL",
+                    "postcode": "541",
+                    "isSpecialLocation": 0,
+                    "users": 0,
+                    "lower_users": 0,
+                    "addresses": 0,
+                    "level": {
+                        "id": 5,
+                        "name": "Council"
+                    },
+                    "parent": {
+                        "id": 83074,
+                        "name": "SONGWE",
+                        "postcode": "541",
+                        "isSpecialLocation": 0,
+                        "users": 0,
+                        "lower_users": 0,
+                        "addresses": 0,
+                        "level": {
+                            "id": 4,
+                            "name": "District"
+                        },
+                        "parent": {
+                            "id": 83073,
+                            "name": "SONGWE",
+                            "postcode": "54",
+                            "isSpecialLocation": 0,
+                            "users": 0,
+                            "lower_users": 0,
+                            "addresses": 0,
+                            "level": {
+                                "id": 3,
+                                "name": "Region"
+                            },
+                            "parent": {
+                                "id": 70843,
+                                "name": "SOUTHERN HIGHLANDS ZONE",
+                                "postcode": "5",
+                                "isSpecialLocation": 0,
+                                "users": 0,
+                                "lower_users": 0,
+                                "addresses": 0,
+                                "level": {
+                                    "id": 2,
+                                    "name": "Zone"
+                                },
+                                "parent": {
+                                    "id": 1,
+                                    "name": "TANZANIA",
+                                    "postcode": "0",
+                                    "isSpecialLocation": 0,
+                                    "users": 0,
+                                    "lower_users": 0,
+                                    "addresses": 0,
+                                    "level": {
+                                        "id": 1,
+                                        "name": "Country"
+                                    },
+                                    "parent": null,
+                                    "enumAreas": []
+                                },
+                                "enumAreas": []
+                            },
+                            "enumAreas": []
+                        },
+                        "enumAreas": []
+                    },
+                    "enumAreas": []
+                },
+                "enumAreas": []
+            },
+            "enumAreas": [
+                {
+                    "id": 158662,
+                    "name": "Mbugani",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "001",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83115,
+                        "area_id": 158662,
+                        "created_at": "2022-08-08T11:42:53.000000Z",
+                        "updated_at": "2022-08-08T11:42:53.000000Z"
+                    }
+                },
+                {
+                    "id": 158663,
+                    "name": "Shujila",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "002",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83115,
+                        "area_id": 158663,
+                        "created_at": "2022-08-08T11:42:53.000000Z",
+                        "updated_at": "2022-08-08T11:42:53.000000Z"
+                    }
+                },
+                {
+                    "id": 158664,
+                    "name": "Lumwaha",
+                    "coverage": null,
+                    "created_by": 0,
+                    "updated_by": 0,
+                    "created_at": "2022-08-08T09:03:09.000000Z",
+                    "updated_at": "2022-08-08T09:03:09.000000Z",
+                    "deleted_at": null,
+                    "srid": 0,
+                    "ea_code": "003",
+                    "household": null,
+                    "geocode": null,
+                    "pivot": {
+                        "location_id": 83115,
+                        "area_id": 158664,
+                        "created_at": "2022-08-08T11:42:53.000000Z",
+                        "updated_at": "2022-08-08T11:42:53.000000Z"
+                    }
+                }
+            ]
+        }
+    ]
+}
