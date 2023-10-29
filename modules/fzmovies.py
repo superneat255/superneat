@@ -131,6 +131,7 @@ class Fzmovies(object):
             count += 1
             print(f'{count}.', data['title'])
 
+        if not rows: return 'Hakuna chaguo la format lililopatikana!'
         choices=self._input(instance='str')
         
         choosen_items=[]
