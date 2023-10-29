@@ -6,7 +6,7 @@ from helpers import runSh
 from os.path import basename
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-from urllib.parse import unquote, quote_plus
+from urllib.parse import unquote, quote
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -67,7 +67,7 @@ class Fzmovies(object):
                 return
             else:
                 td   = mainbox.find_all('td')
-                href = quote_plus(td[0].find('a').get('href'))
+                href = quote(td[0].find('a').get('href'))
                 img  = f"{self.base_url}{td[0].find('img').get('src')}"
 
                 t = [small.get_text() for small in td[1].find_all('small')]
