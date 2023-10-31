@@ -2,7 +2,9 @@ import re
 import json
 import asyncio
 import requests
+from os import remove
 from helpers import runSh
+from os.path import isfile
 from os.path import basename
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
@@ -175,14 +177,21 @@ class Fzmovies(object):
         for item in row['download_options']:
             download_link = item['download_link']
             filename = unquote(basename(urlparse(download_link).path))
+            if isfile(filename): return f'[File Exist] {filename}'
 
             user_agent = 'User-Agent: Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
             cmd = (  'wget -nv --show-progress --no-check-certificate '
                     f'--header="{user_agent}" -O "{filename}" "{download_link}"')
             runSh(cmd, output=True, shell=True)
 
-            return f'Finish downloading {filename}'
-            #Use return to prevent re downloading same file
+            if isfile(filename):
+                return f'[Downloaded] {filename}'
+                #Use return to prevent re downloading same file
+            
+            else:
+                remove(filename)
+
+        return f'[Failed] {filename}'
 
 
     
