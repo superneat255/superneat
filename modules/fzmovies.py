@@ -176,6 +176,10 @@ class Fzmovies(object):
     def download_here(self, row):
         for item in row['download_options']:
             download_link = item['download_link']
+
+            x = requests.head(download_link, timeout=5)
+            if x.status_code<200 or x.status_code>=300: continue
+
             filename = unquote(basename(urlparse(download_link).path))
             if isfile(filename): return f'[File Exist] {filename}'
 
