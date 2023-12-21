@@ -58,15 +58,17 @@ class Mkvking(object):
         items=[]
         count=0
         for article in articles:
-            a = article.find('h2', {"class":"entry-title"}).find('a')
-            quality = article.find('div', {"class":"gmr-quality-item"}).text
-            url = a.get('href')
-            title = a.text
-
-            items.append({'title':title, 'url':url, 'quality':quality})
-
-            count += 1
-            print(f'{count}.', title, '|', quality)
+            try:
+                a = article.find('h2', {"class":"entry-title"}).find('a')
+                quality = article.find('div', {"class":"gmr-quality-item"}).text
+                url = a.get('href')
+                title = a.text
+    
+                items.append({'title':title, 'url':url, 'quality':quality})
+    
+                count += 1
+                print(f'{count}.', title, '|', quality)
+            except: pass
 
         choice=self._input()
         choosen_item_ = items[choice-1]
