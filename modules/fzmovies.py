@@ -22,7 +22,7 @@ class Fzmovies(object):
     def __init__(self, debug=True):
         super(Fzmovies, self).__init__()
         self.debug    = debug
-        self.base_url = "https://fzmovies.net"
+        self.base_url = "https://fzmovies.live"
 
 
     def log(self, s):
