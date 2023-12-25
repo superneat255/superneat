@@ -1,0 +1,105 @@
+{
+  "methods": [
+    {
+      "title": "M-Pesa Tanzania",
+      "handle": "mPesa",
+      "currency": ["TZS"],
+      "how_to_pay": {
+        "title": "LIPA NA M-PESA",
+        "steps": [
+          "Piga *150*00#",
+          "Chagua 4 LIPA kwa M-Pesa",
+          "Chagua 4 Weka namba ya kampuni",
+          "Weka namba ya kampuni: 123123",
+          "Weka namba ya kumbukumbu ya malipo: {till}",
+          "Weka kiasi {amount}",
+          "Weka namba ya siri",
+          "Bonyeza 1 kuthibitisha"
+        ]
+      }
+    },
+    {
+      "title": "Tigo Pesa",
+      "handle": "tigoPesa",
+      "currency": ["TZS"],
+      "how_to_pay": {
+        "title": "LIPA KWA TIGO PESA",
+        "steps": [
+          "Piga *150*01#",
+          "Chagua 5 Lipa Kwa Simu",
+          "Chagua 2 Kwenda MasterCard QR",
+          "Ingiza tarakimu 8 za mpokeaji: {till}",
+          "Ingiza kiasi cha kulipia: {amount}",
+          "Ingiza namba ya siri"
+        ]
+      }
+    },
+    {
+      "title": "Airtel Money",
+      "handle": "airtelMoney",
+      "currency": ["TZS"],
+      "how_to_pay": {
+        "title": "LIPA KWA AIRTEL MONEY",
+        "steps": [
+          "Piga *150*60#",
+          "Chagua 5 Lipia Bili",
+          "Chagua 1 LIPA KWA SIMU (MITANDAO YOTE)",
+          "Chagua 4 Lipa kwa Mastercard QR",
+          "Ingiza kiasi cha pesa {amount}",
+          "Ingiza lipa namba {till}",
+          "Ingiza namba ya siri"
+        ]
+      }
+    },
+    {
+      "title": "T-Pesa",
+      "handle": "tPesa",
+      "currency": ["TZS"],
+      "how_to_pay": {
+        "title": "LIPA KWA T-PESA",
+        "steps": [
+          "Bofya *150*71#",
+          "Chagua 6 Lipa Bidhaa",
+          "Chagua 2 SelcomPay / Masterpass",
+          "Ingiza namba ya malipo: {till}",
+          "Ingiza kiasi: {amount}",
+          "Weka namba ya siri"
+        ]
+      }
+    },
+    {
+      "title": "HaloPesa",
+      "handle": "haloPesa",
+      "currency": ["TZS"],
+      "how_to_pay": {
+        "title": "LIPA KWA HALOPESA",
+        "steps": [
+          "Piga *150*88#",
+          "Chagua 5 Lipia Bidhaa",
+          "Chagua 3 SelcomPay / Masterpass",
+          "Ingiza namba ya malipo: {till}",
+          "Ingiza kiasi: {amount}",
+          "Ingiza PIN:",
+          "Bonyeza 1 kuthibitisha"
+        ]
+      }
+    },
+    {
+      "title": "EzyPesa",
+      "handle": "ezyPesa",
+      "currency": ["TZS"],
+      "how_to_pay": {
+        "title": "LIPA KWA EZYPESA",
+        "steps": [
+          "Piga *150*02#",
+          "Chagua 5 Malipo",
+          "Chagua 1 Lipa Hapa",
+          "Chagua 2 Lipa kwa Masterpass QR",
+          "Ingiza namba ya mfanyabiashara: {till}",
+          "Ingiza kiasi: {amount}",
+          "Ingiza PIN:"
+        ]
+      }
+    }
+  ]
+}
