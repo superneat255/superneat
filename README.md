@@ -1,2 +1,2 @@
-# superneat
-It's Superneat
+# Kali Commands
+lsb_release -a: Kali release notes
