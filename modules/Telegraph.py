@@ -8,8 +8,13 @@ from requests import get, post
 
 
 class Telegraph(object):
-    def __init__(self):
+
+    base_url = 'https://api.telegra.ph'
+
+    
+    def __init__(self, access_token):
         super(Telegraph, self).__init__()
+        self.access_token = access_token
 
     
     def req(self, endpoint, data=None):
