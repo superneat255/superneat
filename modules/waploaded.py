@@ -1,6 +1,7 @@
 import re
 from json import dumps
 from bs4 import BeautifulSoup
+from urllib.parse import quote
 from requests import post, get
 from urllib.parse import urlparse
 
@@ -61,7 +62,7 @@ class Waploaded(object):
     def search(self, query, _type='series'):
         self.results = []
 
-        self.endpoint = f"/search/{query}/page/1?type={_type}"
+        self.endpoint = f"/search/{quote(query)}/page/1?type={_type}"
         html_content  = self.req()
 
         soup = BeautifulSoup(html_content, 'html.parser')
