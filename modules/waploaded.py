@@ -104,15 +104,18 @@ class Waploaded(object):
         a       = soup.find("div", {"class": "ad-slot"}).find_all("a")
         bezende = soup.find("div", {"class": "bezende"})
 
+
         self.results = []
         i = 0
         for script in bezende.find_all("script"):
             pattern = r"location.href\s*=\s*'([^']+)'"
             matches = re.findall(pattern, script.get_text())
 
+            if not matches: continue
+
             self.results.append({
                 "text": a[i].get_text().strip(),
-                "url": matches[0].strip() if matches else ""
+                "url": matches[0].strip()
             })
 
             i+=1
@@ -149,8 +152,8 @@ if __name__ == '__main__':
     choices=w._input('str')
 
     for choice in choices.split(","):
-        choice = int(choice.strip())
-        choosen_item_ = items[choice-1]
+        choice_ = int(choice.strip())
+        choosen_item_ = items[choice_-1]
 
         w.episode(choosen_item_['url'])
         downloads = w.results
