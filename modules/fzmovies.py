@@ -105,33 +105,35 @@ class Fzmovies(object):
         rows  = []
         count = 0
         for moviefile in moviesfiles:
-            title = moviefile.find('font').get_text()
-            href  = self.base_url+"/"+moviefile.find_all('a')[0].get('href')
-
-            a = (self.base_url+moviefile.find_all('a')[0].get_text()).lower()
-            _format = re.findall(r"[0-9]{3,4}p", a, flags=re.IGNORECASE)[0]
-
-            dcounter = moviefile.find('dcounter').get_text()
-            size = re.findall(r"(?<=\()(.*)(?=\))", dcounter, flags=re.IGNORECASE)[0]
-
-            download_options = await self._download2(PHPSESSID, href)
-
-            options=[]
-            for download_option in download_options:
-                options.append({
-                    'connections': int(re.sub(r'\D', '', download_option['connections'])),
-                    'download_link': download_option['download_link'],
-                })
-
-            data                 = {}
-            data['title']        = f'{title} {_format} | {size}'
-            data['message_text'] = href
-            data['download_options'] = options
-
-            rows.append(data)
-
-            count += 1
-            print(f'{count}.', data['title'])
+            try:
+                title = moviefile.find('font').get_text()
+                href  = self.base_url+"/"+moviefile.find_all('a')[0].get('href')
+    
+                a = (self.base_url+moviefile.find_all('a')[0].get_text()).lower()
+                _format = re.findall(r"[0-9]{3,4}p", a, flags=re.IGNORECASE)[0]
+    
+                dcounter = moviefile.find('dcounter').get_text()
+                size = re.findall(r"(?<=\()(.*)(?=\))", dcounter, flags=re.IGNORECASE)[0]
+    
+                download_options = await self._download2(PHPSESSID, href)
+    
+                options=[]
+                for download_option in download_options:
+                    options.append({
+                        'connections': int(re.sub(r'\D', '', download_option['connections'])),
+                        'download_link': download_option['download_link'],
+                    })
+    
+                data                 = {}
+                data['title']        = f'{title} {_format} | {size}'
+                data['message_text'] = href
+                data['download_options'] = options
+    
+                rows.append(data)
+    
+                count += 1
+                print(f'{count}.', data['title'])
+            except: pass
 
         if not rows: return 'Hakuna chaguo la format lililopatikana!'
         choices=self._input(instance='str')
