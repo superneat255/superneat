@@ -23,6 +23,7 @@ class Fzmovies(object):
         super(Fzmovies, self).__init__()
         self.debug    = debug
         self.base_url = "https://fzmovies.live"
+        self.results  = []
 
 
     def log(self, s):
@@ -58,8 +59,7 @@ class Fzmovies(object):
         soup = BeautifulSoup(r.text, 'html.parser')
         mainboxes = soup.find_all("div", {"class": "mainbox"})
 
-        rows  = []
-        count = 0
+        self.results = []
         for mainbox in mainboxes:
             table = mainbox.find_all('table')
 
@@ -73,21 +73,28 @@ class Fzmovies(object):
                 img  = f"{self.base_url}{td[0].find('img').get('src')}"
 
                 t = [small.get_text() for small in td[1].find_all('small')]
-                title = f'{t[0]} {t[1]}'
+                title   = f'{t[0]} {t[1]}'
+                imdb_id = mainbox.find('span', {'class':'imdbRatingPlugin'}).get('data-title')
 
                 data            = {}
                 data['title']   = title
                 data['url']     = f"{self.base_url}/{href}"
                 data['quality'] = re.sub(r'\(|\)', '', t[2])
                 data['cover']   = img
+                data['imdb_id'] = imdb_id
 
-                rows.append(data)
-
-                count += 1
-                print(f'{count}.', data['title'], '|', data['quality'])
+                self.results.append(data)
+        return self.results
+    
+    
+    async def choose_and_download(self):
+        count = 0
+        for data in self.results
+            count += 1
+            print(f'{count}.', f'[{imdb_id}]', data['title'], '|', data['quality'])
 
         choice=self._input()
-        choosen_item = rows[choice-1]
+        choosen_item = self.results[choice-1]
         # self.log(choosen_item)
 
         choosen_items = await self._download1(choosen_item['url'])
