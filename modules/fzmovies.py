@@ -91,7 +91,7 @@ class Fzmovies(object):
         count = 0
         for data in self.results:
             count += 1
-            print(f'{count}.', f'[{imdb_id}]', data['title'], '|', data['quality'])
+            print(f'{count}.', f'[{data["imdb_id"]}]', data['title'], '|', data['quality'])
 
         choice=self._input()
         choosen_item = self.results[choice-1]
