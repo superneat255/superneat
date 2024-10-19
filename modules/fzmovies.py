@@ -89,7 +89,7 @@ class Fzmovies(object):
     
     async def choose_and_download(self):
         count = 0
-        for data in self.results
+        for data in self.results:
             count += 1
             print(f'{count}.', f'[{imdb_id}]', data['title'], '|', data['quality'])
 
