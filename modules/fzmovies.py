@@ -87,7 +87,7 @@ class Fzmovies(object):
         return self.results
     
     
-    async def choose_and_download(self):
+    async def choose_format(self):
         count = 0
         for data in self.results:
             count += 1
@@ -97,12 +97,24 @@ class Fzmovies(object):
         choosen_item = self.results[choice-1]
         # self.log(choosen_item)
 
-        choosen_items = await self._download1(choosen_item['url'])
-        return choosen_items
+        available_formats = await self.get_available_formats(choosen_item['url'])
+        if not available_formats: return 'Hakuna chaguo la format lililopatikana!'
+        count=0
+        for format_ in available_formats:
+            count += 1
+            print(f'{count}.', format_['title'])
+        choices=self._input(instance='str')
+        
+        choosen_formats=[]
+        for choice in choices.split(','):
+            choosen_formats.append(rows[int(choice)-1])
+        
+        # self.log( json.dumps(choosen_formats, indent=4) )
+        return choosen_formats
 
 
 
-    async def _download1(self, url):
+    async def get_available_formats(self, url):
         r = requests.get(url)
         PHPSESSID = r.cookies['PHPSESSID']
         
@@ -110,7 +122,6 @@ class Fzmovies(object):
         moviesfiles = soup.find_all("ul", {"class": "moviesfiles"})
 
         rows  = []
-        count = 0
         for moviefile in moviesfiles:
             try:
                 title = moviefile.find('font').get_text()
@@ -122,7 +133,7 @@ class Fzmovies(object):
                 dcounter = moviefile.find('dcounter').get_text()
                 size = re.findall(r"(?<=\()(.*)(?=\))", dcounter, flags=re.IGNORECASE)[0]
     
-                download_options = await self._download2(PHPSESSID, href)
+                download_options = await self.get_download_options(PHPSESSID, href)
     
                 options=[]
                 for download_option in download_options:
@@ -135,26 +146,13 @@ class Fzmovies(object):
                 data['title']        = f'{title} {_format} | {size}'
                 data['message_text'] = href
                 data['download_options'] = options
-    
                 rows.append(data)
-    
-                count += 1
-                print(f'{count}.', data['title'])
             except: pass
-
-        if not rows: return 'Hakuna chaguo la format lililopatikana!'
-        choices=self._input(instance='str')
-        
-        choosen_items=[]
-        for choice in choices.split(','):
-            choosen_items.append(rows[int(choice)-1])
-        
-        # self.log( json.dumps(choosen_items, indent=4) )
-        return choosen_items
+        return rows
 
 
     
-    async def _download2(self, PHPSESSID, href):
+    async def get_download_options(self, PHPSESSID, href):
         download_options = []
 
         headers = {
