@@ -107,7 +107,7 @@ class Fzmovies(object):
         
         choosen_formats=[]
         for choice in choices.split(','):
-            choosen_formats.append(rows[int(choice)-1])
+            choosen_formats.append(available_formats[int(choice)-1])
         
         # self.log( json.dumps(choosen_formats, indent=4) )
         return choosen_formats
@@ -220,6 +220,11 @@ class Fzmovies(object):
 if __name__ == '__main__':
     async def main():
         f = Fzmovies()
-        await f.search("meg")
+        await f.search('Mufasa')
+        choosen_format = await f.choose_format()
+
+        if type(choosen_format).__name__ != 'str':
+            f.download(choosen_format)
+            # print(choosen_format)
     
     asyncio.run(main())
