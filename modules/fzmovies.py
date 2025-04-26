@@ -7,8 +7,7 @@ from helpers import runSh
 from os.path import isfile
 from os.path import basename
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
-from urllib.parse import unquote, quote
+from urllib.parse import urlparse, unquote, quote
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
@@ -187,7 +186,7 @@ class Fzmovies(object):
             x = requests.head(download_link, timeout=5)
             if x.status_code<200 or x.status_code>=300: continue
 
-            filename = unquote(basename(urlparse(download_link).path))
+            filename = row['filename'] if 'filename' in row else unquote(basename(urlparse(download_link).path))
             if isfile(filename): return f'[File Exist] {filename}'
 
             user_agent = 'User-Agent: Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
