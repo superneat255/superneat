@@ -178,7 +178,7 @@ class Fzmovies(object):
             if x.status_code<200 or x.status_code>=300: continue
 
             filename = row['filename'] if 'filename' in row else unquote(basename(urlparse(download_link).path))
-            if isfile(filename): return f'[File Exist] {filename}'
+            if isfile(filename): return {'status': 'exist', 'filename': filename}
 
             user_agent = 'User-Agent: Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
             cmd = (  'wget -nv --show-progress --no-check-certificate '
@@ -186,23 +186,26 @@ class Fzmovies(object):
             runSh(cmd, output=True, shell=True)
 
             if isfile(filename):
-                return f'[Downloaded] {filename}'
+                return {'status': 'downloaded', 'filename': filename}
                 #Use return to prevent re downloading same file
-            
             else:
                 remove(filename)
 
-        return f'[Failed] {filename}'
+        return {'status': 'failed', 'filename': filename}
 
     
     def download(self, choosen_items):
-        futures = []
+        response = []
+        futures  = []
         with ThreadPoolExecutor(max_workers=5) as pool:
             for row in choosen_items:
                 futures.append(pool.submit(self.download_here, row))
 
             for future in as_completed(futures):
-                self.log(future.result())
+                result = future.result()
+                response.append(result)
+                self.log(f'[{result["status"].upper()}] {result["filename"]}')
+        return response
         
 
 if __name__ == '__main__':
