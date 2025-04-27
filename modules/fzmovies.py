@@ -11,12 +11,9 @@ from urllib.parse import urlparse, unquote, quote
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 
-
-
 class Fzmovies(object):
     """Made with love by Immanuel Pishon Mwananjela (Superneat)"""
     """superneat2013@gmail.com"""
-
 
     def __init__(self, debug=True):
         super(Fzmovies, self).__init__()
@@ -24,12 +21,10 @@ class Fzmovies(object):
         self.base_url = "https://fzmovies.live"
         self.results  = []
 
-
     def log(self, s):
         print()
         print( json.dumps(s, indent=4) if isinstance(s, dict) else s )
         print('--------------------------------------')
-
 
     def _input(self, instance='int'):
         choice=False
@@ -42,7 +37,6 @@ class Fzmovies(object):
             except:
                 print('Umekosea hakikisha unaingiza namba kama namba pekee.')
         return choice
-
 
 
     async def search(self, keywords):
@@ -84,7 +78,7 @@ class Fzmovies(object):
 
                 self.results.append(data)
         return self.results
-    
+
     
     async def choose_format(self):
         count = 0
@@ -110,7 +104,6 @@ class Fzmovies(object):
         
         # self.log( json.dumps(choosen_formats, indent=4) )
         return choosen_formats
-
 
 
     async def get_available_formats(self, url):
@@ -149,7 +142,6 @@ class Fzmovies(object):
             except: pass
         return rows
 
-
     
     async def get_download_options(self, PHPSESSID, href):
         download_options = []
@@ -178,7 +170,6 @@ class Fzmovies(object):
         return download_options
 
 
-
     def download_here(self, row):
         for item in row['download_options']:
             download_link = item['download_link']
@@ -203,7 +194,6 @@ class Fzmovies(object):
 
         return f'[Failed] {filename}'
 
-
     
     def download(self, choosen_items):
         futures = []
@@ -214,7 +204,6 @@ class Fzmovies(object):
             for future in as_completed(futures):
                 self.log(future.result())
         
-
 
 if __name__ == '__main__':
     async def main():
