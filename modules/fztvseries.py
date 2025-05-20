@@ -17,6 +17,7 @@ class Fztvseries(object):
 
     def __init__(self, workers=2, debug=True):
         super(Fztvseries, self).__init__()
+        self.workers  = workers
         self.debug    = debug
         self.base_url = "https://fztvseries.live"
         self.results  = []
@@ -209,7 +210,7 @@ class Fztvseries(object):
     def download(self, season_downloads):
         response = []
         futures  = []
-        with ThreadPoolExecutor(max_workers=2) as pool:
+        with ThreadPoolExecutor(max_workers=self.workers) as pool:
             for season_download in season_downloads:
                 futures.append(pool.submit(self.download_here, season_download))
 
