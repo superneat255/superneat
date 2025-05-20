@@ -15,7 +15,7 @@ class Fztvseries(object):
     """Made with love by Immanuel Pishon Mwananjela (Superneat)"""
     """superneat2013@gmail.com"""
 
-    def __init__(self, debug=True):
+    def __init__(self, workers=2, debug=True):
         super(Fztvseries, self).__init__()
         self.debug    = debug
         self.base_url = "https://fztvseries.live"
