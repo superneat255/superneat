@@ -108,8 +108,8 @@ class Fztvseries(object):
         return available_seasons
     
 
-    async def choose_season(self):
-        available_seasons = await self.get_available_seasons()
+    async def choose_season(self, choosen_series):
+        available_seasons = await self.get_available_seasons(choosen_series)
 
         count=0
         for season in available_seasons:
@@ -224,16 +224,12 @@ if __name__ == '__main__':
     async def main():
         f = Fztvseries()
         await f.search('power')
-        print(f.results)
-        # choosen_seasons = await f.choose_season()
+        choosen_series = await f.choose_series()
+        choosen_seasons = await f.choose_season(choosen_series)
         
-        # for choosen_season in choosen_seasons:
-        #     season_dld_urls = await f.get_season_dld_urls(choosen_season)
-        #     print(season_dld_urls)
-        #     break
-
-        # # if type(choosen_format).__name__ != 'str':
-        # #     f.download(choosen_format)
-        # #     # print(choosen_format)
+        for choosen_season in choosen_seasons:
+            season_dld_urls = await f.get_season_dld_urls(choosen_season)
+            print(season_dld_urls)
+            break
     
     asyncio.run(main())
