@@ -39,6 +39,12 @@ class Fztvseries(object):
         return choice
 
 
+    def rename_series(self, title):
+        title = title.replace('_-_', '.').replace('_','.')
+        title = title.replace(f".{title.split('.')[-2]}",'')
+        return title
+
+
     async def search(self, keywords):
         url = f"{self.base_url}/search.php?search={keywords}&beginsearch=Search&vsearch=&by=series"
         headers = {
@@ -75,18 +81,31 @@ class Fztvseries(object):
         return self.results
 
     
-    async def get_available_seasons(self):
+    async def choose_series(self):
         count = 0
         for data in self.results:
             count += 1
             print(f'{count}.', data['title'])
 
         choice=self._input()
-        choosen_season = self.results[choice-1]
-        # self.log(choosen_season)
+        choosen_series = self.results[choice-1]
+        return choosen_series
 
-        available_seasons = await self.get_seasons(choosen_season['url'])
-        return available_seasons if available_seasons else []
+
+    async def get_available_seasons(self, choosen_series):
+        url  = choosen_series['url']
+        r    = requests.get(url)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        containsSeason = soup.find("div", {"itemprop": "containsSeason"})
+        seasons        = containsSeason.find_all("div", {"class": "mainbox2"})
+
+        available_seasons = []
+        for season in seasons:
+            data          = {}
+            data['title'] = season.find('a').get_text()
+            data['url']   = self.base_url+"/"+season.find('a').get('href')
+            available_seasons.append(data)
+        return available_seasons
     
 
     async def choose_season(self):
@@ -104,27 +123,6 @@ class Fztvseries(object):
         
         # self.log( json.dumps(choosen_seasons, indent=4) )
         return choosen_seasons
-
-
-    async def get_seasons(self, url):
-        r    = requests.get(url)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        containsSeason = soup.find("div", {"itemprop": "containsSeason"})
-        seasons        = containsSeason.find_all("div", {"class": "mainbox2"})
-
-        available_seasons = []
-        for season in seasons:
-            data          = {}
-            data['title'] = season.find('a').get_text()
-            data['url']   = self.base_url+"/"+season.find('a').get('href')
-            available_seasons.append(data)
-        return available_seasons
-
-
-    def rename_series(self, title):
-        title = title.replace('_-_', '.').replace('_','.')
-        title = title.replace(f".{title.split('.')[-2]}",'')
-        return title
 
 
     async def get_season_dld_urls(self, choosen_season):
@@ -226,15 +224,16 @@ if __name__ == '__main__':
     async def main():
         f = Fztvseries()
         await f.search('power')
-        choosen_seasons = await f.choose_season()
+        print(f.results)
+        # choosen_seasons = await f.choose_season()
         
-        for choosen_season in choosen_seasons:
-            season_dld_urls = await f.get_season_dld_urls(choosen_season)
-            print(season_dld_urls)
-            break
+        # for choosen_season in choosen_seasons:
+        #     season_dld_urls = await f.get_season_dld_urls(choosen_season)
+        #     print(season_dld_urls)
+        #     break
 
-        # if type(choosen_format).__name__ != 'str':
-        #     f.download(choosen_format)
-        #     # print(choosen_format)
+        # # if type(choosen_format).__name__ != 'str':
+        # #     f.download(choosen_format)
+        # #     # print(choosen_format)
     
     asyncio.run(main())
