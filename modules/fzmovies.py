@@ -171,10 +171,16 @@ class Fzmovies(object):
 
 
     def download_here(self, row):
-        for item in row['download_options']:
+        for i,item in enumerate(row['download_options']):
+            j = i+1
             download_link = item['download_link']
 
-            x = requests.head(download_link, timeout=5)
+            try: 
+                x = requests.head(download_link, timeout=10)
+            except Exception as e:
+                if j<len(row['download_options']): print(f'Link number {j} failed, trying link number {j+1}')
+                continue
+            
             if x.status_code<200 or x.status_code>=300: continue
 
             filename = row['filename'] if 'filename' in row else unquote(basename(urlparse(download_link).path))
