@@ -175,6 +175,9 @@ class Fzmovies(object):
             j = i+1
             download_link = item['download_link']
 
+            filename = row['filename'] if 'filename' in row else unquote(basename(urlparse(download_link).path))
+            if isfile(filename): return {'status': 'exist', 'filename': filename}
+
             try: 
                 x = requests.head(download_link, timeout=10)
             except Exception as e:
@@ -182,9 +185,6 @@ class Fzmovies(object):
                 continue
             
             if x.status_code<200 or x.status_code>=300: continue
-
-            filename = row['filename'] if 'filename' in row else unquote(basename(urlparse(download_link).path))
-            if isfile(filename): return {'status': 'exist', 'filename': filename}
 
             user_agent = 'User-Agent: Mozilla/5.0 Chrome/96.0.4664.45 Safari/537.36'
             cmd = (  'wget -nv --show-progress --no-check-certificate '
